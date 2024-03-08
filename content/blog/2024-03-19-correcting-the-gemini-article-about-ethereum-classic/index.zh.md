@@ -1,5 +1,5 @@
 ---
-title: "Correcting the Gemini Article About Ethereum Classic"
+title: "纠正Gimini有关以太坊经典的文章"
 date: 2024-03-19
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -9,159 +9,163 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-The exchange Gemini has an article about Ethereum Classic (ETC) with the tag “A Rift in the Blockchain Community” in the following link:
+Gemini交易所有一篇关于以太坊经典（ETC）的文章，链接如下：“A Rift in the Blockchain Community”：
 
 https://www.gemini.com/cryptopedia/ethereum-classic-etc-vs-eth
 
-The post has 5 sections, several of which have mistakes or misconceptions about ETC in the information.
+这篇文章有5个部分，其中一些关于ETC的信息存在错误或误解。
 
-In the following sections we will go over Gemini’s statements, we will propose corrected phrases, and add our rationale for each correction.
+在以下部分，我们将审查Gemini的陈述，提出修改的短语，并为每个更正添加我们的理由。
 
-## Section: Summary
+## 部分：摘要
 
-![](./1.png)
+![图1](./1.png)
 
-**Gemini Statement:**
+**Gemini的说法：**
 
-Ethereum Classic (ETC) grew out of an ideological and ethical rift in the Ethereum community that provokes controversy to this day. In 2016, a significant hack was carried out on a third-party application running on the Ethereum (ETH) blockchain, which resulted in the theft of millions of dollars worth of ether, or ETH. In response, the Ethereum blockchain underwent a hard fork to essentially reverse the hack from the official ledger and return the stolen ETH to its original owners.
+以太坊经典（ETC）源于以太坊社区的意识形态和伦理分歧，至今仍在引发争议。2016年，在以太坊（ETH）区块链上运行的第三方应用程序遭受重大黑客攻击，导致窃取了数百万美元的以太币（ETH）。作为回应，以太坊区块链经历了硬分叉，从官方账本中基本上撤销了黑客攻击，并将被盗的ETH退还给其原始所有者。
 
-In contrast, the other branch of this fork kept the official ledger, that included the hack, unchanged — aiming to preserve a 100% immutable ledger. In other words, the two resulting blockchains differed in only one way: One still contained the record of the hack and the stolen ETH, while the other essentially wound back the clock as if the hack had never happened. The edited blockchain preserved the Ethereum moniker, while the original/unchanged blockchain became known as Ethereum Classic.
+相比之下，分叉的另一支保留了官方账本，其中包括黑客攻击，未更改 —— 目标是保留100%不可变的账本。换句话说，两个结果不同的区块链只有一个区别：一个仍包含黑客攻击和被盗ETH的记录，而另一个基本上将时钟倒回，就好像黑客攻击从未发生过。编辑过的区块链保留了以太坊的名字，而原始/未更改的区块链则被称为以太坊经典。
 
-**Our Correction:**
+**我们的更正：**
 
-Ethereum Classic (ETC) and Ethereum (ETH) were originally one blockchain when ETH was created in 2015, but they separated when there was an ideological and ethical rift in 2016 that provokes controversy to this day. In 2016, a significant hack was carried out on a third-party application running on the Ethereum (ETH) blockchain, which resulted in the theft of millions of dollars worth of ether, or ETH. In response, the Ethereum blockchain underwent a hard fork to essentially reverse the hack from the original ledger and return the stolen ETH to its original owners.
+以太坊经典（ETC）和以太坊（ETH）最初是2015年ETH创建时的一个区块链，但在2016年的意识形态和伦理分歧时分开，至今仍在引发争议。2016年，在以太坊（ETH）区块链上运行的第三方应用程序遭受重大黑客攻击，导致窃取了数百万美元的以太币，或ETH。作为回应，以太坊区块链经历了硬分叉，从原始账本中基本上撤销了黑客攻击，并将被盗的ETH退还给其原始所有者。
 
-In contrast, the other branch of this split kept the original untampered ledger, that included the hack, aiming to preserve the 100% immutable ledger. In other words, the two resulting blockchains differed in two ways: One still contained the record of the hack and the stolen ETH, while the other essentially wound back the clock as if the hack had never happened; and ETH changed its philosophy of immutability to one of “Social Consensus” while ETC kept its “Code Is Law” philosophy to this day. The edited blockchain preserved the Ethereum moniker, while the original/unchanged blockchain became known as Ethereum Classic.
+相比之下，分叉的另一支保留了原始未更改的账本，其中包括黑客攻击，旨在保留100%不可变的账本。换句话说，两个结果不同的区块链有两个区别：一个仍包含黑客攻击和被盗ETH的记录，而另一个基本上将时钟倒回，就好像黑客攻击从未发生过；以及ETH将其不可变性哲学更改为“社会共识”，而ETC保持其“法则即代码”的哲学至今。编辑过的区块链保留了以太坊的名字，而原始/未更改的区块链则被称为以太坊经典。
 
-**Rationale:**
+**理由：**
 
-This summary section is mostly right, but ETC did not grow out of another project or blockchain, it is the original  untampered blockchain founded by Vitalik Buterin in 2015. This is why it is better to portray ETC as the same chain as ETH in the beginning so people don’t position it as a later creation, which has been a long lasting misconception in the industry.
+这个摘要部分大体上是正确的，但ETC并不是从另一个项目或区块链发展而来的，它是由Vitalik Buterin于2015年创建的原始未更改的区块链。因此，最好将ETC描绘为开始时与ETH相同的链，以便人们不会将其定位为后来的创建，这在行业中一直存在着持久的误解。
 
-The term “official ledger” is incorrect in a truly decentralized blockchain. Official things are created by man. A blockchain that is decentralized with proof of work is followed by protocol, given the objective “most work done” rule, and participants may even split from it as it was the case of ETH when it split from ETC!
+术语“官方账本”在真正去中心化的区块链中是不正确的。官方的事物是由人创造的。具有工作证明的去中心化区块链是按照协议进行的，遵循“最多工作量”规则，参与者甚至可能从中分裂，就像ETH从ETC分裂出去一样！
 
-The way ETC and ETH differed was not only in the content of the database, e.g. with or without the reversal of the hack, but perhaps the most important divergence was in their philosophies, which became “Social Consensus” for ETH and “Code Is Law” for ETC. This philosophical divide explains why ETH moved to Proof of Stake, for example, while ETC will always be a Proof of Work blockchain.
+ETC和ETH的区别不仅仅在于数据库的内容，例如是否撤销了黑客攻击，而且也许最重要的分歧是它们的哲学，ETH变为“社会共识”，而ETC保持其“法则即代码”的哲学至今。这种哲学分歧解释了为什么ETH转向了股权证明，而ETC将永远是一个工作证明区块链。
 
-## Section: The Origin of Ethereum Classic
+## 部分：以太坊经典的起源
 
-**Gemini Statement:**
+**Gemini的说法：**
 
-There are many reasons why blockchains undergo hard forks and divide themselves into separate blockchains. Sometimes forks are the result of technological upgrades. Other forks result from deep community disagreements on proposed protocol changes which ultimately split the project and its backers into irreconcilable factions. Such protocol changes can arise from forward-looking efforts to improve existing functionalities, or they can arise in reaction to damage caused by bugs and hacks. The latter instance resulted in the Ethereum fork, which led to the creation of the Ethereum Classic (ETC) blockchain.
+区块链经历硬分叉并分为两个独立的区块链的原因有很多。有时，分叉是技术升级的结果。其他分叉则是由于对拟议的协议更改存在深刻分歧的社区，最终将项目及其支持者分裂成无法调和的派别。这样的协议更改可能是为了改进现有功能，也可能是为了应对由于漏洞和黑客造成的损害而产生的反应。后一种情况导致了以太坊的分叉，从而导致了以太坊经典（ETC）区块链的诞生。
 
-In 2016, an application on the Ethereum blockchain (known as The DAO) was hacked, leading to the theft of around 3.6 million ether (ETH) — worth around $50 million USD in 2016 — which subsequently rose to be worth billions of dollars. To further contextualize the severity of this hack, there were around 72 million ETH in circulation at the time, so the hackers stole around 5% of all ETH in existence.
+2016年，在以太坊区块链上的一个应用程序（称为DAO）遭到黑客攻击，导致窃取了约360万以太币（ETH） —— 在2016年价值约5000万美元，随后上升至数十亿美元。为了进一步说明此次黑客攻击的严重性，当时流通的以太币约为7200万，因此黑客窃取了所有以太币的约5%。
 
-To erase the hack from Ethereum’s ledger and return the money to its original owners, Ethereum core developers chose to implement a hard fork. The newly created ledger, which reversed the hack and returned the stolen ether, became the “main” Ethereum blockchain, and the original version of the ledger was renamed Ethereum Classic as a parallel network that was not compatible with the new main branch. A majority of users, especially victims of the hack, preferred the version of Ethereum that erased the hack. However, some users who viewed immutability as paramount chose to remain faithful to the original ledger, Ethereum Classic.
+为了从以太坊的账本中抹去这次黑客攻击并将资金退还给原始所有者，以太坊核心开发人员选择实施硬分叉。新创建的账本逆转了黑客攻击并将被窃的以太币退还，成为“主”以太坊区块链，而原始账本被重命名为以太坊经典，作为一个与新主分支不兼容的平行网络。大多数用户，尤其是黑客攻击的受害者，更喜欢删除黑客攻击的以太坊版本。然而，一些视不可变性为至关重要的用户选择继续支持原始账本，即以太坊经典。
 
-**Our Correction:**
+**我们的更正：**
 
-There are many reasons why blockchains undergo hard forks and divide themselves into separate blockchains. Sometimes forks are the result of technological upgrades. Other forks result from deep community disagreements on proposed protocol changes which ultimately split the project and its backers into irreconcilable factions. Such protocol changes can arise from forward-looking efforts to improve existing functionalities, or they can arise in reaction to damage caused by protocol bugs and hacks.
+区块链之所以经历硬分叉并分裂成独立的区块链，有许多原因。有时，分叉是技术升级的结果。其他分叉则是由于对拟议的协议更改存在深刻分歧的社区，最终将项目及其支持者分裂成无法调和的派别。这样的协议更改可能是为了改进现有功能，也可能是为了应对由于协议漏洞和黑客攻击造成的损害而产生的反应。
 
-In the case of the ETH and ETC split, it didn’t happen by any of these causes but by a bug in an application, or smart contract, that was hosted in the chain. There was no bug or problem in the base protocol itself. This made the manual reversal, violating immutability, even more egregious to the ETC side of the community.
+在ETH和ETC分裂的情况下，分叉并非由于这些原因之一，而是由于链中一个应用程序或智能合约的漏洞。基础协议本身没有任何漏洞或问题。这使得手动撤销、违反不可变性的行为对ETC社区来说更加令人不满。
 
-What happened was that, in 2016, an application on the Ethereum blockchain (known as The DAO) was hacked, leading to the theft of around 3.6 million ether (ETH) — worth around $50 million USD in 2016 — which subsequently rose to be worth billions of dollars. To further contextualize the severity of this hack, there were around 72 million ETH in circulation at the time, so the hackers stole around 5% of all ETH in existence.
+事实是，在2016年，以太坊区块链上的一个应用程序（称为DAO）遭到黑客攻击，导致窃取了约360万以太币（ETH） —— 在2016年价值约5000万美元，随后上升至数十亿美元。为了进一步说明此次黑客攻击的严重性，当时流通的以太币约为7200万，因此黑客窃取了所有以太币的约5%。
 
-To erase the hack from Ethereum’s ledger and return the money to its original owners, Ethereum core developers chose to implement a hard fork. The newly created ledger, which reversed the hack and returned the stolen ether, became the “main” Ethereum blockchain, and the original version of the ledger was renamed Ethereum Classic as a parallel network that was not compatible with the new main branch. A majority of users, especially victims of the hack, preferred the version of Ethereum that erased the hack. However, some users who viewed immutability as paramount chose to remain faithful to the original ledger, Ethereum Classic.
+为了从以太坊的账本中抹去这次黑客攻击并将资金退还给原始所有者，以太坊核心开发人员选择实施硬分叉。新创建的账本逆转了黑客攻击并将被窃的以太币退还，成为“主”以太坊区块链，而原始账本被重命名为以太坊经典，作为一个与新主分支不兼容的平行网络。大多数用户，尤其是黑客攻击的受害者，更喜欢删除黑客攻击的以太坊版本。然而，一些视不可变性为至关重要的用户选择继续支持原始账本，即以太坊经典。
 
-**Rationale:**
+**理由：**
 
-It is important to note that the original Ethereum blockchain (now known as Ethereum Classic) never suffered a hack or a bug. It was a bug in a smart contract, and smart contracts are not even part of the protocol, they are software programs hosted in the blockchain, but they are not the blockchain itself. 
+重要的是要注意，原始的以太坊区块链（现在称为以太坊经典）从未遭受过黑客攻击或漏洞。这只是链中一个智能合约的漏洞，而智能合约甚至不是协议的一部分，它们是托管在区块链中的软件程序，但它们并不是区块链本身。
 
-The rest of the paragraphs in this section are well written.
+本节中的其他段落写得很好。
 
-## Section: Ethereum vs. Ethereum Classic
+# 部分: 以太坊 vs. 以太坊经典
 
-**Gemini Statement:**
+**Gemini陈述：**
 
-The controversial divide between Ethereum and Ethereum Classic boils down to a philosophical debate which weighs two divergent choices:
+以太坊和以太坊经典之间的争议分歧归结为一场哲学辩论，权衡了两种不同选择：
 
-1. A distributed ledger’s revised blockchain which was altered in a way that erased a successful cybertheft.
+1. 一个修订过的分布式账本的区块链，以一种方式进行了更改，以抹去一次成功的网络入侵。
 
-2. A truly immutable blockchain with a permanent record of the network’s entire history, including a successful cybertheft.
+2. 一个真正不可变的区块链，记录了网络整个历史，包括一次成功的网络入侵。
 
-Ethereum remains much more popular than its unedited counterpart, indicating where most of the cryptocurrency community landed on this hotly debated issue. Further, Ethereum has the support of Vitalik Buterin, the Ethereum project’s main creator, who is widely regarded as one of the most reputable and influential figures within the Ethereum community and the entire blockchain industry.
+以太坊比它未经编辑的对应物更受欢迎，显示出大多数加密社区在这场备受争议的问题上的立场。此外，
 
-However, proponents of Ethereum Classic argue that the ETC hard fork hypocritically enabled the very thing that blockchain technology is meant to prevent — subjective human manipulation. As a result, many idealists stand by Ethereum Classic and its associated cryptocurrency, ETC. Notwithstanding the good intentions of the edited ETH branch, ETC’s proponents categorically reject the reasoning that led to the hard fork in the first place. Many of these individuals believe that any changes to a blockchain ledger (even well-intentioned ones) go against the ethos of the “code is king” mentality that many people associated with blockchain in the first place. Ethereum Classic proponent’s argue that immutable transactions are an irrefutable tenet of blockchain technology that set it apart from the manipulations that many complained of within the traditional global financial system, asserting that immutability should not be compromised in any context.
+以太坊得到了Vitalik Buterin的支持，他是以太坊项目的主要创始人，在整个以太坊社区和整个区块链行业中被广泛认为是最有声望和有影响力的人物之一。
 
-Other cryptocurrencies, including bitcoin (BTC), have experienced similar debates. The 2017 Bitcoin Cash (BCH) hard fork from Bitcoin was hotly debated. In a more direct comparison to the ETH vs. ETC controversy, hackers stole more than 7,000 BTC (worth around 41 million USD at the time) from the Binance crypto exchange in 2019. The exchange’s founder, Changpeng Zhao, suggested that the Bitcoin community roll back the Bitcoin blockchain, just as Ethereum had done in 2016. In this instance, however, the suggestion did not materialize into community action — perhaps in part because (unlike Ethereum’s founder Vitalik) Bitcoin’s pseudonymous founder Satoshi Nakamoto ceased any public involvement in the project in 2011, and his, her or their identity is unknown. In other words, because of Satoshi’s absence, Bitcoin’s leadership is arguably more decentralized by default than Ethereum’s.
+然而，以太坊经典的支持者认为，ETC硬分叉是对区块链技术旨在防止的主观人为操纵的一种虚伪使然。因此，许多理想主义者支持以太坊经典及其关联的加密货币ETC。尽管经过编辑的ETH分支的良好意图，ETC的支持者坚决反对首次硬分叉的推理。这些个体中的许多人认为，对区块链账本的任何更改（即使是出于善意的更改）都违反了许多人最初与区块链相关联的“代码至上”的理念。以太坊经典的支持者认为，不可变交易是区块链技术的不可辩驳的原则，使其不同于许多人对传统全球金融体系内操纵的抱怨，坚称在任何情况下都不应该妥协不可变性。
 
-**Our Correction:**
+其他加密货币，包括比特币（BTC），也经历过类似的辩论。2017年比特币现金（BCH）硬分叉比特币引起了激烈的争论。更直接地与ETH vs. ETC争议相比，2019年黑客从币安加密交易所窃取了超过7000 BTC（当时价值约4100万美元）。该交易所创始人赵长鹏建议比特币社区回滚比特币区块链，就像以太坊在2016年所做的那样。然而，在这种情况下，建议并没有转化为社区行动 —— 或许部分原因是（与以太坊的创始人Vitalik不同）比特币的匿名创始人中本聪在2011年停止了对该项目的任何公共参与，并且其身份是未知的。换句话说，由于中本聪的缺席，比特币的领导层可以认为天然地更加分散，而不像以太坊那样。
 
-The controversial divide between Ethereum and Ethereum Classic boils down to important principles that materially impact the security, thus usefulness of the blockchain.
+**我们的更正：**
 
-One is a distributed ledger that has become a subjectively managed system by a community of people, just like traditional systems, and the other is a truly objective and immutable blockchain with the original security and decentralization guarantees available to anyone in the world.
+以太坊和以太坊经典之间的争议实际上归结为对直接影响区块链安全性和有用性的重要原则。
 
-Ethereum remains much more popular than its unedited counterpart, indicating where most of the cryptocurrency community landed on this hotly debated issue. Further, Ethereum has the support of Vitalik Buterin, the Ethereum project’s main creator.
+一方面，是一个已成为由一群人主观管理的系统的分布式账本，就像传统系统一样。另一方面，是一个真正客观且不可变的区块链，为世界上任何人提供了最初的安全性和去中心化保证。
 
-However, proponents of Ethereum Classic argue that the ETC hard fork hypocritically enabled the very thing that blockchain technology is meant to prevent — subjective human manipulation. As a result, many ETC supporters stand by Ethereum Classic and its associated cryptocurrency, ETC. Notwithstanding the good intentions of the edited ETH branch, ETC’s proponents categorically reject the reasoning that led to the hard fork in the first place. Many of these individuals believe that any changes to a blockchain ledger (even well-intentioned ones) go against the ethos of the “Code is Law” philosophy that many people associated with blockchain in the first place. Ethereum Classic proponent’s argue that immutable transactions are an irrefutable tenet of blockchain technology that set it apart from the manipulations that many complained of within the traditional global financial system, asserting that immutability should not be compromised in any context.
+以太坊比它未经编辑的对应物更受欢迎，显示出大多数加密社区在这场备受争议的问题上的立场。此外，以太坊得到了Vitalik Buterin的支持，他是以太坊项目的主要创始人。
 
-Other cryptocurrencies, including bitcoin (BTC), have experienced similar debates. The 2017 Bitcoin Cash (BCH) hard fork from Bitcoin was hotly debated. In a more direct comparison to the ETH vs. ETC controversy, hackers stole more than 7,000 BTC (worth around 41 million USD at the time) from the Binance crypto exchange in 2019. The exchange’s founder, Changpeng Zhao, suggested that the Bitcoin community roll back the Bitcoin blockchain, just as Ethereum had done in 2016. In this instance, however, the suggestion did not materialize into community action — perhaps in part because (unlike Ethereum’s founder Vitalik) Bitcoin’s supporters understand the true purpose of these systems.
+然而，以太坊经典的支持者认为，ETC硬分叉是对区块链技术旨在防止的主观人为操纵的一种虚伪使然。因此，许多ETC支持者支持以太坊经典及其关联的加密货币ETC。尽管经过编辑的ETH分支的良好意图，ETC的支持者坚决反对首次硬分叉的推理。这些个体中的许多人认为，对区块链账本的任何更改（即使是出于善意的更改）都违反了许多人最初与区块链相关联的“法则即代码”哲学。以太坊经典的支持者认为，不可变交易是区块链技术的不可辩驳的原则，使其不同于许多人对传统全球金融体系内操纵的抱怨，坚称在任何情况下都不应该妥协不可变性。
 
-**Rationale:**
+其他加密货币，包括比特币（BTC），也经历过类似的辩论。2017年比特币现金（BCH）硬分叉比特币引起了激烈的争论。更直接地与ETH vs. ETC争议相比，2019年黑客从币安加密交易所窃取了超过7000 BTC（当时价值约4100万美元）。该交易所创始人赵长鹏建议比特币社区回滚比特币区块链，就像以太坊在2016年所做的那样。然而，在这种情况下，建议并没有转化为社区行动 —— 或许部分原因是（与以太坊的创始人Vitalik不同）比特币的匿名创始人中本聪在2011年停止了对该项目的任何公共参与，并且其身份是未知的。换句话说，由于中本聪的缺席，比特币的领导层可以认为天然地更加分散，而不像以太坊那样。
 
-The divide between ETH and ETC is not merely “philosophical” which may indicate just an abstract subject with no implications in reality. It is a serious and concrete difference in first principles that actually impact the operation of the chain, significantly deviating from one another. Ethereum is a totally subjectively managed system controlled by a community of self appointed developers who believe they must be good enough to have this responsibility. Ethereum Classic is a decentralized mechanical system that will always work according to protocol rules and never make decisions about what is good or bad between humans, things which should be left to lawyers, courts, and legal systems, not C++ developers.
+**理由:**
 
-Vitalik Buterin is popular and has a good reputation with people with little understanding, others who are biased because they may own a lot of ETH, or noobs in the industry, but he has relatively less reputation among true and knowledgeable industry participants and OG’s.
+以太坊（ETH）和以太坊经典（ETC）之间的分歧不仅仅是“哲学上”的分歧，这可能只是一个抽象的主题，没有现实中的影响。这是关于第一原则的严肃而实质性的差异，实际上对链的运作产生重大影响，使它们在很大程度上偏离了彼此。以太坊是一个完全由社区中自任开发者控制的主观管理系统，他们认为自己足够出色，有责任担负这一责任。而以太坊经典是一个分散的机械系统，将始终根据协议规则工作，永远不会对人类之间的是非做出决策，这些应该留给律师、法院和法律体系，而不是C++开发者。
 
-ETC proponents are not “idealists” and don’t have a “mentality”. These words seem like pejorative terms to make them seem as persons detached from reality who pursue theoretical things of no importance. However, the truth is exactly the opposite.
+Vitalik Buterin在那些对行业了解较少、对他持有偏见的人或行业新手中很受欢迎，并且有良好的声誉，但在真正了解的行业参与者和OG（原始的）人中，他的声望相对较低。
 
-Bitcoin was not reversed after the exhortation by the founder of Binance because Bitcoin supporters understand the principles and the purpose of these systems, not because Satoshi Nakamoto was absent.
+ETC的支持者不是“理想主义者”，也没有“心态”。这些词似乎是贬义词，使他们看起来像是追求没有重要性的理论事物的与现实脱节的人。然而，事实恰恰相反。
 
-## Section: Structure of Ethereum Classic
+比特币之所以没有在币安创始人的催促下被撤销，并不是因为中本聪缺席，而是因为比特币的支持者了解这些系统的原则和目的，而不仅仅是因为中本聪缺席。
 
-**Gemini Statement:**
+## 章节：以太坊经典的结构
 
-The Ethereum Classic protocol is essentially a clone of the original Ethereum protocol. Both Ethereum Classic and Ethereum are smart contract platforms that allow users to build decentralized applications (dApps) on their respective blockchains, and they remain similar from a general functional perspective, although Ethereum has subsequently developed a considerably wider array of functionalities over time. The chains are identical up until block 1,920,000 (where the attack occurred). It is only after this block that they diverge. As a result, significant updates to the Ethereum protocol after this point (including Ethereum 2.0) are not reflected in the Ethereum Classic protocol, and vice versa.
+**Gemini声明:**
 
-**Our Correction:**
+以太坊经典协议本质上是原始以太坊协议的克隆。以太坊经典和以太坊都是智能合约平台，允许用户在各自的区块链上构建去中心化应用程序（dApps），从一般的功能角度来看，它们保持相似，尽管以太坊随着时间的推移逐渐发展出更广泛的功能。这两个链在区块1,920,000之前是相同的（攻击发生的地方）。只有在这个区块之后它们才分道扬镳。因此，此后对以太坊协议的重大更新（包括以太坊2.0）在以太坊经典协议中没有体现，反之亦然。
 
-The Ethereum Classic protocol follows the general Ethereum Virtual Machine (EVM) standard, therefore it is very close to parity with the Ethereum protocol, except for key differences such as the Proof of Work vs Proof of Stake consensus algorithms, and that ETC did not implement EIP-1559 which burns fees. Both Ethereum Classic and Ethereum are smart contract platforms that allow developers to build decentralized applications (dApps) on their respective blockchains, and they remain similar from a general functional perspective. The chains are identical up until block 1,920,000 (when the attack occurred). It is only after this block that they diverge. ETH and ETC share the same design and functionality although they now have different transaction histories and ledgers.
+**我们的更正:**
 
-**Rationale:**
+以太坊经典协议遵循通用的以太坊虚拟机（EVM）标准，因此它与以太坊协议非常接近，除了关键差异，如工作量证明与权益证明共识算法，以及ETC没有实施燃烧费用的EIP-1559。以太坊经典和以太坊都是智能合约平台，允许开发人员在各自的区块链上构建去中心化应用程序（dApps），从一般的功能角度来看，它们保持相似。这两个链在区块1,920,000之前是相同的（攻击发生的地方）。只有在这个区块之后它们才分道扬镳。ETH和ETC在设计和功能上是相同的，尽管它们现在有不同的交易历史和账本。
 
-ETC is not a clone of ETH. Again, the one that split is Ethereum, ETC is the original chain. ETC does follow the general EVM standard, like many other chains, therefore it integrates the majority of changes that happen in Ethereum. The latest example of this was the [Spital hard fork](https://ethereumclassic.org/blog/2023-12-09-spiral-fork-announcement) in ETC. However, ETC does not implement all the changes of Ethereum, this is because ETH has this “Social Consensus” philosophy and has abandoned its goals of true decentralization and immutability. This means that ETC must reject some of the upgrades in ETH, for example the migration to Proof of Stake and EIP-1559 that burns fees, therefore changing the monetary policy.
+**理由:**
 
-Users don’t build dapps, developers build dapps.
+ETC不是ETH的克隆。再次强调，分裂的是以太坊，ETC是原始链。ETC确实遵循通用的EVM标准，就像许多其他链一样，因此它集成了以太坊发生的大多数变化。这最新的例子是[Spital硬分叉](https://ethereumclassic.org/blog/2023-12-09-spiral-fork-announcement)在ETC中。然而，ETC并未实施以太坊的所有更改，这是因为ETH具有“社会共识”哲学，已经放弃了真正去中心化和不可变性的目标。这意味着ETC必须拒绝ETH中的一些升级，例如迁移到权益证明和燃烧费用的EIP-1559，从而改变货币政策。
 
-Ethereum and Ethereum Classic are practically functionally identical with regards to smart contacts and dapps and how they work.
+用户不构建dapps，是开发人员构建dapps。
 
-ETH and ETC are practically the same, but with different consensus algorithms and monetary policies. They do diverge in the history of transactions since the split of 2016.
+在智能合约和dapps方面，以太坊和以太坊经典在实际功能上几乎是相同的。
 
-## Section: The Future of Ethereum Classic
+ETH和ETC实际上是相同的，但具有不同的共识算法和货币政策。它们在2016年分裂以后的交易历史上有所不同。
 
-**Gemini Statement:**
+## 章节：以太坊经典的未来
 
-Foreshadowing a change of heart, Ethereum Classic has recently undergone several protocol upgrades that are aimed at making the protocol more interoperable with the Ethereum protocol. Two recent Ethereum Classic protocol upgrades — Atlantis (in 2019) and Agharta (in 2020) —   signal the Ethereum Classic community’s intent to build technological bridges between Ethereum Classic and other communities, including Ethereum. These updates were carried out through mandatory hard forks, which required Ethereum Classic users to upgrade their software in order to comply with the updated rules of the Ethereum Classic network. These updates may signify an ongoing shift toward increased interoperability between these two blockchains. While some have strongly opposed the various splits and forks in the overall Ethereum ecosystem, others believe that “forks are freedom,” and that they allow both blockchains to develop democratically as their respective communities see fit.
+**Gemini声明:**
 
-**Our Correction:**
+预示着态度的改变，以太坊经典最近进行了几次协议升级，旨在使协议与以太坊协议更具互操作性。以太坊经典协议的两次最近升级——Atlantis（2019年）和Agharta（2020年）——表明了以太坊经典社区意图在以太坊经典与其他社区之间建立技术桥梁，包括以太坊。这些更新是通过强制性硬分叉实施的，这要求以太坊经典用户升级其软件，以遵守以太坊经典网络的更新规则。这些更新可能标志着这两个区块链之间更大程度的互操作性的持续转变。虽然一些人强烈反对整个以太坊生态系统中的各种分裂和分叉，但其他人认为“分叉就是自由”，它们允许两个区块链根据各自社区的意愿进行自由发展。
 
-Ethereum Classic [will always be](https://ethereumclassic.org/blog/2023-04-04-ethereum-classic-will-always-be-state-of-the-art-technology) state of the art technology as it will always follow the EVM standard as mentioned before. It constantly upgrades the network after Ethereum’s upgrades, usually about 6 months later, but only implementing the changes that make sense for its immutability philosophy and to achieve as much parity as possible with the EVM standard. 
+**我们的更正:**
 
-Ethereum Classic’s [history](https://ethereumclassic.org/knowledge/history) of protocol upgrades include: 
+以太坊经典[将始终是](https://ethereumclassic.org/blog/2023-04-04-ethereum-classic-will-always-be-state-of-the-art-technology)先进技术，因为它将始终遵循前面提到的EVM标准。它不断地在以太坊的升级之后升级网络，通常是在大约6个月后，但只实施符合其不可变性哲学并实现尽可能与EVM标准一致的变更。
 
-- Gas reprice (2016)
-- Gotham (2017)
-- Atlantis (2019) 
-- Agharta (2020)
-- Phoenix (2020)
-- MESS (2020)
-- Thanos (2020)
-- Magneto (2021)
-- Mystique (2022)
-- Spiral (2024) 
+以太坊经典的[协议升级历史](https://ethereumclassic.org/knowledge/history)包括：
 
-ETC’s work signals the Ethereum Classic community’s intent to build technological bridges between Ethereum Classic and other communities, including Ethereum. These updates were carried out through voluntary hard forks, which required Ethereum Classic users to upgrade their software in order to follow the updated rules of the Ethereum Classic network. These updates may signify an ongoing shift toward increased interoperability between these two blockchains. While some have strongly opposed the various splits and forks in the overall Ethereum ecosystem, others believe that “forks are freedom,” and that they allow both blockchains to develop freely as their respective communities see fit.
+- Gas repricing（2016）
+- Gotham（2017）
+- Atlantis（2019年）
+- Agharta（2020年）
+- Phoenix（2020年）
+- MESS（2020年）
+- Thanos（2020年）
+- Magneto（2021年）
+- Mystique（2022年）
+- Spiral（2024年）
 
-**Rationale:**
+ETC的工作表明以太坊经典社区打算在以太坊经典与其他社区，包括以太坊之间建立
 
-There was no “change of heart” in ETC! As said before, it has always followed the EVM standard and it will always be state of the art technology.
+技术桥梁。这些更新是通过自愿硬分叉进行的，这要求以太坊经典用户升级其软件，以遵守以太坊经典网络的更新规则。这些更新可能标志着这两个区块链之间更大程度的互操作性的持续转变。虽然一些人强烈反对整个以太坊生态系统中的各种分裂和分叉，但其他人认为“分叉就是自由”，它们允许两个区块链根据各自社区的意愿自由发展。
 
-ETC has a long history of constant upgrades to stay up-to-date with the EVM standard.
+**理由:**
 
-Upgrades are voluntary not mandatory, if not there would be no splits. 
+ETC并没有“改变态度”！正如前面所说，它始终遵循EVM标准，将始终是先进技术。
 
-Truly decentralized blockchain development is free, not “democratic”. There is no such thing as “voting” in blockchains.
+ETC有着不断升级的悠久历史，以保持与EVM标准的同步。
+
+升级是自愿的，而不是强制的，否则就不会有分裂。
+
+真正去中心化的区块链开发是自由的，而不是“民主的”。在区块链中不存在“投票”这种事情。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC: https://ethereumclassic.org
