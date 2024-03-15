@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 19. POW Is Digital Gold, POS Is Community Fiat Money"
+title: "ETC的工作证明课程：第19课. POW是数字黄金，POS是社区法定货币。"
 date: 2024-03-21
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,76 +8,76 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zpf2hH6zC5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In the previous class, 18, we explained why POW blockchains such as Bitcoin (BTC) and Ethereum Classic (ETC) will always be under constant social attack because in truly decentralized systems there are no higher authorities to impose order.
+在上一课（第18课）中，我们解释了为什么像比特币（BTC）和以太经典（ETC）这样的工作证明（POW）区块链将始终面临持续的社会攻击，因为在真正分散的系统中没有更高的权威来强制执行秩序。
 
-In this class, 19, we will switch topics to focus on the function of hard money of proof of work (POW) blockchains and contrast that with proof of stake (POS) coins which are just soft community money.
+在本课（第19课）中，我们将转换话题，重点关注工作证明（POW）区块链的硬货币功能，并与仅仅是软社区货币的权益证明（POS）币进行对比。
 
-We will explain the truth of these tokens which are all “community fiat money” as we define them.
+我们将解释这些代币的真相，它们都是我们所定义的“社区法定货币”。
 
-The difference is that POW has an objective physical base, while POS eliminated that base and replaced it with a “social consensus” model that basically imitates how traditional systems work!
+区别在于，POW具有客观的物理基础，而POS消除了这种基础，并将其替换为“社会共识”模型，基本上是模仿传统系统的工作方式！
 
-## All Blockchains Are Community Fiat Money
+## 所有区块链都是社区法定货币
 
-Few people may know this, but all current cryptocurrencies are community fiat money. 
+很少有人知道这一点，但所有当前的加密货币都是社区法定货币。
 
-Yes, even Bitcoin and Ethereum Classic are just community fiat tokens!
+是的，即使是比特币和以太经典也只是社区法定代币！
 
-Why is this? 
+为什么会这样呢？
 
-Because the proof of work cryptographic stamps or hashes in proof of work are the result of the work, and that is the “digital gold”. But then, these networks just print tokens to pay rewards for the work, but those tokens, namely BTC and ETC, are not true gold. They are just arbitrary units created to pay for the work.
+因为工作证明中的密码戳或散列是工作的结果，那就是“数字黄金”。但是，这些网络只是打印代币来支付工作的奖励，但这些代币，即BTC和ETC，不是真正的黄金。它们只是为了支付工作而创建的任意单位。
 
-The digital gold, also called “Bit Gold” is buried in the blockchains in the form of the block hashes. 
+数字黄金，也称为“比特黄金”，以区块链的形式埋藏在区块链中。
 
-## What Is Bit Gold
+## 什么是比特黄金
 
-The original idea of Bit Gold was proposed by Nick Szabo in early 1998. 
+比特黄金的原始想法是由Nick Szabo在1998年初提出的。
 
-When he saw the design of a technology called “HashCash” created by Adam Back he realized that the hashes or stamps built by the computational work were analogous to gold in the real world.
+当他看到一种名为“HashCash”的技术的设计时，由Adam Back创建，他意识到计算工作生成的散列或戳与现实世界中的黄金类似。
 
-In other worlds, if an ounce of gold is proof that gold miners in the real world spent a lot of energy and capital extracting that gold from nature, then a POW hash represents the energy and capital that computer miners spent creating them, hence “Bit Gold”.
+换句话说，如果一盎司黄金是证明黄金矿工在现实世界中花费了大量能源和资本从大自然中提取黄金的证据，那么POW散列表示计算机矿工花费了多少能源和资本来创建它们，因此称为“比特黄金”。
 
-The idea of the Bit Gold network was to have miners create the Bit Gold and then have the rest of participants use those hashes to bundle them together to issue coins backed by them.
+比特黄金网络的想法是让矿工创造比特黄金，然后让其他参与者使用这些散列将它们捆绑在一起，以发行由它们支持的硬币。
 
-## POW Has an Objective Base
+## POW具有客观基础
 
 ![](./1.png)
 
-However, the Bit Gold network design was not possible yet at the time, so a separate token had to be created to pay for the miners’ work. This is how the Bitcoin token was eventually created in 2009.
+然而，比特黄金网络设计当时还不可能，因此必须创建一个单独的代币来支付矿工的工作。这就是最终在2009年创造比特币代币的方式。
 
-As said before, POW blockchain coins are community fiat tokens anchored on top of an objective base called Bit Gold, which is the POW done to create the hashes, therefore to create the coins.
+正如之前所说，POW区块链代币是建立在客观基础上的社区法定代币，称为比特黄金，是用于创建散列的POW，因此也是用于创建代币。
 
-They are digital gold because, like gold, these tokens can only be created after a lot of work has been done, thus guaranteeing their unforgeability and scarcity.
+它们是数字黄金，因为与黄金一样，这些代币只有在完成了大量工作之后才能创建，从而保证了它们的不可伪造性和稀缺性。
 
-This means that, even if BTC and ETC are arbitrarily issued tokens, they are still digital gold because they will only be created after a lot of work by miners is done.
+这意味着，即使BTC和ETC是任意发行的代币，它们仍然是数字黄金，因为只有在矿工完成大量工作后才会创建它们。
 
-## POS Has no Objective Base
+## POS没有客观基础
 
 ![](./2.png)
 
-Because POS eliminates the objective POW base, then they are left with a just a community fiat token.
+因为POS消除了客观的POW基础，所以它们只是社区法定代币。
 
-Few people in the industry realize this, but proof of stake systems can be manually changed at the will of the centralized groups and special interests that govern them. POS are centralized precisely because they don’t use POW, which guarantees the participation of computers in the network globally without any permission or possibility of censorship.
+行业内很少有人意识到这一点，但权益证明系统可以在中央集团和管理它们的特殊利益的意愿下进行手动更改。POS系统之所以中心化，正是因为它们没有使用POW，这保证了全球计算机在网络中的参与，而无需任何许可或可能的审查。
 
-In POS systems, participants and users cannot split from the staking elites and large token owners because they are inside the chain.
+在POS系统中，参与者和用户无法与权益激励的精英和大型代币持有者分离，因为他们在链内。
 
-This creates a system where these elites can change the states of accounts and balances, or even the monetary policy, whenever they wish without proving any work and by having the rest of the ecosystem captured to the system.
+这创造了一个系统，这些精英可以随时更改账户和余额的状态，甚至是货币政策，而不需要证明任何工作，并且通过使生态系统的其他部分被系统捕获，他们还可以更改货币政策。
 
-## POW Is Digital Gold and POS Is Not
+## POW是数字黄金，POS不是
 
-In summary, even if all coins are community fiat tokens, POW coins in particular are still digital gold because at least they depend on the work of miners to be created.
+总而言之，即使所有代币都是社区法定代币，POW代币尤其仍然是数字黄金，因为至少它们取决于矿工的工作才能创建。
 
-POS coins inexplicably eliminated this anchor in their systems. This gives the controlling elites in these centralized systems the ability to not only change the rules of the system, censor participants, confiscate funds, freeze accounts, and control dapps, but they also may change the monetary policies whenever they wish.
+POS代币不知何故在其系统中消除了这个锚。这使得这些中心化系统中的控制精英不仅可以更改系统规则、审查参与者、没收资金、冻结账户和控制dapps，而且还可以随意更改货币政策。
 
-As history has shown, it is only a matter of time until the groups with these privileges start abusing them.
+正如历史所显示的那样，只是时间问题，直到拥有这些特权的团体开始滥用它们。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
