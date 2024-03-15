@@ -1,5 +1,5 @@
 ---
-title: "Buying and Trading Ethereum Classic Through Binance"
+title: "通过币安购买和交易以太经典"
 date: 2024-03-20
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_SNCiwFpYZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,144 +16,142 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-Binance is a centralized cryptocurrency exchange.
+币安是一个中心化的加密货币交易所。
 
-A centralized cryptocurrency exchange (CEX) is a virtual location on the internet that serves as a meeting point for trading crypto assets such as Bitcoin (BTC) and Ethereum Classic (ETC).
+中心化的加密货币交易所（CEX）是互联网上的虚拟场所，用作比特币（BTC）和以太经典（ETC）等加密资产交易的交汇点。
 
-Binance provides its servers over the internet for its customers to open accounts, send money, and start exchanging BTC, ETC, Ethereum (ETH), and other tokens.
+币安通过互联网提供服务器供客户开设账户、汇款和开始交易BTC、ETC、以太坊（ETH）和其他代币。
 
-CEXs must follow regulations, so they may be very restrictive, demanding customers to present evidence of identity and residence, performing background checks, and asking what is the source of their funds.
+中心化交易所必须遵守监管规定，因此可能非常严格，要求客户提供身份和居住证明、进行背景调查，并询问资金来源。
 
-Among the risks of centralized exchanges is that they may go bankrupt and customers may lose their deposits and assets.
+中心化交易所的风险之一是可能破产，客户可能会失去存款和资产。
 
-Binance in particular is one of the largest cryptocurrency exchanges in the world, it started operations in China in July of 2017, then it moved to Malta, and now has an international presence in more than 100 countries.
+币安是全球最大的加密货币交易所之一，于2017年7月在中国开始运营，后来迁至马耳他，现在在100多个国家拥有国际业务。
 
-## Moving Your ETC to Non-Custodial Wallets
+## 将您的ETC转移到非托管钱包
 
 ![](./11.png)
 
-Although you may be using a centralized cryptocurrency exchange for buying and trading in Ethereum Classic, the best way to [manage your ETC](https://ethereumclassic.org/blog/2023-05-31-how-to-start-using-etc-from-scratch) is to buy them in the centralized exchanges but then moving them to [non-custodial wallets](https://ethereumclassic.org/blog/2023-05-04-ethereum-classic-course-20-what-are-custodial-and-non-custodial-wallets) that you control.
+虽然您可能使用中心化加密货币交易所购买和交易以太经典，但管理您的ETC的最佳方式是在中心化交易所购买它们，然后将它们转移到您控制的非托管钱包。
 
-The steps are as follows:
+步骤如下：
 
-1. You start with your cash in your bank account
-2. You move your cash to the crypto exchange
-3. You buy ETC at the crypto exchange
-4. You get a non-custodial wallet or hardware wallet
-5. You move all your ETC to your non-custodial wallet
+1. 从您的银行账户开始现金
+2. 将现金转移到加密交易所
+3. 在加密交易所购买ETC
+4. 获取一个非托管钱包或硬件钱包
+5. 将您的所有ETC转移到您的非托管钱包
 
-The above method is the most secure method because you end up with your ETC on the blockchain directly, under your own control with your private keys, rather than at the centralized exchange, under their control.
+上述方法是最安全的方法，因为您最终将您的ETC直接放在区块链上，由您自己控制您的私钥，而不是在中心化交易所控制下。
 
-In other words, it is more trust minimized.
+换句话说，这更加最小化了信任。
 
-## Opening a Binance Account
+## 开设币安账户
 
 ![](./1.png)
 
-The first step to create your account on Binance will be to go to [Binance.com](https://binance.com), then press on the “Sign up” button, and proceed with the next steps.
+在币安上创建账户的第一步是进入[Binance.com](https://binance.com)，然后点击“注册”按钮，然后按照下一步进行。
 
-The next steps will involve a process of verification. Binance uses this system to comply with “Know Your Customer”, “Anti-Money Laundering”, and other laws in various countries.
+接下来的步骤将涉及验证过程。币安使用此系统以遵守各国的“了解您的客户”、“反洗钱”和其他法律。
 
-The first thing Binance will ask you for is your personal information. If you live in the United States, Binance.com will reject your application as it only operates outside the US, but they may refer you to Binace.us. For this post, we will show how Binance works out of Argentina to provide a generic international account demonstration.
+币安首先会要求您提供个人信息。如果您居住在美国，币安.com将拒绝您的申请，因为它只在美国以外运营，但他们可能会引导您到币安美国。对于本文，我们将展示币安在阿根廷的操作方式，以提供通用的国际账户演示。
 
-The next thing Binance will ask for is your government identification document. For this you will need to take photos of it and upload it.
+币安接下来会要求您的政府身份证明文件。为此，您需要拍摄照片并上传。
 
-The last step in the verification process is to make a “liveness test” which will ask you to use your mobile phone to show your face, open your mouth, and blink your eyes.
+验证过程的最后一步是进行“活体检验”，要求您使用手机展示您的面部，张开嘴巴，并眨眼。
 
-After this process, Binance will send you an email, which may take up to 72 hours, to confirm your account is open. 
+完成这个过程后，币安将发送一封电子邮件，可能需要多达72小时，以确认您的账户已开通。
 
-## Connecting a Bank Account and Depositing Money
+## 连接银行账户并存入资金
 
 ![](./2.png)
 
-After creating your account on Binance, you can connect a bank account to your Binance profile. This is to move fiat money to your Binance account and then be able to buy ETC.
+在币安创建账户后，您可以将银行账户连接到您的币安个人资料中。这是为了将法定货币转移到您的币安账户，然后能够购买ETC。
 
-The methods available in Binance to deposit or trade crypto are to deposit crypto, to buy crypto in a P2P way from local dealers by paying with local methods available in your country, by using the simple Binance “Buy Crypto” method, or by sending fiat to your account by linking a bank account.
+在币安上存款或交易加密货币的方法有：存入加密货币、通过使用本国可用的本地方式从当地交易商处以P2P方式购买加密货币、使用简单的币安“购买加密货币”方法，或通过链接银行账户向您的账户汇款。
 
-In our example, we will press on the “Deposit” button on the top right corner, then select Argentinian Peso as the currency, and then press the “Continue” button.
+在我们的示例中，我们将点击右上角的“存款”按钮，然后选择阿根廷比索作为货币，然后点击“继续”按钮。
 
-Finish connecting your account by following all the steps.
+通过按照所有步骤完成连接您的账户。
 
-## Binance as a Wallet
+## 币安作为钱包
 
 ![](./3.png)
 
-Many people around the world use Binance as their main wallet. This is not the best for securing your crypto as we explained above, but for keeping some of your crypto for trading or to make payments it is acceptable.
+全球许多人将币安作为他们的主要钱包。这并不是保护您的加密货币最佳的方式，就像我们上面解释的那样，但是为了保留一些用于交易或支付的加密货币，这是可以接受的。
 
-It is always best to keep at least 80% of your crypto secure in self custody wallets or hardware wallets.
+最好至少将您80%的加密货币存放在自己管理的钱包或硬件钱包中。
 
-Nevertheless, Binance does have easy “deposit” and “withdraw” features for either fiat or crypto in your country.
+尽管如此，币安确实提供了简单的“存款”和“提款”功能，无论是用于您国家的法定货币还是加密货币。
 
-By using the Binance website or their mobile app, you may keep track of your holdings.
+通过使用币安网站或他们的移动应用程序，您可以跟踪您的持有量。
 
-The Binace wallet is called “dashboard” on their website.
+币安钱包在他们的网站上称为“仪表板”。
 
-## Buying ETC on Binance
+## 在币安上购买ETC
 
 ![](./4.png)
 
-Once you are all set with the Binance account and you connected your bank account where you hold your local fiat money, then you will be able to move money to Binance and start buying ETC.
+一旦您在币安账户上设置好了，并连接了您存放本地法定货币的银行账户，那么您就可以将资金转移到币安并开始购买ETC。
 
-However, to buy ETC, BTC, and other coins your may need to buy USDT first using the Binance “Buy Crypto” service.
+然而，要购买ETC、BTC和其他货币，您可能需要先使用币安的“购买加密货币”服务购买USDT。
 
-This is because global crypto markets don’t trade in all the currencies of the world, but in a few reserve currencies, or against other major cryptocurrencies. However, most trade against the stablecoin that tracks the US dollar called “Tether” of which its symbol is ”USDT”.
+这是因为全球加密货币市场并不交易世界上所有货币，而是一些储备货币或与其他主要加密货币进行交易。然而，大多数交易都与跟踪美元的稳定币“泰达币”（USDT）进行。如果您使用“购买加密货币”服务将您的本地货币转换为USDT，那么您就可以准备购买ETC了！
 
-If you move your local currency to USDT using the “Buy Crypto” service, then you will be ready to purchase ETC!
-
-To trade USDT for ETC go to the “Markets” link on the top horizontal menu, select “ETC” from the search field, and click on the ETC/USDT result to go to the ETC charts and trading page.
+要将USDT交易为ETC，请在顶部水平菜单中点击“市场”链接，从搜索字段中选择“ETC”，然后点击ETC/USDT结果以转到ETC图表和交易页面。
 
 ![](./5.png)
 
-When you are on the ETC/USDT trading page, you will see the chart of ETC, you can analyze the markets, or you can use the trading ticket to purchase ETC with your USDT balance.
+当您进入ETC/USDT交易页面时，您将看到ETC的图表，您可以分析市场，或者您可以使用交易表格使用您的USDT余额购买ETC。
 
-To see the ETC/USDT trading ticket form, scroll down and you will see a green “Buy ETC” section to the left and a red “Sell ETC” section to the right.
+要查看ETC/USDT交易表格，请向下滚动，您将看到左侧的绿色“购买ETC”部分和右侧的红色“出售ETC”部分。
 
-On the green section, enter the price you want to buy ETC at or select the “Market” option to buy at the market. 
+在绿色部分中，输入您想要购买ETC的价格，或选择“市价”选项以市价购买。
 
-Then, enter the amount of ETC you wish to buy, or slide the bar provided for other quantities.
+然后，输入您想要购买的ETC数量，或使用提供的滑块选择其他数量。
 
-Once you completed your ticket press on the “Buy ETC” button.
+完成表格后，点击“购买ETC”按钮。
 
-Congratulations! You just entered an order to buy ETC on Binance!
+恭喜！您刚刚在币安上下了一笔购买ETC的订单！
 
-When you purchase your ETC they will show on your Balance on your Binance wallet or dashboard.
+当您购买ETC时，它们将显示在您的币安钱包或仪表板的余额中。
 
-## Sending ETC
+## 发送ETC
 
 ![](./6.png)
 
-When you buy ETC on Binance they will probably become available to withdraw after a few days so you will be able to send them to your non-custodial wallet or other destinations.
+当您在币安上购买ETC后，它们可能会在几天后可用于提款，因此您可以将它们发送到您的非托管钱包或其他目的地。
 
-It may take a few days because your cash from the bank actually takes several days to move from your bank to Binance. However, if you live in a jurisdiction that has instant bank transfers or other fast money transfer systems, you may have your purchased ETC available for withdrawal sooner.
+这可能需要几天，因为您的银行现金实际上需要数天才能从您的银行转移到币安。然而，如果您居住在具有即时银行转账或其他快速资金转移系统的司法管辖区，您可能会更早地可以提取购买的ETC。
 
-The way to send your ETC to your non-custodial wallet or to any other destination is by clicking on the “Withdraw” link on your Binance dashboard.
+将您的ETC发送到您的非托管钱包或任何其他目的地的方法是单击您币安仪表板上的“提款”链接。
 
-In the next step, select ETC as the coin to send, put the ETC address you wish to send it to, then select the ETC network (this is important because ETC exists in other networks as a [wrapped coin](https://ethereumclassic.org/blog/2023-04-06-ethereum-classic-course-16-what-is-wetc)), enter the amount you wish to send, and finally press the “Withdraw” button at the bottom of the form.
+在下一步中，选择ETC作为要发送的币种，输入您要发送到的ETC地址，然后选择ETC网络（这很重要，因为ETC存在于其他网络中作为[封装币](https://ethereumclassic.org/blog/2023-04-06-ethereum-classic-course-16-what-is-wetc)），输入您要发送的金额，最后点击表格底部的“提款”按钮。
 
-## Receiving ETC
+## 接收ETC
 
 ![](./7.png)
 
-To receive ETC, you need to go again to your Binance dashboard or wallet and press on the “Deposit” button, or just click on the “Deposit” button on the top right corner of the Binance website.
+要接收ETC，您需要再次进入币安仪表板或钱包，并点击“存款”按钮，或者直接点击币安网站右上角的“存款”按钮。
 
-After this, select the “Deposit Crypto” option on the side panel menu.
+接下来，在侧面菜单中选择“存款加密货币”选项。
 
-In the next page select ETC as the coin you wish to deposit, then select the network you will use (this is important because ETC exists in other networks as a [wrapped coin](https://ethereumclassic.org/blog/2023-04-06-ethereum-classic-course-16-what-is-wetc)), then select the “Spot Wallet” option, and finally copy the ETC address provided to use it to send ETC to your Binance account or to give it to others to send you ETC.
+在下一页中，选择ETC作为您要存款的币种，然后选择您将使用的网络（这很重要，因为ETC存在于其他网络中作为[封装币](https://ethereumclassic.org/blog/2023-04-06-ethereum-classic-course-16-what-is-wetc)），然后选择“现货钱包”选项，最后复制提供的ETC地址以用于将ETC发送到您的币安账户或将其提供给他人以向您发送ETC。
 
-## Who Uses Binance for Buying and Selling ETC?
+## 谁在币安上购买和出售ETC？
 
 ![](./22.png)
 
-**Investors:** ETC is an excellent long term investment alternative. This has attracted many investors who use exchanges such as Binance to transfer their fiat money to exchange it for Ethereum Classic. However, these ETC buyers should think of moving their holdings to non-custodial wallets as explained before, so their assets may be more secure.
+**投资者：** ETC是一个优秀的长期投资选择。这吸引了许多投资者使用像币安这样的交易所将他们的法定货币转移到以太经典以进行交换。然而，这些ETC买家应考虑将其持有转移到非托管钱包，如前面所述，以便使其资产更加安全。
 
-**Miners:** A segment that uses exchanges frequently to trade ETC are miners. Ethereum Classic miners earn an average of 17,000 ETC per day at the time of this writing, but they have to pay for their operations, which include payroll, data center costs, and electricity costs. For this they usually liquidate some of their daily earnings on exchanges such as Binance to transform them into cash to pay for their bills.
+**矿工：** 经常使用交易所交易ETC的一个群体是矿工。以太经典矿工每天平均赚取17,000个ETC，但他们必须支付运营成本，包括工资、数据中心成本和电费。因此，他们通常会在诸如币安这样的交易所上将他们每天的一些收入变现为现金，以支付他们的账单。
 
-**Speculators:** Trading volumes on ETC are high globally and much of this is by speculators who trade daily on exchanges such as Binance. These participants are beneficial to the ecosystem as they provide liquidity to all other buyers and sellers.
+**投机者：** 全球ETC的交易量很高，其中很大一部分是由像币安这样的交易所上的投机者每日进行的交易。这些参与者对生态系统有利，因为他们为所有其他买家和卖家提供了流动性。
 
-**Merchants:** Although still small, the use of ETC for buying and selling things in the broader economy is growing. Merchants who let their customers purchase items with ETC will use centralized exchanges such as Binance to liquidate their holdings for paying for their business expenses.
+**商家：** 尽管规模仍然较小，但ETC在更广泛的经济中用于购买和出售商品的使用正在增长。让顾客使用ETC购买物品的商家将使用像币安这样的中心化交易所将他们的持有变现以支付业务开支。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
