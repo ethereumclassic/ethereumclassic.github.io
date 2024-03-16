@@ -78,6 +78,8 @@ The good thing about all this is that all are very similar in design and many of
 
 ## But All Systems Will Migrate to Ethereum Classic
 
+![](./1.png)
+
 The EVM standard or format is the basic design of the components and opcodes of these virtual machine networks. All use components such as the GAS system, the account system, state, programming languages, etc.
 
 ETC is actually the original uncensored EVM blockchain. Therefore it is totally compatible with all these solutions. This is the essence of Mr. Burns’ comment in the introduction of this post.
