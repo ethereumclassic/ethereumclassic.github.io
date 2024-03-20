@@ -71,7 +71,7 @@ At the time, Ethereum was the second largest blockchain in the world and all oth
 
 ## 7. Ethereum Classic Became the Largest In the World
 
-![](./1.png)
+![](./2.png)
 
 When Ethereum migrated to POS, ETC had a hashrate of around 20 TH/s but after the migration it jumped to more than 200 TH/s, and subsequently stabilizing, at the time of this writing, at around 166 TH/s.
 
@@ -79,7 +79,7 @@ Nevertheless, just by remaining as a POW coin, ETC became the largest smart cont
 
 ## 8. Applications in ETC Are the Most Secure Apps in the World
 
-![](./2.png)
+![](./1.png)
 
 Ethereum Classic is the environment where the most secure applications in the world will exist because it is a proof of work blockchain, it has a fixed monetary policy, it is programmable, fully replicated, composable, and is the largest one in the world [with this combined design](https://ethereumclassic.org/blog/2023-12-05-the-7-keys-to-ethereum-classic-success).
 
