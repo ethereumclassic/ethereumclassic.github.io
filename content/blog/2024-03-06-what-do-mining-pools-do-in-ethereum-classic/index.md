@@ -4,7 +4,7 @@ date: 2024-03-06
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["education"]
-linkImage: ./1.png
+linkImage: ./banner.png
 ---
 
 ---
@@ -14,7 +14,7 @@ linkImage: ./1.png
 
 ---
 
-![](1.png)
+![](banner.png)
 
 A blockchain such as Ethereum Classic (ETC) is a network of computers around the world that constantly receive new transactions from users.
 
@@ -65,6 +65,8 @@ Given the economics of mining, it can be a very dry, isolated, and financially d
 To facilitate the aggregation of miners, especially those with lower hash rates, such as home or office miners, mining pools are services that help aggregate the hash power of many mining machines worldwide so that they may operate as a single and larger miner operation.
 
 ## How Do Mining Pools Work?
+
+![](1.png)
 
 The way pools work is that they function as node operators, they have no mining capacity, but they receive all the transactions as a regular node, and then they prepare with them a template of the next block, just as a stand alone miner would do, and pre-produce the template so that the aggregated miners of the pool may work on it each round.
 

@@ -4,7 +4,7 @@ date: 2024-03-05
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["announcement"]
-linkImage: ./11.png
+linkImage: ./banner.png
 ---
 
 ---
@@ -13,6 +13,8 @@ linkImage: ./11.png
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h4e7QYI8L8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+
+![](./banner.png)
 
 Just as Bitcoin (BTC) has the “halving” event every four years, Ethereum Classic (ETC) has the “fifthening” event every two years. 
 
