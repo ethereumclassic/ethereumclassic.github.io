@@ -1,5 +1,5 @@
 ---
-title: "Using Ethereum Classic With Trezor"
+title: "通过Trezor使用以太坊经典"
 date: 2024-03-27
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xhcDobiwrYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,134 +16,134 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-In this post we will explain how to use Ethereum Classic (ETC) with the Trezor Safe 3; the hardware wallet and the desktop app; how to add the ETC coin to it, and how to see your first ETC address.
+这篇文章中，我们将解释如何使用Trezor Safe 3硬件钱包和桌面应用程序来使用Ethereum Classic (ETC)；如何将ETC币添加到其中，并查看您的第一个ETC地址。
 
-## The Trezor Hardware and Software Components
+## Trezor硬件和软件组件
 
 ![](./2.png)
 
-Trezor Safe 3 is a hardware wallet, so to use it you need to have your Trezor Safe 3 device and install the Trezor Suite app on your computer. You will also need a card to write your secret passphrase, as will be explained later.
+Trezor Safe 3是一个硬件钱包，因此要使用它，您需要拥有Trezor Safe 3设备，并在计算机上安装Trezor Suite应用程序。您还需要一张卡来写下您的秘密密码，稍后将对此进行解释。
 
-In this tutorial we will explain how to set up your Trezor Safe 3 and to add Ethereum Classic to it and on your computer.
+在本教程中，我们将解释如何设置您的Trezor Safe 3并将Ethereum Classic添加到其中以及在您的计算机上。
 
-We will show the parallel actions on your Trezor Safe 3 and on your computer where appropriate.
+我们将在适当的时候展示您的Trezor Safe 3和计算机上的并行操作。
 
-## 1. Install the Trezor Suite App on Your Computer
+## 1. 在计算机上安装Trezor Suite应用程序
 
 ![](./3.png)
 
-Everything starts with the hardware wallet and the Trezor Suite app on your computer. To download the app you need to go to:
+一切都始于硬件钱包和计算机上的Trezor Suite应用程序。要下载该应用程序，您需要转到：
 
 https://trezor.io/start
 
-Then, open it on your computer.
+然后，在您的计算机上打开它。
 
-## 2. Connect Your Trezor Safe 3
+## 2. 连接您的Trezor Safe 3
 
 ![](./4.png)
 
-The Trezor Suite app will ask you to connect your Trezor Safe 3 to your computer. To do this, connect the cable provided to the device and then to your computer. When you do this, you will see that the device boots and the screen will show the “My Trezor” tagline.
+Trezor Suite应用程序将要求您将Trezor Safe 3连接到计算机上。要做到这一点，将提供的电缆连接到设备，然后连接到计算机。当您这样做时，您将看到设备启动，屏幕上将显示“我的Trezor”标语。
 
-## 3. Device Security Check and Set Up “My Trezor”
+## 3. 设备安全检查并设置“我的Trezor”
 
 ![](./5.png)
 
-In the next screen, Trezor will ask you to check whether your device is secure. For this you need to confirm to yourself whether your device came with the hologram tape intact, that you bought it from Trezor directly or from a trusted dealer, and if the device package was intact when you got it. 
+在接下来的屏幕上，Trezor将要求您检查您的设备是否安全。为此，您需要确认您的设备是否带有完整的全息胶带，您是直接从Trezor购买的还是从可信的经销商购买的，并且在您收到设备时设备包装是否完整。
 
-If all these things are confirmed by you, then click on the “Set up my Trezor” button to continue the process.
+如果您确认了所有这些事项，则点击“设置我的Trezor”按钮继续流程。
 
-## 4. Install Firmware
+## 4. 安装固件
 
 ![](./6.png)
 
-Before continuing, Trezor Suite will ask you to install the firmware into the Trezor Safe 3. For security reasons, it actually comes without the firmware, which is the software that governs the device. 
+在继续之前，Trezor Suite将要求您将固件安装到Trezor Safe 3中。出于安全原因，它实际上是没有固件的，固件是管理设备的软件。
 
-To install the firmware press on “Install firmware”.
+要安装固件，请按“安装固件”。
 
-## 5. Device Check
+## 5. 设备检查
 
 ![](./7.png)
 
-At this juncture, Trezor will perform another security check of your Trezor Safe 3. This time it is not whether you received it in its full integrity and if it was delivered securely. This time it is to check that your connected and installed device is well set up and running, and that the chip inside is a true Trezor original part. 
+在这个时刻，Trezor将对您的Trezor Safe 3进行另一次安全检查。这一次不是检查您是否完整地收到了设备，以及它是否安全地交付。这一次是为了检查您连接的和安装的设备是否设置良好并运行正常，并且里面的芯片是真正的Trezor原装部件。
 
-Press “Start” to perform this security check. Then, press on the button below the “Allow” option on your device as shown in the highlighted image in this section.
+按“开始”执行此安全检查。然后，在您的设备上按下“允许”选项下面的按钮，如本节中的突出显示图像所示。
 
-## 6. Create New Wallet
+## 6. 创建新钱包
 
 ![](./8.png)
 
-After the security check, Trezor Suite will ask you to create a new wallet or to restore an existing wallet using your recovery seed. 
+安全检查完成后，Trezor Suite将要求您创建新钱包或使用您的恢复种子恢复现有钱包。
 
-For this tutorial, we will opt for the “Create new wallet” path.
+对于本教程，我们将选择“创建新钱包”路径。
 
-## 7. Standard Seed Backup
+## 7. 标准种子备份
 
 ![](./9.png)
 
-The options to create a new wallet on your Trezor Safe 3 are to create a standard passphrase or seed phrase or an advanced Shamir one. In the Shamir option you get separate groups of words that can be stored securely in separate places and then put together to recover your wallet. 
+在Trezor Safe 3上创建新钱包的选项是创建标准密码或种子短语或高级的Shamir种子。在Shamir选项中，您会得到可以安全存放在不同地方的单独单词组，并且然后将它们组合在一起以恢复您的钱包。
 
-For this tutorial we opted for the “Standard seed backup” method.
+对于本教程，我们选择了“标准种子备份”方法。
 
-## 8. Agree to Create Wallet Backup on the Trezor Device
+## 8. 同意在Trezor设备上创建钱包备份
 
 ![](./10.png)
 
-Next, Trezor Safe 3 will ask you to agree to create a new wallet seed phrase on your device. To do this, press the “CREATE WALLET” button on your Trezor Safe 3 as highlighted in the image.
+接下来，Trezor Safe 3将要求您同意在您的设备上创建新钱包种子短语。为此，请按照设备上突出显示的图像中的“创建钱包”按钮。
 
-## 9. Create Backup
+## 9. 创建备份
 
 ![](./11.png)
 
-Now, Trezor is ready to create the seed phrase to backup your wallet. 
+现在，Trezor准备创建用于备份您的钱包的种子短语。
 
-Press on “Create backup” on your computer.
+在您的计算机上按“创建备份”。
 
-## 10. Begin Backup
+## 10. 开始备份
 
 ![](./12.png)
 
-But wait! There are more security questions! 
+但是！还有更多的安全问题！
 
-Now that you are going to create the 12 word seed prase to back up your wallet, Trezor just wants to make sure that you understand how this works. They will require you to confirm that you understand three statements regarding the seed phrase back up process.
+现在，您要创建用于备份您的钱包的12个单词种子短语，Trezor只是想确保您理解这个过程的工作原理。他们将要求您确认您理解与种子短语备份过程相关的三个声明。
 
-When you read the statements and checked the boxes, then press “Begin back up”.
+当您阅读了这些声明并选中了复选框后，然后按“开始备份”。
 
-## 11. Agree, Understand, and Show Words
+## 11. 同意，理解，并显示单词
 
 ![](./13.png)
 
-In the next step, you need to go to your Trezor Safe 3 and agree that you understand how to keep your 12 words secure. For this press on “OK, I UNDERSTAND” by pressing on both buttons on your device as highlighted in the image in this section.
+在下一步中，您需要转到您的Trezor Safe 3并同意如何保护您的12个单词。为此，请按照本节中突出显示的图像中的两个按钮上的“OK，我明白”来按下设备上的两个按钮。
 
-Next, Trezor Safe 3 will ask you whether to show the words. Press “SHOW WORDS” to begin the process. 
+接下来，Trezor Safe 3将要求您是否要显示这些单词。按“显示单词”开始该过程。
 
-## 12. Scroll Through the Words, Write Them Down, And Confirm
+## 12. 滚动单词，写下它们，并确认
 
 ![](./14.png)
 
-Now you need to see your words on the Trezor Safe 3 device, write them down on the provided cards, and confirm to Trezor that you did these steps.
+现在，您需要在Trezor Safe 3设备上查看您的单词，将它们写在提供的卡片上，并向Trezor确认您已执行这些步骤。
 
-When you finish the process press on “HOLD TO CONFIRM” on the device to go to the next step.
+完成该过程后，请在设备上按“按住确认”以进入下一步。
 
-## 13. Set A PIN
+## 13. 设置PIN
 
 ![](./15.png)
 
-In the next step, you need to set a PIN to use your Trezor Safe 3 from now on. This PIN is used to open your device and sign transactions each time you want to send or receive ETC or other crypto from your hardware wallet.
+在下一步中，您需要设置PIN码以从现在开始使用您的Trezor Safe 3。此PIN码用于每次您要发送或接收ETC或其他加密货币时打开设备并签署交易的操作。
 
-On the Trezor Suite app on your computer press “Set PIN” and in your device select a PIN as indicated.
+在您的计算机上的Trezor Suite应用程序中，点击“设置PIN码”，然后在您的设备上选择一个PIN码，如指示所示。
 
-## 14. Activate ETC!
+## 14. 激活ETC！
 
 ![](./16.png)
 
-Finally, once you have your Trezor Safe 3 and Trezor Suite set up and synchronized, then it is time to add ETC as a coin in your device. To do this, go to your Trezor Suite app on your computer and select ETC out of the list of possible coins.
+最后，一旦您的Trezor Safe 3和Trezor Suite设置并同步完成，那么就是将ETC作为一种币添加到您的设备的时候了。要做到这一点，请转到您的计算机上的Trezor Suite应用程序，并从可能的币种列表中选择ETC。
 
-In the next screen you will see Bitcoin as the default coin and below it ETC. Congratulations! You now have a Trezor Safe 3 configured to use ETC! When you click on the ETC asset, you will see your ETC address in the next page. 
+在下一个屏幕上，您将看到比特币作为默认币种，下面是ETC。恭喜！您现在拥有一个配置为使用ETC的Trezor Safe 3！当您点击ETC资产时，您将在下一页中看到您的ETC地址。
 
-In future guides, we will explain how to send and receive ETC on your Trezor, and other useful functions.
+在未来的指南中，我们将解释如何在您的Trezor上发送和接收ETC，以及其他有用的功能。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
