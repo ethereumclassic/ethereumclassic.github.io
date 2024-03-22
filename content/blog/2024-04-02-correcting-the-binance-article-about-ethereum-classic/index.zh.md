@@ -1,5 +1,5 @@
 ---
-title: "Correcting the Binance Article About Ethereum Classic"
+title: "修改关于以太经典（Ethereum Classic）的币安（Binance）文章"
 date: 2024-04-02
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -9,147 +9,147 @@ linkImage: ./1.png
 
 ![](./1.png)
 
-The exchange Binance has an article about Ethereum Classic with the title and tag “Ethereum Classic (ETC), A Next-Generation Smart Contract And Decentralized Application Platform” in the following link:
+币安交易所发布了一篇关于以太经典（Ethereum Classic）的文章，标题和标签为“以太经典（ETC），下一代智能合约和去中心化应用平台”，链接如下：
 
 https://www.binance.com/en/research/projects/ethereum-classic
 
-The post has and introduction with bullet points about ETC and then 5 sections.
+这篇文章首先介绍了ETC的概述，然后分为5个部分。
 
-To our delight, the majority of the essay is well researched, however some parts have mistakes or common misconceptions that we wish to clarify.
+令我们高兴的是，大部分文章都经过了良好的研究，但是有些部分存在错误或常见误解，我们希望对此进行澄清。
 
-In the following sections we will go over Binance’s statements, we will propose corrected phrases, and add our rationale for each correction.
+在接下来的部分中，我们将对币安的观点进行讨论，提出更正的短语，并为每个更正添加我们的理由。
 
-## Section: Bullet Points Summary
+## 部分：概述
 
-**Binance Statement:**
+**币安观点：**
 
-- Ethereum Classic is a decentralized network that supports smart contracts. It was created by Vitalik Buterin in 2013. Following the DAO hack in 2016, several members of the Ethereum community rejected the idea of a hard-fork to revert transactions (and return funds to the DAO participants), leading to the split between Ethereum and Ethereum Classic.
-- Ethereum Classic parted away from Ethereum at block 1,920,000 (July 20th 2016) to retain the original version of the network, reinforcing the blockchain’s core characteristic of immutability. Since its ICO in 2015, Ethereum has relied on Proof of Work (PoW); Ethereum Classic shares its early history with its first (common) block being mined in July 2015.
-- Like Ethereum, the network is fueled by a cryptocurrency named ether (classic). It comprises an open-source, globally decentralized computing infrastructure, which executes programs called smart contracts.
-- Similarly, Ethereum Classic is based on an account model to record state changes. It relies on the Ethereum Virtual Machine (EVM) with two types of addresses: externally owned addresses (EOAs) and contract addresses that are deployed on the EVM.
-- As of March 2020, Ethereum Classic’s hashrate is much lower than Ethereum’s and the level of on-chain activity is also inferior to Ethereum's. With Ethereum planning to part away from Proof-of-Work (to introduce PoS with ETH 2.0), Ethereum Classic plans on persisting as the immutable Proof of Work version of Ethereum.
+- 以太经典是一个支持智能合约的去中心化网络。它由Vitalik Buterin于2013年创建。在2016年DAO黑客事件之后，以太坊社区的一些成员拒绝了通过硬分叉来撤销交易（并将资金退还给DAO参与者）的想法，导致了以太坊和以太经典之间的分裂。
+- 以太经典在区块1,920,000（2016年7月20日）时与以太坊分道扬镳，保留了网络的原始版本，加强了区块链的不可变性核心特征。自2015年ICO以来，以太坊一直依赖于工作证明（PoW）；以太经典与其共享早期历史，首个（通用）区块于2015年7月挖掘。
+- 像以太坊一样，该网络由一种名为以太（经典）的加密货币提供支持。它包括一个开源的、全球化的去中心化计算基础设施，执行称为智能合约的程序。
+- 同样，以太经典基于账户模型记录状态变化。它依赖于以太坊虚拟机（EVM），具有两种类型的地址：外部拥有地址（EOAs）和部署在EVM上的合约地址。
+- 截至2020年3月，以太经典的哈希率远低于以太坊的，链上活动水平也低于以太坊。随着以太坊计划放弃工作证明（引入ETH 2.0的PoS），以太经典计划作为不可变的工作证明版本的以太坊持续存在。
 
-**Our Correction:**
+**我们的更正：**
 
-- Ethereum Classic is a decentralized network that supports smart contracts. It was created by Vitalik Buterin in 2013. Following the DAO hack in 2016, several members of the Ethereum community rejected the idea of a hard-fork to revert transactions (and return funds to the DAO participants), leading to the split between Ethereum and Ethereum Classic.
-- Ethereum (ETH) parted away from Ethereum Classic (ETC) at block 1,920,000 (July 20th 2016) to return the funds to the original owners, while ETC decided to retain the original version of the network, reinforcing the blockchain’s core characteristic of immutability. Since its launch in 2015, Ethereum Classic has relied on Proof of Work (PoW) while Ethereum migrated to Proof of Stake (POS); ETC and ETH share their early history with their first (common) block being mined in July 2015.
-- Like Ethereum, the network is fueled by a cryptocurrency named ether (classic). It comprises an open-source, globally decentralized computing infrastructure, which executes programs called smart contracts.
-- Similarly, Ethereum Classic is based on an account model to record state changes. It relies on the Ethereum Virtual Machine (EVM) with two types of addresses: externally owned addresses (EOAs) and contract addresses that are deployed on the EVM.
-- As of March 2024, Ethereum Classic’s hashrate has increased 10 times after Ethereum’s migration to POS, while on-chain activity has been lower than Ethereum’s.
+- 以太经典是一个支持智能合约的去中心化网络。它由Vitalik Buterin于2013年创建。在2016年DAO黑客事件之后，以太坊社区的一些成员拒绝了通过硬分叉来撤销交易（并将资金退还给DAO参与者）的想法，导致了以太坊和以太经典之间的分裂。
+- 以太坊（ETH）在区块1,920,000（2016年7月20日）时与以太经典（ETC）分道扬镳，将资金退还给原始所有者，而ETC决定保留网络的原始版本，加强了区块链的不可变性核心特征。自2015年启动以来，以太经典一直依赖于工作证明（PoW），而以太坊则迁移到了权益证明（PoS）；ETC和ETH共享早期历史，首个（通用）区块于2015年7月挖掘。
+- 像以太坊一样，该网络由一种名为以太（经典）的加密货币提供支持。它包括一个开源的、全球化的去中心化计算基础设施，执行称为智能合约的程序。
+- 同样，以太经典基于账户模型记录状态变化。它依赖于以太坊虚拟机（EVM），具有两种类型的地址：外部拥有地址（EOAs）和部署在EVM上的合约地址。
+- 截至2024年3月，以太经典的哈希率在以太坊迁移到权益证明（POS）后增加了10倍，而链上活动水平低于以太坊。
 
-**Rationale:**
+**理由：**
 
-The first bullet point of this section by Binance is correct. 
+币安这一部分的第一个要点是正确的。
 
-We changed the second bullet point to show that Ethereum parted ways from Ethereum Classic, not the other way around.
+我们更改了第二个要点，以显示以太坊是与以太经典分道扬镳的，而不是相反的情况。
 
-ETC is the original untampered blockchain with its accounts and smart contracts untouched and immutable since the beginning. The one who broke away or split from the mainnet by manually modifying accounts and balances was Ethereum.
+以太经典是原始未篡改的区块链，其账户和智能合约自始至终未经触碰且不可变。那个通过手动修改账户和余额从主网中分离出来的是以太坊。
 
-We also replaced the term ICO with “launch” because ETH and ETC did not do an ICO, but the original unified system was launched as any network would be started, by just running some initial nodes.
+我们还将ICO一词替换为“启动”，因为以太坊和以太经典并未进行ICO，而是原始统一系统就像任何网络一样启动，只需运行一些初始节点。
 
-The confusion is that Vitalik Buterin did conduct a crowdfunding to finance the development of Ethereum the previous year, but it wasn’t an ICO as these were created and widely used in the industry in 2017 enabled precisely by the Ethereum blockchain with its ERC-20 token standard.
+混淆之处在于Vitalik Buterin确实在前一年进行了一次众筹，用于资助以太坊的开发，但这并不是ICO，ICO是在2017年由以太坊区块链及其ERC-20代币标准精确创建并广泛使用的。
 
-ETC remains as a Proof of Work (POW) blockchain to this day and will continue for the foreseeable future. Ethereum migrated to Proof of Stake (POS), which is significantly less secure.
+以太经典至今仍然是一个工作证明（POW）的区块链，并将在可预见的未来继续存在。以太坊已经迁移到了权益证明（POS），这种方式明显不够安全。
 
-As of March 2024, Ethereum Classic’s hashrate has increased 10 times after Ethereum’s migration to POS, while on-chain activity has been lower than Ethereum’s.
+截至2024年3月，以太经典的哈希率在以太坊迁移到POS后增加了10倍，而链上活动水平低于以太坊。
 
-## Section: 1. What is Ethereum Classic (ETC)?
+## 第1节：以太经典是什么（ETC）？
 
-**Binance Statement:**
+**币安声明：**
 
-Since the fork occurred in 2016, Ethereum Classic and Ethereum share many similarities:
+自2016年分叉以来，以太经典和以太坊有许多相似之处：
 
-- Ethereum Classic is an open-source, globally decentralized computing infrastructure, executing programs referred to as smart contracts.
-- Ethereum Classic’s supply was pre-mined (72 million). Among these pre-mined ethers, 60 million were sold during an Initial Coin Offering in 2015.
-- Its PoW algorithm is Ethash, an algorithm that was initially designed to prevent ASIC mining. Block time has a target of ~15 seconds (with a maximum block size of 1,500,000 gas). Mining rewards are paid at a fixed rate of 4 ETC (vs. Ethereum’s 2 ETH) but will be reduced in the future to 3.2 ETC (at block 10,000,000).
-- Ethereum Classic is (quasi) Turing-complete, but each transaction requires gas, with price fluctuation based on real-time bandwidth use. Hence, transaction fees are a function of storage needs, bandwidth use, and computational complexity. Gas is used to prevent infinite execution of programs; it introduces an execution stopper equal to the maximum fees set for a transaction.
+- 以太经典是一个开源的、全球化的去中心化计算基础设施，执行被称为智能合约的程序。
+- 以太经典的供应是预挖的（7200万）。其中，6000万在2015年的首次代币发行（ICO）中出售。
+- 它的工作证明（PoW）算法是Ethash，最初设计用于防止ASIC挖矿。区块时间目标为约15秒（最大区块大小为150万gas）。挖矿奖励以固定速率支付4个ETC（与以太坊的2个ETH相比），但将来会降至3.2个ETC（在第1000万个区块时）。
+- 以太经典是（准）图灵完备的，但每个交易都需要gas，价格波动基于实时带宽使用情况。因此，交易费用是存储需求、带宽使用和计算复杂性的函数。Gas用于防止程序的无限执行；它引入了一个与交易的最大费用相等的执行停止器。
 
-**Our Correction:**
+**我们的更正：**
 
-Since the fork occurred in 2016, Ethereum Classic and Ethereum share some similarities, but since the “merge” in Ethereum some parts are significantly different:
+自2016年分叉以来，以太经典和以太坊有一些相似之处，但自从以太坊的“合并”后，某些部分有显著的不同：
 
-- Ethereum and Ethereum Classic are open-source, globally decentralized computing infrastructure, executing programs referred to as smart contracts.
-- As they were the same network originally, both Ethereum’s and Ethereum Classic’s supplies were pre-mined and both were 72 million ETH and ETC. Among these pre-mined ethers for both networks, 60 million were sold during a crowdfunding in 2014.
-- ETC’s PoW algorithm is ETCHash, an algorithm that was initially designed to prevent ASIC mining. Block time has a target of ~13 seconds (with a default block size of 8,000,000 gas). Ethereum’s consensus mechanism was changed from POW to POS in September 15th of 2022. 
-- Mining rewards in ETC are paid at a fixed rate of 2.56 ETC, but these rewards are reduce every 5 million blocks by 20%.
-- Ethereum Classic is (quasi) Turing-complete, but each transaction requires gas, with price fluctuation based on real-time bandwidth use. Hence, transaction fees are a function of block space demand, bandwidth use, and computational complexity. Gas is used to prevent infinite execution of programs and spam; it introduces an execution stopper equal to the maximum fees set for a transaction.
+- 以太坊和以太经典是开源的、全球化的去中心化计算基础设施，执行被称为智能合约的程序。
+- 由于它们最初是同一网络，因此以太坊和以太经典的供应都是预挖的，都是7200万ETH和ETC。在这些预挖的代币中，6000万在2014年的一次众筹中出售。
+- 以太经典的PoW算法是ETCHash，最初设计用于防止ASIC挖矿。区块时间目标为约13秒（默认区块大小为800万gas）。以太坊的共识机制于2022年9月15日从PoW更改为PoS。
+- 以太经典的挖矿奖励以固定速率支付2.56个ETC，但每500万个区块减少20%。
+- 以太经典是（准）图灵完备的，但每个交易都需要gas，价格波动基于实时带宽使用情况。因此，交易费用是区块空间需求、带宽使用和计算复杂性的函数。Gas用于防止程序的无限执行和垃圾信息；它引入了一个与交易的最大费用相等的执行停止器。
 
-**Rationale:**
+**理由：**
 
-Since the 2016 fork Ethereum and Ethereum Classic are both EVM chains, thus very similar, but since the migration to POS, ETH is very different in some aspects.
+自2016年分叉以来，以太坊和以太经典都是EVM链，因此非常相似，但自从迁移到PoS以后，ETH在某些方面与众不同。
 
-Both ETH’s and ETC’s premine is the same at 72 million because both chains were one at the beginning.
+由于它们最初是同一链，因此ETH和ETC的预挖是相同的，都是7200万，因为它们最初是同一条链。
 
-Ethereum and ETC did a crowdfunding in 2014, not an ICO in 2015. Then, in 2015, when the network was launched, 60,000,000 ether were distributed among the crowdfunding investors.
+以太坊和以太经典在2014年进行了众筹，而不是2015年进行的ICO。然后，在2015年网络启动时，6000万以太分配给了众筹投资者。
 
-ETC’s mining algorithm was changed to ETCHash, which has some minor changes to the original Ethash to make it unique and protect ETC from 51% attacks. 
+ETC的挖矿算法已更改为ETCHash，这对原始Ethash进行了一些微小的更改，使其独特并保护ETC免受51%攻击。
 
-Block times in ETC are targeted to 13 seconds, not 15. 
+ETC的区块时间目标为13秒，而不是15秒。
 
-The GAS limit in ETC is set by default to 8,000,000 currently, not 1,500,000.
+ETC的GAS限制目前默认为800万，而不是150万。
 
-ETH’s consensus mechanism was changed from POW to POS in September 15th of 2022.
+以太坊的共识机制于2022年9月15日从PoW更改为PoS。
 
-ETC’s block rewards are 2.56 ETC per block, but this is discounted by 20% every 2 years, approximately.
+ETC的挖矿奖励为每个区块支付2.56个ETC，但这会每2年减少20%。
 
-Gas is used in ETH and ETC to prevent infinite execution of programs and spam.
+ETH和ETC都使用GAS来防止程序的无限执行和垃圾信息。
 
-## Section: 2. Ethereum Classic’s core features
+## 第2节：以太经典的核心特点
 
-The technical details explained in this section are correct for Ethereum Classic as both Ethereum and Ethereum Classic share the same mechanical design, which is the EVM format.
+本节中解释的技术细节对于以太经典是正确的，因为以太坊和以太经典共享相同的机械设计，即EVM格式。
 
-However, Ethereum migrated to Proof of Stale and this explanation should be added to the Binace article about ETC.
+然而，以太坊迁移到了权益证明，这个解释应该添加到关于ETC的币安文章中。
 
-Perhaps the line “These core features are similar to Ethereum. Click here to read the full report about Ethereum” should be deleted.
+也许这句话“这些核心特点与以太坊相似。点击这里阅读关于以太坊的完整报告”应该删除。
 
-Other than this, all is fine in this section!
+除此之外，本节内容都是正确的！
 
-## Section: 3. Economics and supply distribution
+## 第3节：经济学和供应分配
 
-**Binance Statement:**
+**币安声明：**
 
-Ethereum Classic’s economics rely solely on Proof of Work, following the original ICO in 2015.
+以太经典的经济学完全依赖于工作证明，这是在2015年的原始ICO之后进行的。
 
-Ethereum’s ICO was conducted in the first half of 2015 for 60 million ethers (collected in BTC).
+以太坊的ICO是在2015年上半年进行的，售出了6000万个以太（用比特币收集）。
 
-Block mining is based on the Ethash function, which itself relies on Keccak. Ethash was designed to prevent ASIC participation, owing to features such as memory hardness. However, it has been gamed and blocks have become mostly mined by ASIC devices for a few years.
+区块挖掘基于Ethash函数，它本身依赖于Keccak。Ethash旨在防止ASIC参与，因为它具有内存硬度等特征。然而，它被操纵了，区块大多数被ASIC设备挖掘了几年。
 
-Unlike Ethereum, the total supply of Ethereum Classic is capped, with an inflation rate that decays over time. Its total maximum supply will be ~ 210-230 million ETC.
+与以太坊不同，以太经典的总供应量是有上限的，并且通货膨胀率随时间递减。其总最大供应量将是约210-230百万个ETC。
 
-**Our Correction:**
+**我们的更正：**
 
-Ethereum Classic’s economics rely solely on Proof of Work, following the original launch in 2015.
+以太经典的经济学完全依赖于工作证明，这是在2015年的原始发布之后进行的。
 
-When they were one chain, Ethereum’s and Ethereum Classic’s launch was in 2015, which included a premine of 72 million ETH and ETC of which 60 million corresponded to investors who had participated in a crowdfunding campaign in the previous year.
+当它们是同一链时，以太坊和以太经典的发布是在2015年，其中包括了7200万ETH和ETC的预挖，其中6000万对应于在前一年参与了众筹活动的投资者。
 
-Block mining is based on the ETCHash function, which itself relies on Keccak. ETCHash was designed to prevent ASIC participation, owing to features such as memory hardness. However, it has been gamed and blocks have become mostly mined by ASIC devices for a few years.
+区块挖掘基于ETCHash函数，它本身依赖于Keccak。ETCHash旨在防止ASIC参与，因为它具有内存硬度等特征。然而，它被操纵了，区块大多数被ASIC设备挖掘了几年。
 
-Unlike Ethereum, the total supply of Ethereum Classic is capped, with an inflation rate that declines by 20% every two years or 5 million blocks. Its total maximum supply will be ~ 210,700,000 ETC.
+与以太坊不同，以太经典的总供应量是有上限的，并且通货膨胀率将每两年或500万个区块递减20%。其总最大供应量将是约210,700,000个ETC。
 
-**Rationale:**
+**理由：**
 
-ETH and ETC did not do an ICO, they did a crowdfunding campaign in 2014 and the launch of the network was in 2015. This launch included the 60 million ETH and ETC that corresponded to the original crowdfunding campaign.
+ETH和ETC没有进行ICO，而是在2014年进行了众筹活动，网络的发布是在2015年。这次发布包括了对应于原始众筹活动的6000万ETH和ETC。
 
-ETC uses the ETCHash mining algorithm since November of 2020.
+ETC自2020年11月以来使用ETCHash挖矿算法。
 
-ETC’s inflation rate will decline by 20% every 5 million blocks. Its total maximum supply will be ~ 210,700,000 ETC.
+ETC的通货膨胀率将每500万个区块递减20%。其总最大供应量将是约210,700,000个ETC。
 
-## Section: 4. Project team
+## 第4节：项目团队
 
 ![](./2.png)
 
-The project team of Ethereum Classic is now the ETC Cooperative. The description of its functions is correct.
+以太经典的项目团队现在是ETC合作社。其职能描述是正确的。
 
-The link to see the ETC Cooperative team is this one:
+查看ETC合作社团队的链接是这个：
 
-https://etccooperative.org/people 
+[https://etccooperative.org/people](https://etccooperative.org/people)
 
-## Section: 5. Additional resources and references
+## 第5节：附加资源和参考资料
 
-This section with references can stay the same because all the information for the proposed changes in this post can be found in the https://ethereumclassic.org website.
+这个带有参考文献的部分可以保持不变，因为本文提出的更改的所有信息都可以在 [https://ethereumclassic.org](https://ethereumclassic.org) 网站找到。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：[https://ethereumclassic.org](https://ethereumclassic.org)
