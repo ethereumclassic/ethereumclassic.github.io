@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic (ETC) Is the Leading Smart Contracts Proof of Work Blockchain In the World"
+title: "以太坊经典是世界上领先的智能合约工作量证明区块链"
 date: 2024-04-03
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,85 +8,85 @@ linkImage: ./1.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BWb6gd924iA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-## 1. Ethereum and Ethereum Classic Were Originally One Proof of Work Blockchain
+## 1. 以太坊和以太坊经典最初是一个工作量证明的区块链
 
-When Bitcoin (BTC) was created it was meant to have smart contracts inside its proof of work (POW) environment.
+当比特币（BTC）创立时，本意是要在其工作量证明（POW）环境中拥有智能合约。
 
-In 2013, Vitalik Buterin came up with the idea of how to integrate smart contracts to a POW blockchain but it was not possible in Bitcoin because of its technical design.
+2013年，Vitalik Buterin提出了如何将智能合约整合到POW区块链的想法，但由于比特币的技术设计，这在比特币中是不可能实现的。
 
-This is how Ethereum (ETH) was originated. Mr. Buterin put together a team, they did a crowdsale to finance development, and they built a blockchain from scratch that was launched in 2015.
+这就是以太坊（ETH）的起源。Buterin先生组建了一个团队，他们进行了众筹来资助开发工作，并从头开始构建了一条区块链，于2015年推出。
 
-At this time, there was no “Ethereum and Ethereum Classic (ETC)” as the whole community was united in one project and there was only one smart contracts blockchain.
+当时，没有“以太坊和以太坊经典（ETC）”，因为整个社区都团结在一个项目中，只有一个智能合约区块链。
 
-## 2. Then Ethereum Separated From Ethereum Classic
+## 2. 然后以太坊与以太坊经典分道扬镳
 
-In 2016, there was a controversy in the ETH community due to a hack to a dapp called The DAO. 
+2016年，ETH社区因一款名为The DAO的dapp遭受黑客攻击而引发争议。
 
-At that moment ETH decided to reverse the hack, while a small group of the community decided to continue the original untampered chain, which was subsequently called Ethereum Classic with the ticker symbol ETC.
+在那个时候，ETH决定撤销黑客攻击，而社区的一小部分决定继续使用原始未被篡改的链，随后被称为以太坊经典，其代币符号为ETC。
 
-There is a common misconception in the market that ETC is a fork of ETH, but the truth is the opposite: ETH is a fork of ETC as they changed the rules of the network and reversed the funds of the hack, breaking immutability. But, ETC did no changes, thus remaining as the original untampered chain.
+市场上有一个普遍的误解，即ETC是ETH的分叉，但事实却是相反的：ETH是ETC的分叉，因为他们改变了网络规则，并逆转了黑客攻击的资金，破坏了不可变性。但是，ETC没有做出任何更改，因此仍然保持着原始未被篡改的链。
 
-## 3. Code Is Law vs Social Consensus
+## 3. 代码即法律 vs 社会共识
 
-Ever since the separation between Ethereum and Ethereum Classic a wide gap between them has emerged.
+自从以太坊和以太坊经典分道扬镳以来，它们之间出现了很大的差距。
 
-ETC adopted a “Code Is Law” philosophy and ETH a “Social Consensus” one.
+ETC采取了“代码即法律”的理念，而ETH采取了“社会共识”的理念。
 
-Social Consensus means exactly what they did in 2016: That whenever there is a controversy or problem in the chain, then the community, which is supposed to be all knowing, ethical, and good, will correct such problems.
+社会共识意味着正如他们在2016年所做的那样：每当链中出现争议或问题时，社区，假定社区是全知、道德良好的，将会纠正这些问题。
 
-But, this is exactly the opposite of what blockchains are supposed to be! This is why ETC adopted a philosophy that it will be as objective as possible and that anything inside the blockchain will be immutable. Any problems between humans must be solved in the legal system, not by tampering with the chain.  
+但是，这正是区块链不应该做的！这就是为什么ETC采取了一种尽可能客观的理念，即区块链中的任何内容都将是不可变的。任何人类之间的问题必须在法律制度中解决，而不是通过篡改链来解决。
 
-## 4. Proof of Stake and Saving the Trees
+## 4. 股权证明和拯救树木
 
-Later in 2016, Vitalik Buterin [wrote an essay](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51) where he explained that he liked proof of stake (POS) rather than POW because:
+2016年晚些时候，Vitalik Buterin在一篇[文章](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)中解释了他为什么喜欢股权证明（POS）而不是POW，因为：
 
-- POW killed trees
-- POW had a symmetrical 1:1 attacker to defender ratio
+- POW杀死了树木
+- POW具有对称的1:1攻击者与防御者比率
 
-Well, the truth is that POW is very difficult to attack, and the only possible attack is double spending which is increasingly difficult as users can protect themselves by waiting more confirmations, and the transparency of blockchains deters attackers from doing so as they may get caught very easily.
+事实上，POW非常难以攻击，唯一可能的攻击就是双花攻击，随着用户等待更多的确认，这种攻击变得越来越困难，而区块链的透明性阻止了攻击者这样做，因为他们很容易被发现。
 
-This leaves POS with no advantages other than saving trees, which is a fallacy in itself, because by not being POW, POS networks actually stop contributing to the migration of electricity production to renewable energy, [as POW does](https://pubs.acs.org/doi/10.1021/acssuschemeng.2c06077#)!
+这让POS没有任何优势，除了拯救树木之外，但这本身就是一个谬论，因为不采用POW，POS网络实际上停止了向可再生能源的电力生产迁移，[而POW则不同](https://pubs.acs.org/doi/10.1021/acssuschemeng.2c06077#)！
 
-## 5. Proof of Stake Is Not Even Scalable
+## 5. 股权证明甚至不具备可扩展性
 
-Another great advantage that the Ethereum Foundation promoted about POS was that it would provide much more scalability because its design supposedly enabled the fragmentation of the database, therefore the processing in parallel of a much greater number of transactions.
+以太坊基金会宣传POS的另一个巨大优势是，它将提供更多的可扩展性，因为其设计据称使数据库能够分段，从而可以并行处理更多的交易量。
 
-Ethereum could process between 10 and 20 transactions per second at the time, but the Ethereum Foundation talked about processing thousands of transaction per second if they used POS.
+当时以太坊每秒可以处理10到20笔交易，但以太坊基金会谈到如果采用POS，可以处理成千上万笔交易。
 
-The truth is that now Ethereum is a POS chain, and may only process between 20 to 30 transactions per second!
+事实上，现在以太坊是一个POS链，可能只能处理每秒20到30笔交易！
 
-This means POS is not even scalable. 
+这意味着POS甚至不具备可扩展性。
 
-## 6. The Ethereum Migration to Proof of Stake
+## 6. 以太坊迁移到股权证明
 
-Because of its “Social Consensus” philosophy; that assumes that the community will solve any controversies that may arise in the system rather than keeping it immutable and having people solve their disputes elsewhere; and due to the abstract objectives that the ETH community had of saving the trees, achieving scalability, and reducing the issuance of ETH; Ethereum migrated to POS in September 15 2022.
+由于其“社会共识”哲学；即社区将解决系统中可能出现的任何争议，而不是保持不变性，并让人们在其他地方解决他们的争议；以及ETH社区具有的拯救树木、实现可扩展性和减少ETH发行量的抽象目标；以太坊于2022年9月15日迁移到POS。
 
-At the time, Ethereum was the second largest blockchain in the world and all other smart contract blockchains of relevance in the rankings were already POS as they were seeking to frontrun Ethereum by supposedly becoming scalable and environmentally friendly first.
+当时，以太坊是世界第二大区块链，而所有其他排名中有关重要性的可编程链都已经是POS链，因为它们试图超越以太坊，成为首个据称具备可扩展性和环保的区块链。
 
-## 7. Ethereum Classic Became the Largest In the World
+## 7. 以太坊经典成为世界上最大的区块链
 
 ![](./2.png)
 
-When Ethereum migrated to POS, ETC had a hashrate of around 20 TH/s but after the migration it jumped to more than 200 TH/s, and subsequently stabilizing, at the time of this writing, at around 166 TH/s.
+当以太坊迁移到POS时，ETC的算力约为20 TH/s，但迁移后跃升至200 TH/s以上，随后稳定在约166 TH/s（截至撰写本文时）。
 
-Nevertheless, just by remaining as a POW coin, ETC became the largest smart contracts blockchain in the world. All the other programmable chains above in the rankings are POS, [therefore centralized and insecure](https://ethereumclassic.org/blog/2023-12-27-ethereum-classic-at-scale-is-decentralized-ethereum-is-centralized). It is just a matter of time until the market realizes this, and ETC will dominate the segment.
+然而，仅凭借保持POW的特性，ETC就成为了全球最大的智能合约区块链。所有在排名中位于其上方的可编程链都是POS，[因此具有中心化和不安全的特性](https://ethereumclassic.org/blog/2023-12-27-ethereum-classic-at-scale-is-decentralized-ethereum-is-centralized)。市场认识到这一点只是时间问题，ETC将主导该领域。
 
-## 8. Applications in ETC Are the Most Secure Apps in the World
+## 8. ETC中的应用是世界上最安全的应用
 
 ![](./1.png)
 
-Ethereum Classic is the environment where the most secure applications in the world will exist because it is a proof of work blockchain, it has a fixed monetary policy, it is programmable, fully replicated, composable, and is the largest one in the world [with this combined design](https://ethereumclassic.org/blog/2023-12-05-the-7-keys-to-ethereum-classic-success).
+以太坊经典是世界上最安全的应用环境，因为它是一个工作量证明的区块链，拥有固定的货币政策，可编程、完全复制、可组合，并且是全球最大的区块链之一，[具有这种综合设计](https://ethereumclassic.org/blog/2023-12-05-the-7-keys-to-ethereum-classic-success)。
 
-These attributes in the same integrated system provide the highest level of decentralization, thus trust minimization, thus security to any application hosted in it.
+这些属性在同一综合系统中提供了最高水平的去中心化，从而最小化了信任，为托管在其中的任何应用程序提供了安全性。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
