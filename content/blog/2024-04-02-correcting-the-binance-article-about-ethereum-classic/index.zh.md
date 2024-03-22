@@ -1,5 +1,5 @@
 ---
-title: "修改关于以太经典（Ethereum Classic）的币安（Binance）文章"
+title: "修改关于以太经典的币安文章"
 date: 2024-04-02
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
