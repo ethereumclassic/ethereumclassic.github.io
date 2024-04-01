@@ -4,7 +4,7 @@ date: 2024-03-07
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["series", "education"]
-linkImage: ./1.png
+linkImage: ./banner.png
 ---
 
 ---
@@ -13,6 +13,8 @@ linkImage: ./1.png
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7jla4AEdvBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+
+![](./banner.png)
 
 在上一节16中，我们解释了ETC的三个支柱；工作证明（POW），固定供应和智能合约；以及它们为何使“代码即法律”和“不可阻挡”等真实概念成为可能。
 
