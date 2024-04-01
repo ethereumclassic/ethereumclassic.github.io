@@ -4,7 +4,7 @@ date: 2024-03-12
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["education"]
-linkImage: ./1.png
+linkImage: ./banner.png
 ---
 
 ---
@@ -14,7 +14,7 @@ linkImage: ./1.png
 
 ---
 
-![](./1.png)
+![](./banner.png)
 
 理解什么是区块链分叉，首先我们需要了解什么是区块链。
 
