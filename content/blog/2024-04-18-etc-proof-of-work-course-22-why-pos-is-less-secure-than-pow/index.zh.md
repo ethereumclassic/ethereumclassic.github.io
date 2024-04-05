@@ -74,6 +74,8 @@ Today, if POS blockchains suffer forks or splits on a global scale, the only way
 
 ## No Energy to Produce the Money
 
+![](./2.png)
+
 Finally, yet another point of insecurity in POS is that its money is weak.
 
 As POS does not spend any energy to create the money, then there is no unforgeable costliness nor scarcity to its issuance.
