@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 22. Why POS Is Less Secure Than POW"
+title: "ETC工作证明课程：22.权益证明为什么比工作证明不安全"
 date: 2024-04-18
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BZWMQCSq2ZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,78 +16,78 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-In the previous class, 21, we explained that batches of data that are not sealed with proof of work (POW) are not blocks, and if they are not blocks, then the networks that host those data structures are not blockchains. 
+在上一课（第21课）中，我们解释了未经工作证明（POW）封闭的数据批次不是区块，如果它们不是区块，那么托管这些数据结构的网络也不是区块链。
 
-Blockchains are the ones that seal the batches with proof of work hashes because they offer all the security guarantees of true decentralization.
+区块链是用工作证明哈希封闭批次的，因为它们提供真正去中心化的所有安全保证。
 
-In this class, 22, we will explain a related topic, which is that, for various reasons, networks that are not proof of work are less secure. 
+在这节课（第22课）中，我们将解释一个相关主题，即由于各种原因，不是工作证明的网络较不安全。
 
-## From Byzantine Fault Tolerance to Nakamoto Tolerance
+## 从拜占庭容错到中本聪容错
 
-Proof of stake is a convoluted type of Byzantine Fault Tolerant (BFT) network. A type which was proven to be tolerant to only 1/3 of dishonest nodes many [decades ago](https://lamport.azurewebsites.net/pubs/byz.pdf).
+权益证明是一种复杂的拜占庭容错（BFT）网络。这种类型在[几十年前](https://lamport.azurewebsites.net/pubs/byz.pdf)已被证明只能容忍1/3的不诚实节点。
 
-Today, a POS blockchain such as Ethereum needs to have the validators vote on each block with supermajorities of two thirds of the voters precisely because they have not solved the problem.
+今天，像以太坊这样的POS区块链需要验证者对每个区块进行投票，确保超过三分之二的选民支持，这正是因为他们尚未解决这个问题。
 
-There is zero innovation in POS. No matter how many pseudo-scientific white papers they may write, or complex terms they may invent, they are iterations of the same old paradigms.
+在POS中没有任何创新。无论他们写了多少伪科学的白皮书，或者发明了多少复杂的术语，它们都是相同旧范式的迭代。
 
-POW [did solve](https://satoshi.nakamotoinstitute.org/emails/cryptography/11) the problem by raising the attack threshold to 51%, and even added additional benefits such as costliness to the production of the money and a barrier to change past transactions. 
+工作证明通过将攻击门槛提高到51%解决了这个问题，甚至还增加了额外的好处，比如生产货币的成本性和改变过去交易的障碍。
 
-## No Objective Physical Base
+## 没有客观的物理基础
 
-As explained in [class 19](https://ethereumclassic.org/blog/2024-03-21-etc-proof-of-work-course-19-pow-is-digital-gold-pos-is-community-fiat-money), POS networks do not have an objective POW physical base, this is what we call an intellectual tragedy. 
+如[第19课](https://ethereumclassic.org/blog/2024-03-21-etc-proof-of-work-course-19-pow-is-digital-gold-pos-is-community-fiat-money)所解释的那样，POS网络没有客观的工作证明物理基础，这就是我们所谓的智力悲剧。
 
-For seeking to “save trees”, that it doesn’t, “scalability”, when it doesn’t scale, and “low fees” that it doesn’t lower, proof of stake eliminated the single most important invention by Satoshi Nakamoto, which was to achieve consensus in a totally decentralized way just by producing and verifying the proofs of work.
+由于寻求“拯救树木”，实际上并没有拯救，“可扩展性”，实际上并不可扩展，以及“低费用”，实际上并没有降低，权益证明消除了中本聪最重要的发明之一，那就是通过生产和验证工作证明实现完全去中心化共识。
 
-POW blockchains, as they preserve this incredible invention, do achieve consensus in a truly decentralized way.
+工作证明区块链，因为保留了这一令人难以置信的发明，确实以真正去中心化的方式达成共识。
 
-The lack of POW, or the lack of this objectivity in the system, makes it centralized, thus insecure.
+没有工作证明，或系统中缺乏这种客观性，使其变得中心化，因此不安全。
 
-## No Barrier to Change Past Transactions
+## 没有阻止改变过去交易的障碍
 
-Due to the absence of the objective physical base, POS chains do not present a barrier to reverse past transactions.
+由于缺乏客观的物理基础，POS链不会对撤销过去交易构成障碍。
 
-“Blocks” in POS networks are really just insecure batches of data that are hashed with no POW, therefore do not require to redo all the work; using enormous computing power, spending enormous amounts of electricity; if attackers wanted to reverse the history.
+POS网络中的“区块”实际上只是用无工作证明哈希的不安全数据批次，因此不需要重做所有工作；如果攻击者想要撤销历史，需要使用大量计算能力，花费大量电力。
 
-This means that, as POS networks are centralized, it is just a matter of the few special interests controlling the system to want to change things, that they could do it trivially. 
+这意味着，由于POS网络是中心化的，控制系统的少数特殊利益集团想要改变事物，他们可以轻而易举地做到。
 
-To reorganize POS databases requires no additional effort other than common computers.
+重新组织POS数据库不需要额外的努力，只需要普通计算机即可。
 
-## No Work to Discern Which Is the Correct Block
+## 没有工作来区分哪个是正确的区块
 
-With no objective POW base, POS networks have no work done to discern which is the correct block in each round.
+没有客观的工作证明基础，POS网络在每轮中没有完成工作来区分哪个是正确的区块。
 
-POW stamps in each block require so much work to create that it is very difficult for attackers to imitate them, thus to corrupt the system.
+在每个区块中，工作证明印记需要大量工作才能创建，攻击者很难模仿它们，因此很难破坏系统。
 
-In POW, when nodes globally receive blocks, it is very easy for them to verify whether the work was done in each round according to the difficulty imposed by the protocol. 
+在工作证明中，当节点全球接收到区块时，它们可以很容易地验证每轮中是否完成了所需的工作量，根据协议设定的难度。
 
-This means that if nodes receive multiple candidate blocks from impostors except for one that did all the work, then it becomes very easy for them to know which is the correct block in each round. Even in complete isolation, without the need to consult anyone else.
+这意味着，如果节点收到来自伪造者的多个候选区块，除了一个做了所有工作的区块之外，那么它们很容易知道每轮中哪个是正确的区块。甚至在完全隔离的情况下，无需咨询其他任何人。
 
-This was the paramount design achievement of Bitcoin, but POS did away with all of it.
+这是比特币的最重要的设计成就，但POS摒弃了所有这些。
 
-## No Fork Choice
+## 没有分叉选择
 
-Just as with POS it becomes difficult to discern which is the correct block in each round, it doesn’t have a fork choice through accumulated work done in case there are involuntary chain splits or if nodes wish to leave and join again later.
+与POS一样，它变得难以区分每轮中哪个是正确的区块，它没有通过累积工作完成的分叉选择，以防发生非自愿的链分裂或节点希望稍后离开并再次加入。
 
-Where, in POW, nodes just have to check the accumulated work done to know which is the canonical blockchain to follow, POS nodes actually would have to check these things with trusted third parties. Exactly what blockchains were supposed to avoid!
+在工作证明中，节点只需检查已完成的累积工作量即可知道要遵循的规范区块链，而POS节点实际上必须与可信第三方检查这些内容。这正是区块链本应避免的！
 
-Today, if POS blockchains suffer forks or splits on a global scale, the only way for all nodes worldwide to come back to the canonical chain is through a conference call, a Discord server, emergency text messages, or halting the chain, as it has happened with Solana several times for their outages.
+如今，如果POS区块链在全球范围内发生分叉或分裂，所有全球节点回到规范链的唯一方式是通过电话会议、Discord服务器、紧急短信或停止链条，就像Solana因多次宕机而发生的情况一样。
 
-## No Energy to Produce the Money
+## 没有生产货币的能量
 
 ![](./2.png)
 
-Finally, yet another point of insecurity in POS is that its money is weak.
+最后，POS中的另一个不安全点是其货币的脆弱性。
 
-As POS does not spend any energy to create the money, then there is no unforgeable costliness nor scarcity to its issuance.
+由于POS不花费任何能量来创造货币，因此它的发行没有不可伪造的昂贵性和稀缺性。
 
-When national currencies were backed by gold, this gave them scarcity and value as politicians couldn’t just print more of it every time they wished to increase the national debt or finance their spending sprees.
+当国家货币以黄金为后盾时，这赋予了它们稀缺性和价值，因为政治家们无法随意增加国家债务或资助他们的开销。
 
-POW imitates the hardness of gold but on the internet, therefore POW coins are digital gold.
+工作证明模仿了黄金的硬度，但是在互联网上，因此工作证明币是数字黄金。
 
-Because it doesn’t do any of these things, proof of stake is basically jello.
+由于POS没有做任何这些事情，因此权益证明基本上是果冻。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
