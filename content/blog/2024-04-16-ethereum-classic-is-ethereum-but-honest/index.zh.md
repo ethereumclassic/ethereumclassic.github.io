@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Is Ethereum But Honest"
+title: "以太坊经典是诚实的以太坊"
 date: 2024-04-16
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mIqv55ADqfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,92 +16,92 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-One of the most impactful discoveries when one starts to learn more about proof of work blockchains such as Bitcoin (BTC) or Ethereum Classic (ETC) is the honesty and truth behind these systems.
+当一个人开始了解比特币（BTC）或以太坊经典（ETC）等工作证明区块链时，最具影响力的发现之一就是这些系统背后的诚实和真实。
 
-Traditional industries such as banking, insurance, asset management, or investing advice depend on the boasting and exaggeration of their services or institutions, often over inflating their features and attributes of trustworthiness.
+传统行业，如银行业、保险业、资产管理或投资建议，依赖于夸大和夸示他们的服务或机构，往往过分夸大他们的特性和值得信赖的属性。
 
-Proof of work blockchains are harsh truths. 
+工作证明区块链是严酷的现实。
 
-Elaine Ou put it best in a [Bloomberg article](https://www.bloomberg.com/view/articles/2019-01-16/bitcoin-and-other-cryptocurrencies-are-open-about-being-at-risk):
+Elaine Ou在一篇[彭博文章](https://www.bloomberg.com/view/articles/2019-01-16/bitcoin-and-other-cryptocurrencies-are-open-about-being-at-risk)中最好地表达了这一点：
 
-“Financial institutions make people feel safe by hiding risk behind layers of complexity. Crypto brings risk front and center and brags about it on the internet. It’s a bit uncivilized, but for some participants, a world where risk is quantified and individual is preferable to one where it’s unknown and distributed.”
+“金融机构通过将风险隐藏在复杂的层次后使人们感到安全。加密货币在互联网上公开宣布风险，这有点不文明，但对于一些参与者来说，一个风险被量化并由个人管理的世界比一个风险未知且分散的世界更可取。”
 
-As proof of stake systems are centralized, they suffer of the same kind of dishonesty as traditional fiat industries.
+由于证据权益系统是中心化的，它们遭受与传统法定行业相同类型的不诚实。
 
-A prototypical example of this phenomenon is the Ethereum (ETH) blockchain community.
+这种现象的典型例子是以太坊（ETH）区块链社区。
 
-Ethereum Classic and Ethereum are practically the same technology, but since [the split](https://ethereumclassic.org/blog/2023-01-26-ethereum-classic-course-6-ethereum-classic-is-the-original-chain) of both chains in 2016, ETC has consistently followed a “Code Is Law” philosophy, sticking to proof of work, and Ethereum a “Social Consensus” way of managing the system, while migrating to proof of stake.
+以太坊经典和以太坊实际上是相同的技术，但自2016年两条链分裂以来，ETC一直坚持“代码即法则”哲学，坚持工作证明，而以太坊则采用“社会共识”管理系统的方式，并迁移到权益证明。
 
-ETC’s approach is the same dry and cut reality as Bitcoin. Whatever is inside the chain is immutable, uncensorable, and permissionless. But Ethereum is about community ethics, political acceptance, and punishment of the supposedly undesirable.
+ETC的方法与比特币一样干脆直白的现实。链内的任何内容都是不可变的、无法审查的和无需许可的。但以太坊关乎社区伦理、政治接受和对所谓不受欢迎的人的惩罚。
 
-This mindset has led Ethereum to brag and boast about imaginary attributes of their system that put it in stark contrast with the truths of Ethereum Classic.
+这种心态导致以太坊吹嘘和夸大其系统的虚构属性，与以太坊经典的真实相对比。
 
-In this post we will go over some of these contrasts.
+在这篇文章中，我们将讨论其中的一些对比情况。
 
-## The Weak Subjectivity Fallacy
+## 弱主观性谬误
 
-The founding assumption of blockchains that are not proof of work, that is, that use the proof of stake or proof of authority consensus mechanisms, is the principle of “weak subjectivity”.
+那些不是工作证明的区块链的基本假设，即使用权益证明或权威证明共识机制的区块链，是“弱主观性”原则。
 
-This was an invention by Vitalik Buterin, founder of Ethereum, that he explained in his essay “[Proof of Stake: How I Learned to Love Weak Subjectivity](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity)”. In it, he argued that computers and blockchain networks are just helpers of humans, and that humans are very good at achieving honest consensus in the long term. Therefore, to introduce some minor subjective rules into these systems was perfectly fine.
+这是以太坊创始人Vitalik Buterin发明的，他在他的文章“[权益证明：我如何学会爱上弱主观性](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity)”中解释了这一点。在文章中，他认为计算机和区块链网络只是人类的助手，人类在长期内能够达成诚实的共识。因此，在这些系统中引入一些次要的主观规则是完全可以接受的。
 
-This is a flagrant contradiction of trust minimization, the main goal of blockchains, which was even stated in the [Ethereum white paper](https://etherplan.com/ethereum-white-paper.pdf)!
+这与信任最小化的核心目标是 flagrant 的矛盾，这一目标甚至在[以太坊白皮书](https://etherplan.com/ethereum-white-paper.pdf)中都有所表述！
 
-Bitcoin and ETC seek to minimize as much as possible the dependency in trusted third parties precisely because any margin of trust in people will always be abused. It is just a matter of time.
+比特币和ETC旨在尽可能地减少对信任第三方的依赖，因为对人们的任何信任边界总是会被滥用。这只是时间问题。
 
-Proof of this abuse is that Ethereum has migrated to proof of stake, a centralizing consensus mechanism, and that they have changed the monetary policy more than 5 times.
+证据表明，以太坊已经迁移到了权益证明，一种中心化的共识机制，并且已经多次更改了货币政策。
 
-## The Proof of Stake Saves Trees Fallacy
+## 权益证明拯救树木谬误
 
-The main reason for Ethereum to move to proof of stake was that proof of work is too energy intensive, that it would eternally need a large security budget, and thus kills the trees.
+以太坊迁移到权益证明的主要原因是工作证明过于耗能，它将永远需要大量的安全预算，因此伤害了树木。
 
-However, it is becoming increasingly evident that proof of work in Bitcoin and ETC actually saves trees.
+然而，越来越明显的是，比特币和ETC中的工作证明实际上拯救了树木。
 
-As mining is distributed globally and constantly moves to seek cheaper sources of energy, it provides cash flows to renewable energy sources promoting clean power industries across the globe. 
+由于挖矿分布在全球范围内，并且不断寻找更便宜的能源来源，它为可再生能源提供现金流，促进全球范围内的清洁能源产业。
 
-In their quest to tap stranded energy, proof of work miners even use methane gas from oil fields as an energy source, which reduces its climate impact by more than 80 times.
+为了利用被束缚的能源，工作证明挖矿者甚至使用来自油田的甲烷气体作为能源来源，从而将其气候影响减少80多倍。
 
-By moving to proof of stake, Ethereum is actually the one killing the trees by not producing the positive environmental effects it would have had it stayed as a proof of work blockchain!
+通过迁移到权益证明，以太坊实际上是在杀死树木，因为它没有产生它作为工作证明区块链时所产生的积极环境效应！
 
-## The Cost of Attack Asymmetry Fallacy
+## 攻击不对称成本谬误
 
-In his seminal essay “[A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)” Vitalik Buterin, the main promoter of proof of stake in Ethereum, argued that proof of work failed to realize the cypherpunk spirit which says that the cost of attack in the system should be orders of magnitude higher than the cost of defense.
+在他的重要文章“[权益证明设计哲学](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51)”中，以太坊权益证明的主要推动者Vitalik Buterin认为，工作证明未能实现密码朋克精神，即系统中攻击的成本应该比防御的成本高几个数量级。
 
-If this were a principle, in any case, it would be a mantra of cryptography, but not of Cypherpunks. But, in truth, it was never a stated goal of Bitcoin or ETC. 
+如果这是一个原则，那么这个原则将成为密码学的口头禅，而不是密码朋克的口头禅。但实际上，这从未是比特币或ETC的声明目标。
 
-The proof of work consensus mechanism was always meant to be a symmetrical kind of defense and it has been stated as such since the Bitcoin white paper of 2008, that whoever had more than 50% of the computing base of the system could reorganize the chain. This is so much so that this attack vector is called a 51% attack, marking its practical symmetry even in its name!
+工作证明共
 
-Establishing imaginary problems and then supposedly solving them is one of the main argumentative tactics of fiat institutions and insecure centralized blockchain networks.
+识机制始终被设计为一种对称的防御方式，并且自比特币白皮书（2008年）以来就已经被明确规定了这一点，即拥有系统超过50%的计算基础的人可以重新组织链条。这就是为什么这种攻击向量被称为51%攻击，甚至在它的名称中标记了其实际上的对称性！
 
-## The Proof of Stake Finality Fallacy
+建立虚构的问题然后据称解决它们是法定机构和不安全的中心化区块链网络的主要论证策略之一。
 
-Another widely held belief in Ethereum and proof of stake circles is the idea that because those networks have specific “finality” rules, that transactions are indeed final after a certain threshold.
+## 权益证明终局性谬误
 
-The curious thing about this belief is that even Vitalik Buterin has openly declared that “[finality is always probabilistic](https://blog.ethereum.org/2016/05/09/on-settlement-finality)” in any system.
+在以太坊和权益证明领域广泛流行的另一个信念是，由于这些网络具有特定的“终局性”规则，因此在一定阈值之后交易确实是最终的。
 
-However, the fallacy relies in not clarifying that even though proof of work systems as Bitcoin and ETC have no subjective finality rules, that finality in those blockchains is orders of magnitude stronger than in proof of stake.
+有趣的是，即使Vitalik Buterin本人也公开宣称，在任何系统中“终局性总是具有概率性”。
 
-As proof of work demands a lot of work and electricity to seal the blocks, then it is practically impossible to reverse older transactions that happened in the past because all the subsequent blocks would all have to be redone with the same amount of work and energy all over again.
+然而，谬误在于没有澄清的是，尽管工作证明系统如比特币和ETC没有主观终局性规则，但这些区块链中的终局性要比权益证明强几个数量级。
 
-As Ethereum’s proof of stake does not use any work, the whole history of the chain may be rewritten with a fraction of the effort.
+由于工作证明需要大量的工作和电力来封闭区块，因此几乎不可能撤销过去发生的旧交易，因为所有后续的区块都必须再次以同样的工作量和能源重新做。与此相反，由于以太坊的权益证明不需要任何工作，因此可以用很少的努力重新编写整个链的历史。
 
-Proof of stake has no protection other than the good will of the community, which, again, is what blockchains were trying to avoid in the first place!
+权益证明没有其他保护措施，除了社区的善意，而这正是区块链一开始试图避免的东西！
 
-## The Low Fees and High Scalability Fallacies
+## 低费用和高可扩展性谬误
 
-The last two fallacies that we will mention (there are many more, but to cover all of them would require too many more paragraphs in this article!) are the low fees and the scalability fallacies.
+我们将提到的最后两个谬误（还有很多，但要涵盖所有这些将需要本文中太多的段落！）是低费用和可扩展性谬误。
 
-In terms of low fees, one of the main expectations of Ethereum users when it migrated to proof of stake was that the high fees that they were paying when it was a proof of work blockchain would go down significantly. 
+在低费用方面，以太坊用户迁移到权益证明时的主要期望之一是，他们在以太坊是工作证明区块链时支付的高费用将显着降低。
 
-However, this did not happen, and it didn’t happen because the migration to proof of stake was never meant to solve that problem!
+然而，这并没有发生，也不会发生，因为迁移到权益证明从未旨在解决这个问题！
 
-What causes high fees is not the proof method in consensus mechanisms (whether proof of work or proof of stake) but the size of the blocks. And as long as blockchains want to be fully replicated, then blocks will have to remain small. And in small blocks fit a limited number of transactions. This is what causes the competition for block space that increases the cost per transaction.
+导致高费用的原因不是共识机制中的证明方法（无论是工作证明还是权益证明），而是区块的大小。只要区块链想要完全复制，区块就必须保持较小。而小区块只能容纳有限数量的交易。这导致了对区块空间的竞争，增加了每笔交易的成本。
 
-This same restriction in block space causes the lack of scalability in Ethereum as well as in Bitcoin and ETC.
+区块空间的这种限制也导致了以太坊以及比特币和ETC的可扩展性问题。
 
-However Bitcoin and ETC never stated the goals of becoming scalable at the base layer.
+然而，比特币和ETC从未声明过要在基础层面实现可扩展性。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，请访问: https://ethereumclassic.org
