@@ -14,7 +14,7 @@ linkImage: ./banner.png
 
 ---
 
-![](1.png)
+![](./banner.png)
 
 ## The Paradigm Change From Banking to Blockchain
 

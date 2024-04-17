@@ -14,7 +14,7 @@ linkImage: ./banner.png
 
 ---
 
-![](1.png)
+![](banner.png)
 
 ## 从银行到区块链的范式变革
 
