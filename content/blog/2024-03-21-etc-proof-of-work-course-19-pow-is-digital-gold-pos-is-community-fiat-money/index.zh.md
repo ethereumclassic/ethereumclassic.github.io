@@ -4,7 +4,7 @@ date: 2024-03-21
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["series", "education"]
-linkImage: ./banner.png
+linkImage: ./banner-1.png
 ---
 
 ---
@@ -13,6 +13,8 @@ linkImage: ./banner.png
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zpf2hH6zC5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+
+![](./banner-1.png)
 
 在上一课（第18课）中，我们解释了为什么像比特币（BTC）和以太经典（ETC）这样的工作证明（POW）区块链将始终面临持续的社会攻击，因为在真正分散的系统中没有更高的权威来强制执行秩序。
 
