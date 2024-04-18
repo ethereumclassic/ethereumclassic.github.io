@@ -1,3 +1,29 @@
+- title: NOWNodes
+  date: 2024-04-18
+  description: Instant access to 99+ RPC nodes for all your Web3 development needs. Get an API key and start building
+  image: ./images/NOWNodes.png
+  type: finance
+  author: NOWNodes
+  authorLink: https://nownodes.io
+  openSource: https://github.com/HebePlatform/Oracle
+  links:
+    - name: ETH Classic Node | Docs
+      link: https://documenter.getpostman.com/view/13630829/TVmFkLwy#6d36cab3-83c5-48c0-b894-c44c49147a2d
+    - name: github
+      link: https://github.com/NOWNodes
+      icon: github
+    - name: twitter
+      link: https://twitter.com/NOWNodes
+      icon: twitter
+    - name: telegram
+      link: https://t.me/nownodes
+      icon: telegram
+    - name: discord
+      link: https://discord.com/invite/2bdaPmG2R3
+      icon: discord
+    - name: medium
+      link: https://medium.com/@nownodes
+      icon: medium
 - date: 2024-02-02
   title: SafeClassic Community NFT
   description: More deflation! By owning Safe Classic NFЕ, you will receive monthly rewards in the form of ETC and Safe Classic to your balance! The price of a mint increases after each mint!
