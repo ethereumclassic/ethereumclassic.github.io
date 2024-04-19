@@ -21,7 +21,7 @@ We spoke with Dominik Jurada and Sandro Licul, co-founders of The Last Monarchy 
 - What Is "The Last Monarchy"?
 - Who are the team behind it?
 - Why does it use ETC?
-- The two function in the back end on ETC: NFTs and governance Token
+- The two function in the back end on ETC: NFTs and governance token
 - When is it going to be launched and on what platforms?
 
 ![](./1.png)
