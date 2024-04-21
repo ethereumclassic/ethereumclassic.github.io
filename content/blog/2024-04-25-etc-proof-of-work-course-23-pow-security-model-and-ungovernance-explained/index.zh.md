@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 23. POW Security Model and Ungovernance Explained"
+title: "ETC工作量证明课程：第23课，解释POW安全模型和非治理"
 date: 2024-04-25
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,92 +8,94 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/il2VjzynBVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In the previous class, 22, we explained that, for various reasons, networks that are not proof of work (POW) are less secure. 
+上一堂课，第22课，我们解释了，出于各种原因，不采用工作量证明（POW）的网络安全性较低。
 
-Blockchains are the ones that seal the batches with POW hashes because they offer all the security guarantees of true decentralization.
+区块链通过使用POW哈希来封存批次，因为它们提供了真正去中心化的所有安全保证。
 
-In this class, 23, we will explain why this true decentralization is enabled by the security model of POW, how the social layer is not a risk, why POW ungovernance is the natural way of managing the system, and that it actually works better without governance!
+在本节课中，第23课，我们将解释为什么真正的去中心化是由POW的安全模型实现的，社会层不构成风险的原因，为什么POW的非治理是管理系统的自然方式，并且实际上在没有治理的情况下运行更加高效！
 
-## To Focus on Price Is Good
+## 关注价格是有益的
 
-Many people prefer not to talk about coin price in conferences, business circles, or crypto social groups because they consider it secondary to the mission of these decentralized systems. 
+许多人在会议、商业圈或加密社交群体中不愿谈论货币价格，因为他们认为这次谈论次要于这些去中心化系统的使命。
 
-We think this is a mistake because the price of the coin is the main driver of the security model of POW blockchains, thus of their mission in the world.
+我们认为这是一个错误，因为货币价格是POW区块链安全模型的主要驱动因素，从而也是它们在世界上使命的主要驱动因素。
 
-POW blockchains have three key components for their security:
+POW区块链的安全性有三个关键组成部分：
 
-1. Full replication of the database to ensure decentralization, redundancy, and verification
+1. 数据库的完全复制，以确保去中心化、冗余和验证
 
-2. Proof of work as the consensus mechanism to enable this full replication in a decentralized manner
+2. 作为共识机制的工作量证明，以分散方式实现这种完全复制
 
-3. The price of the token that incentivizes the participants to use it and miners to dedicate more hashpower to the network
+3. 令牌价格，激励参与者使用它并促使矿工将更多的哈希算力投入到网络中
 
-## The Security Model of Proof of Work
+## 工作量证明的安全模型
 
 ![](./1.png)
 
-Indeed, the way the model works is that more coin demand means higher prices, higher prices means mining becomes more profitable, more profitability brings more hash power to the system, more hash power means more security, and more security means more value and demand for the coin.
+事实上，这种模型的工作方式是，更多的货币需求意味着更高的价格，更高的价格意味着挖矿变得更加有利可图，更高的盈利能力带来更多的哈希算力到系统中，更多的哈希算力意味着更多的安全性，而更多的安全性则意味着对货币的更高价值和需求。
 
-Note that the profitability of mining does not only depend on the payment of the block rewards in the native coin of the POW blockchain, but also on the fees paid by users so that miners process their transactions.
+需要注意的是，挖矿的盈利性不仅取决于以POW区块链的原生货币支付的区块奖励，还取决于用户支付的交易费用，以便矿工处理他们的交易。
 
-This competition for block space is directly related to the security of the system. The more secure it is, the more demand for that security there will be. Therefore, more transactions will be sent to the system.
+这种对区块空间的竞争直接关系到系统的安全性。系统越安全，对该安全性的需求就越大。因此，会有更多的交易发送到系统中。
 
-For many use cases, people prefer to use more secure methods to store and transfer their savings.
+对于许多用例，人们更愿意使用更安全的方法来存储和转移他们的储蓄。
 
-## The Social Layer Is Not a Risk
+## 社会层不构成风险
 
 ![](./2.png)
 
-The perceived wild card in this security model is the social layer. Theoretically, the social layer could coalesce and agree on nefarious changes to the protocol. 
+这种安全模型中被认为是不稳定因素的是社会层。从理论上讲，社会层可能会团结起来，并就对协议的恶意更改达成一致。
 
-However, Bitcoin (BTC) had the [block size war](https://www.bitstamp.net/learn/crypto-101/what-was-the-blocksize-war/) in 2017; before that, Ethereum Classic (ETC) had [The DAO war](https://ethereumclassic.org/blog/2023-01-26-ethereum-classic-course-6-ethereum-classic-is-the-original-chain) in 2016; and in 2021 ETC also had the [IOHK treasury attack](https://etherplan.com/2021/06/01/ethereum-classic-treasury-response-to-charles-hoskinson/15909/). 
+然而，比特币（BTC）在2017年有过[区块大小战争](https://www.bitstamp.net/learn/crypto-101/what-was-the-blocksize-war/)；在此之前，以太经典（ETC）在2016年有过[DAO之战](https://ethereumclassic.org/blog/2023-01-26-ethereum-classic-course-6-ethereum-classic-is-the-original-chain)；在2021年，ETC还经历了[IOHK财政攻击](https://etherplan.com/2021/06/01/ethereum-classic-treasury-response-to-charles-hoskinson/15909/)。
 
-In all cases, the ability to split that we spoke about in [class 17](https://ethereumclassic.org/blog/2024-03-07-etc-proof-of-work-course-17-pow-has-division-of-power-pos-does-not) of this course protected the principled side of these conflicts and BTC and ETC prevailed against the attacks. 
+在所有情况下，我们在本课程的[第17课](https://ethereumclassic.org/blog/2024-03-07-etc-proof-of-work-course-17-pow-has-division-of-power-pos-does-not)中谈到的分裂能力保护了这些冲突的原则性一面，BTC和ETC在这些攻击中取得了胜利。
 
-These cases show that, if all were to agree on a change, it would likely be because it is a generally desired upgrade, but when there is controversy, coordination is so difficult, and the natural tendency to decentralization of POW so strong, that these threats are prevented. 
+这些案例表明，如果所有人都同意进行变更，那么这可能是因为这是一个普遍希望的升级，但当存在争议时，协调是如此困难，POW去中心化的自然倾向如此强烈，以至于这些威胁被阻止。
 
-## POW is Ungovernable
+## POW是无法治理的
 
-It is precisely because of this true and purely objective decentralization that POW is ungovernable. If no central control may be established in the system, then there cannot be control!
+正是因为POW具有真正和纯粹客观的去中心化，所以它是无法治理的。如果系统中没有中央控制，那么就不可能有控制！
 
-And, it is worth reminding that proof of work is the only signaling system that enables true decentralization. 
+值得提醒的是，工作量证明是唯一能实现真正去中心化的信号系统。
 
-In social groups, if decentralization is achievable without degenerating the system, then participants will choose decentralization. 
+在社会群体中，如果可以实现去中心化而不会破坏系统，那么参与者将选择去中心化。
 
-As we said in [class 18](https://ethereumclassic.org/blog/2024-03-14-etc-proof-of-work-course-18-pow-blockchains-will-always-be-under-constant-social-attack) of this course, centralization is not a desired state of affairs. “Voting”, “Democracy”, and “Republic” are not ideal systems, they are just the least worse we can do. But in proof of work systems there cannot be tyrants, kings, constitutions, presidents, or congresses. 
+正如我们在本课程的[第18课](https://ethereumclassic.org/blog/2024-03-14-etc-proof-of-work-course-18-pow-blockchains-will-always-be-under-constant-social-attack)中所说的，集中是不可取的状态。“投票”、“民主”和“共和国”并非是理想的系统，它们只是我们能做到的最不坏的选择。但在工作量证明系统中，不可能有暴君、国王、宪法、总统或国会。
 
-It is not possible because participants will never choose that, because they are not necessary, and they will always prefer to split.
+这是不可能的，因为参与者永远不会选择那样做，因为它们是不必要的，并且他们总是更愿意分裂。
 
-## The Inevitability of Toxicity
+## 毒性的必然性
 
 ![](./3.png)
 
-As we also said in class 18, in the context of ungovernance, there are no arbiters or authorities that impose order. The factions must fight for their desired outcomes. 
+正如我们在第18课中所说，在非治理的情况下，没有仲裁者或当局
 
-Therefore, it is impossible to have “civilized debates”. 
+可以强加秩序。各派别必须为他们期望的结果而战斗。
 
-All those who criticize “toxicity” make a mistake. Toxicity and maximalism are actually rational game-theoretical and evolutionarily stable behaviors in decentralized systems. 
+因此，不可能有“文明的辩论”。
 
-If toxicity is absent during periods of peace, and the factions seem to dissolve, it is not because they failed. It is because they were temporarily not needed. But when new threats emerge, which is inevitable, then, the toxic maximalists will re-emerge as well and will be welcomed as heroes again.
+所有批评“毒性”的人都犯了一个错误。毒性和极端主义实际上是理性的、博弈论的和在去中心化系统中具有进化稳定性的行为。
 
-## The System Actually Works Better Without Governance
+如果在和平时期缺乏毒性，并且各派别似乎分裂，这并不是因为它们失败了。而是因为它们暂时不需要。但当新的威胁出现，这是不可避免的，那么，毒性极端主义者也将重新出现，并再次被视为英雄。
 
-Whenever people who could have a decentralized system opt for the centralized one, even knowing their risks, is because it is significantly better or more convenient.
+## 没有治理的系统实际上运行得更好
 
-For example, payments with cash are more private and trust minimized than paying with electronic methods. However, [only 12% of in-store transactions](https://capitaloneshopping.com/research/cash-vs-credit-card-spending-statistics/) are paid in cash in the United States.
+每当可能选择去中心化系统的人选择集中化系统，即使知道其风险时，这是因为后者显著更好或更方便。
 
-But when a decentralized system as Bitcoin or ETC is better than any centralized system, then there are little incentives to sacrifice security for convenience.
+例如，现金支付比电子支付更具隐私性和最小信任，但是在美国，[只有12%的线下交易](https://capitaloneshopping.com/research/cash-vs-credit-card-spending-statistics/)使用现金支付。
 
-As long as the premium for safety and security is higher than the convenience and efficiency of centralization, and as long as people have the freedom to opt due to true decentralization, then governance, which is another word for centralization, will not be the choice of users.
+但当比特币或ETC等去中心化系统比任何集中化系统更好时，人们几乎没有动力为了方便而牺牲安全性。
+
+只要安全性的溢价高于集中化的便利性和效率，并且人们由于真正的去中心化而有选择的自由，那么治理，也就是集中化的另一种说法，就不会成为用户的选择。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
