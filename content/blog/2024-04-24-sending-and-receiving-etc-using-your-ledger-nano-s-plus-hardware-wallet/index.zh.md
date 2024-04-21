@@ -1,5 +1,5 @@
 ---
-title: "Sending and Receiving ETC Using Your Ledger Nano S Plus Hardware Wallet"
+title: "使用您的Ledger Nano S Plus硬件钱包发送和接收ETC"
 date: 2024-04-24
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/COajELs3_n4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,133 +16,135 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-In this post we will explain how to send and receive ETC with the Ledger Nano S Plus.
+这篇文章将解释如何使用Ledger Nano S Plus发送和接收ETC。
 
-To learn where to get the hardware wallet and to set it up on your computer, please see our guide in the following link:
+要了解硬件钱包的获取方式，并在您的计算机上设置它，请参阅我们以下链接中的指南：
 
-“Using the Ledger Nano S Plus With Ethereum Classic”
+“使用Ledger Nano S Plus与以太坊经典”
 
 https://ethereumclassic.org/blog/2024-02-27-using-the-ledger-nano-s-plus-with-ethereum-classic
 
-## The Ledger Hardware and Software Components
+## Ledger硬件和软件组件
 
-Ledger Nano S Plus is a hardware wallet, so to use it you need to have your Ledger Nano S Plus device and the Ledger Live app on your computer as we explained in our [previous guide](https://ethereumclassic.org/blog/2024-02-27-using-the-ledger-nano-s-plus-with-ethereum-classic
-).
+Ledger Nano S Plus是一个硬件钱包，因此要使用它，您需要拥有您的Ledger Nano S Plus设备以及我们在[上一篇指南中](https://ethereumclassic.org/blog/2024-02-27-using-the-ledger-nano-s-plus-with-ethereum-classic
+)解释的Ledger Live应用程序。
 
-In this tutorial we will explain how to send and receive ETC using your Ledger Nano S Plus hardware wallet.
+在本教程中，我们将解释如何使用您的Ledger Nano S Plus硬件钱包发送和接收ETC。
 
-We will show the parallel actions on your Ledger Nanos S Plus and on the Ledger Live app on your computer where appropriate.
+我们将展示您的Ledger Nano S Plus上的并行操作，并在适当的时候在您计算机上的Ledger Live应用程序上显示。
 
 ![](./1.png)
 
-## Sending ETC
+## 发送ETC
 
-### 1. Open the Ledger Live App and Select the Accounts Tab
+### 1. 打开Ledger Live应用程序并选择“账户”选项卡
 
-The first step to send ETC from your Ledger Nano S Plus hardware wallet is to open the Ledger Live app on your computer and then click on the “Accounts” tab on the left menu.
+从您的Ledger Nano S Plus硬件钱包发送ETC的第一步是打开计算机上的Ledger Live应用程序，然后单击左侧菜单中的“账户”选项卡。
 
 ![](./2.png)
 
-### 2. Click on the Account From Where You Will Send ETC
+### 2. 点击您将要发送ETC的账户
 
-On the “Accounts” page select the account from where you wish to send ETC.
+在“账户”页面上，选择您希望发送ETC的账户。
 
-In this example, we chose the account with the name “Ethereum Classic 2”.
+在本示例中，我们选择了名称为“以太经典 2”的账户。
 
 ![](./3.png)
 
-### 3. Click on the “Send” Button
+### 3. 点击“发送”按钮
 
-In the next screen, you will see your account information. To send ETC from this account, click on the “Send” button on the top menu as shown in the image.
+在下一个屏幕上，您将看到您的账户信息。要从此账户发送ETC，请点击顶部菜单中的“发送”按钮，如图所示。
 
 ![](./4.png)
 
-### 4. Enter the Address to Where You Will Send ETC
+### 4. 输入您将要发送ETC的地址
 
-In the next screen, Ledger Live will ask to which address you wish to send the ETC. Enter the address in the field provided and press “Continue”.
+在下一个屏幕上，Ledger Live将询问您要发送ETC的地址。在提供的字段中输入地址并按“继续”。
 
 ![](./5.png)
 
-### 5. Enter the Amount to Send
+### 5. 输入要发送的金额
 
-In the next screen, Ledger Live will ask you to enter the amount you wish to send. Enter that amount on the field provided or use the “Send Max” button to send all the ETC in the address. Then, press “Continue”.
+在下一个屏幕上，Ledger Live将询问您要发送的金额。在提供的字段中输入该金额或使用“发送最大”按钮发送地址中的所有ETC。然后，按“继续”。
 
 ![](./6.png)
 
-### 6. Check That the Transaction Information Is Correct
+### 6. 检查交易信息是否正确
 
-In the next screen, Ledger Live will show you the transaction information for you to check that it is correct. If it is correct, then press “Continue”.
+在下一个屏幕上，Ledger Live将向您显示交易信息，以便您检查是否正确。如果正确，请按“继续”。
 
 ![](./7.png)
 
-### 7. Connect and Unlock You Ledger Nano S Plus
+### 7. 连接并解锁您的Ledger Nano S Plus
 
-Now Ledger Live will ask you to connect your device to your computer and to unlock it using the PIN number you chose for it. Go ahead and unlock your Ledger Nano S Plus.
+现在，Ledger Live将要求您将设备连接到计算机，并使用您为其选择的PIN码解锁设备。继续解锁您的Ledger Nano S Plus。
 
 ![](./8.png)
 
-### 8. Open the ETC App, Confirm, and Send
+### 8. 打开ETC应用程序，确认并发送
 
-Next, on your Ledger Nano S Plus, you will need to open the ETC app, then confirm the transaction details, and if all is correct, then accept the transaction by pressing both buttons at the top of the device when you see the “Accept” prompt.
+接下来，在您的Ledger Nano S Plus上，您需要打开ETC应用程序，然后确认交易详细信息，如果一切正确，则在设备顶部的两个按钮上看到“接受”提示时，接受交易。
 
 ![](./9.png)
 
-### 9. Transaction Sent!
+### 9. 交易已发送！
 
-Once you accepted the transaction on your Ledger Nano S Plus, Ledger Live on your computer will receive the signed transaction from your device and confirm that it was sent.
+一旦您在Ledger Nano S Plus上接受了交易，Ledger Live将接收来自您设备的签名交易，并确认已发送。
 
-If you wish to see the transaction details and status, you can click on the “View details” button.
+如果您想查看交易详情和状态，可以点击“查看详情”按钮。
 
 ![](./10.png)
 
-## Receiving ETC
+## 接收ETC
 
-### 1. Open the Ledger Live App and Select the Accounts Tab
+### 1. 打开Ledger Live应用程序并选择“账户”选项卡
 
-To receive ETC into one of your ETC addresses in your Ledger Nano S Plus you need to open the Ledger Live app on your computer and select the “Accounts” tab from the left menu.
+要将ETC接收到您的Ledger Nano S Plus中的某个ETC地址中，您需要打开计算机上的Ledger Live应用程序，并从左侧菜单中选择“账户”选项卡。
 
 ![](./11.png)
 
-### 2. Click on the Account Into Which You Will Receive ETC
+### 2. 点击您将要接收ETC的账户
 
-In the next screen, you can choose into which account you wish to receive ETC. For this guide, we chose the “Ethereum Classic 2” account.
+在下一个屏幕上，您可以选择要接收ETC的账户。对于本指南，我们选择了“以太经典 2”账户。
 
-In the next screen click on the “Receive” button on the top menu.
+在下一个屏幕上，点击顶部菜单中的“接收”按钮。
 
 ![](./12.png)
 
-### 3. Select the ETC Address Again
+### 3. 再次选择ETC地址
 
-For some reason, in the next screen the Ledger Live app will ask you to select again to which account you wish to receive ETC.
+出于某种原因，在下一个屏幕上，
 
-We chose again “Ethereum Classic 2” for this example. When you do this, then click on the “Continue” button.
+Ledger Live应用程序将要求您再次选择要接收ETC的账户。
+
+对于本示例，我们再次选择了“以太经典 2”。当您这样做时，然后点击“继续”按钮。
 
 ![](./13.png)
 
-### 4. Connect and Unlock Your Ledger Nano S Plus
+### 4. 连接并解锁您的Ledger Nano S Plus
 
-In the next screen, Ledger Live will ask you to connect and unlock your Ledger Nano S Plus device.
+在下一个屏幕上，Ledger Live将要求您连接并解锁您的Ledger Nano S Plus设备。
 
-Connect your device to your computer and then enter your PIN number to unlock it.
+将设备连接到计算机，然后输入PIN码解锁。
 
 ![](./14.png)
 
-### 5. Open the ETC App, Copy the Address, Confirm it, and Approve it
+### 5. 打开ETC应用程序，复制地址，确认并批准
 
-In the next step, you need to open the ETC app on your Ledger Nano S Plus. Then, go to your Ledger Live app on your computer and copy the address shown. Next, on your Ledger Nano S Plus, you need to confirm whether that address is correct. Once verified, you can approve the address on the device.
+在接下来的步骤中，您需要打开Ledger Nano S Plus上的ETC应用程序。然后，转到您计算机上的Ledger Live应用程序，复制显示的地址。接下来，在您的Ledger Nano S Plus上，您需要确认该地址是否正确。验证后，您可以在设备上批准该地址。
 
 ![](./15.png)
 
-### 6. Use the Address Retrieved To Receive ETC!
+### 6. 使用检索到的地址接收ETC！
 
-In the next step, Ledger Live would have received your approval from the Ledger Nano S Plus and will confirm that the address that you copied was the correct one.
+在接下来的步骤中，Ledger Live将收到您在Ledger Nano S Plus上的批准，并确认您复制的地址是正确的。
 
-Now you can use that address to receive ETC into your Ledger Nano S Plus!
+现在，您可以使用该地址将ETC接收到您的Ledger Nano S Plus中！
 
 ![](./16.png)
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
