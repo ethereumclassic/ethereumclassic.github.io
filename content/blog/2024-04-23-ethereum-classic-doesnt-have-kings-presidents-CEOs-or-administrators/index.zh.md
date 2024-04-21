@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Doesn't Have Kings, Presidents, CEO's, or Administrators"
+title: "以太坊经典没有国王、总统、CEO或管理员"
 date: 2024-04-23
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y1_3Pz66z00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,70 +16,70 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-There is a misconception in the industry that  blockchains with large ICO’s (Initial Coin Offerings), venture capital (VC) funding, big development teams, and well funded foundations or corporations managing them must be good and respectable.
+这个行业存在一种误解，即拥有大规模ICO（首次代币发行）、风险投资（VC）融资、庞大的开发团队以及资金充足的基金会或公司管理的区块链项目一定是好的和值得尊敬的。
 
-However, this can’t be further from the truth. Blockchain projects, especially layer 1 networks, must be as decentralized as possible, and things such as ICO’s, VC’s, prominent lead developer teams, and foundations are strong markers of centralization.
+然而，事实并非如此。区块链项目，特别是第一层网络，必须尽可能地去中心化，而ICO、VC、知名领导开发团队以及基金会等方面恰恰是中心化的强烈标志。
 
-Just as monarchies have kings, countries have presidents, and corporations or centralized computing systems have CEOs and administrators, truly decentralized blockchains must not have any of these leading or directing them.
+正如君主制国家有国王，公司或集中式计算系统有总裁和管理者一样，真正去中心化的区块链项目不应该有任何这些领导或指导他们的人。
 
-## Bitcoin Was Centralized Initially
+## 比特币最初也是中心化的
 
-Nevertheless, it may sound counterintuitive, but many of the most decentralized blockchains in the world today actually started as centralized systems. 
+然而，这可能听起来有些反直觉，但如今世界上最去中心化的区块链项目实际上最初都是中心化的系统。
 
-Bitcoin (BTC), for example, started in 2009 with two nodes, one ran by its creator, [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto), and the other by [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)).
+比特币（BTC）就是一个例子，它于2009年启动时只有两个节点，一个由其创始人[Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)运行，另一个由[Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist))运行。
 
-Initially, Mr. Finney suggested several recommendations and bug fixes to Mr. Nakamoto, and he would unilaterally integrate them in the repository where the client software was stored.
+最初，Finney先生对Nakamoto先生提出了几个建议和漏洞修复，他会单方面将它们集成到存储客户端软件的代码库中。
 
-Later, developers [Gavin Andresen](https://en.wikipedia.org/wiki/Gavin_Andresen) and [Jeff Garzik](https://en.bitcoin.it/wiki/Jeff_Garzik) were added to the software repository, but Mr. Nakamoto kept centralized control of all decisions in the systems.
+后来，开发人员[Gavin Andresen](https://en.wikipedia.org/wiki/Gavin_Andresen)和[Jeff Garzik](https://en.bitcoin.it/wiki/Jeff_Garzik)加入了软件代码库，但Nakamoto先生仍然对系统中的所有决策拥有集中化的控制权。
 
-## However, Bitcoin Is Now Decentralized at Scale
+## 然而，如今比特币已经在规模上去中心化
 
-What made Bitcoin centralized in its early stages were several factors that don’t exist anymore today. The first factor was, as explained in the previous section, that one man directed and decided all changes in the system.
+比特币最初中心化的原因有几个，而这些原因在今天已经不存在了。首先，正如前面所述，一个人指导并决定系统中的所有更改。
 
-The second factor was that, because a personality as important as the founder of the technology was at its helm, everyone running nodes would follow his lead. We could say, metaphorically, that Bitcoin had a king at this time.
+第二个原因是，因为像技术创始人这样重要的人物掌控着技术的发展方向，所有运行节点的人都会跟随他的领导。可以说，比特币在这个时候是有君主的。
 
-The third factor was that, for a while, Bitcoin node operation and mining were not distinguishable or separated activities. Indeed, just by downloading and running the client, any computer could mine BTC because the computing base dedicated to it was so small.
+第三个原因是，在一段时间内，比特币节点运营和挖矿活动没有区分或分开。事实上，只要下载并运行客户端，任何计算机都可以挖掘BTC，因为专门用于此目的的计算基础非常小。
 
-However, now, at scale, Bitcoin has more than 900 contributor developers across the world, it is operated by tens of thousands of nodes globally that are divided between miners and verifying nodes, its hashingrate is enormous, and its founder disappeared in 2010.
+然而，如今，在规模上，比特币有900多名贡献者开发者，全球运营着数以万计的节点，这些节点分为矿工和验证节点，其哈希率巨大，而其创始人已经在2010年消失。
 
-## Ethereum Classic Was Also Centralized Initially
+## 以太坊最初也是中心化的
 
-Ethereum (ETH) and Ethereum Classic (ETC) were both one blockchain in the beginning. What caused the separation of both systems was an event called [The DAO hard fork](https://ethereumclassic.org/blog/2023-01-26-ethereum-classic-course-6-ethereum-classic-is-the-original-chain) that happened in 2016.
+以太坊（ETH）和以太坊经典（ETC）最初是同一条区块链。导致两个系统分离的事件是发生在2016年的一次名为[The DAO硬分叉](https://ethereumclassic.org/blog/2023-01-26-ethereum-classic-course-6-ethereum-classic-is-the-original-chain)。
 
-Initially, Ethereum, as a single system, was quite centralized because it was funded by a large crowdfund effort organized by its founder, [Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin), and his team of colleagues; the initial coin holders were a limited number of investors; a significant portion of the initial coins went to the developers and the Ethereum Foundation; and, today, the Ethereum Foundation counts with hundreds of millions of dollars from its initial funding effort to continue directing development.
+最初，以太坊作为一个单一系统是相当中心化的，因为它是由其创始人[Vitalik Buterin](https://en.wikipedia.org/wiki/Vitalik_Buterin)及其同事团队组织的大规模众筹活动资助的；最初的代币持有者是有限数量的投资者；初始代币的大部分分配给了开发人员和以太坊基金会；而如今，以太坊基金会从其初始资金筹集活动中获得了数亿美元，继续主导着发展。
 
-To this day, Vitalik Buterin continues to lead the project and the Ethereum ecosystem [usually follows](https://x.com/VitalikButerin/status/1588669782471368704) his directions. We could say, metaphorically, that Ethereum has a president or CEO at this time.
+直到今天，Vitalik Buterin仍然领导着这个项目和以太坊生态系统，并且[通常](https://x.com/VitalikButerin/status/1588669782471368704)项目会遵循他的指导。可以说，以太坊在这个时候有一个总统或CEO。
 
-## The Initial Centralization Caused The DAO Hard Fork
+## 最初的中心化导致了The DAO硬分叉
 
-Indeed, it was a curious event that The DAO hard fork at the time was so easy to pull given that the unified blockchain, Ethereum, was a proof of work network.
+事实上，The DAO硬分叉当时如此容易实现，这是一个奇怪的事件，因为当时统一的区块链以太坊是一个工作量证明网络。
 
-However, the explanation to this is that Ethereum had not reached any significant scale at the time; it was, as is now, led by its founder; the Ethereum Foundation controlled development through its funding; and all ecosystem node operators and miners were just following the leaders’ commands.
+然而，这可以解释为以太坊当时没有达到任何显著的规模；就像现在一样，它是由其创始人主导的；以太坊基金会通过其资金控制了发展；而所有生态系统的节点运营者和矿工都只是在追随领导者的命令。
 
-Today, this leadership is so strong, and its followers so financially incentivised by the enormous resources of its centralized command, that the network even migrated to an even more centralized model which is proof of stake.
+如今，这种领导力非常强大，其追随者因其集中化命令的巨大资源而受到财务激励，以至于网络甚至迁移到了更加集中化的模式，即权益证明。
 
-## However, ETC Is Now Decentralized at Scale
+## 然而，ETC现在已经在规模上去中心化
 
 ![](./1.png)
 
-The DAO hard fork was, in retrospect, a marvelous event for Ethereum Classic. By staying as the original chain, with no alterations, immutable, and respecting a “Code Is Law” philosophy it suddenly became an isolated, unfunded and unsupported project. This sudden desolation couldn’t have been better for today’s true decentralization in Ethereum Classic.
+The DAO硬分叉事实上对以太坊经典来说是一个奇迹般的事件。通过保持作为原始链，并且没有任何更改，不可改变，以及遵守“法律即代码”的理念，它突然变得孤立、没有资金支持和无人支持的项目。这种突然的荒芜对今天以太坊经典的真正去中心化来说再合适不过了。
 
-As time passed by, new backers and developers joined the ETC ecosystem; more exchanges and node operators started to support the chain; hashing power and mining started to grow significantly; and ETC has become [the largest](https://ethereumclassic.org/blog/2024-04-03-ethereum-classic-etc-is-the-leading-smart-contracts-proof-of-work-blockchain-in-the-world) proof of work smart contracts blockchain in the world!
+随着时间的推移，新的支持者和开发人员加入了ETC生态系统；更多的交易所和节点运营者开始支持该链；哈希算力和挖矿开始显著增长；ETC已成为[世界上最大的](https://ethereumclassic.org/blog/2024-04-03-ethereum-classic-etc-is-the-leading-smart-contracts-proof-of-work-blockchain-in-the-world)工作量证明智能合约区块链！
 
-In philosophy and ecosystem topography, now ETC is very similar to Bitcoin: It has no charismatic founders, node operators and miners are spread all around the world; and there is no entity with large pockets directing the system.
+在哲学和生态系统拓扑结构方面，现在ETC与比特币非常相似：它没有魅力四射的创始人，节点运营者和矿工遍布全球；没有任何有着大量资金的实体来指导系统。
 
-## Therefore ETC Does Not Have Kings, Presidents, CEO’s, or Administrators
+## 因此，ETC没有国王、总统、CEO或管理员
 
-This means that ETC is a completely decentralized blockchain, not only because, at scale, its design naturally tends to decentralization, as is the proof of work model of consensus, but also because there are no single actors who lead or manage the system.
+这意味着ETC是一个完全去中心化的区块链，不仅因为在规模上，其设计自然趋向于去中心化，就像工作量证明的共识模式一样，而且还因为没有任何单一的角色来领导或管理系统。
 
-Ethereum Classic doesn’t have any ICO or VC funding, big development team, or well funded foundation or corporation managing it.
+以太坊经典没有任何ICO或VC资金、庞大的开发团队，也没有资金充足的基金会或公司来管理它。
 
-All these parts in the ecosystem are growing organically and in a distributed manner globally not only because the world is realizing that ETC has these true principles, but because its decentralist principles are actually encoded in its system.
+所有这些生态系统中的部分都在全球范围内有机地增长和分布，不仅因为世界意识到ETC具有这些真实的原则，而且因为其去中心化的原则实际上被编码到其系统中。
 
-For these reasons, we could say, metaphorically, that ETC has no kings, presidents, CEO’s, or administrators.
+基于这些原因，我们可以说，ETC没有国王、总统、CEO或管理员。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
