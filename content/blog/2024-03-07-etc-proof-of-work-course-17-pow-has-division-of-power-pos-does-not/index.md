@@ -4,7 +4,7 @@ date: 2024-03-07
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["series", "education"]
-linkImage: ./1.png
+linkImage: ./banner.png
 ---
 
 ---
@@ -13,6 +13,8 @@ linkImage: ./1.png
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7jla4AEdvBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+
+![](./banner.png)
 
 In the previous class, 16, we explained the three pillars of ETC; Proof of Work (POW), a fixed supply, and smart contracts; and why they enable the true concepts of “Code Is Law” and “Unstoppability”.
 

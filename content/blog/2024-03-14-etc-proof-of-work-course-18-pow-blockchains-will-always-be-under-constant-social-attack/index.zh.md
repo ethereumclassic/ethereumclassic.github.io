@@ -4,7 +4,7 @@ date: 2024-03-14
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["series", "education"]
-linkImage: ./1.png
+linkImage: ./banner.png
 ---
 
 ---
@@ -13,6 +13,8 @@ linkImage: ./1.png
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nPUiAJzR5q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+
+![](./banner.png)
 
 在上一节（第17节）中，我们解释了工作证明（POW）区块链，如比特币和以太坊经典（ETC）具有权力分配，而权益证明（POS）链则没有。
 
