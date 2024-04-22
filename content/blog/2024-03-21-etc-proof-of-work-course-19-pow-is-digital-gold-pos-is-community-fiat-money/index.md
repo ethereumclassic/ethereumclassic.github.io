@@ -4,7 +4,7 @@ date: 2024-03-21
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["series", "education"]
-linkImage: ./banner.png
+linkImage: ./banner-1.png
 ---
 
 ---
@@ -13,6 +13,8 @@ linkImage: ./banner.png
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zpf2hH6zC5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+
+![](./banner-1.png)
 
 In the previous class, 18, we explained why POW blockchains such as Bitcoin (BTC) and Ethereum Classic (ETC) will always be under constant social attack because in truly decentralized systems there are no higher authorities to impose order.
 
