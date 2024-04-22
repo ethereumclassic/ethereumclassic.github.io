@@ -4,7 +4,7 @@ date: 2024-03-12
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["education"]
-linkImage: ./1.png
+linkImage: ./banner.png
 ---
 
 ---
@@ -14,7 +14,7 @@ linkImage: ./1.png
 
 ---
 
-![](./1.png)
+![](./banner.png)
 
 To understand what is a blockchain split, first we need to understand what is a blockchain.
 
