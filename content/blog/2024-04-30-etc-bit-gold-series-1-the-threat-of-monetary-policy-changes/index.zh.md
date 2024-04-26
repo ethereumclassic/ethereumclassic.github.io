@@ -1,5 +1,5 @@
 ---
-title: "ETC Bit Gold Series: 1. The Threat of Monetary Policy Changes"
+title: "ETC比特黄金系列：1. 货币政策变化的威胁"
 date: 2024-04-30
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**您可以在这里收听或观看这个视频:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/08BocPBQO98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,102 +16,98 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-The idea of integrating Bit Gold into Ethereum Classic (ETC) stems from some perceived lingering risks that still hang over proof of work blockchains.
+将Bit Gold整合到Ethereum Classic（ETC）的想法源自对工作量证明区块链仍存在潜在风险的一些感知。
 
-Bit Gold solves all of these risks.
+Bit Gold解决了所有这些风险。
 
-The risks are:
+这些风险包括：
 
-1. Possible monetary policy changes by the network ecosystems.
+1. 网络生态系统可能的货币政策变化。
+2. 费用是否足以支付安全预算。
+3. 是否总是使用本地代币支付交易费用。
 
-2. Whether fees will pay for the security budgets.
+在本文中，我们将解释货币政策变化的威胁以及Bit Gold如何解决这个问题。
 
-3. Whether the native coins will always be used to pay for transaction fees.
+在未来的文章中，我们将解释另外两个风险。
 
-In this post we will explain the threat of monetary policy changes and how Bit Gold fixes it. 
-
-In future posts we will explain the other two risks.
-
-## What Is Bit Gold?
+## 什么是Bit Gold？
 
 ![](./2.png)
 
-The idea of Bit Gold was born in early 1998 when Nick Szabo, a blockchain pioneer, realized that computing proof of work could be used to create an analogy of gold but in cyberspace. 
+Bit Gold的概念诞生于1998年初，当时区块链先驱Nick Szabo意识到计算工作量证明可以用来在网络空间中创建类似黄金的东西。
 
-If computers can do a lot of work, spending a lot of energy, to create a cryptographic stamp or hash, and that hash is proof that the work was done, then the hash is similar to an ounce of gold but in cyberspace.
+如果计算机可以做大量工作，花费大量能源来创建一个密码学印记或哈希，而该哈希证明了工作已经完成，那么该哈希类似于网络空间中的一盎司黄金。
 
-If we think about it, gold is very difficult to extract from nature. This is why it is scarce and valuable as a monetary asset. 
+如果我们仔细想想，黄金是非常难从自然界中提取出来的。这就是为什么它作为货币资产是稀缺和有价值的原因。
 
-If this is the case, then an ounce of gold is a proof that gold miners in the real world did a lot of work to extract it.
+如果是这样的话，那么一盎司黄金就是黄金矿工在现实世界中做了大量工作来提取它的证明。
 
-Similarly, proof of work hashes are scarce and very difficult to produce, hence the analogy with gold in the real world.
+同样地，工作量证明哈希是稀缺且非常难以产生的，因此与现实世界中的黄金类似。
 
-This is why these computer hashes are called “Bit Gold”.
+这就是为什么这些计算机哈希被称为“Bit Gold”。
 
-## Why Are Bitcoin and ETC Not Bit Gold?
+## 为什么比特币和ETC不是Bit Gold？
 
 ![](./1.png)
 
-However, the idea of Bit Gold was never implemented for several reasons.
+然而，Bit Gold的概念从未实现过，原因有几个。
 
-The first reason was that each proof of work hash is not equal to the other. This means that they are not fungible. This is because as time passes by computer technology evolves and becomes more efficient, thus older Bit Gold hashes may have used less computer power, and newer ones much more.
+首先，每个工作量证明哈希并不相等。这意味着它们不具有可替代性。这是因为随着时间的推移，计算机技术不断发展并变得更加高效，因此较旧的Bit Gold哈希可能使用了更少的计算机功率，而较新的哈希则使用了更多。
 
-Inversely, older Bit Gold hashes may acquire more value because of their history, and newer ones may be less valuable subjectively in the market.
+相反，由于历史原因，较旧的Bit Gold哈希可能会获得更多的价值，而较新的哈希在市场上可能相对较不有价值。
 
-For these reasons, Bit Gold needed a market inside the blockchain for users to be able to price them and find out their relative values.
+因此，Bit Gold需要区块链内的市场，使用户能够对其进行定价并了解其相对价值。
 
-But when Bitcoin (BTC) was invented in 2009, the technology for decentralized exchanges did not exist yet. And when ETC was created it was launched using the same design as BTC.
+但是当比特币（BTC）在2009年发明时，去中心化交易所技术还不存在。当ETC创建时，它采用了与BTC相同的设计。
 
-## The Coins in Bitcoin and ETC Are Community Fiat Money
+## 比特币和ETC中的代币是社区法定货币
 
-The idea of the original design of Bit Gold was that the proof of work hashes would be grouped into bundles of equal value so they would become standardized, similar to gold bars in the real world.
+最初设计的Bit Gold的想法是，工作量证明哈希将被组成具有相等价值的捆绑包，因此它们将变得标准化，类似于现实世界中的黄金条。
 
-Then, these Bit Gold bundles would be used to issue cryptocurrencies backed by the Bit Gold.
+然后，这些Bit Gold捆绑包将用于发行由Bit Gold支持的加密货币。
 
-This is the design in Bitcoin and ETC but much simplified.
+这是比特币和ETC的设计，但简化得多。
 
-Bitcoin and ETC obtain the block hashes created by means of proof of work from the miners, and then they issue artificially created coins called “BTC” or “ETC” but they are just tokens printed to pay for the miner’s work. They are not the actual Bit Gold.
+比特币和ETC从矿工那里获取通过工作量证明创建的区块哈希，然后发行人为创建的名为“BTC”或“ETC”的代币，但它们只是用于支付矿工工作的代币。它们并不是实际的Bit Gold。
 
-This is why I call the coins in Bitcoin and ETC “community fiat money”. The Bit Gold hashes are actually buried in the blockchains in the form of block hashes.
+这就是为什么我将比特币和ETC中的代币称为“社区法定货币”。实际的Bit Gold哈希实际上被埋藏在区块链中，以区块哈希的形式存在。
 
-## The Monetary Policy Is Only a Software Parameter
+## 货币政策只是软件参数
 
-The reason I use the term “community fiat money” is because the monetary policies in Bitcoin and ETC are rules established by the blockchain communities. Similar to how monetary policies are established by the government.
+我使用“社区法定货币”这个术语的原因是因为比特币和ETC中的货币政策是由区块链社区制定的规则。这类似于货币政策是由政府制定的。
 
-These monetary rules were encoded in their protocols in the form of software parameters.
+这些货币规则以软件参数的形式编码到它们的协议中。
 
-For example, in Bitcoin the parameters were:
+例如，在比特币中，参数是：
 
-“Print 50 BTC per block and credit it to the miners account. And, every 210,000 blocks, reduce that payment by 50%.”
+“每个区块印50个BTC并将其记入矿工账户。每经过210,000个区块，将该支付减少50%。”
 
-In ETC the policy was:
+在ETC中，政策是：“每个区块印5个ETC并将其记入矿工账户。每经过5,000,000个区块，将该支付减少20%。”
 
-“Print 5 ETC per block and credit it to the miner’s account. And, every 5,000,000 blocks, reduce that payment by 20%.”
+## 因此，它是可以改变的
 
-## Therefore, It Could Be Changed
+我指出BTC和ETC供应只是通过软件设置的原因是，硬币的创建只是一个微不足道的软件更改问题，而不是像区块哈希那样需要大量能源的蛮力问题。
 
-The point of pointing out the fact that BTC and ETC supplies are set just by software is that the creation of the coins is a matter of a trivial software change, not of brute force using energy as are the block hashes.
+这并不意味着实际实施这些软件更改会很容易。肯定不会，我们甚至向我们的读者指出，这些系统的社会层面存在障碍来实施不良更改，例如修改它们的货币政策。
 
-This does not mean that actually implementing these software changes would be easy. It will certainly not be, and we even [note](https://ethereumclassic.org/blog/2023-03-02-ethereum-classic-course-11-ethereum-classic-social-and-physical-layer-security) to our readers that there are barriers in the social layers of these systems to implementing bad changes, such as modifications to their monetary policies.
+然而，这种可能性并非不切实际。自启动以来，以太坊已经六次改变其货币政策，其中几次是在它是工作量证明区块链时发生的。
 
-However, the idea that it may happen is not far fetched either. Ethereum changed its monetary policy 6 times since inception and several of these occurred when it was a proof of work blockchain.
+以太经典在2017年分离危机后曾一次改变其货币政策。
 
-Ethereum Classic changed its monetary policy once in 2017 after the separation crisis from Ethereum. 
+## 然而，Bit Gold是永久数字黄金
 
-## However, Bit Gold is Perpetual Digital Gold
+因此，消除这种潜在风险的永久解决方案是将ETC转变为Bit Gold区块链。
 
-So, the permanent solution to this lingering risk is to transform ETC into a Bit Gold blockchain.
+通过生成区块哈希，矿工将永远产生数字黄金，就像现实世界中的金矿工每年都在不断产生更多的黄金一样，已经持续了6000年。
 
-By producing block hashes, miners would perpetually be producing digital gold, just like gold miners in the real world constantly produce more gold every year and have been doing this for 6,000 years.
+实际上，全球黄金产量与全球黄金库存的比例约为1.7%。这意味着黄金有一个稀释率，有时被称为通胀率，每年为1.7%。
 
-Indeed, the ratio of gold production to the global stock of gold is around 1.7%. This means that gold has a dilution rate, sometimes called inflation rate, of 1.7% per year.
+很可能，一种永久机制将在ETC中创造Bit Gold并在这些比例周围定居。
 
-It would be very probable that a perpetual mechanism that would create Bit Gold in ETC would also settle around these ratios.
-
-The important thing, is that no possibility of changing the monetary policy would exist because, with Bit Gold, ETC would stop depending on a software parameter for its monetary supply, but exclusively on the physical work done by ETC miners.
+重要的是，不存在改变货币政策的可能性，因为在Bit Gold的情况下，ETC将不再依赖软件参数来确定其货币供应，而是完全依赖ETC矿工所做的实际工作。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
