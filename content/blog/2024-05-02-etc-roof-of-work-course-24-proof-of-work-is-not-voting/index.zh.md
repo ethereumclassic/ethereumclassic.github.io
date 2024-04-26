@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 24. Proof of Work Is Not Voting"
+title: "ETC工作量证明课程：24.工作量证明不是投票"
 date: 2024-05-02
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,88 +8,86 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l-DxYeZ7L5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In the previous class, 23, we explained why true decentralization is enabled by the security model of proof of work (POW) consensus, how the social layer is not a risk, why POW ungovernance is the natural way of managing the system, and that it actually works better without governance!
+在上一课，第23课中，我们解释了为什么真正的去中心化是由工作量证明（POW）共识的安全模型实现的，社会层不是风险的原因，为什么POW无管治是管理系统的自然方式，并且实际上没有管治反而运作更好！
 
-Speaking of “ungovernance” and “governance”, in this class, 24, we will explain that there is a misconception in POW ecosystems that says that the POW process, or better named Nakamoto Consensus, is a voting mechanism.
+谈到“无管治”和“管治”，在本课程第24课中，我们将解释在POW生态系统中存在一种误解，即POW过程，或更好地称为中本聪共识，是一种投票机制。
 
-This can’t be further from the truth. POW is really a competition, but not a voting mechanism. In this class we will analyze and explain these differences.
+这离事实还有很大的距离。POW实际上是一场竞争，而不是投票机制。在本课中，我们将分析并解释这些区别。
 
-## Romantic “Democracy” Language In the Bitcoin White Paper
+## 比特币白皮书中的浪漫“民主”语言
 
 ![](./1.png)
 
-Unfortunately, Satoshi Nakamoto introduced romantic “democracy” like language in the Bitcoin white paper and that has confused many idealists in the blockchain industry who think that blockchains are ethical communities, and that these communities should make decisions about the protocol based on democratic methods.
+不幸的是，中本聪在比特币白皮书中引入了浪漫的“民主”语言，这使得区块链行业的许多理想主义者产生了困惑，他们认为区块链是道德社区，这些社区应该根据民主方法来决定协议的问题。
 
-It was clearly a mistake by Mr. Nakamoto to introduce such language. He was really trying to explain why proof of work avoided the problem of sockpuppet nodes taking over the network when voting was necessary in other kinds of systems.
+中本聪明显犯了一个错误，他引入这样的语言。他实际上是在解释为什么工作量证明避免了当其他类型的系统需要投票时，冒充节点接管网络的问题。
 
-POW actually does not solve the sockpuppet problem either! 
+POW实际上也没有解决冒充节点的问题！
 
-In POW it is just mere hashpower that determines which is the next block, but it is not known who owns that hashpower. In other words, that hashpower could be controlled by a single attacker. And, it is even not known today how many individual miners are behind the mining pools. 
+在POW中，确定下一个区块的只是纯粹的哈希算力，但不知道拥有该哈希算力的是谁。换句话说，该哈希算力可能被单个攻击者控制。而且，今天甚至不知道有多少个体矿工在矿池背后。
 
-So, even through POW it couldn’t be determined who are the majority and what is their true vote.
+因此，即使通过POW，也无法确定谁是多数派及其真实的投票意愿。
 
-## Proof of Work Is Savage Competition
+## 工作量证明是野蛮的竞争
 
-What we explained in the previous section means that POW IS NOT VOTING NOR A DEMOCRACY. 
+我们在上一部分中解释的意味着POW既不是投票也不是民主。
 
-POW is truly savage competition and survival of the fittest within a very civilized and strict method imposed by cryptography.
+POW实际上是真正的野蛮竞争和适者生存，而这是通过加密技术强制施加的非常文明和严格的方法。
 
-Miners around the world just plug as many machines as they can to as cheap as possible energy sources so they can achieve the highest efficiency possible to try to outrun and outearn the other miners in the world.
+全球各地的矿工只是尽可能多地连接机器到尽可能便宜的能源来源，以便他们能够以最高的效率尝试超过并赚取比世界上其他矿工更多的收益。
 
-Then, through the POW protocol, they produce as many hashes as possible, and when one of them hits the target difficulty, they immediately send the block to the rest of the network for verifications and to receive the block reward.
+然后，通过POW协议，他们生成尽可能多的哈希，当其中一个达到目标难度时，他们立即将该区块发送到网络的其余部分进行验证，并接收区块奖励。
 
-Note, that the above means that the “rest of the network” is not even involved in the supposed voting process, therefore if it were such a mechanism, then all these nodes would actually be left out of the supposed political system!
+需要注意的是，上述意味着“网络的其余部分”甚至没有参与所谓的投票过程，因此如果这是一种机制，那么所有这些节点实际上都将被排除在所谓的政治系统之外！
 
-POW, hence, is like a 100 meter sprint. When all the men in the race sprint to the finish line, whoever got there first won and will get the prize. The runners did not actually “vote” who would win. And, the result was determined by the extreme minority of one single winner.
+因此，POW就像100米赛跑一样。当比赛中的所有人都冲向终点线时，谁先到达终点线谁就获胜并获得奖励。参赛者实际上没有“投票”谁会赢。结果由极少数人中的一个获胜者决定。
 
-## Voting Is a Conflict Resolution Device
+## 投票是一种冲突解决工具
 
-In truth, voting is a social conflict resolution device, not even a good decision making system. 
+事实上，投票是一种社会冲突解决工具，甚至不是一个好的决策系统。
 
-In nature, animals resolve conflict to prevent constant fighting between themselves by various methods. These may range from comparing body size, to howling contests, who got to a mating partner first, or marking territory with urine. All these methods avoid the excess costs of violence, but none of them are “voting”.
+在自然界，动物通过各种方法解决冲突，以防止它们之间不断的战斗。这些方法可能从比较体型、比赛吼叫、谁先到达交配对象，到用尿液标记领地。所有这些方法都避免了暴力的过度成本，但都不是“投票”。
 
-Similarly, to avoid constant violence between the parties, voting in human societies is a method to force the parties to accept results even if they don’t like them, and even if the result is a grossly bad decisions.
+同样地，为了避免各方之间的不断暴力冲突，人类社会中的投票是一种迫使各方接受结果的方法，即使他们不喜欢这些结果，即使结果是严重错误的决定。
 
-As an example, imagine voting who will fly the plane in your next flight.
+举个例子，想象一下，投票决定谁将在你下次飞行中驾驶飞机。
 
-POW is pure merit and free adoption, thus purely voluntary. 
+POW是纯粹的功绩和自由采纳，因此完全是自愿的。
 
-In POW, nobody is forced to anything just because some majority decided it. Indeed, nodes can even split from the network at will as we explained [in class 17](https://ethereumclassic.org/blog/2024-03-07-etc-proof-of-work-course-17-pow-has-division-of-power-pos-does-not) of this course.
+在POW中，没有人被强迫做任何事情，只是因为某些多数派决定了这样做。实际上，节点甚至可以随意退出网络，就像我们在本课程的[第17课](https://ethereumclassic.org/blog/2024-03-07-etc-proof-of-work-course-17-pow-has-division-of-power-pos-does-not)中解释的那样。
 
-## Voting Submits the Minority
+## 投票会让少数派服从
 
-Simplistic voting mechanisms that, for example, resolve issues by simple majority are actually submission methods. The minorities must submit to what the majorities decide no matter what are the consequences.
+例如，通过简单多数决定解决问题的简单投票机制实际上是一种服从方法。少数派必须接受多数派决定，无论后果如何。
 
-This is why the “Republic” was invented to avoid the tyranny of the majorities. This was even [discovered](https://en.wikipedia.org/wiki/Republic_(Plato)) in in antiquity by the Greeks 2,400 years ago!
+这就是“共和国”被发明出来的原因，以避免多数派的专制。这甚至在2400年前的希腊人[发现](https://en.wikipedia.org/wiki/Republic_(Plato))！
 
-## POW Achieves Voluntary Consensus
+## POW实现了自愿共识
 
-![](./2.png)
+但是，POW甚至比共和国模式更好，因为它是通过纯粹的功绩和身体力量，这两者都是绝对的道德美德，参与者在系统中实现自愿共识的。 
 
-But, POW is even better than the Republic model because it is by mere merit and physical prowess, both absolute moral virtues, that the participants achieve voluntary consensus in the system. 
+POW非常分散，来自世界各地甚至在地缘政治上可能完全对立的陌生人正在合作，正如我们所说，正在和平地构建和验证比特币和ETC区块并处理交易。
 
-POW is so decentralized, that strangers around the world, who may even be totally antagonistic in geopolitics, are collaborating as we speak in building and verifying Bitcoin and ETC blocks and processing transactions peacefully. 
+例如，乌克兰和俄罗斯的节点和矿工以及伊朗和以色列的节点和矿工就是这样的例子。
 
-Examples of this are Ukrainian and Russian nodes and miners, and Iranian and Israeli nodes and miners.
+## 因此，POW不是投票
 
-## Therefore, POW Is Not Voting
+上述所有内容都强有力地说明了为什么基于POW的中本聪共识机制不是一种投票机制。它就是其名称所表示的，一种没有暴力的共识机制。
 
-All of the above are powerful illustrations of why the POW based Nakamoto Consensus mechanism is not a voting mechanism. It is what its name says, a violence free consensus mechanism.
+它是客观由物理学和人类自然竞争和赢得奖励的驱动力所支持的。没有人被迫服从，也没有少数派必须接受任何结果。
 
-It is objectively powered by physics and the natural drive of man to compete and earn rewards for winning. Nobody is submitted, and no minority has to accept any results.
+事实上，少数派在POW中是至高无上的，因为只有一个矿工可能决定哪个是下一个区块...而绝大多数人都很乐意接受这样的结果，因为我们被设计成这样做。
 
-Indeed, the minority is king in POW as only one miner may decide which is the next block…and the great majority happily accepts such results because we were Designed to do so.
-
-Pure voting is a limited scope, subjective method of channeling tyranny through manipulation and coercion. This is exactly the opposite of what blockchains are designed to do.
+纯粹的投票是一种有限范围的、主观的方法，通过操纵和胁迫来传达暴政，这正是区块链设计的反面。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期文章!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
