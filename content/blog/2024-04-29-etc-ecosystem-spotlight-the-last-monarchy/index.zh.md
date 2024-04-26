@@ -1,5 +1,5 @@
 ---
-title: "ETC Ecosystem Spotlight: The Last Monarchy"
+title: "ETC生态系统聚焦：最后的君主"
 date: 2024-04-29
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,30 +8,32 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can watch this interview here:**
+**由此收听或观看本次采访:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TmlYqhuS_j4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In this ETC Ecosystem Spotlight we highlight the team behind the game "[The Last Monarchy](https://thelastmonarchy.io/)".
+ETC生态系统聚焦：《最后的君主》
 
-We spoke with Dominik Jurada and Sandro Licul, co-founders of The Last Monarchy about the following topics:
+在这篇ETC生态系统聚焦中，我们将重点介绍游戏《[最后的君主](https://thelastmonarchy.io/)》背后的团队。
 
-- What Is "The Last Monarchy"?
-- Who are the team behind it?
-- Why does it use ETC?
-- The two function in the back end on ETC: NFTs and governance token
-- When is it going to be launched and on what platforms?
+我们与《最后的君主》的联合创始人Dominik Jurada和Sandro Licul进行了以下讨论：
+
+- 《最后的君主》是什么？
+- 背后的团队是谁？
+- 为什么选择使用ETC？
+- 它在ETC上的两个后端功能：NFT和治理代币
+- 它将在何时推出，以及支持哪些平台？
 
 ![](./1.png)
 
-Sandro made a short presentation about the team and the game that you will like!
+Sandro做了一个关于团队和游戏的简短介绍，我相信你会喜欢的！
 
-We thank Garalo, an active ETC community member, for introducing us to this project.
+我们要感谢Garalo，他是一位活跃的ETC社区成员，为我们介绍了这个项目。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
