@@ -1,5 +1,5 @@
 ---
-title: "Correcting the CoinDesk Article About Ethereum Classic"
+title: "修改CoinDesk关于以太经典的文章"
 date: 2024-05-01
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -9,170 +9,176 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-The crypto news agency CoinDesk has an article about Ethereum Classic (ETC) with the title and tag “Ethereum Classic: ETC 101, Ethereum Classic was created in 2016 after Ethereum’s blockchain split into two separate chains” in the following link:
-
-https://www.coindesk.com/learn/ethereum-classic-etc-101/
-
-The post has an introduction and then 5 sections.
-
-The text has some good information, however some parts have mistakes or common misconceptions that we wish to clarify. Additionally, we would also like to add some more content to reflect a more complete picture of ETC.
-
-In the following sections we will go over CoinDesk’s statements, we will propose corrected phrases and additional content, and express our rationale for the changes and additions.
-
-## Section: Tag Line
-
-**CoinDesk Statement:**
-
-Ethereum Classic was created in 2016 after Ethereum’s blockchain split into two separate chains.
-
-**Our Corrections and Additions:**
-
-Ethereum Classic (ETC) was created between 2014 and 2015, and launched in 2015. Both Ethereum Classic and Ethereum (ETH) were one blockchain at the time. Then, in 2016, Ethereum split from the mainnet due to a controversy regarding a decentralized application called The DAO. 
-
-**Rationale:**
-
-As we pointed out above, there are several misconceptions about ETC in the industry. One of those is that it was created in 2016 as a consequence of The DAO hard fork. However, the truth is that the new chain created in 2016 was Ethereum as it is the one that introduced the manual changes that caused the divide in the ecosystem.
-
-Indeed, ETH and ETC were one chain when it was launched on July 30 2015, and then, on July 20 2016, Ethereum separated from the mainnet, ETC.
-
-## Section: Introductory Text
-
-**CoinDesk Statement:**
-
-Ethereum Classic is a blockchain that was created after a contentious hard fork of the Ethereum blockchain took place in 2016.
-
-Like Ethereum, it supports smart contracts and decentralized applications (dapps). Its native asset is referred to as ethereum classic or ETC.
-
-In 2016, blockchain startup slock.it built and launched a decentralized autonomous organization, dubbed The DAO, on the Ethereum blockchain. The DAO was intended to serve as a decentralized venture capital fund for projects launched on Ethereum, and approximately 10,000 people invested more than $168 million in the project through a crowdsale.
-
-During the course of the crowdsale, several vulnerabilities were identified in The DAO’s code and it was subsequently hacked. The attacker stole approximately $60 million worth of ether, which amounted to roughly 14 percent of all ether at the time.
-
-After much debate within the Ethereum community, a hard fork was executed on block 1,920,000, which altered Ethereum’s code to return the lost funds to investors. However, some Ethereum nodes objected to the fork on the grounds that it would mean that the blockchain would not be immutable, among other reasons, and decided that they would not run the updated software.
-
-These nodes continued to run and mine the pre-fork version of the Ethereum blockchain, which is now known as Ethereum Classic.
-
-In January 2019, Ethereum Classic suffered a 51 percent attack, meaning that a miner (or miners) gained control of the majority of computing power on the network, allowing them to stop or reverse transactions on the blockchain and double-spend coins.
-
-**Our Corrections and Additions:**
-
-Ethereum Classic and Ethereum were one blockchain that was created between 2014 and 2015, and launched on July 30 2015.
-
-After a contentious hard fork in 2016, Ethereum split from the unchanged mainnet, ETC.
-
-Like Ethereum, ETC supports smart contracts and decentralized applications (dapps). Its native asset is referred to as ether or ETC.
-
-In 2016, blockchain startup slock.it built and launched a decentralized autonomous organization, dubbed The DAO, on the unified Ethereum blockchain. The DAO was intended to serve as a decentralized venture capital fund for projects launched on Ethereum, and approximately 10,000 people invested more than $168 million in the project through a crowdsale.
-
-During the course of the crowdsale, several vulnerabilities were identified in The DAO’s code and it was subsequently hacked. The attacker stole approximately $60 million worth of ether, which amounted to roughly 14 percent of all ether at the time.
-
-After much debate within the Ethereum community, a hard fork was executed on block 1,920,000, which introduced an irregular state change to Ethereum to return the lost funds to investors. However, some Ethereum developers, nodes, and miners objected to the fork on the grounds that it would mean that the blockchain would not be immutable, among other reasons, and decided that they would not run the updated software.
-
-These nodes continued to run and mine the pre-fork version of the Ethereum blockchain, which is now known as Ethereum Classic.
-
-In January 2019, Ethereum Classic suffered a 51 percent attack, meaning that a miner (or miners) gained control of the majority of computing power on the network, allowing them to stop or reverse transactions on the blockchain and double-spend coins.
-
-**Rationale:**
-
-In the first few lines we clarify that ETC and ETH were both one chain in the beginning and that in 2016 it was Ethereum the one that split from the mainnet, ETC. 
-
-Ethereum Classic is the original untampered blockchain. Ethereum contains a manual reversal of transfers of funds from The DAO hacker to the original investors.
-
-ETC’s native asset is “ether” just as in Ethereum. The difference is that the ticker used by exchanges is “ETC” instead of “ETH”.
-
-The technical event that happened during The DAO hard fork was an irregular state change, not a change of code. 
-
-Those who did not follow the irregular state change on the grounds that it would violate immutability were developers, nodes, and miners. Again, they maintained and perpetuated the original untampered chain.
-
-The rest of the content is correct in this section.
-
-## Section: Launch and Issuance
-
-**CoinDesk Statement:**
-
-Ethereum Classic launched in July 2016. ETC was distributed at a 1:1 ratio for all holders of the Ethereum blockchain’s original currency, ETH, after the fork. This meant that the Ethereum Foundation automatically became a large holder of ethereum classic, though it subsequently sold the majority of its coins. Additionally, it is notable that the hacker of The DAO holds approximately 3.4 million ETC, which represents approximately 4% of the supply.
-
-**Our Corrections and Additions:**
-
-Ethereum Classic and Ethereum launched as a unified blockchain in July 2015. Then Ethereum split in 2016, so ETH was distributed at a 1:1 ratio for all holders of the ETC and ETH previously unified blockchain’s original currency, ether, after the fork. This meant that the Ethereum Foundation automatically became a large holder of the legacy Ethereum Classic, though it subsequently sold the majority of its coins. 
-
-Additionally, it is notable that the hacker of The DAO holds approximately 3.4 million ETC in the original chain, Ethereum Classic, which represents approximately 2.3% of the supply.
-
-**Rationale:**
-
-ETC and ETH were one chain originally. Then, ETH separated from the mainnet and took the name and token symbol. ETH holders kept the same ether holdings on both chains. The hacker of The DAO still holds approximately 3.4 ETC which represent more or less 2.3% of the total supply as ETC supply is now more or less 146,000,000.
-
-That the Ethereum Foundation kept a large holding of ETC in the original chain is correct, and using the term “legacy chain” to refer to ETC is very correct. 
-
-## Section: Network Design & Security Model
-
-**CoinDesk Statement:**
-
-Ethereum Classic’s code is an implementation of the original Ethereum blockchain, however the project is not static and continues to develop and change. Whereas, Ethereum will eventually transition from a proof-of-work consensus mechanism to a proof-of-stake mechanism, Ethereum Classic forked its code in 2018 to retain its proof-of-work model.
-
-**Our Corrections and Additions:**
-
-Ethereum Classic’s protocol is the implementation of the original Ethereum blockchain, however the project is not static and continues to develop and change. As an EVM blockchain, ETC mostly is up-to-date with the Ethereum EVM standard. Whereas, Ethereum transitioned from a proof-of-work consensus mechanism to a proof-of-stake mechanism, Ethereum Classic forked its code in 2018 to retain its proof-of-work model. This fork consisted in eliminating what was called the “difficulty bomb” which was a mechanism to force the Ethereum blockchain to migrate to proof of stake.
-
-**Rationale:**
-
-As the legacy blockchain, Ethereum Classic’s protocol is the implementation of the original Ethereum blockchain.
-
-As ETC is an EVM blockchain it usually updates its protocol and code to be in technical parity with ETH.
-
-The fork in 2018 by ETC was to eliminate a device called the “difficulty bomb” that would have forced the ecosystem to migrate to proof of stake. This is what cemented proof of work as the stable consensus mechanism in ETC.
-
-## Section: Monetary Policy/Cryptoeconomics
-
-**CoinDesk Statement:**
-
-Ethereum Classic’s block reward was initially set at 5 ETC and decreases by 20 percent every 5 million blocks (roughly every 2.5 years). ETC is a deflationary currency with a total supply that is not expected to top 230 million coins.
-
-**Our Corrections and Additions:**
-
-Ethereum Classic’s block reward was initially set at 5 ETC and decreases by 20 percent every 5 million blocks (roughly every 2 years as the block time in that blockchain is 13 seconds). ETC is a deflationary currency with a total supply that is not expected to top 210,700,000 coins.
-
-**Rationale:**
-
-The only details we corrected here are that, as the block times in ETC are 13 seconds, then its block reward discount takes place every 2 years. The total supply of ETC will be less than 210,700,000 ETC.
-
-## Section: Transaction Processing
-
-**CoinDesk Statement:**
-
-The block time for Ethereum Classic is roughly 10 to 15 seconds, with an average of 6 transactions processed per block.
-
-**Our Corrections and Additions:**
-
-The block time for Ethereum Classic is roughly 13 seconds, with an average of 225 transactions processed per block, or 17 transactions per second.
-
-**Rationale:**
-
-In this section we corrected block statistics for ETC. 
-
-Block times for Ethereum Classic are 13 seconds on average. 
-
-With the current 8 million gas limit, its daily transaction capacity is 1,5 million. 
-
-As ETC produces 6,646 block per day, this means it processes 225 transactions per block. 
-
-If we divide 225 transaction per block by 13 seconds, it is 17 transactions per second.
-
-## Section: Coding
-
-**CoinDesk Statement:**
-
-Ethereum Classic is an open source project to which developers can contribute in a variety of programming languages, including Javascript, Python, Go and HTML.
-
-**Our Corrections and Additions:**
-
-Ethereum Classic is an open source protocol project to which developers can contribute in a variety of programming languages, building clients in programming languages including Go, Python, Java, Javascript, .Net, Rust, etc.
-
-**Rationale:**
-
-What is open source is the ETC protocol, just like in Ethereum. Then, developers, like in Ethereum, may use that open source protocol to build clients in the languages of their preference. Those clients may or may not be open source.
+Here's the translation of your text:
 
 ---
 
-**Thank you for reading this article!**
+加密货币新闻机构 CoinDesk 发表了一篇关于 Ethereum Classic（ETC）的文章，标题和标签为“以太经典：ETC 101，以太经典是在 2016 年以太坊区块链分裂为两个独立链条之后创建的”，链接如下：
 
-To learn more about ETC please go to: https://ethereumclassic.org
+https://www.coindesk.com/learn/ethereum-classic-etc-101/
+
+该文章包括一个简介和五个部分。
+
+文章中有一些有用的信息，但也有一些错误或常见误解，我们希望对此进行澄清。此外，我们还希望添加一些内容，以反映更完整的 ETC 图景。
+
+接下来的几个部分中，我们将讨论 CoinDesk 的陈述，提出纠正的短语和额外的内容，并解释我们做出这些改变和添加的理由。
+
+## 部分：标签行
+
+**CoinDesk 的陈述：**
+
+以太经典是在 2016 年以太坊区块链分裂为两个独立链条之后创建的。
+
+**我们的纠正和添加：**
+
+以太经典（ETC）是在 2014 年至 2015 年之间创建的，并于 2015 年推出。当时，以太经典和以太坊（ETH）是一条区块链。然后，在 2016 年，由于一款名为 The DAO 的去中心化应用引发争议，以太坊从主网分裂出来。
+
+**理由：**
+
+正如我们上面指出的，行业中对 ETC 存在一些误解。其中之一是误以为它是因为 The DAO 硬分叉而在 2016 年创建的。然而，事实是在 2016 年创建的新链是以太坊，因为它引入了导致生态系统分裂的手动更改。
+
+确实，ETH 和 ETC 在 2015 年 7 月 30 日推出时是同一条链，然后在 2016 年 7 月 20 日，以太坊从主网 ETC 中分离出来。
+
+## 部分：介绍文本
+
+**CoinDesk 的陈述：**
+
+以太经典是在 2016 年以太坊区块链的一个具有争议的硬分叉之后创建的。
+
+与以太坊一样，它支持智能合约和去中心化应用程序（dapps）。其原生资产被称为以太经典或 ETC。
+
+在 2016 年，区块链初创企业 slock.it 在统一的以太坊区块链上建立并推出了一个名为 The DAO 的去中心化自治组织。The DAO 旨在成为以太坊上启动项目的去中心化风险投资基金，约有 10,000 人通过众筹为该项目投资了超过 1.68 亿美元。
+
+在众筹过程中，The DAO 的代码中发现了几个漏洞，随后被黑客攻击。攻击者窃取了价值约 6000 万美元的以太币，占当时所有以太币的约 14%。
+
+经过以太坊社区的激烈辩论，于区块 1,920,000 上执行了一次硬分叉，该分叉改变了以太坊的代码以将丢失的资金返还给投资者。然而，一些以太坊节点因认为这意味着区块链不再具有不可变性等原因而反对此分叉，并决定不运行更新的软件。
+
+这些节点继续运行和挖掘以太坊分叉前的版本，即现在被称为以太经典的版本。
+
+2019 年 1 月，以太经典遭受了 51% 攻击，意味着一名矿工（或多名矿工）控制了网络上大部分计算能力，使他们能够停止或逆转区块链上的交易，并双重支付硬币。
+
+**我们的纠正和添加：**
+
+以太经典和以太坊原本是同一条区块链，在 2015 年 7 月 30 日推出。
+
+在 2016 年的一个有争议的硬分叉之后，以太坊从未改变的主网 ETC 中分离出来。
+
+与以太坊一样，ETC 支持智能合约和去中心化应用程序（dapps）。其原生资产被称为以太币或 ETC。
+
+在 2016 年，区块链初创企业 slock.it 在统一的以太坊区块链上建立并推出了一个名为 The DAO 的去中心化自治组织。The DAO 旨在成为以太坊上启动项目的去中心化风险投资基金，约有 10,000 人通过众筹为该项目投资了超过 1.68 亿美元。
+
+在众筹过程中，The DAO 的代码中发现了几个漏洞，随后被黑客攻击。攻击者窃取了价值约 6000 万美元的以太币，占当时所有以太币的约 14%。
+
+经过以太坊社区的激烈辩论，于区块 1,920,000 上执行了一次硬分叉，该分叉引入了对以太坊进行不规则状态更改以将丢失的资金返还给投资者。然而，一些以太坊开发者、节点和矿工因认为这意味着区块链不再具有不可变性等原因而反对此分叉，并决定不运行更新的软件。
+
+这些节点继续运行和挖掘以太坊分叉前的版本，即现在被称为以太经典的版本。
+
+2019 年 1 月，以太经典遭受了 51% 攻击，意味着一名矿工（或多名矿工）控制了网络上大部分计算能力，使他们能够停止或逆转区块链上的交易，并双重支付硬币。
+
+**理由：**
+
+在前几行中，我们澄清了 ETC 和 ETH 最初是同一条链，并在 2016 年以太坊从主网 ETC 中分离出来。
+
+以太经典是原始的、未改变的区块链。以太坊包含了对 The DAO 黑客的资金转移进行手动撤销。
+
+ETC 的原生资产是“以太币”，就像在以太坊中一样。不同之处在于交易所使用的标记是“ETC”而不是“ETH”。
+
+在 The DAO 硬分叉期间发生的技术事件是一次不规则状态更改，而不是代码更改。
+
+那些因违反不可变性而未跟随不规则状态更改的人包括开发者、节点和矿工。他们维护和延续了原始未改变的链。
+
+本节其余内容是正确的。
+
+## 部分：发布和发行
+
+**CoinDesk 的陈述：**
+
+以太经典于 2016 年 7 月推出。在硬分叉后，ETH 以 1:1 的比例分发给所有以太经典和以太坊原始区块链货币持有者。这意味着以太坊基金会自动成为以太经典的大持有者，尽管后来出售了大部分硬币。此外，值得注意的是，The DAO 的黑客持有约 340 万 ETC，占供应量的约 4%。
+
+**我们的纠正和添加：**
+
+以太经典和以太坊于 2015 年 7 月作为统一的区块链推出。然后在 2016 年分裂，因此，在硬分叉后，ETH 以 1:1 的比例分发给所有之前统一的以太经典和以太坊区块链原始货币持有者的以太币。这意味着以太坊基金会自动成为传统以太经典的大持有者，尽管后来出售了大部分硬币。
+
+此外，值得注意的是，The DAO 的黑客在原始链上持有约 340 万 ETC，占供应量的约 2.3%。
+
+**理由：**
+
+ETC 和 ETH 最初是同一条链。然后，ETH 从主网分离出来，采用了相同的名称和代币符号。ETH 持有者在两个链上保持相同的以太币持有。The DAO 的黑客仍然持有约 340 万 ETC，占总供应量的约 2.3%，因为 ETC 的供应现在约为 1.46 亿枚左右。
+
+以太坊基金会在原始链上保留大量 ETC 是正确的，并使用“传统链”一词来指代 ETC 是非常正确的。
+
+## 部分：网络设计和安全模型
+
+**CoinDesk 的陈述：**
+
+以太经典的代码是原始以太坊区块链的实现，但该项目并非静态，而是继续发展和变化。相比之下，以太坊最终将从工作量证明共识机制过渡到股权证明机制，而以太经典在 2018 年分叉其代码以保留其工作量证明模型。
+
+**我们的纠正和添加：**
+
+以太经典的协议是原始以太坊区块链的实现，但该项目并非静态，而是继续发展和变化。作为以太虚拟机（EVM）区块链，ETC 大部分与以太坊 EVM 标准保持最新。相比之下，以太坊从工作量证明共识机制过渡到股权证明机制，而以太经典在 2018 年分叉其代码以保留其工作量证明模型。此次分叉是为了消除被称为“难度炸弹”的设备，该设备会迫使以太坊区块链迁移到股权证明。
+
+**理由：**
+
+作为传统区块链，以太经典的协议是原始以太坊区块链的实现。
+
+作为 EVM 区块链，ETC 通常会更新其协议和代码以与 ETH 保持技术上的一致性。
+
+ETC 在 2018 年的分叉是为了消除称为“难度炸弹”的设备，该设备会迫使生态系统迁移到股权证明。这巩固了工作量证明作为 ETC 稳定的共识机制。
+
+## 部分：货币政策/加密经
+
+济学
+
+**CoinDesk 的陈述：**
+
+以太经典的区块奖励最初设定为 5 ETC，并且每 5,000,000 个区块（大约每 2.5 年）减少 20%。ETC 是一种通货紧缩的货币，其总供应量不会超过 2.3 亿枚硬币。
+
+**我们的纠正和添加：**
+
+以太经典的区块奖励最初设定为 5 ETC，并且每 5,000,000 个区块（大约每 2 年，因为该区块链的区块时间为 13 秒）减少 20%。ETC 是一种通货紧缩的货币，其总供应量不会超过 2,107 万枚硬币。
+
+**理由：**
+
+我们在此处纠正的唯一细节是，由于 ETC 的区块时间为 13 秒，因此其区块奖励折扣每 2 年进行一次。ETC 的总供应量将少于 2,107 万枚 ETC。
+
+## 部分：交易处理
+
+**CoinDesk 的陈述：**
+
+以太经典的区块时间大约为 10 到 15 秒，每个区块平均处理 6 笔交易。
+
+**我们的纠正和添加：**
+
+以太经典的区块时间大约为 13 秒，每个区块平均处理 225 笔交易，或者每秒处理 17 笔交易。
+
+**理由：**
+
+在此部分，我们纠正了以太经典的区块统计数据。
+
+以太经典的区块时间平均为 13 秒。
+
+根据目前的 800 万气体限制，其每日交易容量为 150 万。
+
+由于 ETC 每天产生 6,646 个区块，这意味着每个区块处理 225 笔交易。
+
+如果我们将每个区块的 225 笔交易除以 13 秒，那么每秒处理 17 笔交易。
+
+## 部分：编码
+
+**CoinDesk 的陈述：**
+
+以太经典是一个开源项目，开发人员可以使用各种编程语言进行贡献，包括 Javascript、Python、Go 和 HTML。
+
+**我们的纠正和添加：**
+
+以太经典是一个开源协议项目，开发人员可以使用各种编程语言进行贡献，包括 Go、Python、Java、Javascript、.Net、Rust 等构建客户端。
+
+**理由：**
+
+开源的是 ETC 协议，就像以太坊一样。然后，开发人员可以使用该开源协议在他们喜欢的语言中构建客户端。这些客户端可能是开源的，也可能不是。
+
+---
+
+**感谢您阅读本文！**
+
+要了解更多有关 ETC 的信息，请访问：https://ethereumclassic.org
