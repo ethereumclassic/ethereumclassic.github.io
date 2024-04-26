@@ -9,10 +9,6 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-Here's the translation of your text:
-
----
-
 加密货币新闻机构 CoinDesk 发表了一篇关于 Ethereum Classic（ETC）的文章，标题和标签为“以太经典：ETC 101，以太经典是在 2016 年以太坊区块链分裂为两个独立链条之后创建的”，链接如下：
 
 https://www.coindesk.com/learn/ethereum-classic-etc-101/
