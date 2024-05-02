@@ -56,7 +56,7 @@ On your Ledger Live on your iPhone, click on the “I’m ready to scan” butto
 
 ### 3. Select the Accounts You Wish to Synchronize
 
-![](./4.png)
+![](./5.png)
 
 After scanning, in the next screen on your phone, you will see that Ledger Live will give you the option to select which accounts you want to synchronize with your iPhone.
 
@@ -64,7 +64,7 @@ Select the ETC accounts you wish to monitor on your iPhone and then press “Imp
 
 ### 4. You Are All Set Up!
 
-![](./5.png)
+![](./6.png)
 
 After you press “Import” in the previous step, your desktop and your iPhone Ledger Live apps will synchronize and you will be taken to your home screen on your Ledger Live on your iPhone where you will see your ETC balance.
 
@@ -74,7 +74,7 @@ Congratulations! You are now set up to monitor your ETC accounts on your iPhone 
 
 ### 1. Android Connection Set Up
 
-![](./6.png)
+![](./7.png)
 
 To connect your Ledger Nano S Plus to your Android phone, you do not need to have Ledger Live on a desktop. You can connect your device directly to your phone.
 
@@ -82,7 +82,7 @@ To begin, download the Ledger Live app on your Android phone. Then, connect the 
 
 ### 2. Follow the Ledger Instructions
 
-![](./7.png)
+![](./1.png)
 
 1. Open and unlock Ledger Live on your smartphone.
 2. Connect your Ledger device to your smartphone using the appropriate OTG cable.
