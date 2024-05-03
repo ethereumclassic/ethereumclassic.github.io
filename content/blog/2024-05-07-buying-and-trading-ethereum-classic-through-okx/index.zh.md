@@ -16,130 +16,132 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-OKX is a centralized cryptocurrency exchange.
+OKX是一个集中式加密货币交易所。
 
-A centralized cryptocurrency exchange (CEX) is a virtual location on the internet that serves as a meeting point for trading crypto assets such as Bitcoin (BTC) and Ethereum Classic (ETC).
+集中式加密货币交易所（CEX）是互联网上的一个虚拟位置，用作比特币（BTC）和以太经典（ETC）等加密资产交易的集合点。
 
-OKX provides its servers over the internet for its customers to open accounts, send money, and start exchanging BTC, ETC, Ethereum (ETH), and other tokens.
+OKX通过互联网为客户提供服务器，让他们可以开设账户、发送资金，并开始交易BTC、ETC、以太坊（ETH）和其他代币。
 
-CEXs must follow regulations, so they may be very restrictive, demanding customers to present evidence of identity and residence, performing background checks, and asking what is the source of their funds.
+CEX必须遵循法规，因此可能会非常严格，要求客户提供身份和居住证明、进行背景调查，并询问资金来源。
 
-Among the risks of centralized exchanges is that they may go bankrupt and customers may lose their deposits and assets.
+集中式交易所的风险之一是它们可能破产，客户可能会失去存款和资产。
 
-OKX in particular is one of the largest cryptocurrency exchanges in the world, it started operations as OKCoin in China in 2013, and has subsequently evolved into a group of companies under the holding firm OK Group. Currently the exchange has its headquarters in the Seychelles, but serves customers in over 100 countries.
+OKX特别是世界上最大的加密货币交易所之一，2013年作为OKCoin在中国开始运营，随后发展成为OK Group控股公司旗下的一组公司。目前，该交易所总部位于塞舌尔，但为来自100多个国家的客户提供服务。
 
-## Moving Your ETC to Non-Custodial Wallets
+## 将您的ETC转移到非托管钱包
 
 ![](./1.png)
 
-Although you may be using a centralized cryptocurrency exchange for buying and trading in Ethereum Classic, the best way to [manage your ETC](https://ethereumclassic.org/blog/2023-05-31-how-to-start-using-etc-from-scratch) is to buy them in the centralized exchanges but then moving them to [non-custodial wallets](https://ethereumclassic.org/blog/2023-05-04-ethereum-classic-course-20-what-are-custodial-and-non-custodial-wallets) that you control.
+尽管您可能在集中式加密货币交易所购买和交易以太经典，但最好的管理ETC的方式是在集中式交易所购买它们，然后将其转移到您控制的[非托管钱包](https://ethereumclassic.org/blog/2023-05-04-ethereum-classic-course-20-what-are-custodial-and-non-custodial-wallets)。
 
-The steps are as follows:
+步骤如下：
 
-1. You start with your cash in your bank account
-2. You move your cash to the crypto exchange
-3. You buy ETC at the crypto exchange
-4. You get a non-custodial wallet or hardware wallet
-5. You move all your ETC to your non-custodial wallet
+1. 从您的银行账户中开始现金
+2. 将现金转移到加密货币交易所
+3. 在加密货币交易所购买ETC
+4. 获取非托管钱包或硬件钱包
+5. 将您所有的ETC转移到您的非托管钱包
 
-The above method is the most secure method because you end up with your ETC on the blockchain directly, under your own control with your private keys, rather than at the centralized exchange, under their control.
+以上方法是最安全的方法，因为最终您的ETC直接存在于区块链上，在您自己控制下，使用您的私钥，而不是在集中式交易所下，由他们控制。
 
-In other words, it is more trust minimized.
+换句话说，这更加最小化了信任。
 
-## Opening an OKX Account
+## 开设OKX账户
 
 ![](./2.png)
 
-The first step to create your account on OKX will be to go to [OKX.com](https://www.okx.com/), then press on the “Sign up” button, and proceed with the next steps.
+创建您在OKX上的账户的第一步是访问[OKX.com](https://www.okx.com/)，然后点击“注册”按钮，并按照下一步进行操作。
 
-The next steps will involve a process of verification. OKX uses this system to comply with “Know Your Customer”, “Anti-Money Laundering”, and other laws in various countries.
+接下来的步骤将涉及验证过程。OKX使用此系统以遵守各个国家的“了解您的客户”、“反洗钱”和其他法律。
 
-The first thing OKX will ask you for is your personal information. If you live in the United States, OKX.com will reject your application as it only operates outside of the US. For this post, we will show how OKX works out of Argentina to provide a generic international account demonstration.
+OKX将首先要求您提供个人信息。如果您居住在美国，OKX.com将拒绝您的申请，因为它只在美国境外运营。在本文中，我们将展示OKX如何在阿根廷之外提供国际账户演示。
 
-The first data point that they ask to open an account is your email address so they may send you a code to verify it. The next step is to verify your phone number in the same way.
+他们要求开设账户的第一个数据点是您的电子邮件地址，以便他们发送给您一个验证码进行验证。接下来是以同样方式验证您的电话号码。
 
-Then, OKX will ask you for your country of residence and to verify your identity with a government ID and other information.
+然后，OKX将要求您提供居住国家并通过政府身份证件和其他信息进行身份验证。
 
-Again, all these steps are because they need to make sure they know you for compliance reasons.
+再次强调，所有这些步骤都是因为他们需要确保他们认识您以符合合规要求。
 
-## Depositing Crypto or Money to OKX
+## 向OKX存入加密货币或现金
 
 ![](./3.png)
 
-After creating your account on OKX, you can deposit crypto to it.
+在OKX上创建您的账户之后，您可以向其存入加密货币。
 
-OKX does not have a feature to connect your local bank account in several countries. For fiat money it has a limited number of currencies that it accepts. These include Euro, Brazil Real, and the Australian Dollar.
+OKX在多个国家没有连接您的本地银行账户的功能。对于法定货币，它只接受有限数量的货币，包括欧元、巴西雷亚尔和澳大利亚元。
 
-However, to deposit crypto, OKX lets you use your credit or debit card and other local options to buy ETC and other cryptocurrencies through a service called “Express buy”. 
+然而，要存入加密货币，OKX允许您使用信用卡、借记卡和其他本地选项购买ETC和其他加密货币，通过名为“快速购买”的服务。
 
-Alternatively, users may use the OKX P2P trading platform to buy a limited number of cryptos (only USDT, USDC, BTC, ETH, and DAI in the case of Argentina) and then have those deposited in their accounts.
+此外，用户还可以使用OKX的P2P交易平台购买少量加密货币（在阿根廷的情况下仅限于USDT、USDC、BTC、ETH和DAI），然后将其存入他们的账户。
 
-For this post we will use the option of the P2P trading service.
+在本文中，我们将使用P2P交易服务的选项。
 
-To buy ETC in this way, you would first need to buy, for example, the stablecoin USDT on the OKX P2P platform.
+要以这种方式购买ETC，您首先需要在OKX P2P平台上购买例如稳定币USDT。
 
-## OKX as a Wallet
+## OKX作为钱包
 
 ![](./4.png)
 
-Many people around the world use OKX as their main wallet. This is not the best for securing your crypto as we explained above, but for keeping some of your crypto for trading or to make crypto payments it is acceptable.
+全球许多人将OKX用作他们的主要钱包。尽管这不是保护您加密货币的最佳方法，但对于保留一些加密货币进行交易或进行加密货币支付是可以接受的。
 
-It is always best to keep at least 80% of your crypto secure in self custody wallets or hardware wallets.
+最好至少将您80%的加密货币存入自己的自有钱包或硬件钱包中。
 
-Nevertheless, OKX does have easy “deposit” and “withdraw” features for crypto in your country.
+尽管如此，OKX确实为您的国家提供了便捷的加密货币“存款”和“提款”功能。
 
-By using the OKX website or their mobile app, you may keep track of your holdings.
+通过使用OKX网站或他们的移动应用，您可以追踪您的持有资产。
 
-To see your assets on your OKX account you need to go to the “My assets” link.
+要查看您的OKX账户上的资产，您需要转到“我的资产”链接。
 
-## Buying ETC on OKX
+## 在OKX上购买ETC
 
 ![](./5.png)
 
-Once you are all set with the OKX account and you moved USDT, for example, to it, then you will be ready to buy or trade ETC on the exchange.
+当您完成OKX账户设置并将USDT等资金转移至其中后，您将可以在交易所上购买或交易ETC。
 
-This is because global crypto markets don’t trade in all the currencies of the world, but in a few reserve currencies, or against other major cryptocurrencies. However, most trade against the stablecoin that tracks the US dollar called “Tether” of which its symbol is ”USDT”.
+这是因为全球加密货币市场不以世界上所有货币交易，而是以几种储备货币或与其他主要加密货币进行交易。然而，大多数交易都与跟
 
-If you move your local currency to USDT using the OKX “P2P trading” service, then you will be ready to purchase ETC!
+踪美元的稳定币“泰达币”交易，其符号为“USDT”。
 
-To trade USDT for ETC go to the “Trade” menu item on the top horizontal menu. Then, select “Spot” to buy in the cash market, and then “USDT” if that is the stablecoin you have acquired to buy ETC. Then, type “ETC” in the search field provided.
+如果您使用OKX“P2P交易”服务将您的本地货币转换为USDT，那么您将准备好购买ETC！
 
-In the next step, you will see the ETC/USDT trading pair screen on OKX with a chart and a ticket form on the right.
+要交易USDT以获取ETC，请转到顶部水平菜单中的“交易”菜单项。然后，在现货市场中选择“USDT”以购买，然后如果您已经获得了用于购买ETC的稳定币，则选择“USDT”。然后，在提供的搜索字段中输入“ETC”。
 
-To buy ETC fill out the form with your desired amount and then press the “Buy ETC” button.
+在下一步中，您将在OKX上看到ETC/USDT交易对屏幕，其中包含图表和右侧的订单表单。
 
-## Sending ETC
+要购买ETC，请填写表单中的所需金额，然后按“购买ETC”按钮。
+
+## 发送ETC
 
 ![](./6.png)
 
-When you buy ETC on OKX they will probably become available to withdraw after your initial purchase of USDT is cleared in your local currency. After this, you will be able to send them to your non-custodial wallet or other destinations.
+当您在OKX上购买ETC后，它们可能会在您的本地货币的初始购买USDT被清算后可供提取。在此之后，您将能够将它们发送到您的非托管钱包或其他目的地。
 
-If you live in a jurisdiction that has instant bank transfers or other fast money transfer systems, you may have your purchased ETC available for withdrawal sooner.
+如果您所在的司法管辖区具有即时银行转账或其他快速货币转账系统，则您购买的ETC可能更快可用于提取。
 
-The way to send your ETC to your non-custodial wallet or to any other destination is by clicking on the “Withdraw” link on the “Assets” menu.
+将您的ETC发送到您的非托管钱包或任何其他目的地的方式是点击“资产”菜单上的“提款”链接。
 
-Then, on the Withdrawal page, search and select ETC as the coin to send, put the ETC address you wish to send it to, and send it.
+然后，在提款页面上，选择ETC作为要发送的币种，输入您要发送到的ETC地址，然后发送。
 
-## Receiving ETC
+## 接收ETC
 
 ![](./7.png)
 
-To receive ETC, you need to go again to your OKX “Assets” menu, and then click on the “Deposit” link.
+要接收ETC，您需要再次转到您的OKX“资产”菜单，然后点击“存款”链接。
 
-In the “Deposit” page, search and select ETC as the coin you wish to deposit, copy the address provided, and use it to send ETC to your account from your non-custodial wallet or to give it to third parties to send you ETC.
+在“存款”页面上，选择ETC作为要存款的币种，复制提供的地址，并使用它从您的非托管钱包中发送ETC到您的账户，或将其提供给第三方以向您发送ETC。
 
-## Who Uses OKX for Buying and Selling ETC?
+## 谁使用OKX购买和出售ETC？
 
-**Investors:** ETC is an excellent long term investment alternative. This has attracted many investors who use exchanges such as OKX to transfer their funds to exchange them for Ethereum Classic. However, these ETC buyers should think of moving their holdings to non-custodial wallets as explained before, so their assets may be more secure.
+**投资者：** ETC是一个极好的长期投资选择。这吸引了许多投资者使用诸如OKX之类的交易所将资金转移至其中，以交换以太经典。然而，这些购买ETC的投资者应考虑将其持有资产转移到非托管钱包，以便更安全地存储他们的资产。
 
-**Miners:** A segment that uses exchanges frequently to trade ETC are miners. Ethereum Classic miners earn an average of 17,000 ETC per day at the time of this writing, but they have to pay for their operations, which include payroll, data center costs, and electricity costs. For this they usually liquidate some of their daily earnings on exchanges such as OKX to transform them into cash to pay for their bills.
+**矿工：** 经常使用交易所进行ETC交易的一个分段是矿工。以太经典的矿工每天平均挖掘17,000个ETC，但他们必须支付运营费用，其中包括工资、数据中心成本和电费。因此，他们通常会在诸如OKX之类的交易所上清算他们每日收入的一部分，将其转换为现金以支付账单。
 
-**Speculators:** Trading volumes on ETC are high globally and much of this is by speculators who trade daily on exchanges such as OKX. These participants are beneficial to the ecosystem as they provide liquidity to all other buyers and sellers.
+**投机者：** 全球ETC的交易量很高，其中许多交易由诸如OKX之类的交易所上的投机者进行。这些参与者对生态系统有益，因为他们为所有其他买家和卖家提供流动性。
 
-**Merchants:** Although still small, the use of ETC for buying and selling things in the broader economy is growing. Merchants who let their customers purchase items with ETC will use centralized exchanges such as OKX to liquidate their holdings for paying for their business expenses.
+**商家：** 尽管规模仍然较小，但在更广泛的经济体中，使用ETC购买和销售物品的用途正在增长。允许客户使用ETC购买物品的商家将使用诸如OKX之类的集中式交易所清算他们的持有资产以支付业务费用。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本期内容!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC，欢迎访问: https://ethereumclassic.org
