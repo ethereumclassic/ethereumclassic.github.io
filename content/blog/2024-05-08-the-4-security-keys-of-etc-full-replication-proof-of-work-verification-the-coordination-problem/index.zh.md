@@ -1,5 +1,5 @@
 ---
-title: "The 4 Security Keys of ETC: Full Replication, Proof of Work, Verification, the Coordination Problem"
+title: "ETC的四个安全关键：完全复制、工作证明、验证、协调问题"
 date: 2024-05-08
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P87_N7fQ0xM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,93 +16,93 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-People usually think of “security” in a blockchain as Ethereum Classic (ETC) as the mining hashrate, the proof of work (POW) consensus mechanism, or the strength of cryptography.
+人们通常认为以太坊经典（ETC）区块链的“安全性”指的是挖矿算力、工作量证明（POW）共识机制或加密强度。
 
-These things are true, but we thought a more complete list of the higher level security components should be laid out and explained.
+这些确实是正确的，但我们认为应该列出和解释更完整的高级安全组件清单。
 
-In this post we will talk about what is the meaning of security in the first place, and then explain the four keys to ETC’s safety which are:
+在本文中，我们将讨论安全性的含义，并解释ETC安全的四个关键因素：
 
-- Full replication
-- Proof of work
-- The function of verification
-- The coordination problem
+- 完全复制
+- 工作量证明
+- 验证功能
+- 协调问题
 
-## What Do We Mean By Security in the First Place?
+## 安全性的含义是什么？
 
-In our post “[What Does Security Mean in Ethereum Classic?](https://ethereumclassic.org/blog/2023-02-15-what-does-security-mean-in-ethereum-classic)” we wrote the following:
+在我们的文章“以太坊经典的安全性是什么意思？”中，我们写道：
 
-*“So, the meaning of security in Ethereum Classic will be this: It will be a refuge for those escaping centralization on a global scale, arbitrary confiscation, persecution, and tyranny.”*
+*“因此，以太坊经典中的安全性将是这样的：它将是那些逃离全球范围内的中心化、任意没收、迫害和暴政的人的避难所。”*
 
-“Security” in this context does not mean avoiding natural events, wild animals, or burglars. It means to avoid the risks of the trusted third parties we have been relying upon for hundreds of years.
+在这里，“安全性”并不意味着避免自然事件、野生动物或入室盗窃。它意味着避免依赖我们数百年来一直依赖的受信任的第三方所带来的风险。
 
-These trusted third parties are banks, central banks, governments, corporations, and technology companies amongst many others.
+这些受信任的第三方包括银行、中央银行、政府、公司和科技公司等等。
 
-In essence, then, security in ETC means trust minimization, which is to depend the least possible on these trusted entities.
+因此，ETC中的安全性实质上意味着信任最小化，即尽量不依赖这些受信任的实体。
 
-And, if trust minimization is the goal, then ETC must be as decentralized as possible!
+而且，如果信任最小化是目标，那么ETC必须尽可能地去中心化！
 
-## What Is Full Replication?
+## 什么是完全复制？
 
-The object of the [Cypherpunks’](https://ethereumclassic.org/blog/2022-12-29-ethereum-classic-course-2-the-cypherpunks) focus during the nineties and early two thousands was how to achieve a peer-to-peer network with as little trust as possible in any central administrator.
+在上世纪九十年代和二千年初，[密码朋克](https://ethereumclassic.org/blog/2022-12-29-ethereum-classic-course-2-the-cypherpunks)们关注的对象是如何实现一个点对点网络，减少对任何中央管理员的信任。
 
-The main problem of computer science with regard to networks at the time was that they had a seemingly insurmountable problem which was called the “[Byzantine Generals Problem](https://en.wikipedia.org/wiki/Byzantine_fault)”. That was that with 1/3 of the nodes in the network attackers could corrupt it.
+当时计算机科学面临的主要问题之一是被称为“[拜占庭将军问题](https://en.wikipedia.org/wiki/Byzantine_fault)”的问题。这个问题是说，只要网络中有1/3的节点是攻击者，他们就能破坏网络。
 
-However, Cypherpunks [had established](https://unenumerated.blogspot.com/2007/08/secure-property-titles.html) that, in theory, a fully replicated property titles design could be the base for a monetary system that could be programmable such as is today Ethereum Classic.
+然而，密码朋克们已经确定，理论上完全复制的产权设计可以作为一个货币系统的基础，这个系统可以像今天的以太坊经典一样是可编程的。
 
-When Bitcoin was launched in 2009, the vision of this fully replicated database of property titles had been finally achieved.
+当比特币于2009年推出时，这个完全复制的产权数据库的愿景终于实现了。
 
-Full replication in ETC, which follows the security model of Bitcoin, means that all the accounts, balances, and smart contracts in the system are identically replicated in all participating computers in the system.
+ETC中的完全复制，遵循比特币的安全模型，意味着系统中的所有账户、余额和智能合约在系统中所有参与计算机中都是完全相同的。
 
-## What Is Proof of Work?
+## 什么是工作量证明？
 
-However, what took them so long to crack the puzzle of this fully replicated property titles network was that they didn’t have a safe consensus mechanism to make all computers around the world; owned by complete strangers in different continents, nations, cultures, and languages; share the information to be totally synchronized with regard to the accounts, balances, and smart contracts of the database.
+然而，让他们解决完全复制产权网络的难题花费了很长时间的原因是，他们没有一个安全的共识机制来使世界各地的完全陌生的所有者拥有的计算机，以及来自不同大陆、国家、文化和语言的所有者之间，共享信息以完全同步关于数据库的账户、余额和智能合约的信息。
 
-The solution was the proof of work consensus mechanism, also known as Nakamoto Consensus, which finally provided a signaling system between the nodes so that they could be totally coordinated with the exact same copy of the database every ten minutes in the case of Bitcoin, or every thirteen seconds in the case of ETC, with a higher fault tolerance than before.
+解决方案是工作量证明共识机制，也被称为中本聪共识，最终提供了一个信号系统，使得节点能够在每10分钟（比特币的情况）或每13秒（ETC的情况）内完全协调，拥有比以前更高的错误容忍度。
 
-Proof of work seals each new block in the network with a cryptographic stamp that serves as all the information that computers in the system need to know which is the correct block in each round.
+工作量证明用密码戳封存了网络中每个新区块，作为系统中所有计算机需要知道的关于每一轮中正确区块的所有信息。
 
-This was the [amazing invention](https://ethereumclassic.org/blog/2023-11-16-etc-proof-of-work-course-2-what-didnt-exist-was-a-secure-consensus-mechanism) by Satoshi Nakamoto!
+这是中本聪的[了不起的发明](https://ethereumclassic.org/blog/2023-11-16-etc-proof-of-work-course-2-what-didnt-exist-was-a-secure-consensus-mechanism)！
 
-## What Is Verification?
+## 什么是验证？
 
-However, Bitcoin and ETC are more complex than just replicating information. They are ledgers with accounts and balances (and smart contracts in the case of ETC) that constantly receive new transactions to move money from one place to another. 
+然而，比特币和ETC不仅仅是复制信息。它们是账户和余额的总账（以及在ETC的情况下是智能合约），不断接收新交易来将资金从一个地方转移到另一个地方。
 
-Not only this, but the miners that do the proof of work actually get paid in these cryptocurrencies for their contribution. So, the question was, who will supervise the work of miners and make sure that they stay honest?
+不仅如此，还有进行工作量证明的矿工，他们实际上会因为他们的贡献而获得这些加密货币的报酬。那么，谁来监督矿工的工作，确保他们保持诚实呢？
 
-The answer to this was the role of the rest of the nodes in the network that were not miners. These computers are called full nodes, economic nodes, or just “nodes” for simplicity.
+答案是网络中不是矿工的其余节点的角色。这些计算机被称为完整节点、经济节点，或简单地称为“节点”。
 
-What they do is actually receive and verify all the blocks built by miners, including each transaction in the blocks, to make sure that a) the blocks are properly built doing a lot of work, and b) that each transaction included is correct and legitimate.
+它们的作用实际上是接收并验证矿工构建的所有区块，包括区块中的每笔交易，以确保a）区块是正确构建的，需要做很多工作；b）每笔包含的交易都是正确和合法的。
 
-This function of verification establishes a [division of power](https://ethereumclassic.org/blog/2024-03-07-etc-proof-of-work-course-17-pow-has-division-of-power-pos-does-not) that keeps the network balanced and the miners in check.
+这种验证功能建立了一种[权力分配](https://ethereumclassic.org/blog/2024-03-07-etc-proof-of-work-course-17-pow-has-division-of-power-pos-does-not)，保持了网络的平衡，并监督了矿工的权力，使其无法滥用系统。
 
-## What Is The Coordination Problem?
+## 协调问题是什么？
 
-Once the components explained above are in place in a system as ETC, what could go wrong?
+在ETC这样的系统中一旦上述组件就位，还有什么可能出错的呢？
 
-Well, people could go crazy and start changing the rules of the system!
+那么，人们可能会变得疯狂，开始改变系统的规则！
 
-This means that there is no ruleset in computer networks that cannot be changed. If all the owners of a peer-to-peer blockchain such a Bitcoin or ETC decide to agree on a nefarious change, such as increasing the supply of their coins for example, then they could actually do it.
+这意味着，在计算机网络中没有规则集是不可更改的。如果所有点对点区块链（如比特币或ETC）的所有者都决定同意进行恶意变更，比如增加他们的货币供应，那么他们实际上可以做到。
 
-But here is where a lot of people fail to see the full implications of going through such an effort. 
+但这里有很多人没有看到这种努力的全部影响。
 
-The truth is that, once a blockchain is truly decentralized, this means that strangers around the worlds are participating in it with their computers. As we wrote above, these strangers live in different countries and continents, speak different languages, and have different cultural beliefs and religions. It would be extremely difficult to make thousands of participants in Bitcoin or ETC to implement egregious changes that would damage the value of the system and go against their own interests.
+事实上，一旦区块链真正去中心化，这意味着全球范围内的陌生人都在参与，他们的计算机也在参与。正如我们上面写的，这些陌生人生活在不同的国家和大陆，说着不同的语言，有着不同的文化信仰和宗教。要让数以千计的比特币或ETC参与者实施可能会损害系统价值并违背自身利益的恶意更改，是极其困难的。
 
-This difficulty is called “the coordination problem”.
+这个困难被称为“协调问题”。
 
-And, something that makes the coordination problem even stronger is that any group of nodes in these systems [may split from the network](https://ethereumclassic.org/blog/2024-03-07-etc-proof-of-work-course-17-pow-has-division-of-power-pos-does-not#the-right-to-split) whenever they wish. This potential loss of liquidity strongly deters the introduction of bad changes to these systems.
+而且，使协调问题更加严重的是，这些系统中的任何节点组织[都可以随时从网络中分裂](https://ethereumclassic.org/blog/2024-03-07-etc-proof-of-work-course-17-pow-has-division-of-power-pos-does-not#the-right-to-split)。这种潜在的流动性损失极大地阻止了对这些系统进行恶意更改。
 
-## The Benefit of the 4 Securities Keys in ETC
+## ETC中四个安全关键的好处
 
-**Full replication in ETC** ensures the decentralization of the information in a way that makes it very difficult to tamper with. This model not only protects the system from aggressors and dishonest trusted third parties, but also against natural disasters and even nuclear war!
+- 在ETC中，[完全复制](https://ethereumclassic.org/blog/2022-12-29-ethereum-classic-course-2-the-cypherpunks)确保了信息的去中心化，使得信息很难被篡改。这种模式不仅保护系统免受攻击者和不诚实的受信任第三方的侵害，而且还能抵御自然灾害甚至核战争！
 
-**Proof of work in ETC** ensures that all participants in the network can be synchronized, with the exact same state of the information, every thirteen seconds in a fully decentralized manner.
+- 在ETC中，[工作量证明](https://ethereumclassic.org/blog/2023-11-16-etc-proof-of-work-course-2-what-didnt-exist-was-a-secure-consensus-mechanism)确保了网络中的所有参与者可以以完全去中心化的方式，每13秒进行一次同步，拥有完全相同的信息状态。
 
-**Verification of the blocks and transactions in ETC** makes sure that the work of the proof of work miners is correct and puts a check on their power so that they cannot abuse the system.
+- 在ETC中，[验证功能](https://ethereumclassic.org/blog/2024-03-07-etc-proof-of-work-course-17-pow-has-division-of-power-pos-does-not)确保了工作量证明矿工的工作是正确的，并对其权力进行了监督，使其无法滥用系统。
 
-**The coordination problem in Ethereum Classic** solves the potential change of rules to the worse as it is extremely difficult to get all participants in the world to agree on changes that would go against their own interests. This is enhanced by the fact that in blockchains such as ETC and Bitcoin, any group of participants can split and form their networks whenever they want.
+- 在以太坊经典中，[协调问题](https://ethereumclassic.org/blog/2024-03-07-etc-proof-of-work-course-17-pow-has-division-of-power-pos-does-not#the-right-to-split)解决了潜在的恶意变更规则的问题，因为很难让全球范围内的所有参与者同意对系统价值有损害的更改。这一难度得到了增强，因为在ETC和比特币等区块链中，任何一组参与者都可以在他们愿意的时候分裂并形成他们自己的网络。
 
 ---
 
-**Thank you for reading this article!**
+感谢阅读本文！
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
