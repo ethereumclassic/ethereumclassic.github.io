@@ -40,50 +40,54 @@ items:
         __rpcUrl: https://rpc.mordor.etccooperative.org/
         __link: https://etccooperative.org
         __name: ETC Cooperative (Mordor)
-      HebeBlock:
-        __rpcUrl: https://etc.etcdesktop.com/
-        __link: https://etcdesktop.com/
-        __name: HebeBlock
-      ETC-Network.info DE BESU:
-        __rpcUrl: https://besu-de.etc-network.info
-        __link: https://www.etc-network.info
-        __name: ETC-Network.info BESU DE
-      ETC-Network.info AT BESU:
-        __rpcUrl: https://besu-at.etc-network.info
-        __link: https://www.etc-network.info
-        __name: ETC-Network.info BESU AT
-      ETC-Network.info DE ERIGON:
-        __rpcUrl: https://erigon-de.etc-network.info
-        __link: https://www.etc-network.info
-        __name: ETC-Network.info erigon DE
-      ETC-Network.info AT ERIGON:
-        __rpcUrl: https://erigon-at.etc-network.info
-        __link: https://www.etc-network.info
-        __name: ETC-Network.info ERIGON AT
-      ETC-Network.info DE GETH:
-        __rpcUrl: https://geth-de.etc-network.info
-        __link: https://www.etc-network.info
-        __name: ETC-Network.info GETH DE
-      ETC-Network.info AT GETH:
-        __rpcUrl: https://geth-at.etc-network.info
-        __link: https://www.etc-network.info
-        __name: ETC-Network.info GETH AT
-      ETC-Network.info GETH (Mordor):
-        __rpcUrl: https://geth-mordor.etc-network.info
-        __link: https://www.etc-network.info
-        __name: ETC-Network.info GETH (Mordor)
       ETC Planets:
         __rpcUrl: https://rpc.etcplanets.com
         __link: https://etcplanets.com
         __name: ETC Planets RPC
-      TokenPocket:
-        __link: https://etc.mytokenpocket.vip/
-        __rpcUrl: http://mytokenpocket.vip
-        __name: TokenPocket
+      ETC-Network.info AT BESU:
+        __rpcUrl: https://besu-at.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info BESU AT
+      ETC-Network.info AT ERIGON:
+        __rpcUrl: https://erigon-at.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info ERIGON AT
+      ETC-Network.info AT GETH:
+        __rpcUrl: https://geth-at.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info GETH AT
+      ETC-Network.info DE BESU:
+        __rpcUrl: https://besu-de.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info BESU DE
+      ETC-Network.info DE ERIGON:
+        __rpcUrl: https://erigon-de.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info erigon DE
+      ETC-Network.info DE GETH:
+        __rpcUrl: https://geth-de.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info GETH DE
+      ETC-Network.info GETH (Mordor):
+        __rpcUrl: https://geth-mordor.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info GETH (Mordor)
+      HebeBlock:
+        __rpcUrl: https://etc.etcdesktop.com/
+        __link: https://etcdesktop.com/
+        __name: HebeBlock
+      NOWNodes:
+        __name: NOWNodes
+        __link: https://nownodes.io/nodes
+        __rpcUrl: https://eth.nownodes.io
       Rivet:
         __link: https://rivet.cloud
         __name: Rivet
         __rpcUrl: <API Key Required>
+      TokenPocket:
+        __link: https://etc.mytokenpocket.vip/
+        __rpcUrl: http://mytokenpocket.vip
+        __name: TokenPocket
       TokenView API:
         __link: https://services.tokenview.io
         __name: TokenView API
