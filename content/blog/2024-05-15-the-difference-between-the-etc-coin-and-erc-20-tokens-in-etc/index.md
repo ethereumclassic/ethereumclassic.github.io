@@ -1,6 +1,6 @@
 ---
 title: "The Difference Between the ETC Coin and ERC-20 Tokens in ETC"
-date: 2024-04-04
+date: 2024-05-15
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["Education"]
