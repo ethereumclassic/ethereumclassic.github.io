@@ -28,7 +28,7 @@ Following we will explain the differences between “Social Consensus” and “
 
 ## Ethereum Reframed the “Decentralization” Narrative
 
-![](./1.png)
+![](./2.png)
 
 Because POS is centralized, the Ethereum “community” began reframing the “decentralization” narrative and using the term “Social Consensus”.
 
@@ -42,7 +42,7 @@ As evidence of these machinations, in this section we show [a conversation](http
 
 ## Social Consensus in a Nutshell
 
-![](2.png)
+![](./1.png)
 
 Social Consensus means that “the community” decides when things are wrong, according to their worldviews, so they can change things by social consensus. 
 
