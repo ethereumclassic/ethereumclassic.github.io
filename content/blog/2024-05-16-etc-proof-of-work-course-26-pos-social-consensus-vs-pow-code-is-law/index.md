@@ -42,7 +42,7 @@ As evidence of these machinations, in this section we show [a conversation](http
 
 ## Social Consensus in a Nutshell
 
-![](1.png)
+![](./1.png)
 
 Social Consensus means that “the community” decides when things are wrong, according to their worldviews, so they can change things by social consensus. 
 
