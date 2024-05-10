@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 26. POS Social Consensus vs POW Code Is Law"
+title: "ETC工作量证明课程：26. POS社会共识 vs POW法律代码"
 date: 2024-05-16
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AfJBOtaEujo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,84 +16,84 @@ linkImage: ./banner.png
 
 ![](banner.png)
 
-In the previous class, 25, we explained the fundamental benefits of proof of work (POW) and how, applied to Ethereum Classic (ETC), it produces the key innovation of this blockchain when it was invented: Unstoppability of applications.
+在上一课程中（第25课），我们解释了工作量证明（POW）的基本优势，以及如何将其应用到Ethereum Classic（ETC）上产生了该区块链在发明时的关键创新：应用的无法阻挡性。
 
-In this class, 26, we will explain a related topic to “unstoppability” which is the difference in philosophies between a network such as ETC and another such as Ethereum (ETH).
+在本课程（第26课）中，我们将解释与“无法阻挡性”相关的一个主题，即像ETC这样的网络与像以太坊（ETH）这样的网络之间的哲学差异。
 
-ETH has a philosophy called “Social Consensus” which made it lose a great part of its security, thus making it largely a centralized system.
+ETH有一个称为“社会共识”的哲学，这使得它失去了很大一部分的安全性，因此它在很大程度上成为了一个中心化的系统。
 
-ETC’s philosophy is called “Code Is Law” which keeps it inline with the ethos of decentralization, immutability, and censorship resistance.
+ETC的哲学被称为“法律即代码”，这使得它符合去中心化、不可变性和抗审查的精神。
 
-Following we will explain the differences between “Social Consensus” and “Code Is Law”.
+接下来我们将解释“社会共识”和“法律即代码”的区别。
 
-## Ethereum Reframed the “Decentralization” Narrative
+## 以太坊重新定义了“去中心化”叙事
 
 ![](./2.png)
 
-Because POS is centralized, the Ethereum “community” began reframing the “decentralization” narrative and using the term “Social Consensus”.
+因为POS是中心化的，以太坊“社区”开始重新定义“去中心化”的叙事，并使用术语“社会共识”。
 
-In their view decentralization was just a phase in the history of Ethereum to gain trust from the public. After this phase, their vision is that they will rely on something they invented called “credible neutrality”.
+在他们看来，去中心化只是以太坊历史上的一个阶段，目的是获得公众的信任。在这个阶段之后，他们的愿景是依赖于他们发明的一个叫做“可信中立”的东西。
 
-This means that the world should believe in the neutrality of the Ethereum community of developers, the staking elites, and the Ethereum Foundation for the management of the system.
+这意味着世界应该相信以太坊开发社区、权益证明精英和以太坊基金会在系统管理方面的中立性。
 
-In a way, they are implicitly saying something like “let’s keep acting as if Ethereum is decentralized so people keep believing it is secure”.
+从某种程度上说，他们暗示了一种如“让我们继续表现得像以太坊是去中心化的，这样人们就会继续相信它是安全的”的说法。
 
-As evidence of these machinations, in this section we show [a conversation](https://twitter.com/ChrisBlec/status/1675127714393518083) Ethereum founder, Vitalik Buterin, had with Ethereum developers in July of 2023. 
+作为这些策划的证据，在这一节中，我们展示了[一次对话](https://twitter.com/ChrisBlec/status/1675127714393518083)以太坊创始人Vitalik Buterin在2023年7月与以太坊开发人员之间的对话。
 
-## Social Consensus in a Nutshell
+## 社会共识简介
 
 ![](./1.png)
 
-Social Consensus means that “the community” decides when things are wrong, according to their worldviews, so they can change things by social consensus. 
+社会共识意味着“社区”根据他们的世界观来决定何时出现问题，因此他们可以通过社会共识来改变事物。
 
-This is, by irregular state changes, changing account balances manually, deleting dapps, censoring “bad actors”, and things like that.
+这意味着通过不规则的状态更改，手动更改账户余额，删除dapps，审查“不良行为者”等方式来改变事物。
 
-Basically, social consensus brings back in full force the trusted third parties that blockchains were supposed to minimize.
+基本上，社会共识完全恢复了区块链本应最小化的受信任的第三方。
 
-The philosophy by Cypherpunks was that wherever trust was deposited, that trust was going to be abused. It is just human nature.
+Cypherpunks的哲学是，无论信任被寄托在何处，这种信任都将被滥用。这只是人性。
 
-Social consensus is a sort of gas light argument that says that now wherever trust is deposited, it will not be abused for some magical reason.
+社会共识是一种气体灯论据，它说现在无论信任被寄托在何处，都不会因为某种神奇的原因而被滥用。
 
-## Code Is Law Is True Decentralization
+## 法律即代码是真正的去中心化
 
-POW is “Code Is Law” which is exactly the opposite. 
+POW是“法律即代码”，这恰恰相反。
 
-Where Social Consensus believes "people are good", Code Is Law believes "trusted third parties are precisely the problem we are trying to solve!"
+社会共识相信“人是善良的”，而法律即代码则认为“受信任的第三方正是我们试图解决的问题！”
 
-Code Is Law is a set of principles that are at the top of blockchain design. Everything flows down from the philosophy, or is downstream from the principles.
+法律即代码是处于区块链设计顶层的一组原则。一切都源自这种哲学，或者是从这些原则下游的。
 
-This kind of mindset only produces rules at the protocol layer that seek to minimize the influence of people or communities as much as possible.
+这种思维方式只会在协议层产生规则，以尽量减少人或社区的影响。
 
-Code Is Law relies primarily on objective physical forces to protect the system.
+法律即代码主要依赖于客观的物理力量来保护系统。
 
-The decentralization enabled by proof of work, which is designed into the system precisely because of the philosophy of Code Is Law, makes the network trust minimized, thus secure, thus immutable.
+由于法律即代码的哲学设计了系统，这种去中心化的设计恰恰使得网络信任最小化，因此安全，因此不可变。
 
-## Comparison Table
+## 对比表格
 
 ![](./3.png)
 
-In this section we show a table we described in [a post](https://ethereumclassic.org/blog/2023-01-25-ethereums-social-consensus-vs-ethereum-classics-code-is-law) we published in January of 2023 where we laid out the differences between Social Consensus and Code Is Law. Below we briefly explain each line in the table.
+在这一部分，我们展示了我们在2023年1月发表的一篇文章中描述的表格，其中我们概述了社会共识和法律即代码之间的区别。下面我们简要解释表格中的每一行。
 
-**Security of Last Resort:** In Social Consensus the belief is that people are the ones who have to deal with security and solve any problems that may arise on the blockchain. In Code Is Law the ultimate resolution is proof of work. Deciding each block in each round is determined by the work done, not by subjective community decisions. If there are conflicts or hacks to smart contracts, those must be resolved off-chain by the parties, but the chain remains immutable.
+**最后保护的安全性：** 在社会共识中，人们认为必须由人们来处理安全性，并解决可能在区块链上出现的任何问题。在法律即代码中，最终解决方案是工作量证明。每个回合中的每个区块的决定都是通过工作完成来确定的，而不是通过主观的社区决策。如果存在冲突或对智能合约的黑客攻击，这些问题必须在链外由各方解决，但链保持不可变。
 
-**Chain Selection:** When new entrants wish to join the network, or when nodes leave and need to connect again, Social Consensus doesn’t have an objective decentralized way to inform them. They need to check with public websites, a friend, or other trusted parties. In Code Is Law, the accumulated proof of work, or “most work done” rule, always determines which is the chain to follow.
+**链选择：** 当新加入者希望加入网络，或者节点离开并需要重新连接时，社会共识没有客观的去中心化方法来通知他们。他们需要在公共网站、朋友或其他受信任的方面进行核实。在法律即代码中，累积的工作量证明，或“完成最多的”规则，总是确定要遵循的链。
 
-**Consensus:** In a Social Consensus system, the way of deciding each block in each round is by a human process that involves a 2/3rds vote from staking validators because networks that don’t use proof of work may be attacked by only 1/3 of dishonest participants. In Code Is Law, consensus is reached with a purely physical and objective process. No voting takes place nor human agency.  
+**共识：** 在社会共识系统中，每个回合中决定每个区块的方式是通过一个人类流程，这个过程需要来自权益证明验证者的2/3投票，因为不使用工作量证明的网络可能会受到只有1/3的不诚实参与者的攻击。在法律即代码中，共识是通过一种纯粹的客观物理过程达成的。没有投票也没有人类代理。
 
-**Design Focus:** The design focus of the safety of Social Consensus systems depends on what they termed “crypto economics” which is basically human financial incentives of the staking elites. In Code Is Law blockchains the design focus to make the system safe is the brute force and sheer energy used to build the POW stamps per block.
+**设计重点：** 社会共识系统的安全设计重点取决于他们所谓的“加密经济学”，这基本上是权益证明精英的人类财务激励。在法律即代码区块链中，使系统安全的设计重点是用于每个区块的工作量证明印章的暴力和能量。
 
-**Incentives:** In Social Consensus, the incentives to keep the system secure revolve around rewards to follow the rules and penalties for sending blocks outside of the protocol. This method, coupled with the purely human based and subjective consensus design, is prone to conflict and instability. In Code Is Law, there are only rewards, and all are incentivized to run and win a race of efficiency and computing power.
+**激励：** 在社会共识中，保持系统安全的激励围绕着遵守规则的奖励和发送区块超出协议的惩罚。这种方法，加上基于人类和主观共识设计的方法，容易导致冲突和不稳定性。在法律即代码中，只有奖励，所有人都被激励去参与和赢得效率和计算能力竞赛。
 
-**Fork Policy:** In Social Consensus systems, because they are prone to centralization and governed by staking and other elites, voluntary forks are motivated not only by desired upgrades and bug fixes, but also by political goals such as punishments, confiscation, reversals, and social justice issues. In Code Is Law, anything that is not desired upgrades or fixing bugs will usually be thoroughly rejected.
+**分叉政策：** 在社会共识系统中，由于它们容易集中化并由权益和其他精英控制，自愿分叉的动机不仅是为了达到期望的升级和修复错误，而且还有政治目标，如惩罚、没收、逆转和社会正义问题。在法律即代码中，任何不是期望的升级或修复错误的事物通常都会被彻底拒绝。
 
-**Definition of Finality:** In Social Consensus, finality is defined by a vote of the staking elites. However, this is extremely weak as the chain has no work done, so these participants may trivially make changes and reverse the chain whenever they wish. In Code Is Law, the blockchain is immutable because it is extremely difficult to reverse the chain as to do so would require to do the work all over again.
+**最终性的定义：** 在社会共识中，最终性是由权益证明的投票来定义的。然而，这非常薄弱，因为链没有完成工作，因此这些参与者可以随意进行更改并在任何时候反转链。在法律即代码中，区块链是不可变的，因为要反转链是非常困难的，这需要重新完成所有的工作。
 
-**Purpose Externality:** In terms of externalities, the philosophy of Social Consensus seeks to conform to political ideologies such as climate change. This was the main driver to create proof of stake as a blockchain consensus mechanism in Ethereum. In Code Is Law, all the design focus and principles are geared toward human flourishing.
+**目标外部性：** 在外部性方面，社会共识的哲学试图符合政治意识形态，例如气候变化。这是在以太坊中创建权益证明作为区块链共识机制的主要驱动因素。在法律即代码中，所有的设计重点和原则都是为了人类的繁荣。
 
-**Objective:** Social Consensus seeks for the system to be as scalable as possible regardless of risk and centralization. Any problems that may arise may be solved by decisions at the social layer. In Code Is Law, the objective is to provide social scalability so anyone may use the system freely without risks of censorship or the need of permission by central administrators.
+**客观性：** 社会共识试图使系统尽可能可扩展，而不考虑风险和集中化。可能出现的任何问题都可以通过社会层面的决策来解决。在法律即代码中，目标是提供社会可扩展性，这样任何人都可以自由使用系统，无需担心审查或需要中央管理员的许可。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
