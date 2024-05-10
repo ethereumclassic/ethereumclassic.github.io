@@ -1,5 +1,5 @@
 ---
-title: "Manage Your ETC by Connecting Ledger Nano S Plus to Your Phone"
+title: "通过连接Ledger Nano S Plus到您的手机管理您的 ETC"
 date: 2024-05-14
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qxp5Q0KPF-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,94 +16,94 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-In this post we will explain how to manage your ETC by connecting your Ledger Nano S Plus to your phone.
+在这篇文章中，我们将解释如何通过连接您的 Ledger Nano S Plus 到您的手机来管理您的 ETC。
 
-There is a limited association of your Ledger Live app on your computer with the iPhone platform and a full connection of the hardware wallet device with Android phones. We will explain both.
+您的 Ledger Live 应用与 iPhone 平台有限关联，与 Android 手机的硬件钱包设备有完全连接。我们将两者都解释一下。
 
-To learn where to get the Ledger Nano S Plus hardware wallet and to set it up on your computer, please see our guide in the following link:
+要了解在您的计算机上获取 Ledger Nano S Plus 硬件钱包并设置它，请查看以下链接中的我们的指南：
 
-“Using the Ledger Nano S Plus With Ethereum Classic”
+“使用 Ledger Nano S Plus 与 Ethereum Classic”
 
 https://ethereumclassic.org/blog/2024-02-27-using-the-ledger-nano-s-plus-with-ethereum-classic
 
-## The Ledger Hardware and Software Components
+## Ledger 硬件和软件组件
 
 ![](./2.png)
 
-Ledger Nano S Plus is a hardware wallet, so to use it with your phone you need to have your Ledger Nano S Plus device, the Ledger Live app on your computer as we explained in a [previous guide](https://ethereumclassic.org/blog/2024-02-27-using-the-ledger-nano-s-plus-with-ethereum-classic), and the Ledger Live app on your phone.
+Ledger Nano S Plus 是一个硬件钱包，因此要使用它与您的手机，您需要您的 Ledger Nano S Plus 设备，我们在之前的指南中解释过的计算机上的 Ledger Live 应用，以及您手机上的 Ledger Live 应用。
 
-In this tutorial we will explain how to manage your ETC by connecting your Ledger Nano S Plus to your phone.
+在本教程中，我们将解释如何通过连接您的 Ledger Nano S Plus 到您的手机来管理您的 ETC。
 
-We will show the parallel actions between your devices where appropriate.
+我们将在适当的时候展示您的设备之间的平行操作。
 
-## Associate Ledger Live With iPhone
+## 将 Ledger Live 与 iPhone 关联
 
-### 1. Download Ledger Live on Your iPhone
+### 1. 在您的 iPhone 上下载 Ledger Live
 
 ![](./3.png)
 
-To manage your ETC with your iPhone, you will need your Ledger Nano S Plus hardware device and your Ledger Live app on your computer. For now it's not possible to connect a Ledger Nano S Plus to an iPhone directly, but it is possible to associate your Ledger Live apps on your computer and iPhone.
+要使用您的 iPhone 管理您的 ETC，您需要您的 Ledger Nano S Plus 硬件设备和您计算机上的 Ledger Live 应用。目前无法直接连接 Ledger Nano S Plus 到 iPhone，但可以关联您计算机和 iPhone 上的 Ledger Live 应用。
 
-To begin, download Ledger Live on your iPhone and open it. Then, select “Access your wallet”, and in the next screen select “Synch with Ledger Live desktop”.  After these steps, see the instructions in the following screen. 
+首先，在您的 iPhone 上下载 Ledger Live 并打开它。然后，选择“访问您的钱包”，在下一个屏幕中选择“与 Ledger Live 桌面同步”。完成这些步骤后，查看以下屏幕中的说明。
 
-### 2. Associate Ledger Live Desktop to Your iPhone
+### 2. 将 Ledger Live 桌面与您的 iPhone 关联
 
 ![](./4.png)
 
-To associate your Ledger Live desktop to your iPhone, open it and go to “Settings”, then “Accounts”, and then to “Accounts export”. In the next screen you will see a dynamic QR code.
+要将您的 Ledger Live 桌面与您的 iPhone 关联，打开它并转到“设置”，然后转到“帐户”，然后转到“帐户导出”。在下一个屏幕中，您将看到一个动态二维码。
 
-On your Ledger Live on your iPhone, click on the “I’m ready to scan” button. Then, scan the dynamic QR code on your computer screen.
+在您的 iPhone 上的 Ledger Live 上，点击“我准备好扫描”按钮。然后，扫描您计算机屏幕上的动态二维码。
 
-### 3. Select the Accounts You Wish to Synchronize
+### 3. 选择您想要同步的帐户
 
 ![](./5.png)
 
-After scanning, in the next screen on your phone, you will see that Ledger Live will give you the option to select which accounts you want to synchronize with your iPhone.
+扫描后，在您手机上的下一个屏幕上，您将看到 Ledger Live 将为您提供选择要与您的 iPhone 同步的帐户的选项。
 
-Select the ETC accounts you wish to monitor on your iPhone and then press “Import”.
+选择您希望在您的 iPhone 上监视的 ETC 帐户，然后按“导入”。
 
-### 4. You Are All Set Up!
+### 4. 完成设置！
 
 ![](./6.png)
 
-After you press “Import” in the previous step, your desktop and your iPhone Ledger Live apps will synchronize and you will be taken to your home screen on your Ledger Live on your iPhone where you will see your ETC balance.
+在上一步中按“导入”后，您的桌面和您的 iPhone 上的 Ledger Live 应用将同步，并且您将被带到您的 iPhone 上的 Ledger Live 主屏幕，您将在那里看到您的 ETC 余额。
 
-Congratulations! You are now set up to monitor your ETC accounts on your iPhone using your Ledger Nano S Plus!
+恭喜！您现在已经设置好在您的 iPhone 上使用您的 Ledger Nano S Plus 监视您的 ETC 帐户！
 
-## Associate Ledger Nano S Plus With Android
+## 将 Ledger Nano S Plus 与 Android 关联
 
-### 1. Android Connection Set Up
+### 1. Android 连接设置
 
 ![](./7.png)
 
-To connect your Ledger Nano S Plus to your Android phone, you do not need to have Ledger Live on a desktop. You can connect your device directly to your phone.
+要将您的 Ledger Nano S Plus 连接到您的 Android 手机，您不需要在桌面上安装 Ledger Live。您可以直接将您的设备连接到您的手机。
 
-To begin, download the Ledger Live app on your Android phone. Then, connect the OTG cable that came with your device to your phone.
+首先，在您的 Android 手机上下载 Ledger Live 应用。然后，将随您的设备附带的 OTG 电缆连接到您的手机上。
 
-### 2. Follow the Ledger Instructions
+### 2. 按照 Ledger 的说明操作
 
 ![](./1.png)
 
-1. Open and unlock Ledger Live on your smartphone.
-2. Connect your Ledger device to your smartphone using the appropriate OTG cable.
-3. Unlock your Ledger device.
-4. That's it! Your Ledger Nano S Plus is now connected to your Android phone.
+1. 在您的智能手机上打开并解锁 Ledger Live。
+2. 使用适当的 OTG 电缆将您的 Ledger 设备连接到您的智能手机。
+3. 解锁您的 Ledger 设备。
+4. 完成！您的 Ledger Nano S Plus 现在已连接到您的 Android 手机。
 
-**What You Can Do**
+**您可以做什么**
 
-Once you have your Android phone connected to your Ledger Nano S Plus you can:
+一旦您将您的 Android 手机连接到您的 Ledger Nano S Plus，您可以：
 
-- Install and uninstall apps in My Ledger.
-- Add accounts managed by your Ledger device.
-- Receive ETC.
-- Send ETC.
+- 在我的 Ledger 中安装和卸载应用程序。
+- 添加由您的 Ledger 设备管理的帐户。
+- 接收 ETC。
+- 发送 ETC。
 
-You can find the above instruction on the Ledger website on the following link:
+您可以在以下链接上的 Ledger 网站上找到上述说明：
 
 https://support.ledger.com/hc/en-us/articles/360021488913-Connect-Ledger-to-your-phone?docs=true
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于 ETC 的信息，请访问：https://ethereumclassic.org
