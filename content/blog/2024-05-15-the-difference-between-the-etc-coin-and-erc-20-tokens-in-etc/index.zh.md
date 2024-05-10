@@ -1,5 +1,5 @@
 ---
-title: "The Difference Between the ETC Coin and ERC-20 Tokens in ETC"
+title: "ETC币和ETC上的ERC-20代币之间的区别"
 date: 2024-05-15
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8A8ocKn7XBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,83 +16,83 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-One of the major confusions in the blockchain industry is how to define the different types of tokens.
+区块链行业中一个主要的困惑是如何定义不同类型的代币。
 
-Most people don’t know that not all tokens are part of the protocols of blockchains, or that tokens may be trivially created by anyone in programmable blockchains such as Ethereum Classic (ETC).
+大多数人并不知道，并非所有代币都是区块链协议的一部分，或者代币可以由任何人在可编程的区块链（如以太坊经典（ETC））中轻松创建。
 
-In this post, we will clarify these things by explaining the following topics:
+在本文中，我们将通过解释以下主题来澄清这些问题：
 
-- What is a native coin?
-- What is a programmable native coin?
-- What are ERC-20 tokens?
-- Examples of ERC-20 tokens
-- Why ETC is used as a wrapped token in dapps
-- Monetary policies of ETC and ERC-20 tokens
+- 什么是本地币？
+- 什么是可编程的本地币？
+- 什么是ERC-20代币？
+- ERC-20代币的例子
+- 为什么ETC在dapp中被用作包装代币
+- ETC和ERC-20代币的货币政策
 
-## What Is a Native Coin?
+## 什么是本地币？
 
-When Bitcoin (BTC) was invented, it was issued each time a miner created a block. Following Bitcoin’s example, ETC was created in the same manner, so both BTC and ETC are what could be described as “community fiat tokens” that are printed to pay for the work of miners in those networks.
+当比特币（BTC）被发明时，每当矿工创建一个区块时，比特币就会被发行。仿照比特币的例子，ETC也是以同样的方式创建的，因此BTC和ETC都可以被描述为“社区法定代币”，用于支付这些网络中矿工的工作。
 
-The interesting thing is that both BTC and ETC are hard money, therefore considered digital gold, because they are only printed if a lot of work, spending a lot of electricity, is done by miners.
+有趣的是，BTC和ETC都是硬货币，因此被视为数字黄金，因为只有在矿工付出大量工作、耗费大量电力的情况下才会被发行。
 
-This unforgeable scarcity, and the fact that BTC and ETC have a foundational economic use case, which is to pay for the block rewards, is what gives value to both native coins.
+这种不可伪造的稀缺性，以及BTC和ETC具有基础的经济用例，即支付区块奖励，这赋予了这两种本地币价值。
 
-Additionally, native coins such as BTC and ETC are used in proof of work (POW) blockchains to pay for transaction fees, which adds another economic use case to them.
+此外，像BTC和ETC这样的本地币在工作量证明（POW）区块链中用于支付交易费，这为它们增加了另一个经济用例。
 
-## What Is a Programmable Native Coin?
+## 什么是可编程的本地币？
 
-Some blockchains are plain vanilla ledgers with accounts and balances and that’s it. This means that the only thing that users may do is move coins from one account to another by sending transactions to the chain and paying straight fees for them to be included in the blocks.
+一些区块链只是普通的账户和余额账本，仅此而已。这意味着用户唯一能做的事情就是通过向区块链发送交易并直接支付费用来将硬币从一个账户移动到另一个账户。
 
-In the case of ETC it is a programmable native coin because not only can users do what is described above, but developers can also send to the Ethereum Classic blockchain what are called smart contracts, which are software programs that become decentralized when they are stored in the network.
+在ETC的情况下，它是可编程的本地币，因为用户不仅可以做上面描述的事情，而且开发人员还可以将称为智能合约的内容发送到以太坊经典区块链上，这些软件程序在存储在网络中时变成了分散的。
 
-These smart contracts give programmability to ETC by enabling applications that may be used to manage the cryptocurrency in various ways, for example trading it in decentralized exchanges, using it to buy NFTs, setting up estate plans with inheritance rules, etc.
+这些智能合约通过启用各种方式管理加密货币的应用程序，例如在去中心化交易所交易，用于购买NFT，设置具有继承规则的资产计划等，为ETC赋予了可编程性。
 
-## What Are ERC-20 Tokens?
+## 什么是ERC-20代币？
 
 ![](./1.png)
 
-It is precisely because of this programmability with smart contracts that many things may be created in Ethereum Classic.
+正是因为这种智能合约的可编程性，许多东西可以在以太坊经典中创建。
 
-Among these things that are enabled are non-native tokens using a smart contract standard that was adopted by the industry called [ERC-20 tokens](https://ethereumclassic.org/blog/2023-06-08-ethereum-classic-course-25-what-are-erc-20-tokens).
+在这些被启用的东西中，包括使用业界采用的称为[ERC-20代币](https://ethereumclassic.org/blog/2023-06-08-ethereum-classic-course-25-what-are-erc-20-tokens)的智能合约标准创建的非本地代币。
 
-ERC-20 tokens are units of value, just like native cryptocurrencies, but that are really created as applications in the blockchain. They are not native tokens because they are not part of the base protocol of ETC and have no foundational economic use case such as paying for block rewards or transaction fees.
+ERC-20代币是价值单位，就像本地加密货币一样，但它们实际上是作为区块链中的应用程序创建的。它们不是本地代币，因为它们不是ETC基础协议的一部分，并且没有像支付区块奖励或交易费用这样的基础经济用例。
 
-However, ERC-20 tokens may have value because they may have assigned use cases for dapps, such as paying for the utility of the dapps, or for governance purposes, where users may vote for various things in those ecosystems.
+但是，ERC-20代币可能有价值，因为它们可能对dapps具有指定的用例，例如支付dapps的实用性或用于治理目的，在这些生态系统中，用户可以投票支持各种事情。
 
-## Examples of ERC-20 Tokens in ETC
+## ETC中的ERC-20代币的例子
 
-In Ethereum Classic users may invest and trade in ETC directly or use the blockchain to issue, buy, and sell ERC-20 tokens. Some examples of ERC-20 tokens are:
+在以太坊经典中，用户可以直接投资和交易ETC，也可以使用区块链来发行、购买和出售ERC-20代币。一些ERC-20代币的例子是：
 
-**HebeToken:** $HEBE is the ERC-20 token issued by a developer team in ETC called [HebeBlock](https://hebeblock.com/) who has built several applications such as HebeSwap, HENS, a wallet, and ETCInscribe.
+**HebeToken：** $HEBE是由名为[HebeBlock](https://hebeblock.com/)的ETC开发团队发行的ERC-20代币，该团队已经构建了几个应用程序，如HebeSwap、HENS、一个钱包和ETCInscribe。
 
-**ETCPOW:** $ETCPOW is the ERC-20 token issued by a developer team in ETC called [ETCMC](https://etcmc.org/) who has launched a plug and play hardware node, an ETC mining pool, and a decentralized exchange.
+**ETCPOW：** $ETCPOW是由名为[ETCMC](https://etcmc.org/)的ETC开发团队发行的ERC-20代币，该团队已经推出了即插即用硬件节点、一个ETC挖矿池和一个去中心化交易所。
 
-**Wrapped ETC:** $WETC is a special type of ERC-20 token that accepts the native coin, ETC, as deposits and issues users what is called a wrapped token representing the coin on a 1-to-1 basis so that it may be used inside dapps.
+**包装的ETC：** $WETC是一种特殊类型的ERC-20代币，它接受本地代币ETC作为存款，并为用户发行所谓的包装代币，代表1：1的比例的硬币，以便在dapps中使用。
 
-## Why Is ETC Used As a Wrapped Token in Dapps?
+## 为什么ETC在dapps中被用作包装代币？
 
-The reason wrapped tokens exist, even though they represent the native coins that they wrap on a 1-to-1 basis, is because the ERC-20 token standard was created after Ethereum Classic and Ethereum were launched. 
+尽管包装代币代表它们1：1的本地硬币，但包装代币的存在是因为ERC-20代币标准是在以太坊经典和以太坊上线后才创建的。
 
-The standard mostly used by dapps is the ERC-20 token standard, so this made it difficult to use the native cryptocurrencies of each chain inside dapps.
+dapps主要使用的标准是ERC-20代币标准，因此这使得在dapps内部使用每条链的本地加密货币变得困难。
 
-To solve this problem, wrapped tokens, using the ERC-20 tokens, were created to represent the native coins in each network.
+为解决这个问题，使用ERC-20代币创建的包装代币被创建来代表每个网络中的本地硬币。
 
-This is why WETC exists inside ETC in parallel to the native coin, ETC.
+这就是为什么在ETC内部存在WETC与本地币ETC并行存在的原因。
 
-In addition to its use inside dapps, WETC is also issued in other blockchains to represent ETC locked up in smart contracts in the chain of origin.
+除了在dapps内部的使用外，WETC还在其他区块链中发行，以代表锁定在原始链中智能合约中的ETC。
 
-## Monetary Policies of ETC and ERC-20 Tokens
+## ETC和ERC-20代币的货币政策
 
-As is well know, ETC has a [monetary policy](https://ethereumclassic.org/blog/2023-02-09-ethereum-classic-course-8-ethereum-classics-monetary-policy) that resembles that of Bitcoin. It was issued initially at 5 coins per block, and every 5 million blocks, or roughly every two years, it reduces that payment by 20%. This schedule guarantees that there will be 210,700,000 ETC ever created in the history of the network.
+众所周知，ETC有一个[货币政策](https://ethereumclassic.org/blog/2023-02-09-ethereum-classic-course-8-ethereum-classics-monetary-policy)，类似于比特币。它最初以每区块5个硬币的速度发行，每500万个区块，或大约每两年，就会减少20%。这个时间表保证了在网络历史上永远只会有210,700,000个ETC被创建。
 
-ERC-20 tokens may have any kind of monetary policy their developers decide. 
+ERC-20代币可能有任何类型的货币政策，这取决于他们的开发者决定。
 
-For example, ETCPOW is issued perpetually as a reward to users as customers use their various services. In the case of HebeToken, it has a fixed supply of 500,000,000 that will ever exist, of which around 102,000,000 have already been issued at the time of this writing.
+例如，ETCPOW被永久发行作为用户在使用其各种服务时的奖励。至于HebeToken，它有一个总共将存在的500,000,000的固定供应量，目前在撰写本文时已发行约102,000,000。
 
-The value of each kind of unit really depends on their applications, use cases, popularity, and soundness of their monetary designs.
+每种单位的价值实际上取决于它们的应用程序、用例、流行度以及其货币设计的可靠性。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
