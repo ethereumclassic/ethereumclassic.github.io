@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 27. What Does “Security” Mean in POW Blockchains?"
+title: "ETC Proof of Work Course: 27. What Does 'Security' Mean in POW Blockchains?"
 date: 2024-05-23
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
