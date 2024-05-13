@@ -7,6 +7,7 @@
   openSource: https://etc.blockscout.com/address/0x2624E907BcC04f93C8f29d7C7149a8700Ceb8cDC?tab=contract
   audit: https://github.com/etcswap/public-audits
   ipfsFrontend: https://v3-ipfs.etcswap.org
+  testSuite: https://github.com/etcswap/v3-core/tree/main/test
   description: Trade ETC and other leading digital assets on ETCswap V3. The premiere decentralized exchange protocol featuring concentrated liquidity positions and capital efficient stablecoin markets.
   type: finance
   links:
@@ -446,6 +447,7 @@
   openSource: https://etc.blockscout.com/address/0x0307cd3D7DA98A29e6Ed0D2137be386Ec1e4Bc9C?tab=contract
   audit: https://github.com/etcswap/public-audits
   ipfsFrontend: https://v2-ipfs.etcswap.org
+  testSuite: https://github.com/etcswap/v2-core/tree/master/test
   description: ETCswap V2 is the premiere AMM decentralized cryptocurrency exchange on Ethereum Classic allowing ETC users to acquire digital assets without centralized intermediaries.
   type: finance
   links:
