@@ -1,5 +1,58 @@
-- date: 2024-02-02
-  title: SafeClassic Community NFT
+  - title: ETCswap V3
+  date: 2024-04-17
+  image: ./images/etcswap.png
+  author: Ethereum Classic DAO
+  authorLink: https://ethereumclassic.com
+  verifiedContract: https://etc.blockscout.com/address/0x2624E907BcC04f93C8f29d7C7149a8700Ceb8cDC?tab=contract
+  openSource: https://etc.blockscout.com/address/0x2624E907BcC04f93C8f29d7C7149a8700Ceb8cDC?tab=contract
+  audit: https://github.com/etcswap/public-audits
+  ipfsFrontend: https://v3-ipfs.etcswap.org
+  description: Trade ETC and other leading digital assets on ETCswap V3. The premiere decentralized exchange protocol featuring concentrated liquidity positions and capital efficient stablecoin markets.
+  type: finance
+  links:
+    - name: Launch ETCswap V3
+      link: https://v3.etcswap.org
+      icon: link
+    - name: Announcement
+      link: https://ethereumclassic.com/news/2024/05/06/introducing-etcswap-v3/
+      icon: book
+    - name: Documentation
+      link: https://docs.etcswap.org
+      icon: book
+    - name: Github
+      link: https://github.com/etcswap
+      icon: github
+    - name: Twitter
+      link: https://twitter.com/EthClassicDAO
+      icon: twitter
+- title: Classic USD (USC) Stablecoin
+  date: 2024-04-10
+  image: ./images/usc-stablecoin.png
+  author: Brale
+  authorLink: https://brale.xyz/stablecoins/USC
+  verifiedContract: https://etc.blockscout.com/token/0xDE093684c796204224BC081f937aa059D903c52a?tab=contract
+  openSource: https://etc.blockscout.com/token/0xDE093684c796204224BC081f937aa059D903c52a?tab=contract
+  audit: https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/audits/2023-10-v5.0.pdf
+  description: Launched in 2024, Classic USD (USC) is a fiat-collateralized stablecoin issued through a partnership between Brale and EthereumClassic.com. Classic USD is the premiere native stablecoin for the decentralized finance ecosystem, global payments, and on-chain fiat settlement on Ethereum Classic.
+  type: finance
+  links:
+    - name: Buy USC Stablecoin
+      link: https://v3.etcswap.org/#/swap?chain=classic&inputCurrency=ETC&outputCurrency=0xDE093684c796204224BC081f937aa059D903c52a&exactAmount=1
+      icon: link
+    - name: Mint USC Stablecoin
+      link: https://brale.xyz/stablecoins/USC
+      icon: link
+    - name: Announcement
+      link: https://ethereumclassic.com/news/2024/05/10/introducing-ethereum-classic-usd-backed-usc-stablecoin/
+      icon: book
+    - name: Github
+      link: https://github.com/white-b0x/classic-usd
+      icon: github
+    - name: Twitter
+      link: https://twitter.com/Classic_USD
+      icon: twitter
+- title: SafeClassic Community NFT
+  date: 2024-02-02
   description: More deflation! By owning Safe Classic NFЕ, you will receive monthly rewards in the form of ETC and Safe Classic to your balance! The price of a mint increases after each mint!
   image: ./images/240202-1638-safeclassic-community-nft.png
   type: nfts
@@ -353,33 +406,6 @@
     - name: Telegram
       link: https://t.me/ETCClassicDAO
       icon: telegram
-- title: ETCswap
-  date: 2022-06-18
-  image: ./images/etcswap.png
-  author: Ethereum Classic DAO
-  authorLink: https://ethereumclassic.com
-  verifiedContract: https://blockscout.com/etc/mainnet/address/0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5/contracts
-  openSource: https://blockscout.com/etc/mainnet/address/0x79Bf07555C34e68C4Ae93642d1007D7f908d60F5/contracts
-  audit: https://github.com/etcswap/public-audits
-  ipfsFrontend: https://ipfs.io/ipfs/QmSCGpteEcfCDXcQunMyxbaAkBWB5edMFAWnzYXMCqaCKf
-  description: ETCswap is a decentralized cryptocurrency exchange where users acquire digital assets without an intermediary. ETCswap features Ethereum Classic's first on-chain stablecoin markets and is the foundation to the Ethereum Classic DeFi stack built on EthereumClassic.com.
-  type: finance
-  links:
-    - name: Launch ETCswap
-      link: https://swap.ethereumclassic.com
-      icon: link
-    - name: Landing Site
-      link: https://etcswap.org
-      icon: link
-    - name: Documentation
-      link: https://docs.etcswap.org
-      icon: book
-    - name: Github
-      link: https://github.com/etcswap
-      icon: github
-    - name: Twitter
-      link: https://twitter.com/EthClassicDAO
-      icon: twitter
 - title: CoinRabbit
   date: 2022-05-19
   type: finance
@@ -411,19 +437,46 @@
     - name: Discord
       link: https://discord.gg/d56axYmRTa
       icon: discord
-- title: The Canonical WETC Initiative
+- title: ETCswap V2
+  date: 2022-05-15
+  image: ./images/etcswap.png
+  author: Ethereum Classic DAO
+  authorLink: https://ethereumclassic.com
+  verifiedContract: https://etc.blockscout.com/address/0x0307cd3D7DA98A29e6Ed0D2137be386Ec1e4Bc9C?tab=contract
+  openSource: https://etc.blockscout.com/address/0x0307cd3D7DA98A29e6Ed0D2137be386Ec1e4Bc9C?tab=contract
+  audit: https://github.com/etcswap/public-audits
+  ipfsFrontend: https://v2-ipfs.etcswap.org
+  description: ETCswap V2 is the premiere AMM decentralized cryptocurrency exchange on Ethereum Classic allowing ETC users to acquire digital assets without centralized intermediaries.
+  type: finance
+  links:
+    - name: Launch ETCswap V2
+      link: https://v2.etcswap.org
+      icon: link
+    - name: Landing Site
+      link: https://etcswap.org
+      icon: link
+    - name: Documentation
+      link: https://docs.etcswap.org
+      icon: book
+    - name: Github
+      link: https://github.com/etcswap
+      icon: github
+    - name: Twitter
+      link: https://twitter.com/EthClassicDAO
+      icon: twitter
+- title: Wrapped Ether (WETC)
   date: 2022-05-06
   image: ./images/wetc.png
   author: Dapphub
   authorLink: https://wrappedether.org
-  verifiedContract: https://blockscout.com/etc/mainnet/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/contracts
-  openSource: https://blockscout.com/etc/mainnet/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/contracts
+  verifiedContract: https://etc.blockscout.com/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a?tab=contract
+  openSource: https://etc.blockscout.com/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a?tab=contract
   audit: https://github.com/gnosis/canonical-weth
-  description: Canonical Wrapped Ether (WETC) is a tokenized version of Ether (ETC), the native asset of the Ethereum Classic network. The Canonical Wrapped Ether (WETC) Initiative deployed a WETC contract that follows modern best practices in Solidity since version 0.5+. This smart contract is a public good that standardizes the WETC asset throughout the DeFi stack on Ethereum Classic. If you're developing on Ethereum Classic and neet to wrap ETC into an ERC20 asset, please implement this public good contract to improve the UX for ETC network users.
+  description: Wrapped Ether (WETC) is a tokenized version of Ether (ETC), the native asset of the Ethereum Classic network. The Canonical Wrapped Ether (WETC) Initiative deployed a WETC contract that follows modern best practices in Solidity since version 0.5+. This smart contract is a public good that standardizes the WETC asset throughout the DeFi stack on Ethereum Classic. If you're developing on Ethereum Classic and neet to wrap ETC into an ERC20 asset, please implement this public good contract to improve the UX for ETC network users.
   type: interoperability
   links:
-    - name: Canonical Wrapped Ether
-      link: https://blockscout.com/etc/mainnet/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a/read-contract
+    - name: Wrapped Ether
+      link: https://etc.blockscout.com/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a?tab=contract
       icon: link
     - name: Website
       link: https://wrappedether.org
