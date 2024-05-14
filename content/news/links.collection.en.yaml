@@ -1,3 +1,25 @@
+- date: 2024-05-14
+  title: "ETC Ecosystem Spotlight: USD-Backed 'USC' Stablecoin"
+  link: https://ethereumclassic.com/news/2024/05/14/introducing-ethereum-classic-usd-backed-usc-stablecoin/
+  author: Ethereum Classic DAO
+  source: EthereumClassic.com
+  tags:
+    - announcement
+    - development
+    - education
+    - exchange
+    - guide
+- date: 2024-05-13
+  title: "ETC Ecosystem Spotlight: ETCswap v3"
+  link: https://ethereumclassic.com/news/2024/05/06/introducing-etcswap-v3/
+  author: Ethereum Classic DAO
+  source: EthereumClassic.com
+  tags:
+    - announcement
+    - development
+    - education
+    - exchange
+    - guide
 - date: 2023-07-06
   title: "Draft ECIP 1109: Spiral EVM and Protocol Upgrades"
   link: https://ecips.ethereumclassic.org/ECIPs/ecip-1109
