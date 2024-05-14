@@ -1,33 +1,5 @@
-- title: ETCswap V3
-  date: 2024-04-17
-  image: ./images/etcswap.png
-  author: Ethereum Classic DAO
-  authorLink: https://ethereumclassic.com
-  verifiedContract: https://etc.blockscout.com/address/0x2624E907BcC04f93C8f29d7C7149a8700Ceb8cDC?tab=contract
-  openSource: https://etc.blockscout.com/address/0x2624E907BcC04f93C8f29d7C7149a8700Ceb8cDC?tab=contract
-  audit: https://github.com/etcswap/public-audits
-  ipfsFrontend: https://v3-ipfs.etcswap.org
-  testSuite: https://github.com/etcswap/v3-core/tree/main/test
-  description: Trade ETC and other leading digital assets on ETCswap V3. The premiere decentralized exchange protocol featuring concentrated liquidity positions and capital efficient stablecoin markets.
-  type: finance
-  links:
-    - name: Launch ETCswap V3
-      link: https://v3.etcswap.org
-      icon: link
-    - name: Announcement
-      link: https://ethereumclassic.com/news/2024/05/06/introducing-etcswap-v3/
-      icon: book
-    - name: Documentation
-      link: https://docs.etcswap.org
-      icon: book
-    - name: Github
-      link: https://github.com/etcswap
-      icon: github
-    - name: Twitter
-      link: https://twitter.com/EthClassicDAO
-      icon: twitter
 - title: Classic USD (USC) Stablecoin
-  date: 2024-04-10
+  date: 2024-05-14
   image: ./images/usc-stablecoin.png
   author: Brale
   authorLink: https://brale.xyz/stablecoins/USC
@@ -44,13 +16,41 @@
       link: https://brale.xyz/stablecoins/USC
       icon: link
     - name: Announcement
-      link: https://ethereumclassic.com/news/2024/05/10/introducing-ethereum-classic-usd-backed-usc-stablecoin/
-      icon: book
+      link: https://brale.xyz/blog/introducing-classic-usd
+      icon: link
     - name: Github
       link: https://github.com/white-b0x/classic-usd
       icon: github
     - name: Twitter
       link: https://twitter.com/Classic_USD
+      icon: twitter
+- title: ETCswap V3
+  date: 2024-05-06
+  image: ./images/etcswap.png
+  author: Ethereum Classic DAO
+  authorLink: https://ethereumclassic.com
+  verifiedContract: https://etc.blockscout.com/address/0x2624E907BcC04f93C8f29d7C7149a8700Ceb8cDC?tab=contract
+  openSource: https://etc.blockscout.com/address/0x2624E907BcC04f93C8f29d7C7149a8700Ceb8cDC?tab=contract
+  audit: https://github.com/etcswap/public-audits
+  ipfsFrontend: https://v3-ipfs.etcswap.org
+  testSuite: https://github.com/etcswap/v3-core/tree/main/test
+  description: Trade ETC and other leading digital assets on ETCswap V3. The premiere decentralized exchange protocol featuring concentrated liquidity positions and capital efficient stablecoin markets.
+  type: finance
+  links:
+    - name: Launch App
+      link: https://v3.etcswap.org
+      icon: link
+    - name: Announcement
+      link: https://ethereumclassic.com/news/2024/05/06/introducing-etcswap-v3/
+      icon: link
+    - name: Documentation
+      link: https://docs.etcswap.org
+      icon: book
+    - name: Github
+      link: https://github.com/etcswap
+      icon: github
+    - name: Twitter
+      link: https://twitter.com/EthClassicDAO
       icon: twitter
 - title: SafeClassic Community NFT
   date: 2024-02-02
