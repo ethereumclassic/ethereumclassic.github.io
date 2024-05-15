@@ -3,16 +3,13 @@ title: "ETC Ecosystem Spotlight: USC Stablecoin"
 date: 2024-05-15
 author: Ethereum Classic DAO
 contributors: ["chris-mercer"]
-tags: ["guide"]
+tags: ["announcement", "development", "teams"]
 linkImage: ./banner.png
 ---
 
 ![](./banner.png)
 
-Source: [https://ethereumclassic.com/news/2024/05/14/introducing-ethereum-classic-usd-backed-usc-stablecoin/](https://ethereumclassic.com/news/2024/05/14/introducing-ethereum-classic-usd-backed-usc-stablecoin/)
-
 ### Classic USD (USC): A Regulated Stablecoin Issued on Ethereum Classic
-
 
 The Ethereum Classic ecosystem welcomes the launch of its premiere USD-denominated stablecoin, [**Classic USD**](https://brale.xyz/stablecoins/USC) (ticker: [**USC**](https://brale.xyz/stablecoins/USC)). This announcement is made possible through a partnership between regulated stablecoin issuer [**Brale**](https://brale.xyz/) and the web3 development team at [**EthereumClassic.com**](https://ethereumclassic.com/). The USC stablecoin is fully backed by cash, cash equivalents, and short-term U.S. government bonds held in U.S. financial institutions. USC is always redeemable 1:1 for U.S. dollars with reserves reported daily by Brale. The USC stablecoin is a foundational component for on-chain fiat liquidity, regulated collateral, and real-time global settlement via the Ethereum Classic network.
 
@@ -110,6 +107,7 @@ For Brale: [media@brale.xyz](mailto:media@brale.xyz)
 
 For EthereumClassic.com: [press@ethereumclassic.com](mailto:press@ethereumclassic.com)
 
+Source: [https://ethereumclassic.com/news/2024/05/14/introducing-ethereum-classic-usd-backed-usc-stablecoin/](https://ethereumclassic.com/news/2024/05/14/introducing-ethereum-classic-usd-backed-usc-stablecoin/)
 ---
 
 **Thank you for reading this article!**
