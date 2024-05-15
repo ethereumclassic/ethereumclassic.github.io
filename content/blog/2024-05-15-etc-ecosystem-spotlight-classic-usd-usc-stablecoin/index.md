@@ -1,5 +1,5 @@
 ---
-title: "ETC Ecosystem Spotlight: Classic USD 'USC' Stablecoin"
+title: "ETC Ecosystem Spotlight: USC Stablecoin"
 date: 2024-05-15
 author: Ethereum Classic DAO
 contributors: ["chris-mercer"]
