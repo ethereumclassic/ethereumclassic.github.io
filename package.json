@@ -10,7 +10,7 @@
     "develop-i18n": "I18N_DEV=1 npm run develop",
     "develop-lan": "npm run develop -- -H 0.0.0.0",
     "start": "npm run develop",
-    "build": "GATSBY_CPU_COUNT=1 GATSBY_TELEMETRY_DISABLED=1 gatsby build --log-pages",
+    "build": "GATSBY_CPU_COUNT=2 GATSBY_TELEMETRY_DISABLED=1 gatsby build --log-pages",
     "build-fast": "GATSBY_TELEMETRY_DISABLED=1 gatsby build --log-pages",
     "serve": "GATSBY_TELEMETRY_DISABLED=1 gatsby serve",
     "clean": "GATSBY_TELEMETRY_DISABLED=1 gatsby clean"
