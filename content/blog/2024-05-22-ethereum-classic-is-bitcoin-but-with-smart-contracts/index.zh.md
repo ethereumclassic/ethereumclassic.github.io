@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Is Bitcoin but With Smart Contracts"
+title: "以太坊经典是具有智能合约功能的比特币"
 date: 2024-05-22
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,98 +8,96 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/btzFfy0m-1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-## The Two Most Important Inventions: Proof of Work and Smart Contracts
+## 两个最重要的发明：工作量证明和智能合约
 
 ![](./banner.png)
 
-Most people think that Bitcoin (BTC) is a brilliant invention, and it is, but the truth is that nearly every component of the system already existed before Bitcoin for a considerable time.
+大多数人认为比特币（BTC）是一个辉煌的发明，这确实是事实，但实际上系统中的几乎每一个组件在比特币诞生前很长时间就已经存在。
 
-What was the [brilliant discovery](https://ethereumclassic.org/blog/2023-11-16-etc-proof-of-work-course-2-what-didnt-exist-was-a-secure-consensus-mechanism) by Satoshi Nakamoto was that the proof of work (POW) cryptographic stamp not only could be used to create the analogy of gold on the internet, called “[Bit Gold](https://unenumerated.blogspot.com/2005/12/bit-gold.html)”, but that the information of the POW itself could be a focal point for all the nodes of the network globally to be on the same exact state of the database, all at the same time, in their complete isolation, without the need to consult with any other source or authority. This was the key to decentralization.
+中本聪的[伟大发现](https://ethereumclassic.org/blog/2023-11-16-etc-proof-of-work-course-2-what-didnt-exist-was-a-secure-consensus-mechanism)在于工作量证明（POW）加密戳不仅可以用来创建互联网黄金的类比，即“[比特金](https://unenumerated.blogspot.com/2005/12/bit-gold.html)”，而且POW本身的信息可以成为网络中所有节点在完全隔离的情况下，无需咨询任何其他来源或权威机构，同步数据库状态的焦点。这是去中心化的关键。
 
-Smart contracts are the second most important invention of the blockchain industry. 
+智能合约是区块链行业的第二个最重要的发明。
 
-Because of technical problems with its design, Bitcoin did not support smart contracts inside its highly secure POW environment. This is why Vitalik Buterin invented Ethereum Classic (ETC), which is the original Ethereum, to be a POW blockchain, with digital gold, and that it could be programmable.
+由于设计上的技术问题，比特币在其高度安全的POW环境中不支持智能合约。这就是为什么Vitalik Buterin发明了以太坊经典（ETC），它是原始的以太坊，作为一个POW区块链，拥有数字黄金，同时还可以编程。
 
-## How Does Bitcoin Work?
+## 比特币如何工作？
 
-In its essence Bitcoin is a very simple system. It is just a ledger that accepts new transactions to move BTC from account to account. Nothing more!
+本质上，比特币是一个非常简单的系统。它只是一个账本，接受新交易以在账户之间移动BTC。仅此而已！
 
-The main goal of the network was to create this fully replicated ledger that would be hosted in many computers around the world so that it could be as redundant as possible, thus as resilient as possible.
+网络的主要目标是创建这个完全复制的账本，该账本将托管在世界各地的许多计算机上，以便尽可能冗余，从而尽可能有弹性。
 
-As we said before, the key was to use POW to get all the computers in the network to be insync in a decentralized manner.
+正如我们之前所说，关键在于使用POW使网络中的所有计算机以去中心化的方式同步。
 
-Bitcoin’s Nakamoto Consensus rules consist of the network constantly receiving new transactions; then having those transactions retransmitted and copied in every node of the system; then having a subset of the machines, called miners, hash batches of those transactions with a cryptographic stamp, doing a lot of work, spending a lot of electricity; and then sending those blocks of data to the rest of the network for verification.
+比特币的中本聪共识规则包括网络不断接收新交易；然后将这些交易在系统的每个节点中重新传输和复制；然后让一部分机器，即矿工，用加密戳哈希这些交易批次，做大量工作，消耗大量电力；然后将这些数据块发送给网络的其他部分进行验证。
 
-When the rest of the nodes of the system receive these stamped blocks, it is very easy for them to verify the cryptographic hash and to see that it is the correct block in each round, thus to be insync with the rest of the nodes in a decentralized way.
+当系统的其他节点收到这些加戳的数据块时，他们可以很容易地验证加密哈希并确认这是每轮中正确的数据块，从而以去中心化的方式与其他节点同步。
 
-## Why Is Bitcoin Digital Gold?
+## 为什么比特币是数字黄金？
 
-Each time a new block is verified in Bitcoin, the network issues and credits in the account of the miner who built the block a newly minted amount of BTC.
+每当比特币中的新块被验证时，网络会发行并在构建该块的矿工的账户中记入新铸造的BTC。
 
-Because Bitcoin uses POW to reach consensus, and this proof of work requires a lot of work and energy to produce, and because only after this work is done is that the BTC are printed to pay the miners is that it is considered “digital gold”.
+由于比特币使用POW达成共识，而这种工作量证明需要大量的工作和能量来生产，只有在完成这些工作后才会铸造BTC支付给矿工，因此它被认为是“数字黄金”。
 
-The above is affirmed by the fact that the supply schedule of BTC is capped, meaning that only 21 million coins will exist in the history of the system.
+上述观点还得到了比特币供应计划设定上限的事实的支持，这意味着系统历史上只会存在2100万个硬币。
 
-This is because Bitcoin started paying 50 BTC per block to miners, but it is programmed to discount this by 50% every four years. This decreasing schedule of creation of coins, which is at the day of this writing paying 3.125 BTC per block, guarantees the limited supply of the money, thus making BTC similar to gold in the real world.
+这是因为比特币开始时每块支付50个BTC给矿工，但它被编程为每四年减少50%。这种递减的硬币创造计划，到撰写本文时，每块支付3.125个BTC，保证了货币的有限供应，从而使BTC类似于现实世界中的黄金。
 
-## Satoshi Nakamoto Actually Wanted Smart Contracts in Bitcoin!
+## 中本聪实际上想在比特币中加入智能合约！
 
-We wrote before that smart contracts are one of the two most important inventions of the blockchain industry. Smart contracts are such an important concept that Satoshi Nakamoto even wanted smart contracts in Bitcoin!
+我们之前写过，智能合约是区块链行业最重要的两大发明之一。智能合约是一个如此重要的概念，以至于中本聪甚至想在比特币中加入智能合约！
 
-Proof of this is that he wrote the following in 2010:
+证明这一点的是他在2010年写道：
 
-*“The design supports a tremendous variety of possible transaction types that I designed years ago.  Escrow transactions, bonded contracts, third party arbitration, multi-party signature, etc.  If Bitcoin catches on in a big way, these are things we'll want to explore in the future, but they all had to be designed at the beginning to make sure they would be possible later.”*
+“设计支持了多种可能的交易类型，这是我多年前设计的。托管交易、担保合同、第三方仲裁、多方签名等。如果比特币大规模普及，这些都是我们未来想要探索的东西，但它们都必须在开始时设计好，以确保将来有可能实现。”
 
--- Satoshi Nakamoto
+-- 中本聪
 
-BitcoinTalk: 
+BitcoinTalk: https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
 
-https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
+## 以太坊经典如何工作？
 
-## How Does Ethereum Classic Work?
+这将我们带到了以太坊经典！
 
-This brings us to Ethereum Classic!
+正如我们在本文第一部分中提到的，Vitalik Buterin发明并于2015年推出了ETC，正是因为中本聪和许多其他人无法在比特币中添加智能合约。
 
-As we mentioned in the first section of this post, Vitalik Buterin invented ETC and launched it in 2015 precisely because Satoshi, and many others for that matter, couldn’t add smart contracts to Bitcoin.
+ETC的基本设计与比特币相同。它是一个不断接收新交易的节点网络；这些交易被分组为批次并由矿工进行哈希处理；然后将数据块发送到网络的其他部分进行验证；网络每块支付矿工奖励。
 
-ETC is basically the same design as Bitcoin. It is a network of nodes that constantly receives new transactions; these transactions are grouped in batches and hashed by miners; then the blocks are sent to the rest of the network for verification; and the network pays the miners a reward per block.
+然而，Vitalik的伟大发明在于通过在系统中添加一个在网络所有节点上复制的虚拟机来将智能合约引入ETC；创建一个燃气系统来支付矿工的计算能力；在系统中添加一种编程语言；并使账本能够在高度安全的POW区块链中托管这些智能合约。
 
-However, the brilliant invention by Vitalik was to add smart contracts in ETC by adding a virtual machine to the system that is replicated on all nodes of the network; creating the gas system to pay for computational power to miners; adding a programming language to the system; and enabling the ledger to host these smart contracts inside the highly secure POW blockchain.
+## 为什么ETC是可编程的数字黄金？
 
-## Why Is ETC Programmable Digital Gold?
+ETC不仅使用与比特币相同的基础POW设计，使其真正去中心化，而且还使用非常类似于BTC的供应计划。
 
-Not only does ETC use the same base POW design as Bitcoin, making it truly decentralized, but it also uses a very similar supply schedule as BTC.
+在ETC中，支付给矿工的奖励也随着时间的推移而减少。2015年，以太坊经典开始时支付给矿工每块5个ETC作为他们工作的报酬。此后，每500万个区块减少矿工支付的20%。
 
-In ETC, the payments to miners are also decreasing as time passes by. In 2015, Ethereum Classic started by paying miners 5 ETC per block as a reward for their work. After that, every 5 million blocks it reduces that payment to miners by 20%.
+由于ETC的区块时间为13秒，这意味着每两年将矿工的奖励减少20%。
 
-Because the block time of ETC is 13 seconds, this means that every two years the reward to miners is cut by 20%. 
+到撰写本文时，ETC处于区块19,857,092，每块支付矿工3.20个ETC，但当它达到区块20,000,000时，它将减少到每块2.56个ETC。
 
-At the day of this writing, ETC is on block 19,857,092 and is paying 3.20 ETC per block to miners, but when it hits block number 20,000,000 it it will reduce that payment to 2.56 ETC per block.
+这一计划最终会减少，限制了ETC的供应总量，使其总供应量为210,700,000。
 
-This schedule eventually diminishes, putting a cap in the supply of ETC that will ever exist of 210,700,000.
+所以，如果BTC是数字黄金，那么，因为ETC具有与比特币相同的基础设计，但它是可编程的，那么ETC可以被认为是“可编程的数字黄金”。
 
-So, if BTC is digital gold, then, because ETC shares the same base design as Bitcoin, but it is programmable, then ETC may be considered “programmable digital gold”.
+## 比特币和ETC应该是世界上最大的区块链
 
-## Bitcoin and ETC Should Be the Largest Blockchains in the World
+由于以太坊经典是比特币的基础设计，但具有可编程性，它可以托管所谓的去中心化应用程序（dapps）来管理其稀缺的可编程数字黄金资源，即其货币ETC。
 
-As Ethereum Classic is the base design of Bitcoin but programmable, it can host what are called decentralized applications (dapps) to manage its scarce programmable digital gold resource, which is its currency, ETC.
+这种可编程性不仅使其比比特币更具多样性，而且使其成为世界上最大的POW智能合约区块链。
 
-This programmability not only makes it more versatile than Bitcoin, but it has positioned it as the largest POW smart contracts blockchain in the world.
+作为世界上最大的POW智能合约区块链，ETC上的应用程序是世界上最安全的应用程序。
 
-As the largest POW smart contracts blockchain in the world, applications in ETC are the most secure apps in the world. 
+这是ETC极其宝贵的定位，权益证明和权威证明网络如以太坊和瑞波永远无法声称这一点，因为它们是中心化系统。
 
-This is an extremely valuable positioning for ETC that proof of stake and proof of authority networks such as Ethereum and Ripple could never claim because they are centralized systems.
-
-As Bitcoin is the largest blockchain in the world, and ETC is like it but programmable, which is the next most important invention after POW, then it stands to reason both BTC and ETC should be, together, the largest blockchains in the world.
+由于比特币是世界上最大的区块链，而ETC则是具有可编程性的比特币，它是继POW之后的下一个最重要的发明，因此合理地认为BTC和ETC应该共同成为世界上最大的区块链。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
