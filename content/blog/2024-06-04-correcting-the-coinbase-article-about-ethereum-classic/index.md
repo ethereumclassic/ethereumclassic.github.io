@@ -19,7 +19,6 @@ About Ethereum Classic:
 
 https://www.coinbase.com/price/ethereum-classic
 
-
 The text in both posts have some good information, however some parts have mistakes or common misconceptions that we wish to clarify. 
 
 Additionally, we would also like to add some more content to reflect a more complete picture of ETC while respecting Coinbase’s reporting format and style.
@@ -144,8 +143,11 @@ We corrected the part that says that ETC forked from ETH and we wrote that ETH f
 
 You can buy, send, and receive ETC via exchanges like Coinbase.
 
-
 **Our Corrections and Additions:**
+
+No changes proposed.
+
+**Rationale:**
 
 We have made no corrections in this section!
 
