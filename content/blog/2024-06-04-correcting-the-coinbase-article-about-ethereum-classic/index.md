@@ -169,7 +169,7 @@ The "solution" of the hard fork was to make an irregular state change to remove 
 
 The final part of this section is well written.
 
-### How does Ethereum Classic's technology and consensus mechanism (Proof of Work) work?
+### Section: How does Ethereum Classic's technology and consensus mechanism (Proof of Work) work?
 
 **Coinbase Statement:**
 
@@ -183,7 +183,7 @@ Ethereum Classic uses a Proof of Work based consensus mechanism called "Nakamoto
 
 In this section we only corrected the first line to add the term "Nakamoto Consensus" as the official name of the consensus mechanism that ETC uses. The rest of the section is remarkably correct!
 
-### What is the role of smart contracts on the Ethereum Classic blockchain?
+### Section: What is the role of smart contracts on the Ethereum Classic blockchain?
 
 **Coinbase Statement:**
 
@@ -197,7 +197,7 @@ Smart contracts on the Ethereum Classic blockchain function as autonomous softwa
 
 This section is largely correct, but we replaced the term "trustless" with trust minimized as users still have to trust ETC node operators and miners for their addresses, balances, and dapps.
 
-### Can developers build decentralized applications (DApps) on Ethereum Classic?
+### Section: Can developers build decentralized applications (DApps) on Ethereum Classic?
 
 **Coinbase Statement:**
 
@@ -223,7 +223,7 @@ We changed the term "international" for "global" as the nationality or jurisdict
 
 We added 7 reasons that we always stress of why DApp developers would use ETC.
 
-### What updates or changes have been implemented in the Ethereum Classic network?
+### Section: What updates or changes have been implemented in the Ethereum Classic network?
 
 **Coinbase Statement:**
 
@@ -256,7 +256,7 @@ We removed the information about the Spiral upgrade as it has already been imple
 
 We added information about the history of upgrades of ETC.
 
-### How is security maintained within the Ethereum Classic network, especially considering its Proof of Work consensus?
+### Section: How is security maintained within the Ethereum Classic network, especially considering its Proof of Work consensus?
 
 **Coinbase Statement:**
 
@@ -274,7 +274,7 @@ We replaced the term "trade-off for" with "the acknowledgement of" because POW i
 
 We added a phrase at the end of this section that explains that ETC is much less vulnerable to 51% attacks.
 
-### What is the operational approach of Ethereum Classic, and how does it manage token distribution? 
+### Section: What is the operational approach of Ethereum Classic, and how does it manage token distribution? 
 
 **Coinbase Statement:**
 
@@ -292,7 +292,7 @@ We deleted references to the "stock-to-flow ratio" as that is not really part of
 
 The rest of the information is correct!
 
-### What are some notable projects or initiatives built on the Ethereum Classic blockchain? 
+### Section: What are some notable projects or initiatives built on the Ethereum Classic blockchain? 
 
 **Coinbase Statement:**
 
@@ -306,7 +306,7 @@ Ethereum Classic (ETC) places a focus on decentralization and immutability, mean
 
 We assume that Coinbase does not want to mention by name or brand the DApps that are built on ETC, so we just expanded on this section the list of types of applications built on ETC. We included NFTs, Decentralized Autonomous Organizations (DAOs), decentralized exchanges, stablecoins, domain name services, games, and inscriptions, which are all currently in operation in ETC.
 
-### What challenges or criticisms has Ethereum Classic faced, and how has it addressed them? 
+### Section: What challenges or criticisms has Ethereum Classic faced, and how has it addressed them? 
 
 **Coinbase Statement:**
 
