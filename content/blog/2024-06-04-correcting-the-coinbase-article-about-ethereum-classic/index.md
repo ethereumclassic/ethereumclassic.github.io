@@ -159,11 +159,84 @@ Ethereum Classic's history is closely tied to a noteworthy event in the world of
 
 **Our Corrections and Additions:**
 
-Ethereum Classic's history is closely tied to a noteworthy event in the world of digital assets known as the DAO incident. In 2016, a decentralized autonomous organization called "The DAO" was launched on the Ethereum blockchain. The DAO was an ambitious project that aimed to utilize Ethereum's smart contract capabilities to create a global initiative open to anyone. However, a few months after its launch, a hacker exploited vulnerabilities in The DAO's code and drained a large amount of Ether. This event led to a heated debate within the Ethereum community about how to respond. The majority aimed to implement a hard fork, a distinct solution that involved altering the blockchain's code to return the drained funds. This decision was controversial, as it contradicted the principle of blockchain immutability. Those who disagreed with the hard fork continued to use the original, unaltered version of the Ethereum blockchain, which came to be known as Ethereum Classic. The DAO incident and the subsequent fork were noteworthy moments in Ethereum's history, influencing its ongoing development and the current approach to blockchain security and project funding.
+Ethereum Classic and Ethereum's histories are closely tied to a noteworthy event in the world of digital assets known as the DAO incident. In 2016, when Ethereum and Ethereum Classic were one network, a decentralized autonomous organization called "The DAO" was launched on the Ethereum blockchain. The DAO was an ambitious project that aimed to utilize Ethereum's smart contract capabilities to create a global investment fund open to anyone. However, a few months after its launch, a hacker exploited vulnerabilities in The DAO's code and drained a large amount of Ether. This event led to a heated debate within the Ethereum community about how to respond. The majority aimed to implement a hard fork, a distinct solution that involved an irregular state change that removed funds from the hacker's address to return the drained funds. This decision was controversial, as it contradicted the principle of blockchain immutability. Those who disagreed with the hard fork continued to use the original, unaltered version of the Ethereum blockchain, which came to be known as Ethereum Classic. The DAO incident and the subsequent fork were noteworthy moments in Ethereum's history, influencing its ongoing development and the current approach to blockchain security and project funding.
+
+**Rationale:**
+
+At the beggining of this section we added language to show that ETC and ETH's histories are the same up to the point of the DAo hard fork. We also clarify that the DAO was a sort of global investment fund.
+
+The "solution" of the hard fork was to make an irregular state change to remove funds from the hacker's address to return it to the original the DAO investors.
+
+The final part of this section is well written.
+
+## How does Ethereum Classic's technology and consensus mechanism (Proof of Work) work?
+
+**Coinbase Statement:**
+
+Ethereum Classic uses a consensus mechanism called Proof of Work (PoW) to validate and record transactions on its network. PoW utilizes computational power to maintain network security. It plays a crucial role in maintaining the integrity of the blockchain, facilitating security and utility. In Ethereum Classic, miners perform computational work to seal a new batch or block of transactions using a cryptographic stamp. This work is then sent to the rest of the network for verification and inclusion in the chain. This process is decentralized and permissionless, meaning any node globally can participate, regardless of their country, race, religion, language, or politics. Ethereum Classic intends to continue utilizing PoW as its consensus mechanism, with a focus on maintaining its decentralized nature and network security.
+
+**Our Corrections and Additions:**
+
+Ethereum Classic uses a Proof of Work based consensus mechanism called "Nakamoto Consensus" to validate and record transactions on its network. PoW utilizes computational power to maintain network security. It plays a crucial role in maintaining the integrity of the blockchain, facilitating security and utility. In Ethereum Classic, miners perform computational work to seal a new batch or block of transactions using a cryptographic stamp. This work is then sent to the rest of the network for verification and inclusion in the chain. This process is decentralized and permissionless, meaning any node globally can participate, regardless of their country, race, religion, language, or politics. Ethereum Classic intends to continue utilizing PoW as its consensus mechanism, with a focus on maintaining its decentralized nature and network security.
+
+**Rationale:**
+
+In this section we only corrected the first line to add the term "Nakamoto Consensus" as the official name of the consensus mechanism that ETC use. The rest of the section is remarkably correct!
+
+## What is the role of smart contracts on the Ethereum Classic blockchain?
+
+**Coinbase Statement:**
+
+Smart contracts on the Ethereum Classic blockchain function as autonomous software applications that oversee agreements. These agreements can span from simple to highly complex. The idea of smart contracts, introduced by Nick Szabo, predates blockchain technology. Smart contracts are essentially computerized transaction protocols that carry out the terms of a contract. They strive to meet common contractual conditions, minimize exceptions, and lessen the reliance on trusted intermediaries. Ethereum Classic (ETC) serves as a platform for smart contracts, allowing them to handle numerous agreements with a focus on reliability and trustless operation. ETC smart contracts have the capability to interact with each other, which is a feature within the scope of their design. They have the potential to streamline existing agreements and facilitate contracts that may have been challenging due to overhead costs. ETC smart contracts are also referred to as decentralized applications or dapps.
+
+**Our Corrections and Additions:**
+
+Smart contracts on the Ethereum Classic blockchain function as autonomous software applications that oversee agreements. These agreements can span from simple to highly complex. The idea of smart contracts, introduced by Nick Szabo, predates blockchain technology. Smart contracts are essentially computerized transaction protocols that carry out the terms of a contract. They strive to meet common contractual conditions, minimize exceptions, and lessen the reliance on trusted intermediaries. Ethereum Classic (ETC) serves as a platform for smart contracts, allowing them to handle numerous agreements with a focus on reliability and trust minimized operation. ETC smart contracts have the capability to interact with each other, which is a feature within the scope of their design. They have the potential to streamline existing agreements and facilitate contracts that may have been challenging due to overhead costs. ETC smart contracts are also referred to as decentralized applications or dapps.
+
+**Rationale:**
+
+This section is largely correct, but we replaced the term "trustless" with trust minimized as users still have to trust ETC node operators and miners for their addresses, balances, and dapps.
+
+## Can developers build decentralized applications (DApps) on Ethereum Classic?
+
+**Coinbase Statement:**
+
+Yes, developers have the capability to construct decentralized applications (DApps) on Ethereum Classic. Ethereum Classic includes a decentralized Turing-complete virtual machine, known as the Ethereum Virtual Machine (EVM), which can execute scripts using an international network of public nodes. Ethereum Classic provides the necessary tools and functionalities for developers to build DApps. It is a version of the Ethereum blockchain that operates under slightly different rules and features.
+
+**Our Corrections and Additions:**
+
+Yes, developers have the capability to construct decentralized applications (DApps) on Ethereum Classic. Ethereum Classic includes a decentralized Turing-complete virtual machine, known as the Ethereum Virtual Machine (EVM), which can execute scripts using an global network of public nodes. Ethereum Classic provides the necessary tools and functionalities for developers to build DApps. It is a version of the Ethereum blockchain that operates under slightly different rules and features.
+
+Among the benefits for developers to build their dapps on ETC are:
+
+- ETC is a proof of work blockchain, this makes it truly decentralized and trust minimized, therefore DaAps provide safety and confidence to users.
+- ETC is hard money, hence it will keep its value over time.
+- ETC is programmable, therefore valuable dapps with utility and governance tokens inside its highly secure proof of work environment may be built.
+- ETC is fully replicated, which makes it extremely redundant worldwide, making dapps uncensorable and capable of surviving a nuclear war!
+- ETC is composable, which means that DApp systems may be built, DApps may interact with third party DApps, and ETC may execute multi-application transactions at once, saving gas fees, reducing settlements times, and increasing convenience to users.
+- ETC is the largest proof of work smart contracts blockchain in the world, meaning it is extremely safe and difficult to attack which makes DApps much more stable and persistent.
+- Because ETC is proof of work, programmable, hard money, fully replicated, composable, and the largest in its segment, this means that DApps in ETC will be the most secure apps in the world.
+
+**Rationale:**
+
+We changed the term "international" for "global" as the nationality or jurisdiction of these public nodes is irrelevant in a truly decentra;ized blockchain as ETC.
+
+We added 7 reasons that we always stress of why DApp developers would use ETC.
+
+## What updates or changes have been implemented in the Ethereum Classic network?
+
+**Coinbase Statement:**
+
+Aa
+
+**Our Corrections and Additions:**
+
+Aa
 
 **Rationale:**
 
 Aa
+
 
 
 ---
