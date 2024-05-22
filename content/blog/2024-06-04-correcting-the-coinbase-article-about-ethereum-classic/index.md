@@ -227,11 +227,62 @@ We added 7 reasons that we always stress of why DApp developers would use ETC.
 
 **Coinbase Statement:**
 
-Aa
+Ethereum Classic currently features a range of functionalities and compatibilities, including improved network efficiency and reduced impact of ASIC mining. Some of the notable updates include the implementation of the Thanos hard fork, which aimed to improve the network's efficiency and reduce the impact of ASIC mining. This update introduced new features like improved difficulty adjustment algorithms and improved security measures. Ethereum Classic has also been working on improving its interoperability with other blockchains through projects like the ECIP-1103, which focuses on cross-chain communication. Another notable update is the Spiral update, scheduled for January 31, 2024. This update seeks to align Ethereum Classic with EVM standards, facilitating contract development and migration. These developments strive to improve the overall functionality and usability of Ethereum Classic, making it a more robust and versatile platform for building and deploying decentralized applications.
 
 **Our Corrections and Additions:**
 
-Aa
+Ethereum Classic currently features a range of functionalities and compatibilities, including improved network efficiency and reduced impact of ASIC mining. Some of the notable updates include the implementation of the Thanos hard fork, which aimed to improve the network's efficiency and reduce the impact of ASIC mining. This update introduced new features like improved difficulty adjustment algorithms and improved security measures. Ethereum Classic has also been working on improving its interoperability with other blockchains through projects like the ECIP-1103, which focuses on cross-chain communication.  
+
+Ethereum Classic will always follow the EVM standard. To do this it constantly upgrades the network after Ethereum’s upgrades, usually about 6 months later, but only implementing the changes that make sense for its immutability philosophy and to achieve as much parity as possible with the EVM standard.
+
+Ethereum Classic’s history of protocol upgrades include:
+
+- Gas reprice (2016)
+- Gotham (2017)
+- Atlantis (2019)
+- Agharta (2020)
+- Phoenix (2020)
+- MESS (2020)
+- Thanos (2020)
+- Magneto (2021)
+- Mystique (2022)
+- Spiral (2024)
+
+These developments strive to improve the overall functionality and usability of Ethereum Classic, making it a more robust and versatile platform for building and deploying decentralized applications.
+
+**Rationale:**
+
+We removed the information about the Spiral upgrade as it has already been implemented.
+
+We added information about the history of upgrades of ETC.
+
+## How is security maintained within the Ethereum Classic network, especially considering its Proof of Work consensus?
+
+**Coinbase Statement:**
+
+Ethereum Classic maintains its network security through a consensus mechanism known as Proof of Work (PoW). This mechanism is a method that has been utilized in the past, which essentially converts electricity into security. It's the same mechanism that was used in the first popular blockchain, Bitcoin. PoW is considered by some to have empirical and theoretical security from an economic game theory perspective. With a sufficient hashrate, PoW chains have demonstrated resilience. Ethereum Classic aims to continue utilizing PoW in its commitment to decentralization and security. However, like all systems, PoW has its limitations. It's subject to 51% attacks, which Ethereum Classic has experienced on multiple occasions. In some interpretations of PoW systems, 51% attacks are seen as a feature rather than a bug, with the acceptance of them being a trade-off for objective computer-verifiable rules about which version of a chain may be considered 'correct'. Ethereum Classic's approach to PoW and decentralization distinguishes it from other networks that utilize different consensus mechanisms, such as Proof of Stake.
+
+**Our Corrections and Additions:**
+
+Ethereum Classic maintains its network security through a consensus mechanism known as Proof of Work (PoW). This mechanism is a method that has been utilized in the past, which essentially converts electricity into security. It's the same mechanism that was used in the first popular blockchain, Bitcoin. PoW is considered by some to have empirical and theoretical security from an economic game theory perspective. With a sufficient hashrate, PoW chains have demonstrated resilience. Ethereum Classic aims to continue utilizing PoW in its commitment to decentralization and security. However, like all systems, PoW has its limitations. It's subject to 51% attacks, which Ethereum Classic has experienced on multiple occasions. In some interpretations of PoW systems, 51% attacks are seen as a feature rather than a bug, with the acceptance of them being the acknowledgement of objective computer-verifiable rules about which version of a chain may be considered 'correct'. Ethereum Classic's approach to PoW and decentralization distinguishes it from other networks that utilize different consensus mechanisms, such as Proof of Stake.
+
+Since the migration of Ethereum to a Proof of Stake consensus mechanism, ETC has become the largest Proof of Work smart contracts blockchain in the world which makes it much less vulnerable than before to 51% attacks.
+
+**Rationale:**
+
+We replaced the term "trade-off for" with "the acknowledgement of" because POW is actually the most secure consensus system in the world, therefore it is not doing any trade-offs reducing security for the possibility of 51% attacks. POS and POA systems have orders of magnitude lower security, and those are the systems who did trade-offs significantly making them less safe in exchagge for saving trees or scalability.
+
+We added a phrase at the end of this section that explains that ETC is much less vulnerable to 51% attacks.
+
+## What is the operational approach of Ethereum Classic, and how does it manage token distribution? 
+
+**Coinbase Statement:**
+
+Ethereum Classic's operational approach is designed to maintain the stability of the system. Initially, Ethereum Classic and Ethereum were one blockchain, and the operational approach involved distributing 5 ETC/ETH per block to acknowledge miners for their work. After Ethereum separated from Ethereum Classic in 2016, the ETC community adopted a new operational approach that mirrors Bitcoin's. This approach was applied on block 5,000,000 in December 2017. The approach includes a pre-distribution, eras, block rewards, uncle blocks, the fifthening, a supply cap, and a stock-to-flow ratio. The pre-distribution was 72,009,990 ETC/ETH, which forms part of the current supply of ETC. Each era lasts 5,000,000 blocks, and every 5,000,000 blocks, ETC reduces the distribution per block to miners by 20%. Block rewards started at 5 and are discounted from there. The supply cap of ETC will be between 199,000,000 and 210,700,000. The stock-to-flow ratio is a measure used to anticipate the distribution of tokens in the market. The stock-to-flow ratio is a measure, and its implications are subject to market dynamics.
+
+**Our Corrections and Additions:**
+
+Ethereum Classic's operational approach is designed to maintain the stability of the system. Initially, Ethereum Classic and Ethereum were one blockchain, and the operational approach involved distributing 5 ETC/ETH per block to acknowledge miners for their work. After Ethereum separated from Ethereum Classic in 2016, the ETC community adopted a new operational approach that mirrors Bitcoin's. This approach was applied on block 5,000,000 in December 2017. The approach includes a pre-distribution, eras, block rewards, uncle blocks, the fifthening, a supply cap, and a stock-to-flow ratio. The pre-distribution was 72,009,990 ETC/ETH, which forms part of the current supply of ETC. Each era lasts 5,000,000 blocks, and every 5,000,000 blocks, ETC reduces the distribution per block to miners by 20%. Block rewards started at 5 and are discounted from there. The supply cap of ETC will be between 199,000,000 and 210,700,000. The stock-to-flow ratio is a measure used to anticipate the distribution of tokens in the market. The stock-to-flow ratio is a measure, and its implications are subject to market dynamics.
 
 **Rationale:**
 
