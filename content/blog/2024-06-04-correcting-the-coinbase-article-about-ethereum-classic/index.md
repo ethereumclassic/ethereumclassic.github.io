@@ -73,7 +73,7 @@ Ethereum Classic (ETC) is a decentralized, open-source blockchain and the origin
 
 **Rationale:**
 
-We corrected in initial part of this section to indicate that ETC is the original blockchain and that Ethereum was created as a result of the DAO hard fork. The rest of the section is perfect.
+We corrected in the initial part of this section to indicate that ETC is the original blockchain and that Ethereum was created as a result of the DAO hard fork. The rest of the section is perfect.
 
 ## Section: How does Ethereum Classic work?
 
@@ -107,7 +107,7 @@ The primary use case for Ethereum Classic is to function as a platform for decen
 
 ETC is positioned as a potential foundational layer, or base layer or layer 1 (L1) blockchain, for future smart contract applications, or decentralized applications (DApps).
 
-We added that ETH seeks scalability and to secure this through the community, which is they called “Social Consensus”. This makes ETC well positioned for highly secure applications, and Ethereum for low security but high volume applications.
+We added that ETH seeks scalability and to secure this through the community, which they called “Social Consensus”. This makes ETC well positioned for highly secure applications, and Ethereum for low security but high volume applications.
 
 ## Section: What is the history of Ethereum Classic?
 
@@ -121,7 +121,7 @@ Ethereum Classic is the original Ethereum blockchain and was launched in July 20
 
 **Rationale:**
 
-The second part of this section is correct, but we modified the first part to reflect that ETC is the origial chain and that Ethereum is the one that split from the mainnet and was created in 2016.
+The second part of this section is correct, but we modified the first part to reflect that ETC is the original chain and that Ethereum is the one that split from the mainnet and was created in 2016.
 
 ## Section: How is ETC mined?
 
@@ -131,7 +131,7 @@ Powerful computers mine (understand "create") ETC, adding it to the circulating 
 
 **Our Corrections and Additions:**
 
-Powerful computers mine (understand "create") ETC, adding it to the circulating supply. While Ethereum Classic can be mined using widely available graphics processors, it's most likely not profitable unless you use an ASIC, a specialized device designed for crypto mining. After Ethereum's fork from Ethereum Classic in 2016, Ethereum Classic has struggled to compete in terms of market capitalization, developers, and network security as measured by total mining power. Over its history, Ethereum Classic has been subject to numerous "51% attacks" in which malicious actors control most of the mining power and can thus spend coins they didn't own (also known as a double spend attack). However, ETC has become the largest proof of work smart contracts blockchain in the world after Ethereum migrated to proof of stake, therefore it is unlikely to be attacked as before because it enjoys a large and leading position in its mining algorith.
+Powerful computers mine (understand "create") ETC, adding it to the circulating supply. While Ethereum Classic can be mined using widely available graphics processors, it's most likely not profitable unless you use an ASIC, a specialized device designed for crypto mining. After Ethereum's fork from Ethereum Classic in 2016, Ethereum Classic has struggled to compete in terms of market capitalization, developers, and network security as measured by total mining power. Over its history, Ethereum Classic has been subject to numerous “51% attacks” in which malicious actors control most of the mining power and can thus spend coins they didn't own (also known as a double spend attack). However, ETC has become the largest proof of work smart contracts blockchain in the world after Ethereum migrated to proof of stake, therefore it is unlikely to be attacked as before because it enjoys a large and leading position in its mining algorithm.
 
 **Rationale:**
 
@@ -163,7 +163,7 @@ Ethereum Classic and Ethereum's histories are closely tied to a noteworthy event
 
 **Rationale:**
 
-At the beggining of this section we added language to show that ETC and ETH's histories are the same up to the point of the DAo hard fork. We also clarify that the DAO was a sort of global investment fund.
+At the beginning of this section we added language to show that ETC and ETH's histories are the same up to the point of the DAo hard fork. We also clarify that the DAO was a sort of global investment fund.
 
 The "solution" of the hard fork was to make an irregular state change to remove funds from the hacker's address to return it to the original the DAO investors.
 
@@ -181,7 +181,7 @@ Ethereum Classic uses a Proof of Work based consensus mechanism called "Nakamoto
 
 **Rationale:**
 
-In this section we only corrected the first line to add the term "Nakamoto Consensus" as the official name of the consensus mechanism that ETC use. The rest of the section is remarkably correct!
+In this section we only corrected the first line to add the term "Nakamoto Consensus" as the official name of the consensus mechanism that ETC uses. The rest of the section is remarkably correct!
 
 ## What is the role of smart contracts on the Ethereum Classic blockchain?
 
@@ -205,11 +205,11 @@ Yes, developers have the capability to construct decentralized applications (DAp
 
 **Our Corrections and Additions:**
 
-Yes, developers have the capability to construct decentralized applications (DApps) on Ethereum Classic. Ethereum Classic includes a decentralized Turing-complete virtual machine, known as the Ethereum Virtual Machine (EVM), which can execute scripts using an global network of public nodes. Ethereum Classic provides the necessary tools and functionalities for developers to build DApps. It is a version of the Ethereum blockchain that operates under slightly different rules and features.
+Yes, developers have the capability to construct decentralized applications (DApps) on Ethereum Classic. Ethereum Classic includes a decentralized Turing-complete virtual machine, known as the Ethereum Virtual Machine (EVM), which can execute scripts using a global network of public nodes. Ethereum Classic provides the necessary tools and functionalities for developers to build DApps. It is a version of the Ethereum blockchain that operates under slightly different rules and features.
 
 Among the benefits for developers to build their dapps on ETC are:
 
-- ETC is a proof of work blockchain, this makes it truly decentralized and trust minimized, therefore DaAps provide safety and confidence to users.
+- ETC is a proof of work blockchain, this makes it truly decentralized and trust minimized, therefore DApps provide safety and confidence to users.
 - ETC is hard money, hence it will keep its value over time.
 - ETC is programmable, therefore valuable dapps with utility and governance tokens inside its highly secure proof of work environment may be built.
 - ETC is fully replicated, which makes it extremely redundant worldwide, making dapps uncensorable and capable of surviving a nuclear war!
@@ -270,7 +270,7 @@ Since the migration of Ethereum to a Proof of Stake consensus mechanism, ETC has
 
 **Rationale:**
 
-We replaced the term "trade-off for" with "the acknowledgement of" because POW is actually the most secure consensus system in the world, therefore it is not doing any trade-offs reducing security for the possibility of 51% attacks. POS and POA systems have orders of magnitude lower security, and those are the systems who did trade-offs significantly making them less safe in exchagge for saving trees or scalability.
+We replaced the term "trade-off for" with "the acknowledgement of" because POW is actually the most secure consensus system in the world, therefore it is not doing any trade-offs reducing security for the possibility of 51% attacks. POS and POA systems have orders of magnitude lower security, and those are the systems who did trade-offs significantly making them less safe in exchange for saving trees or scalability.
 
 We added a phrase at the end of this section that explains that ETC is much less vulnerable to 51% attacks.
 
@@ -282,13 +282,52 @@ Ethereum Classic's operational approach is designed to maintain the stability of
 
 **Our Corrections and Additions:**
 
-Ethereum Classic's operational approach is designed to maintain the stability of the system. Initially, Ethereum Classic and Ethereum were one blockchain, and the operational approach involved distributing 5 ETC/ETH per block to acknowledge miners for their work. After Ethereum separated from Ethereum Classic in 2016, the ETC community adopted a new operational approach that mirrors Bitcoin's. This approach was applied on block 5,000,000 in December 2017. The approach includes a pre-distribution, eras, block rewards, uncle blocks, the fifthening, a supply cap, and a stock-to-flow ratio. The pre-distribution was 72,009,990 ETC/ETH, which forms part of the current supply of ETC. Each era lasts 5,000,000 blocks, and every 5,000,000 blocks, ETC reduces the distribution per block to miners by 20%. Block rewards started at 5 and are discounted from there. The supply cap of ETC will be between 199,000,000 and 210,700,000. The stock-to-flow ratio is a measure used to anticipate the distribution of tokens in the market. The stock-to-flow ratio is a measure, and its implications are subject to market dynamics.
+Ethereum Classic's operational approach is designed to maintain the stability of the system. Initially, Ethereum Classic and Ethereum were one blockchain, and the operational approach involved distributing 5 ETC/ETH per block to acknowledge miners for their work. After Ethereum separated from Ethereum Classic in 2016, the ETC community adopted a new operational approach that mirrors Bitcoin's. This approach was applied on block 5,000,000 in December 2017. The approach includes the original pre-distribution, eras, block rewards, uncle blocks, the fifthening, a supply cap. The pre-distribution was 72,009,990 ETC/ETH, which forms part of the current supply of ETC. Each era lasts 5,000,000 blocks, and every 5,000,000 blocks, ETC reduces the distribution per block to miners by 20%. Block rewards started at 5 and are discounted from there. The supply cap of ETC will be between 199,000,000 and 210,700,000.
 
 **Rationale:**
 
-Aa
+Changed the term "a pre-distribution" to "the pre-distribution" as this is what was done since the origin of the blockchain when both ETC and ETH were one network.
+
+We deleted references to the "stock-to-flow ratio" as that is not really part of the monetary policy but a measurement that investors do.
+
+The rest of the information is correct!
+
+## What are some notable projects or initiatives built on the Ethereum Classic blockchain? 
+
+**Coinbase Statement:**
+
+Ethereum Classic (ETC) places a focus on decentralization and immutability, meaning that the blockchain's data remains unaltered. This has led to the development of various projects and initiatives within the Ethereum Classic ecosystem. These include Decentralized Autonomous Organizations (DAOs) and stablecoins, which are digital currencies designed to maintain price stability. Developers can write smart contracts on ETC that automatically execute when certain conditions are met, enabling the creation of these decentralized applications. The Ethereum Classic ecosystem is a collection of developers, users, businesses, and services organized around the Ethereum Classic blockchain platform, collaborating to develop and enhance the platform while creating an evolving decentralized infrastructure.
+
+**Our Corrections and Additions:**
+
+Ethereum Classic (ETC) places a focus on decentralization and immutability, meaning that the blockchain's data remains unaltered. This has led to the development of various projects and initiatives within the Ethereum Classic ecosystem. These include NFTs, Decentralized Autonomous Organizations (DAOs), decentralized exchanges, stablecoins, domain name services, games, and inscriptions. Developers can write smart contracts on ETC that automatically execute when certain conditions are met, enabling the creation of these decentralized applications. The Ethereum Classic ecosystem is a collection of developers, users, businesses, and services organized around the Ethereum Classic blockchain platform, collaborating to develop and enhance the platform while creating an evolving decentralized infrastructure.
+
+**Rationale:**
+
+We assume that Coinbase does not want to mention by name or brand the DApps that are built on ETC, so we just expanded on this section the list of types of applications built on ETC. We included NFTs, Decentralized Autonomous Organizations (DAOs), decentralized exchanges, stablecoins, domain name services, games, and inscriptions, which are all currently in operation in ETC.
+
+## What challenges or criticisms has Ethereum Classic faced, and how has it addressed them? 
+
+**Coinbase Statement:**
+
+Ethereum Classic (ETC) has encountered a number of challenges and criticisms since its inception. One of the main criticisms is its perceived lack of developer activity compared to Ethereum, leading to questions about its ability to keep pace with ongoing developments in the blockchain space. Ethereum Classic has also faced security issues, particularly with 51% attacks, which are a shared concern for Proof of Work (PoW) blockchains. Some developers expressed a loss of confidence in Ethereum Classic following a series of 51% attacks on the network in 2020. The PoW consensus mechanism has raised environmental concerns due to the mining procedure. Ethereum Classic also has scalability limitations, being able to handle only 12 to 15 transactions per second (tps), in a context where speed and scalability are factors. The perceived lack of users and developers supporting the platform can also make it challenging for the network to push for new updates and developments. To address these challenges, Ethereum Classic aims to implement several upgrades and improvements, including the implementation of the Thanos hard fork and the introduction of a new consensus algorithm called MESS. The development team intends to enhance the user experience by introducing a new wallet called Emerald. The team seeks to consider new decentralized applications (dApps) and use cases for the platform.
+
+**Our Corrections and Additions:**
+
+Ethereum Classic (ETC) has encountered a number of challenges and criticisms since Ethereum separated from it. One of the main criticisms is its perceived lack of developer activity compared to Ethereum, leading to questions about its ability to keep pace with ongoing developments in the blockchain space. Ethereum Classic has also faced security issues, particularly with 51% attacks, which are a shared concern for Proof of Work (PoW) blockchains. Some developers expressed a loss of confidence in Ethereum Classic following a series of 51% attacks on the network in 2020. The PoW consensus mechanism has raised environmental concerns due to the mining procedure. Ethereum Classic also has scalability limitations, being able to handle only 15 to 20 transactions per second (tps), in a context where speed and scalability are factors.
+
+The way ETC is addressing these perceived challenges is by sticking to its immutability philosophy, to Proof of Work as its consensus mechanism, and letting the market realize in time that Proof of Stake and Proof of Authority systems are centralized, thus insecure. ETC is actually the largest Proof of Work smart contracts blockchain in the world and the fifth largest Proof of Work blockchain globally, so the long term strategy is working!
 
 
+**Rationale:**
+
+We deleted references to the Thanos upgrade and the MESS feature. Thanos has been imp,memeted long ago and the MESS feature has actually been deactivated because of ETC's growth and strength.
+
+We deleted the reference to the perceived lack of users and developers making it challenging for the network to push for new upgrades as this is not a factor. ETC is actually up to date with the EVM standard and all Ethereum upgrades!
+
+ETC will always be state of the art technology because it shares the same technology as all EVM blockchains. It is trivial to keep the network updated. 
+
+We added the way in which ETC is addressing the perceived challenges in this section.
 
 ---
 
