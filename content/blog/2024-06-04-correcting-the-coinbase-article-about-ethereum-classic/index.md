@@ -4,10 +4,10 @@ date: 2024-06-04
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["education"]
-linkImage: ./banner.png
+linkImage: ./banner-1.png
 ---
 
-![](./banner.png)
+![](./banner-1.png)
 
 The crypto exchange [Coinbase](https://coinbase.com) has two articles about Ethereum Classic (ETC) with the titles “What Is Ethereum Classic” and “About Ethereum Classic” in the following links:
 
