@@ -14,9 +14,9 @@ linkImage: ./banner.png
 
 ---
 
-## What Is Bybit?
+![](./banner.png)
 
-![](./1.png)
+## What Is Bybit?
 
 Bybit is a centralized cryptocurrency exchange.
 
