@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin Is a Pocket Calculator, Ethereum Classic Is a Computer"
+title: "比特币是一个口袋计算器，以太经典是一台电脑"
 date: 2024-05-28
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rCK2j99oFDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,94 +16,92 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-## The Amazing Invention of Bitcoin
+## 比特币的惊人发明
 
-Satoshi Nakamoto must have been a [Cypherpunk](https://ethereumclassic.org/blog/2022-12-29-ethereum-classic-course-2-the-cypherpunks) as the goals, parts, and components of Bitcoin (BTC) were all things that had been discussed and worked on before in those circles.
- 
-The immediate predecessor of Bitcoin was [Bit Gold](https://unenumerated.blogspot.com/2005/12/bit-gold.html), which introduced the idea of using computing work and electricity to create hard money on the internet as an analogy of gold in the real world.
+中本聪肯定是一个密码朋克，因为比特币（BTC）的目标、部分和组件都是密码朋克圈子中已经讨论和研究过的事物。
 
-It could be said that all the components of the system had already existed before it was launched by Satoshi in 2009. 
+比特币的直接前身是比特金（Bit Gold），它提出了利用计算工作和电力在互联网上创建硬通货的想法，类比现实世界中的黄金。
 
-Except one!
+可以说，在中本聪于2009年推出之前，系统的所有组件都已经存在了，除了一个！
 
-Using the results of the computing work, also known as proof of work (POW), as the [consensus mechanism](https://ethereumclassic.org/blog/2023-11-30-etc-roof-of-work-course-4-why-pow-based-nakamoto-consensus-is-secure-and-complete) as well was the main and brilliant invention by Mr. Nakamoto. 
+利用计算工作的结果，也被称为工作证明（POW），作为共识机制以及主要的、卓越的发明，是中本聪先生的主要发明。
 
-POW consensus unlocked the door to synchronize computers on the same state of the data on a global scale with no need of central arbiter or administrator. This was the amazing discovery that changed everything.
+POW共识打开了一扇门，使得全球范围内的计算机可以在无需中央仲裁者或管理员的情况下同步数据状态。这是改变一切的惊人发现。
 
-## The Simplicity of Bitcoin
+## 比特币的简单性
 
-However, Bitcoin is really a very simple system. It only moves coins from one account to the other. That’s it!
+然而，比特币实际上是一个非常简单的系统。它只是将硬币从一个账户转移到另一个账户。就是这样！
 
-Indeed, Bitcoin is a globally fully replicated ledger only with accounts and balances. 
+事实上，比特币是一个全球完全复制的账本，只有账户和余额。
 
-The blocks of new transactions sent by users are created by miners, who use a lot of computing power and electricity to build them, and then they are verified by the rest of the nodes of the network. 
+用户发送的新交易块是由矿工创建的，他们使用大量的计算能力和电力来构建这些块，然后由网络的其他节点验证。
 
-For this work, the miners get paid “block rewards” that are set in a decreasing schedule every four years that started in 2009 at 50 BTC per block, then 25, 12.5, 6.25, 3.125, and so on.
+对于这项工作，矿工会得到“区块奖励”，这是根据一个四年减少一次的时间表设定的，从2009年的每个区块50 BTC开始，然后是25、12.5、6.25、3.125，依此类推。
 
-The proof of work in the system enables consensus between all computers; it gives a focal point for entry, exit, and re-entry of participants permissionlessly; it provides protection of all the history of transactions; and creates hard money on the internet as the coins are only issued if the work is done.
+系统中的工作证明使得所有计算机之间可以达成共识；它为参与者的入口、出口和重新入场提供了一个焦点，无需任何权限；它保护了所有交易历史记录；并且在互联网上创建了硬通货，因为只有在完成工作后才会发行硬币。
 
-All this is all called “Nakamoto Consensus”. But, what did it accomplish? 
+这一切都被称为“中本聪共识”。但是，它实现了什么呢？
 
-The benefits to the world that Bitcoin brought were trust minimization through decentralization; this decentralization equaled security; therefore Bitcoin became an immutable system that could even survive a nuclear war; and it provided hard money on the internet.
+比特币给世界带来的好处包括通过去中心化实现的信任最小化；这种去中心化等于安全性；因此，比特币成为了一个不可变的系统，甚至可以在核战争中生存下来；并且它在互联网上提供了硬通货。
 
-## Satoshi Actually Wanted Smart Contracts in Bitcoin
+## 中本聪实际上希望在比特币上实现智能合约
 
-One of the most fascinating accounts about the history of Bitcoin is that Satoshi Nakamoto actually [planned smart contracts](https://ethereumclassic.org/blog/2023-12-14-etc-proof-of-work-course-6-etc-is-btc-philosophy-with-eth-technology) on Bitcoin!
+关于比特币历史最迷人的一个故事之一是，中本聪实际上计划在比特币上实现智能合约！
 
-In 2010 he wrote:
+在2010年，他写道：
 
-*“The design supports a tremendous variety of possible transaction types that I designed years ago. Escrow transactions, bonded contracts, third party arbitration, multi-party signature, etc. If Bitcoin catches on in a big way, these are things we'll want to explore in the future, but they all had to be designed at the beginning to make sure they would be possible later.”*
+“设计支持了多种我几年前设计的可能的交易类型。托管交易、保证合同、第三方仲裁、多方签名等等。如果比特币在大规模上被接受，这些都是我们将来想要探索的东西，但它们都必须在开始时设计好，以确保它们将来是可能的。”
 
-*– Satoshi Nakamoto*
+— 中本聪
 
-BitcoinTalk: 
+BitcoinTalk：
 
-https://bitcointalk.org/index.php?topic=195.msg1611#msg1611 
+https://bitcointalk.org/index.php?topic=195.msg1611#msg1611
 
-This is actually one of the clues that Mr. Nakamoto was a cypherpunk, as these topics of money, Bit Gold, and smart contracts were developed only in those circles.
+这实际上是中本聪先生是一个密码朋克的线索之一，因为这些关于货币、比特金和智能合约的话题只在这些圈子中发展。
 
-## Then, Vitalik Invented Ethereum Classic
+## 然后，Vitalik 发明了以太经典
 
-However, because of its design, Bitcoin could never run smart contracts. Many tried to create applications on it or proposed formats for recreating programmability, but all attempts have failed to this day.
+然而，由于其设计，比特币永远无法运行智能合约。许多人试图在其上创建应用程序或提出重新创建可编程性的格式，但直到今天所有尝试都失败了。
 
-Then came Vitalik Buterin who created Ethereum Classic (ETC), the original Ethereum blockchain, and launched it in 2015.
+然后，Vitalik Buterin 创造了以太经典（ETC），即原始以太坊区块链，并于2015年推出。
 
-ETC is a proof of work blockchain that has all the components of Bitcoin but that adds programmability through smart contracts.
+ETC是一个工作证明的区块链，具有比特币的所有组件，但通过智能合约增加了可编程性。
 
-This was the second most important invention of the blockchain industry after Nakamoto Consensus.
+这是中本聪共识之后区块链行业的第二个最重要的发明。
 
-## What Are Smart Contracts
+## 什么是智能合约
 
-Smart contracts are software programs that when developers send to the network, they get replicated across the system thus making them decentralized.
+智能合约是软件程序，当开发人员将其发送到网络时，它们会在整个系统中复制，从而使其去中心化。
 
-This means that ETC supports a replicated ledger, just like Bitcoin, but adds to that ledger the ability to store and execute software programs.
+这意味着ETC支持一个复制的账本，就像比特币一样，但是还在该账本上添加了存储和执行软件程序的功能。
 
-In addition to this, ETC contains what is called an EVM (Ethereum Virtual Machine) which is the component of the protocol that runs the smart contracts.
+此外，ETC包含所谓的EVM（以太坊虚拟机），这是运行智能合约的协议组件。
 
-Developers may use adapted programming languages, such as Solidity, to build useful applications on the ETC blockchain.
+开发人员可以使用适应的编程语言，比如 Solidity，在ETC区块链上构建有用的应用程序。
 
-## What Are Dapps
+## 什么是 Dapps
 
-Just as we use applications on our computers or phones, smart contracts are apps but on the ETC blockchain.
+正如我们在计算机或手机上使用应用程序一样，智能合约是在ETC区块链上的应用程序。
 
-As these apps are decentralized, then they are called decentralized applications, or “dapps” for short.
+由于这些应用程序是去中心化的，因此它们被称为去中心化应用程序，简称“Dapps”。
 
-Dapps may take many forms, for example some may be used as decentralized exchanges, others as deposit and lending services, others as NFTs, property registries, and many other useful things.
+Dapps可以采取许多形式，例如有些可以用作去中心化交易所，有些可以用作存款和借贷服务，有些可以用作NFT、房地产登记等等。
 
-Eventually, decentralized applications, using the ERC-20 standard, the ERC-721 standard, DAOs, and several other designs, will encompass a host of use cases that will enhance security and transparency in many services and functions in society.
+最终，利用ERC-20标准、ERC-721标准、DAO和其他设计，去中心化应用程序将涵盖许多用例，从而增强社会中许多服务和功能的安全性和透明度。
 
-## Bitcoin Is A Pocket Calculator, ETC Is A Computer
+## 比特币是口袋计算器，ETC是电脑
 
-So, whereas Bitcoin is a formidable force in the blockchain industry, and is truly decentralized digital gold that will benefit the world by providing hard money, it is still a very simple system in its design. 
+因此，尽管比特币在区块链行业是一股强大的力量，真正的去中心化数字黄金将通过提供硬通货来造福世界，但它在设计上仍然是一个非常简单的系统。
 
-Some industry insiders have called it a pocket calculator because of its basic functions.
+一些行业内部人士将其称为口袋计算器，因为它只具有基本功能。
 
-ETC, on the other hand, is Bitcoin’s design; which includes proof of work and a ledger with accounts and balances; but adds programmability to its highly secure internal environment.
+而以太经典，则是比特币的设计，包括工作证明和账户余额的账本，但在其高度安全的内部环境中增加了可编程性。
 
-This makes ETC a computer in comparison to Bitcoin, which means that it is much more versatile and generalized, thus making it more useful for many key applications.
+这使得以太经典相对于比特币来说更像是一台电脑，意味着它更加多功能和通用，因此对许多关键应用来说更加有用。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于以太经典的信息，请访问：https://ethereumclassic.org
