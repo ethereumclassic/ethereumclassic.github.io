@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 28. POW Is Censorship Resistant, PoS Is Not"
+title: "ETC 工作量证明课程：28. POW 是抗审查的，PoS 不是"
 date: 2024-05-30
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QSNub65Osso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,82 +16,82 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-In the previous class, 27, we explained what is the meaning of “security” in proof of work (POW) blockchains. 
+在上一节课27中，我们解释了在工作量证明（POW）区块链中“安全性”的含义。
 
-We delved into what are the safety goals of POW networks and the external benefits that they bring to the world in the context of the techno tyranny that is coming. 
+我们深入探讨了POW网络的安全目标以及它们在即将到来的技术暴政背景下为世界带来的外部利益。
 
-In this class, 28, we will talk about censorship resistance, why POW is censorship resistant, and proof of stake (POS) networks are not.
+在这一节课28中，我们将讨论抗审查性，为什么POW是抗审查的，而权益证明（POS）网络不是。
 
-## POW Is Censorship Resistant
+## POW 是抗审查的
 
-As we explained in the previous class, only POW blockchains will enable us to not comply with the techno-tyranny that is coming. This is because POW is censorship resistant, and all other systems are not.
+正如我们在上一节课中解释的，只有POW区块链能使我们避免即将到来的技术暴政。这是因为POW是抗审查的，而所有其他系统都不是。
 
-POW enables computers around the world join and leave the network without having to check with third parties which is the correct block or blockchain. This is a very powerful feature because third parties are the source of arbitrary control and corruption.
+POW使世界各地的计算机能够加入和离开网络，而无需向第三方核实哪个区块或区块链是正确的。这是一个非常强大的功能，因为第三方是任意控制和腐败的来源。
 
-In POW networks as Ethereum Classic (ETC) and Bitcoin (BTC) there is no need to ask permission to participate nor to send transactions. As long as transactions are correctly formed, they will be accepted by nodes and miners of the system.
+在POW网络如以太坊经典（ETC）和比特币（BTC）中，不需要获得参与或发送交易的许可。只要交易格式正确，它们就会被系统的节点和矿工接受。
 
-If there is no third party controlling these systems, then there is no possibility of censorship.
+如果没有第三方控制这些系统，那么就不存在审查的可能性。
 
-## Economies of Scale In POS Produce Centralization
+## POS 的规模经济产生中心化
 
-POS is censorable because it is prone to staker, validator, and staking pool centralization due to economies of scale. 
+POS是可审查的，因为它由于规模经济而容易产生抵押者、验证者和抵押池的中心化。
 
-Because staking has no geographic or technical friction as it is just a deposit in the global ledger, then economies of scale in that model are extremely efficient. 
+由于抵押只是全球账本中的一笔存款，没有地理或技术上的摩擦，因此该模式中的规模经济非常高效。
 
-This makes staking through exchanges or staking through smart contracts equally centralized. 
+这使得通过交易所进行的抵押或通过智能合约进行的抵押同样集中化。
 
-The smart contract based staking pools are centralized because they pool money anonymously on the network, but filter who can be validators through DAO voting, governance schemes, and other methods. We predict that soon they will start filtering stakers with [KYC](https://en.wikipedia.org/wiki/Know_your_customer) and [AML](https://en.wikipedia.org/wiki/Anti%E2%80%93money_laundering) restrictions as well.
+基于智能合约的抵押池是中心化的，因为它们在网络上匿名地汇集资金，但通过DAO投票、治理方案和其他方法筛选谁可以成为验证者。我们预测他们很快也会开始通过KYC（了解你的客户）和AML（反洗钱）限制筛选抵押者。
 
-## Governments Will Take Over Staking in POS
+## 政府将接管POS中的抵押
 
 ![](./1.png)
 
-The smart contract pools are prone to backdoors, developer directed upgrades, and arbitrary rule changes. 
+智能合约池容易出现后门、开发人员导向的升级和任意规则更改。
 
-This is because they have DAOs that are used to vote on new changes and upgrades to their systems, and because governments may pressure the pool developers, who may have majority control of these voting DAOs, to add arbitrary control mechanism to the systems.
+这是因为它们有用于投票系统变化和升级的DAO，政府可能会向持有这些投票DAO多数控制权的池开发人员施压，要求他们向系统添加任意控制机制。
 
-Staking through exchanges is easily capturable by special interests and governments because the exchanges themselves are traditional regulated financial services, therefore they take staking deposits from their customers only after they do the KYC and AML checks, and they use their own validator nodes to produce blocks for the network.
+通过交易所进行的抵押很容易被特殊利益和政府捕获，因为交易所本身是传统的受监管金融服务，因此他们只在完成KYC和AML检查后接受客户的抵押存款，并使用自己的验证节点为网络生成区块。
 
-With this setup, it’s only a decision of the exchange managers to censor the blocks they produce.
+在这种设置下，是否审查他们生成的区块只是交易所管理者的决定。
 
-## POW Mining Has Diseconomies of Scale
+## POW挖矿具有规模不经济性
 
-In proof of work, mining is exactly the same as sending transactions or running a node in those networks in the sense that miners may connect or disconnect from the network whenever they wish, from anywhere in the world, without any possibility of censorship because the proof of work information is all they need to join and leave in a decentralized way.
+在工作量证明中，挖矿与在这些网络中发送交易或运行节点完全相同，矿工可以随时随地连接或断开网络，而不可能受到审查，因为他们只需使用工作量证明信息即可以去中心化的方式加入和离开网络。
 
-Additionally, electricity generation and logistics is distributed around to the world, making economies of scale in that industry not efficient. 
+此外，电力生产和物流分布在世界各地，使得该行业中的规模经济效益不高。
 
-The Chinese Bitcoin mining industry is an example that POW is censorship resistant as the government prohibited crypto mining in 2021, but in early 2024 that country still had 15% of Bitcoin’s hashpower making it the second largest mining country behind the US.
+中国的比特币挖矿产业就是POW抗审查的一个例子。政府在2021年禁止加密货币挖矿，但到2024年初，该国仍拥有15%的比特币算力，成为仅次于美国的第二大挖矿国家。
 
-## How Staking Pools Work
+## 抵押池如何工作
 
-A description of the operation of the two types of staking pools will illustrate why they are centralized.
+描述两种类型的抵押池的运作将说明它们为何集中化。
 
-In centralized staking pools or exchange run staking pools, the exchanges are traditional financial services controlled by regulators. This means that making staking deposits is already not censorship resistant because many potential stakers are left out when they fail the KYC and AML filters.
+在中心化抵押池或交易所运营的抵押池中，交易所是受监管的传统金融服务。这意味着进行抵押存款已经不是抗审查的，因为许多潜在的抵押者在未通过KYC和AML筛选时被排除在外。
 
-As these pools run their own nodes, and they must comply with regulations, they have to censor transactions and smart contracts based on government restrictions such as those imposed by the Office of Foreign Assets Control (OFAC) in the United States.
+由于这些池运行自己的节点，并且必须遵守法规，他们必须根据政府限制（如美国外国资产控制办公室（OFAC）实施的限制）审查交易和智能合约。
 
-As we explained before, “decentralized” staking pools do accept anonymous stakers on the blockchain for now, but they filter who may validate transactions to maximize uptime and minimize penalties.
+正如我们之前解释的，“去中心化”抵押池目前确实接受区块链上的匿名抵押者，但他们筛选谁可以验证交易，以最大化正常运行时间和最小化处罚。
 
-As they can pick and choose who may validate, then they have the power to impose conditions to those validators, and those conditions may include what to censor and what not.
+由于他们可以选择谁可以验证，因此他们有权对这些验证者施加条件，这些条件可能包括审查哪些内容，哪些不审查。
 
-## How Mining Pools Work
+## 挖矿池如何工作
 
-In POW mining all these points of control are avoided. 
+在POW挖矿中，所有这些控制点都被避免了。
 
-This is because as transactions are received by the network, they are distributed to all nodes globally. Some of these nodes are miners who may be anywhere in the world there is cheap electricity to mine.
+这是因为当交易被网络接收时，它们会全球分发到所有节点。其中一些节点是矿工，只要有廉价电力进行挖矿，他们可以在世界任何地方。
 
-When the miners get the transactions they create batches of them and do the POW hashing to stamp the blocks. 
+当矿工接收到交易时，他们会将其打包并进行POW哈希以标记区块。
 
-When these blocks are sent to the rest of the network, each node in their complete isolation knows that it is the correct next block in the network just by checking the POW. This is what determines the decentralization in POW.
+当这些区块被发送到网络的其他部分时，每个节点在完全孤立的情况下只需通过检查POW即可知道它是网络中的下一个正确区块。这就是POW中去中心化的决定因素。
 
-Pools, in POW networks as ETC and BTC, just aggregate smaller miners around the world and allow them to have a smoother cash flow by representing a larger share of the mining in the network than if they would be mining by themselves. 
+在ETC和BTC等POW网络中，矿池只是聚集了全球范围内的小矿工，使他们比单独挖矿时拥有更平稳的现金流。
 
-However, POW mining pools hardly do any KYC or AML checks on their users because they do not act as financial institutions as mining is a physical operation done externally to the network. 
+然而，POW矿池几乎不会对其用户进行KYC或AML检查，因为挖矿是一种在网络外部进行的物理操作。
 
-Additionally, POW mining pools would be deserted if they censored transactions as they would soon lose profitability as compared to other competing pools elsewhere.
+此外，如果POW矿池审查交易，他们会很快失去盈利能力，因而会被其他竞争池抛弃。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
