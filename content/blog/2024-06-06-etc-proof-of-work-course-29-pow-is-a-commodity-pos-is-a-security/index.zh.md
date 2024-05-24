@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 29. POW Is a Commodity, PoS Is a Security"
+title: "ETC工作证明课程：29. POW是一种商品，PoS是一种安全机制"
 date: 2024-06-06
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3ekCf_1D7gM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,76 +16,75 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-In the previous class, 28, we talked about censorship resistance, why proof of work (POW) blockchains are censorship resistant, and proof of stake (POS) networks are not.
+在上一课中，第28课，我们讨论了抗审查性，为什么工作证明（POW）区块链具有抗审查性，而权益证明（POS）网络没有。
 
-We explained the attributes of POW blockchains such as Bitcoin (BTC) and Ethereum Classic (ETC), what are the drivers of centralization in POS networks, and described how staking and mining pools work in both systems.
+我们解释了POW区块链（如比特币（BTC）和以太经典（ETC））的特性，POS网络中集中化的驱动因素，并描述了两种系统中的质押和挖矿池的工作原理。
 
-In this class, 29, we will make a similar comparison but from the standpoint of their regulatory status. We will explain why the cryptocurrencies of truly decentralized POW blockchains are commodities, and the ones of POS systems are securities.
+在本课中，第29课，我们将从监管状态的角度进行类似的比较。我们将解释为什么真正去中心化的POW区块链的加密货币是商品，而POS系统的加密货币是证券。
 
-## The SEC Says Staking Pools and Proof of Stake Networks are Securities
+## 美国证监会表示质押池和权益证明网络是证券
 
-Although still in the courts, the Securities and Exchange Commission in the United States [has classified](https://axislc.com/public/u-s-sec-says-staking-is-a-security-and-why-staking-activities-are-securities/) staking through exchanges as a security and fined and shut down the Kraken staking pool in the US. 
+尽管仍在法庭上，但美国证券交易委员会已经将通过交易所进行的质押定义为证券，并对在美国关闭了Kraken质押池并处以罚款。
 
-However, this classification may extend to whole POS networks; [as happened](https://www.theblock.co/post/233174/solana-matic-cardano-others-securities-sec-binance-lawsuit) with Cardano, Polygon, and Solana; because POS is centralized as said in the previous class.
+然而，这一分类可能会扩展到整个POS网络；就像发生在Cardano、Polygon和Solana等项目上一样；因为如前一课所说，POS是集中化的。
 
-## What Is a Security?
+## 什么是证券？
 
-![](./1.png)
+在美国，证券意味着它必须是投资金钱，在一个共同的企业中，具有从他人努力中获得利润的预期。
 
-A security in America means that it must be an investment of money, in a common enterprise, with an expectation of profit, that is derived from the effort of others. 
+任何对由他人运营的中心化实体的投资都将符合这一描述。
 
-Any investment in a centralized entity that is operated by others would fall in this description.
+如本节中的表格所示，如果我们将POS与POW进行比较，我们会意识到POS符合所谓的[豪伊测试](https://www.investopedia.com/does-crypto-pass-the-howey-test-8385183)，即证券的法律定义测试。
 
-As may be seen in the table in this section, if we compare POS with POW, we will realize that POS checks all the boxes of what is called the [Howey test](https://www.investopedia.com/does-crypto-pass-the-howey-test-8385183), the legal definition test of a security. 
+这是因为它们是由公司或基金会以及质押精英控制的中心化系统。
 
-This is because they are centralized systems controlled by corporations or foundations and staking elites.
+## 工作证明不是证券
 
-## Proof of Work Is Not a Security 
+在POW的情况下，很明显像比特币（BTC）和以太经典（ETC）这样的区块链不是证券，因为它们不是共同企业，它们是最大程度的信任最小化、抗审查和无需许可的。
 
-In the case of POW, it is clear that blockchains such as BTC and ETC are not securities because they are not common enterprises as they are trust minimized, censorship resistant, and permissionless.
+如果POW网络是来自世界各地甚至互不相识的陌生人组成的集合体，那么它们就不会提供源自他人努力的利润。
 
-If POW networks are a collection of strangers from around the world that don’t even know each other, then they do not provide profits derived from the efforts of others.
+因为POW是真正去中心化的，所以它避免了共同企业和回报取决于第三方的分类。
 
-Because POW is truly decentralized, then it avoids the categories of common enterprise and that returns are dependent on third parties. 
+事实上，比特币的精彩发明并不是在互联网上创造硬通货，而是通过基于POW的中本聪共识实现真正的去中心化。
 
-Indeed, the brilliant invention of Bitcoin was not hard money on the internet, it was to accomplish true decentralization using POW based Nakamoto Consensus.
+在POW区块链中，每个参与者都在其完全独立的情况下使用、加入和退出系统，不依赖于他人。
 
-In POW blockchains, each participant uses or joins and leaves the system in their complete isolation with no dependence on others. 
+## 什么使权益证明成为证券？
 
-## What Makes Proof of Stake a Security?
+证明POS及其他非POW解决方案是中心化的，因此是证券的证据是，在美国证监会将其分类为证券后，Cardano和Solana等组织立即开始了他们的非正式和正式对他们系统的[辩护](https://www.coindesk.com/policy/2023/06/09/cardano-developer-rejects-sec-claim-its-ada-token-is-a-security/) [solana-foundation-sol-is-not-a-security](https://www.coindesk.com/policy/2023/06/08/solana-foundation-sol-is-not-a-security/)。
 
-Proof that POS, and other non-POW solutions, are centralized and, therefore, securities is that immediately after the classification as securities by the SEC the organizations that created Cardano and Solana started their informal and formal [defenses](https://www.coindesk.com/policy/2023/06/09/cardano-developer-rejects-sec-claim-its-ada-token-is-a-security/) [of their systems](https://www.coindesk.com/policy/2023/06/08/solana-foundation-sol-is-not-a-security/) in the United States.
+他们之所以能够这样做，是因为这些系统有由开发者、公司、基金会和管理人员创建、管理和领导的实体。
 
-They can do this because these systems have corporations, foundations, developers, and administrators that created, manage, and lead them.
+如果我们将公司定义为将创始人、股东、分配其所有权和权利的价值单位以及管理系统的一套规则组合在一起的法律实体，我们可以完全将这种类比应用于POS系统。
 
-If we define the firm as a legal entity that puts together the founders, shareholders, a unit of value that distributes its ownership and rights, and a set of rules that governs the system, we can perfectly fit this analogy to POS systems.
+POS网络是可以描述为“合成公司”的东西。
 
-POS networks are what may be described as “synthetic firms”.
+## POW没有国王、总统、CEO或管理员
 
-## POW Doesn't Have Kings, Presidents, CEO's, or Administrators
+与POS相反，POW区块链没有任何可以起诉或罚款的组织或领导者，也没有可以正式代表这些系统进行法律辩护的组织。
 
-In contrast with POS, POW blockchains have no organizations or leaders that anyone can prosecute or fine, or that could formally represent those systems for legal defenses. 
+POW网络没有公司、基金会、开发者或管理人员来创建、管理和领导它们。
 
-POW networks have no corporations, foundations, developers, or administrators that created, manage, and lead them.
+无论它们的监管状态如何，它们只会继续运作，不论人们对它们说了什么或者它们在法律体系中被归类为什么。
 
-Whatever is their regulatory status, they would just keep working regardless of what people say about them or how they are classified in the legal system.
+例如，比特币和以太经典没有任何ICO或VC资金，也没有大型开发团队或资金充足的基金会或公司来管理它们。
 
-For example, BTC and ETC don’t have any ICO or VC funding, big development teams, or well funded foundations or corporations managing them.
+生态系统中的所有这些部分都是有机地全球分布式增长的，不仅因为世界知道比特币和以太经典具有真正的去中心化原则，而且因为它们的去中心化原则实际上已经编码到它们的系统中，并随着它们的扩展而扩展。
 
-All these parts in the ecosystem grow organically and in a distributed manner globally not only because the world knows that BTC and ETC have true decentralist principles, but because their decentralist principles are actually encoded in their systems and scale with them.
+## 为什么法律区分这些事情很重要
 
-## Why Is it Important for the Law to Distinguish These Things
+以太坊、瑞波等网络以及所有权益证明和权益授权网络，包括所有具有DAO和治理投票的dapp实用令牌，必须被宣布为证券，这并不是因为它们将会被从市场中移除，而是因为它们的中心化、法律责任和受托责任的真相必须被揭示。
 
-That networks such as Ethereum and Ripple, and all other proof of stake and proof of authority networks, including all dapp utility tokens that have DAOs with governance voting, must be declared securities is not because they will be taken out of the market, but because the truth of their centralization, legal liability, and fiduciary duty must be unveiled.
+不幸的是，如果它们被发现是未注册的证券，监管机构将对支持以太坊、瑞波、Cardano、Avalanche、Solana、Polkadot等所有虚假“去中心化”代币的开发团队、公司和基金会处以最多2500万至5000万美元的罚款，就像他们在2019年对EOS做的那样，而这将是全部。
 
-Unfortunately, if they find them to be unregistered securities, regulators will fine the developer teams, corporations, and foundations supporting Ethereum, Ripple, Cardano, Avalanche, Solana, Polkadot, and all the other false "decentralized" coins only between $25M and $50M at most, [as they did](https://www.sec.gov/news/press-release/2019-202) with EOS in 2019, and that will be all. 
+它们将在新的状态下生存下来，但它们是中心化的信息是关键。只有设计良好的POW区块链才是真正去中心化的区块链。
 
-They will survive the new status, but the information that they are centralized is the key. Only well designed POW blockchains are truly decentralized blockchains. 
+在任何文明社会中，公正的法律必须对所有人公平地适用，并且真相必须战胜一切。
 
-In any civilized society just laws must apply fairly to all and truth must prevail.
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文!**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多有关ETC: https://ethereumclassic.org
