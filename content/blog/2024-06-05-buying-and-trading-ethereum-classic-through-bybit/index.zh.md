@@ -1,5 +1,5 @@
 ---
-title: "Buying and Trading Ethereum Classic Through Bybit"
+title: "通过Bybit购买和交易以太坊经典"
 date: 2024-06-05
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner-2.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FUdUb_zDPTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,128 +16,128 @@ linkImage: ./banner-2.png
 
 ![](./banner-2.png)
 
-## What Is Bybit?
+## 什么是Bybit？
 
-Bybit is a centralized cryptocurrency exchange.
+Bybit是一家中心化的加密货币交易所。
 
-A centralized cryptocurrency exchange (CEX) is a virtual location on the internet that serves as a meeting point for trading crypto assets such as Bitcoin (BTC) and Ethereum Classic (ETC).
+中心化加密货币交易所（CEX）是一个虚拟的互联网平台，用于交易比特币（BTC）和以太坊经典（ETC）等加密资产。
 
-Bybit provides its servers over the internet for its customers to open accounts, send money, and start exchanging BTC, ETC, Ethereum (ETH), and other tokens.
+Bybit通过互联网提供服务器，供客户开设账户、汇款，并开始交易BTC、ETC、以太坊（ETH）和其他代币。
 
-CEXs must follow regulations, so they may be very restrictive, demanding customers to present evidence of identity and residence, performing background checks, and asking what is the source of their funds.
+CEX必须遵守法规，因此可能非常严格，要求客户提供身份和居住地证明、进行背景调查，并询问资金来源。
 
-Among the risks of centralized exchanges is that they may go bankrupt and customers may lose their deposits and assets.
+中心化交易所的风险之一是它们可能破产，客户可能会失去他们的存款和资产。
 
-Bybit in particular is one of the largest cryptocurrency exchanges in the world, it started operations in 2018 and, according to its website, it has more than 20 million customers, its daily average trading volume is more than $10 billion, and it operates in more than 160 countries.
+Bybit特别是世界上最大的加密货币交易所之一，始于2018年，根据其网站，它拥有超过2000万客户，日均交易量超过100亿美元，并在160多个国家运营。
 
-## Moving Your ETC to Non-Custodial Wallets
+## 将您的ETC转移到非托管钱包
 
 ![](./2.png)
 
-Although you may be using a centralized cryptocurrency exchange for buying and trading in Ethereum Classic, the best way to [manage your ETC](https://ethereumclassic.org/blog/2023-05-31-how-to-start-using-etc-from-scratch) is to buy them in the centralized exchanges but then moving them to [non-custodial wallets](https://ethereumclassic.org/blog/2023-05-04-ethereum-classic-course-20-what-are-custodial-and-non-custodial-wallets) that you control.
+尽管您可能使用中心化加密货币交易所购买和交易以太坊经典，但管理您的ETC的最佳方式是在中心化交易所购买它们，然后将它们转移到您控制的非托管钱包。
 
-The steps are as follows:
+步骤如下：
 
-1. You start with your cash in your bank account
-2. You move your cash to the crypto exchange
-3. You buy ETC at the crypto exchange
-4. You get a non-custodial wallet or hardware wallet
-5. You move all your ETC to your non-custodial wallet
+1. 从您的银行账户开始
+2. 将您的现金转移到加密货币交易所
+3. 在加密货币交易所购买ETC
+4. 获取一个非托管钱包或硬件钱包
+5. 将所有ETC转移到您的非托管钱包
 
-The above method is the most secure method because you end up with your ETC on the blockchain directly, under your own control with your private keys, rather than at the centralized exchange, under their control.
+以上方法是最安全的方法，因为您最终将您的ETC直接置于区块链上，受您自己的私钥控制，而不是在中心化交易所受其控制。
 
-In other words, it is more trust minimized.
+换句话说，这是最小化信任的方法。
 
-## Opening a Bybit Account
+## 开设Bybit账户
 
 ![](./3.png)
 
-The first step to create your account on Bybit will be to go to [Bybit.com](https://bybit.com), then press on the “Sign up” button, and proceed with the next steps.
+创建Bybit账户的第一步是访问[Bybit.com](https://bybit.com)，然后点击“注册”按钮，并进行下一步操作。
 
-The next steps will involve a process of verification. Bybit uses this system to comply with “Know Your Customer”, “Anti-Money Laundering”, and other laws in various countries.
+接下来的步骤将涉及验证过程。Bybit使用此系统来遵守各国的“了解您的客户”（KYC）和“反洗钱”等法律。
 
-The first thing Bybit will ask you for is your personal information. If you live in the United States, Bybit.com will reject your application as it only operates outside of the US. For this post, we will show how Bybit works out of Argentina to provide a generic international account demonstration.
+Bybit首先会要求您提供个人信息。如果您居住在美国，Bybit.com将拒绝您的申请，因为它只在美国以外运营。本文将展示在阿根廷开设国际账户的操作方法。
 
-The first data point that they ask for to open an account is your email address or phone number so they may send you a code to verify it.
+开设账户的第一个数据点是您的电子邮件地址或电话号码，以便他们可以发送代码进行验证。
 
-Then, Bybit will verify your identity with a government ID and other information.
+然后，Bybit会通过政府ID和其他信息验证您的身份。
 
-Again, all these steps are because they need to make sure they know you for compliance reasons.
+再次强调，所有这些步骤都是为了确保他们了解您，以便遵守法规。
 
-## Depositing Crypto or Money to Bybit
+## 向Bybit存入加密货币或资金
 
 ![](./4.png)
 
-After creating your account on Bybit, you can deposit crypto to it. To do this go to the “Deposit” button on the top right of the website.
+创建Bybit账户后，您可以向其中存入加密货币。为此，请访问网站右上角的“存款”按钮。
 
-The deposit options are to send crypto assets such as Bitcoin, USDT, and others to your account or to use their local fiat currency service.
+存款选项包括将比特币、USDT等加密资产发送到您的账户，或使用其本地法币服务。
 
-If you wish to use their local fiat currency service they will send you to their peer-to-peer market where you will be able to buy a crypto in the local market such as Bitcoin or USDT and then send it to your Bybit account.
+如果您希望使用其本地法币服务，他们将引导您进入他们的点对点市场，您可以在本地市场上购买比特币或USDT，然后将其发送到您的Bybit账户。
 
-To buy ETC you need to deposit or transform your crypto assets to USDT on Bybit as ETC/USDT is the trading pair that it supports for trading Ethereum Classic.
+要购买ETC，您需要在Bybit上存入或转换您的加密资产为USDT，因为ETC/USDT是支持交易以太坊经典的交易对。
 
-## Bybit as a Wallet
+## Bybit作为钱包
 
 ![](./5.png)
 
-Many people around the world use Bybit as their main wallet. This is not the best for securing your crypto as we explained above, but for keeping some of your crypto for trading or to make crypto payments it is acceptable.
+许多人将Bybit用作他们的主要钱包。这不是保护您加密货币的最佳方式，但对于保留一些用于交易或进行加密支付的加密货币来说是可以接受的。
 
-It is always best to keep at least 80% of your crypto secure in self custody wallets or hardware wallets.
+最好将至少80%的加密货币保存在自托管钱包或硬件钱包中。
 
-Nevertheless, Bybit does have easy “deposit” and “withdraw” features for crypto in your country.
+尽管如此，Bybit确实有方便的“存款”和“提取”功能，适用于您所在国家的加密货币。
 
-By using the Bybit website or their mobile app, you may keep track of your holdings.
+通过使用Bybit网站或其移动应用程序，您可以跟踪您的持有量。
 
-To see your assets on your Bybit account you need to go to the “Main account” link on your profile dropdown menu.
+要查看您在Bybit账户上的资产，您需要访问个人资料下拉菜单中的“主账户”链接。
 
-## Buying ETC on Bybit
+## 在Bybit上购买ETC
 
 ![](./6.png)
 
-Once you are all set with the Bybit account and you moved USDT to it or exchanged another crypto asset to USDT to buy ETC, then you will be ready to buy or trade Ethereum Classic on the exchange.
+一旦您的Bybit账户设置完毕并将USDT转入或将其他加密资产兑换为USDT，您就可以在交易所购买或交易以太坊经典。
 
-This is because global crypto markets don’t trade in all the currencies of the world, but in a few reserve currencies, or against other major cryptocurrencies. However, most trade against the stablecoin that tracks the US dollar called “Tether” of which its symbol is ”USDT”.
+这是因为全球加密市场不使用世界上所有的货币进行交易，而是使用一些储备货币或其他主要加密货币。然而，大多数交易使用的是跟踪美元的稳定币“Tether”，其符号为“USDT”。
 
-If you move your local currency to USDT using the Bybit “P2P trading” service, then you will be ready to purchase ETC!
+如果您使用Bybit的“点对点交易”服务将您的本地货币转换为USDT，那么您就可以购买ETC了！
 
-To trade USDT for ETC go to the “Trade” menu item on the top menu, then hover to the “Spot Trading” option, and then scroll down on the USDT column to find the ETC/USDT trading pair.
+要将USDT换成ETC，请访问顶部菜单的“交易”菜单项，然后悬停到“现货交易”选项，然后在USDT列中向下滚动找到ETC/USDT交易对。
 
-Then, on the right hand side of the page you will find the order ticket where you will be able to buy ETC using your USDT.
+然后，在页面右侧的订单票上，您可以使用您的USDT购买ETC。
 
-If you sent other crypto assets to trade ETC, such as Bitcoin, then you will need to exchange it there for USDT first.
+如果您发送了其他加密资产来交易ETC，如比特币，那么您首先需要在那边将其兑换为USDT。
 
-## Sending ETC
+## 发送ETC
 
 ![](./7.png)
 
-When you buy ETC on Bybit, they will probably become available to withdraw after your initial purchase of USDT is cleared in your local currency if you used their peer-to-peer service. After this, you will be able to send them to your non-custodial wallet or other destinations.
+当您在Bybit上购买ETC后，它们可能会在您的本地货币的USDT初次购买完成后可提取。之后，您可以将它们发送到您的非托管钱包或其他目的地。
 
-If you live in a jurisdiction that has instant bank transfers or other fast money transfer systems, you may have your purchased ETC available for withdrawal sooner.
+如果您居住在具有即时银行转账或其他快速资金转移系统的司法管辖区，您购买的ETC可能会更快可提取。
 
-The way to send your ETC to your non-custodial wallet or to any other destination is by clicking on the “Withdraw” link on the “Assets” item on the top menu.
+将您的ETC发送到您的非托管钱包或其他目的地的方法是点击顶部菜单中的“资产”项下的“提取”链接。
 
-Then, on the “Withdraw” page, search and select ETC as the coin to send, put the ETC address you wish to send it to, select ETC as the chain type, select the amount to send, and send it.
+然后，在“提取”页面，搜索并选择ETC作为要发送的币种，输入您要发送的ETC地址，选择ETC作为链类型，选择要发送的数量，并发送。
 
-## Receiving ETC
+## 接收ETC
 
 ![](./8.png)
 
-To receive ETC, you need to go again to your Bybit “Assets” menu, and then click on the “Deposit” link.
+要接收ETC，您需要再次访问Bybit的“资产”菜单，然后点击“存款”链接。
 
-In the “Deposit” page, search and select ETC as the coin you wish to deposit, select ETC as the “chain type”, copy the address provided, and use it to send ETC to your account from your non-custodial wallet or to give it to third parties to send you ETC.
+在“存款”页面，搜索并选择ETC作为您要存入的币种，选择ETC作为“链类型”，复制提供的地址，并使用它将ETC发送到您的账户，或将其提供给第三方发送ETC给您。
 
-## Who Uses Bybit for Buying and Selling ETC?
+## 谁使用Bybit购买和出售ETC？
 
-**Investors:** ETC is an excellent long term investment alternative. This has attracted many investors who use exchanges such as Bybit to transfer their funds to exchange them for Ethereum Classic. However, these ETC buyers should think of moving their holdings to non-custodial wallets as explained before, so their assets may be more secure.
+**投资者：** ETC是一种很好的长期投资选择。这吸引了许多投资者，他们使用Bybit等交易所将资金兑换成以太坊经典。然而，这些ETC买家应考虑将其持有量转移到非托管钱包，以使其资产更加安全。
 
-**Miners:** A segment that uses exchanges frequently to trade ETC are miners. Ethereum Classic miners earn an average of 17,000 ETC per day at the time of this writing, but they have to pay for their operations, which include payroll, data center costs, and electricity costs. For this, they usually liquidate some of their daily earnings on exchanges such as Bybit to transform them into cash to pay for their bills.
+**矿工：** 经常使用交易所交易ETC的一个群体是矿工。以太坊经典矿工平均每天赚取约17,000 ETC，但他们必须支付运营费用，包括工资、数据中心费用和电费。为此，他们通常在Bybit等交易所出售部分每日收益，以转换为现金支付账单。
 
-**Speculators:** Trading volumes on ETC are high globally and much of this is by speculators who trade daily on exchanges such as Bybit. These participants are beneficial to the ecosystem as they provide liquidity to all other buyers and sellers.
+**投机者：** 全球ETC交易量很高，其中很多是日常在Bybit等交易所交易的投机者。这些参与者对生态系统有益，因为他们为其他买家和卖家提供流动性。
 
-**Merchants:** Merchants who let their customers purchase items with ETC may use centralized exchanges such as Bybit to liquidate their holdings for paying for their business expenses.
+**商人：** 允许客户使用ETC购买商品的商人可能使用Bybit等中心化交易所清算其持有量，以支付业务费用。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
