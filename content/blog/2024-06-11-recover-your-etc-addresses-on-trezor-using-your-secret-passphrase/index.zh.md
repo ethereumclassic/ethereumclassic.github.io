@@ -1,5 +1,5 @@
 ---
-title: "Recover Your ETC Addresses on Trezor Using Your Secret Passphrase"
+title: "恢复ETC地址在Trezor上使用您的秘密密码短语"
 date: 2024-06-11
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cd-Mea3UrRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,98 +16,98 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-In this post we will explain how to recover your ETC addresses on the Trezor Safe 3 using your secret passphrase. This is needed if your Trezor Safe 3 was lost, compromised, or damaged. 
+在本文中，我们将解释如何使用您的秘密密码短语在Trezor Safe 3上恢复您的ETC地址。这在您的Trezor Safe 3丢失、被盗或损坏时是必需的。
 
-The secret passphrase or mnemonic phrase is a group of 12, 18, or 24 words that you should have written on paper and stored in a safe place as we explained in [our post](https://ethereumclassic.org/blog/2024-03-27-using-ethereum-classic-with-trezor) about using ETC with Trezor Safe 3.
+秘密密码短语或助记词是一组12、18或24个单词，您应将其写在纸上并保存在安全的地方，正如我们在[我们的文章](https://ethereumclassic.org/blog/2024-03-27-using-ethereum-classic-with-trezor)中解释的那样，关于如何使用Trezor Safe 3与ETC。
 
-## The Trezor Hardware and Software Components
+## Trezor硬件和软件组件
 
 ![](./0.png)
 
-Trezor Safe 3 is a hardware wallet, so to recover it you need to acquire a new Trezor Safe 3 device and install the Trezor Suite app again on your computer. You will also need the card where you wrote your 12, 18, or 24 word secret passphrase, or mnemonic phrase, when you installed it the first time.
+Trezor Safe 3是一款硬件钱包，因此要恢复它，您需要获得一个新的Trezor Safe 3设备，并在您的电脑上重新安装Trezor Suite应用程序。您还需要首次安装时写下的12、18或24个单词的秘密密码短语或助记词。
 
-In the following sections we will explain the steps to recover your ETC addresses using your Trezor secret passphrase.
+在接下来的部分中，我们将解释如何使用您的Trezor秘密密码短语来恢复您的ETC地址。
 
-We will show the parallel actions on your Trezor Safe 3 and on your computer where appropriate.
+我们将在适当的时候展示您在Trezor Safe 3设备和电脑上的并行操作。
 
-## 1. Go to the Trezor Start Page and Get the Trezor Suite App
+## 1. 访问Trezor启动页面并获取Trezor Suite应用程序
 
 ![](./1.png)
 
-When you unbox and connect your new Trezor Safe 3 to your computer, the first thing it will ask you is to go to https://trezor.io/start.
+当您拆箱并将新的Trezor Safe 3连接到电脑时，首先它会要求您访问https://trezor.io/start。
 
-When you go there on your computer browser, download the Trezor Suite app for your operating system and open it.
+在您的电脑浏览器中访问该页面，下载适用于您的操作系统的Trezor Suite应用程序并打开它。
 
-## 2. Open Trezor Suite and Install Firmware
+## 2. 打开Trezor Suite并安装固件
 
 ![](./2.png)
 
-When you open your Trezor Suite on you computer, it will display the device security check. After you read and go through the check press the “Set up my Trezor” button.
+当您在电脑上打开Trezor Suite时，它会显示设备安全检查。阅读并完成检查后，点击“设置我的Trezor”按钮。
 
-In the next screen, press on “Install firmware”.
+在下一个屏幕上，点击“安装固件”。
 
-## 3. Device Check, Tutorial, and Recover Wallet
+## 3. 设备检查、教程和恢复钱包
 
 ![](./3.png)
 
-In the next few screens Trezor will perform a device check. On the device, accept the device check.
+在接下来的几个屏幕中，Trezor将执行设备检查。在设备上，接受设备检查。
 
-Then, Trezor will ask you to go through a tutorial. This is for new users, so you can skip the tutorial.
+然后，Trezor会要求您完成一个教程。这是为新用户准备的，您可以跳过教程。
 
-Once you skip the tutorial, you will see a screen with the options “Create new wallet” or “Recover wallet”. As we are recovering your ETC addresses using your 12, 18, or 24 word secret passphrase, then we need to press on “Recover wallet”.
+跳过教程后，您会看到“创建新钱包”或“恢复钱包”的选项。由于我们正在使用12、18或24个单词的秘密密码短语来恢复您的ETC地址，因此我们需要点击“恢复钱包”。
 
-## 4. Start Recovery
+## 4. 开始恢复
 
 ![](./4.png)
 
-In the next screen, Trezor Suite will prompt you to start the recovery. It will also let you know that the entire recovery process will happen on your Trezor Safe 3 device. 
+在下一个屏幕中，Trezor Suite会提示您开始恢复。它还会告诉您整个恢复过程将在您的Trezor Safe 3设备上进行。
 
-To start with the recovery process, press on “Start recovery”.
+要开始恢复过程，请点击“开始恢复”。
 
-## 5. Select the Number Words
+## 5. 选择单词数量
 
 ![](./5.png)
 
-In the next step on your Trezor Safe 3 device, you will go through a series of prompts to recover your wallet. When you get to the point of selecting the number of words to restore your backup, we will select 12 words as the option for this example as we chose that number of words for our secret passphrase when we set up our Trezor for the first time.
+在Trezor Safe 3设备上的下一个步骤中，您将通过一系列提示来恢复您的钱包。当您需要选择恢复备份的单词数量时，我们将在此示例中选择12个单词，因为我们在首次设置Trezor时选择了该数量的单词作为秘密密码短语。
 
-However, you may have 18 or 24 words, so select those instead if that is the case.
+但是，您可能有18或24个单词，所以如果是这种情况，请选择相应的数量。
 
-When you selected the number of words to recover, press the two buttons on your device at the same time as indicated in the image.
+选择恢复的单词数量后，按照图片中的指示，同时按下设备上的两个按钮。
 
-## 6. Type In Your 12, 18, or 24 Words
+## 6. 输入您的12、18或24个单词
 
 ![](./6.png)
 
-After reading the instructions on your Trezor Safe 3 device, start typing the words to recover your ETC addresses.
+阅读Trezor Safe 3设备上的说明后，开始输入单词以恢复您的ETC地址。
 
-You will only need to type 2 to 4 letters of each word. When you type 2 to 4 letters of each word, the device will show you options of words to select from after you enter a few letters. From the words shown, always be careful to choose the one that corresponds to your passphrase in each round.
+您只需要输入每个单词的2到4个字母。当您输入每个单词的2到4个字母时，设备会显示您可以选择的单词选项。在每一轮输入中，务必小心选择与您的密码短语对应的单词。
 
-## 7. Success!
+## 7. 成功！
 
 ![](./7.png)
 
-After you entered your 12, 18, or 24 word secret passphrase on your Trezor Safe 3 device, it will prompt you that your attempt was successful. From here you need to go to your Trezor Suite app on your computer to finish the recovery process.
+在您的Trezor Safe 3设备上输入12、18或24个单词的秘密密码短语后，它会提示您操作成功。从这里，您需要在电脑上的Trezor Suite应用程序中完成恢复过程。
 
-## 8. Set a PIN or Skip
+## 8. 设置PIN或跳过
 
 ![](./8.png)
 
-In the next screen, Trezor Suite will prompt you to set a PIN as you set it up before when you had your previous Trezor Safe 3 device.
+在下一个屏幕中，Trezor Suite会提示您设置PIN码，就像您之前在旧的Trezor Safe 3设备上设置的一样。
 
-Press on “Set PIN” or “Skip” if you prefer not to set up a PIN for your Trezor.
+点击“设置PIN”或“跳过”如果您不想为您的Trezor设置PIN码。
 
-## 9. Activate ETC
+## 9. 激活ETC
 
 ![](./9.png)
 
-Finally, after you set up a PIN or you skip that step, your Trezor Suite app will ask you to activate coins. 
+最后，在您设置PIN码或跳过该步骤后，Trezor Suite应用程序会要求您激活硬币。
 
-To add your old ETC address again, click on the “Ethereum Classic” button and go through the process of activating ETC and adding an address.
+要再次添加您的旧ETC地址，请点击“Ethereum Classic”按钮并完成激活ETC和添加地址的过程。
 
-If you had more than one ETC address, you can repeat the process as many times as you wish and all your addresses will be restored.
+如果您有多个ETC地址，您可以多次重复此过程，所有地址都会被恢复。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
