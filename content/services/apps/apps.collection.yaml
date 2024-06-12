@@ -1,3 +1,19 @@
+- date: 2024-06-12
+  title: Alchemy Pay
+  description: Alchemy Pay (ACH) is a payment solutions provider that seamlessly connects fiat and crypto economies for global consumers, merchants, developers, and institutions.
+  image: ./images/240612-1803-alchemy-pay.jpeg
+  type: finance
+  author: Alchemy GPS Europe UAB
+  authorLink: https://alchemypay.org/
+  links:
+    - name: Launch App
+      link: https://alchemypay.org/
+    - name: X
+      link: https://twitter.com/alchemypay
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/alchemy_official
+      icon: telegram
 - title: Classic USD (USC) Stablecoin
   date: 2024-05-14
   image: ./images/usc-stablecoin.png
