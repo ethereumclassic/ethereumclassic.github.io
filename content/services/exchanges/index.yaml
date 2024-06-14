@@ -409,6 +409,9 @@ items:
       ABRA:
         __link: https://www.abra.com/
         __name: ABRA
+      Alchemy Pay:
+        __name: Alchemy Pay
+        __link: https://ramp.alchemypay.org/#/index
       AtomicWallet:
         __link: https://atomicwallet.io
         __name: AtomicWallet
