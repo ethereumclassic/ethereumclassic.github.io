@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic vs Central Bank Digital Currencies (CBDCs)"
+title: "以太坊经典 vs 中央银行数字货币 (CBDCs)"
 date: 2024-06-19
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IDr_mPliX70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,151 +16,150 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-As central banks all over the world race to launch their Central Bank Digital Currencies (CBDCs) to please the global elites such as the [World Economic Forum](https://www.weforum.org/publications/modernizing-financial-markets-with-wcbdc/), we as citizens have no other recourse but to learn and understand what these new technologies will entail to our life, liberty, and property.
+随着全球各地的中央银行竞相推出中央银行数字货币（CBDCs）以取悦诸如[世界经济论坛](https://www.weforum.org/publications/modernizing-financial-markets-with-wcbdc/)等全球精英，我们作为公民只能通过学习和了解这些新技术对我们的生活、自由和财产的影响来应对。
 
-To explain what are CBDCs, a good way of going about it is to compare them with Ethereum Classic (ETC).
+为了说明什么是CBDCs，一个好的方法是将它们与以太坊经典（ETC）进行比较。
 
-ETC is the most secure and advanced blockchain technology in the world and CBDCs seek to imitate its design but to add to them their central control and planning devices.
+ETC是世界上最安全和先进的区块链技术，而CBDCs则试图模仿其设计，但添加了中央控制和规划的装置。
 
-Bitcoin was not a useful model to follow by them as it was so basic that it didn’t enable any kind of central planning scheme.
+比特币并不是他们可以效仿的有用模式，因为它过于基础，无法实现任何形式的中央规划。
 
 ![](./1.png)
 
-However, the EVM model invented by Vitalik Buterin, which is the design that ETC follows, is very versatile and is only truly decentralized when it works with the proof of work based Nakamoto Consensus mechanism.
+然而，由Vitalik Buterin发明的EVM模型，是ETC所遵循的设计，非常多功能，并且只有在与基于工作量证明的中本聪共识机制结合使用时，才是真正去中心化的。
 
-Not even Ethereum (ETH) is decentralized today. 
+甚至以太坊（ETH）如今也不是去中心化的。
 
-ETH decided to migrate from POW to proof of stake (POS) in 2022, which converted it into a hybrid between ETC and CBDCs. 
+ETH在2022年决定从POW迁移到权益证明（POS），这将其转变为ETC和CBDCs之间的混合体。
 
-However, this hybrid, as it doesn’t use any work to achieve decentralization, is easily capturable by government and special interests as CBDCs already are by definition and construction.
+然而，这种混合体由于不使用任何工作来实现去中心化，容易被政府和特殊利益团体捕获，就像CBDCs本质上和构造上已经被捕获一样。
 
-In the next sections we will make a comparison of ETC with CBDCs to illustrate the incredible similarities of these systems, but at the same time the critical differences between them which basically mean the difference between freedom or tyranny.
+在接下来的部分中，我们将对比ETC和CBDCs，以说明这些系统的惊人相似之处，同时也展示它们之间的关键区别，这些区别基本上意味着自由和专制的区别。
 
-## Comparison Table
+## 对比表
 
 ![](./2.png)
 
-The table above lists the features we will compare between ETC and CBDCs, and we mark how they meet each specification. 
+上表列出了我们将比较的ETC和CBDCs的特性，并标明它们如何满足每个规格。
 
-Below we will explain the comparisons line by line.
+下面我们将逐行解释这些比较。
 
-### Consensus Mechanism
+### 共识机制
 
 ![](./3.png)
 
-As we said above, the only way to make a blockchain network decentralized is by using proof of work as the consensus mechanism. This reality produces three segments in the blockchain industry: POW decentralized blockchains such as Bitcoin and Ethereum Classic; POS or proof of authority (POA) networks such as Ethereum and Ripple; and strictly POA central planning government systems such as CBDCs.
+如前所述，使区块链网络去中心化的唯一方法是使用工作量证明作为共识机制。这一现实在区块链行业中产生了三个部分：POW去中心化区块链，如比特币和以太坊经典；POS或权威证明（POA）网络，如以太坊和瑞波；以及严格的POA中央规划政府系统，如CBDCs。
 
-Although it may seem that non-government POS and POA cryptocurrencies may be some sort of hybrid in the middle, this is just an optical illusion. POS and POA networks are as capturable by government and special interests as are financial institutions. There is no trust minimization in those systems either.
+虽然看起来非政府的POS和POA加密货币可能是中间的某种混合体，但这只是光学错觉。POS和POA网络与金融机构一样容易被政府和特殊利益团体捕获。这些系统中也没有信任最小化。
 
-POW means that miners do a lot of computational work to build blocks; POS means that stakers put money to build blocks; POA means that trusted entities can build blocks; and CBDCs mean that government licensed banks and entities may build blocks in those systems.
+POW意味着矿工进行大量计算工作来构建区块；POS意味着权益持有人出资构建区块；POA意味着受信实体可以构建区块；而CBDCs意味着政府许可的银行和实体可以在这些系统中构建区块。
 
-We could say that CBDCs are hyper centralized.
+我们可以说，CBDCs是超级集中的。
 
-### Fully Replicated
+### 完全复制
 
 ![](./4.png)
 
-The core of the security of blockchains is that the data is fully replicated in all participating nodes of the network. This was something that governments and banks hated initially because it involves opening to the public the information of all the accounts, products, and applications that their users employ.
+区块链安全的核心在于数据在网络的所有参与节点中完全复制。这是政府和银行最初讨厌的，因为它涉及向公众开放用户使用的所有账户、产品和应用的信息。
 
-What’s more, this transparency also significantly reduces the lock-in that banks have over their customers and reveals the weight of their heavy pricing and fees.
+更重要的是，这种透明性也显著减少了银行对其客户的锁定，并揭示了其高昂定价和费用的重负。
 
-However, now financial systems, central banks, and governments, especially security and spy agencies, have become very attracted to these technologies because the transparency and global replication of the information is an enormous opportunity for surveillance and control of the population.
+然而，现在金融系统、中央银行和政府，尤其是安全和间谍机构，对这些技术非常感兴趣，因为信息的透明和全球复制对监控和控制人口来说是一个巨大的机会。
 
-In traditional financial systems, all the data is divided in separate data centers controlled by different financial institutions.
+在传统金融系统中，所有数据都分布在由不同金融机构控制的独立数据中心。
 
-For example, Bank of America has their data centers with their product and customer information, JP Morgan has their own separate systems, credit card companies have their own transaction processing networks, and payment apps such as PayPal and Stripe keep the state of their customer accounts and balances in their own clouds.
+例如，美国银行有自己的数据中心，存有其产品和客户信息，摩根大通有自己的独立系统，信用卡公司有自己的交易处理网络，支付应用如PayPal和Stripe将客户账户和余额的状态保存在自己的云端。
 
-All these separated and uncoordinated systems represent a Gordian knot such that it is very difficult and expensive for government and surveillance systems to capture all the information in an efficient and timely way.
+所有这些独立且不协调的系统代表了一个戈尔迪之结，使得政府和监控系统难以高效和及时地捕获所有信息。
 
-However, a fully replicated blockchain such as ETC means that all participating nodes in the system have all the information of what is going on in the network.
+然而，像ETC这样的完全复制的区块链意味着系统中的所有参与节点都拥有网络中发生的所有信息。
 
-CBDCs imitate this feature, making them as fully replicated as ETC, because now all participating nodes in those systems will have all the information of what is going on in the economy with a level of detail and granularity that had never been achieved before.
+CBDCs模仿了这一特性，使其像ETC一样完全复制，因为现在这些系统中的所有参与节点将拥有经济中发生的所有信息，其细节和粒度水平前所未有。
 
-Not only this, but fully replicated blockchains transmit the information of customer transactions to all nodes in the system in real time in a matter of milliseconds on a global scale.
+不仅如此，完全复制的区块链以毫秒级的全球范围内将客户交易的信息传递给系统中的所有节点。
 
-This means that when any person in the world uses a CBDC to do a transaction, that transaction will be known in real time by their local government, their security and spy agencies, their national government, and even by multilateral institutions such as the UN, W.H.O, and the World Bank!
+这意味着，当世界上任何人使用CBDC进行交易时，其交易将在实时被其本地政府、安全和间谍机构、国家政府，甚至是联合国、世界卫生组织和世界银行等多边机构知晓！
 
-### Smart Contracts
+### 智能合约
 
 ![](./5.png)
 
-As EVM technology, ETC and CBDCs support smart contracts meaning that they are programmable.
+作为EVM技术，ETC和CBDCs支持智能合约，这意味着它们是可编程的。
 
-Programmability is amazing to give versatility to cryptocurrencies, but can also be used in centralized systems as CBDCs to exercise more control on citizens.
+可编程性使加密货币非常灵活，但也可用于集中系统如CBDCs，以对公民进行更多控制。
 
-For example, today to enforce a confiscation or to suspend the use of an account, the authority or government in question has to send messages to all financial institutions to freeze the assets of the customers or inhibit their accounts.
+例如，今天为了执行没收或暂停账户的使用，相关当局或政府必须向所有金融机构发送消息以冻结客户的资产或抑制其账户。
 
-As programmable blockchains have all the decentralized applications in the same system, and these dapps may interact in clusters, now authorities or governments may just send one transaction to the blockchain and all node operators will know in a matter of seconds what users, addresses, and assets to intervene.
+由于可编程区块链将所有去中心化应用放在同一系统中，并且这些去中心化应用可以在集群中互动，现在当局或政府可以只向区块链发送一个交易，所有节点操作员将在几秒钟内知道哪些用户、地址和资产需要干预。
 
-The combination of full replication and programmability gives incredible power to the levels of government listed in the previous section that will know all this activity.
+完全复制和可编程性的结合，赋予了前一节所列的各级政府极大的权力，这些政府将知道所有这些活动。
 
-Once they have this level of power they will be able to profile each person in the world by their social score, carbon footprint, whether they took a mandated medical prescription, by political association, and many other ways. 
+一旦他们拥有了这种权力，他们将能够通过社会评分、碳足迹、是否服用规定的医疗处方、政治关联等多种方式对每个人进行剖析。
 
-All these measurement constructs are instruments of tyranny, totally subjective and broad, that will enhance their ability to arbitrarily enforce their worldviews and oppression.
+所有这些衡量工具都是暴政的工具，完全主观且广泛，增强了他们随意执行其世界观和压迫的能力。
 
-### Composable
+### 组合性
 
 ![](./6.png)
 
-As fully replicated and programmable blockchains, both ETC and CBDCs are composable.
+作为完全复制和可编程的区块链，ETC和CBDCs都是可组合的。
 
-Composability means that users can interact with multiple dapps at the same time as complex multi-app transactions may be performed in single transaction executions.
+组合性意味着用户可以同时与多个去中心化应用互动，因为复杂的多应用交易可以在单一交易执行中进行。
 
-Again, all this is accessible and seen by all participating nodes in the system, and these nodes may be tech companies that respond to the global elites, security and spy agencies, local and national governments, and even multilateral organizations.
+再次强调，所有这些对系统中的所有参与节点都是可见的，这些节点可能是回应全球精英的科技公司、安全和间谍机构、本地和国家政府，甚至是多边组织。
 
-Composability in CBDCs enhances even more the ability of central planners to surveil users and control their transactions.
+在CBDCs中，组合性进一步增强了中央规划者监视用户和控制其交易的能力。
 
-It is incredible to note that full replication, smart contracts, and composability have such opposing effects upon the public depending on which system they are using.
+令人难以置信的是，完全复制、智能合约和组合性在公众使用的不同系统上有如此相反的效果。
 
-On ETC, because it is a POW and truly decentralized blockchain, users enjoy the benefits of security, programmability, and composability to make their savings and wealth safer, to minimize the dependability on trusted third parties, and to reduce costs and settlement risks.
+在ETC上，由于它是POW和真正的去中心化区块链，用户可以享受安全、可编程性和组合性的好处，使他们的储蓄和财富更安全，减少对可信第三方的依赖，并降低成本和结算风险。
 
-However, when using CBDCs, those same features actually represent the full extent to which central planners and controllers can impose their will on entire populations.
+然而，在使用CBDCs时，这些相同的特性实际上代表了中央规划者和控制者对整个人口施加意志的全部范围。
 
-For example, on CBDCs tech companies, surveillance agencies, and multilateral organizations can coordinate to impose their political agendas. 
+例如，在CBDCs上，科技公司、监控机构和多边组织可以协调执行其政治议程。
 
-These include climate change policies; global health emergency restrictions; diversity, equity, and inclusion doctrines; environmental, social, and governance corporate constraints; anti semitism; and any other kind of arbitrary philosophy or ideology.
+这些包括气候变化政策；全球健康紧急限制；多样性、公平和包容教条；环境、社会和治理企业限制；反犹主义；以及任何其他种类的任意哲学或意识形态。
 
-In the near future, through CBDCs, governments and political activists will be able to control whether people buy meat, they send donations to churches, or if they fill their tanks with gas.
+在不久的将来，通过CBDCs，政府和政治活动家将能够控制人们是否购买肉类，是否向教堂捐款，或者是否给汽车加油。
 
-CBDCs are a dream come true to central planners!
+CBDCs是中央规划者梦想成真的工具！
 
-### Capped Supply
+### 供应上限
 
 ![](./7.png)
 
-In terms of differences, one thing that CBDCs will never imitate from ETC will be its capped supply. 
+就区别而言，CBDCs永远不会模仿ETC的一个特点，那就是其供应上限。
 
-If there is something that tyranny needs to finance its ways indefinitely is endless money printing.
+如果暴政需要无限期地资助其方式，那就是无休止的印钞。
 
-As the world’s reserve currencies; such as the US dollar, the Chinese yuan, British pound, the Euro, and the Japanese yen; will be transformed into CBDCs, then their reserve status will allow for these nations and states to continue manipulating their economies through interest rates and monetary supply changes.
+作为世界储备货币；如美元、人民币、英镑、欧元和日元；将被转变为CBDCs，这些国家和州将继续通过利率和货币供应变化来操纵其经济。
 
-To the contrary, ETC will not only represent liberty but will also protect the value of its users’ wealth by being [digital gold](https://ethereumclassic.org/blog/2023-11-22-ethereum-classic-is-programmable-digital-gold).
+相反，ETC不仅代表自由，还通过作为[数字黄金](https://ethereumclassic.org/blog/2023-11-22-ethereum-classic-is-programmable-digital-gold)来保护其用户财富的价值。
 
-### Decentralized
+### 去中心化
 
 ![](./8.png)
 
-Needless to mention, ETC is truly decentralized and CBDCs are hyper-centralized.
+毋庸置疑，ETC是真正去中心化的，而CBDCs是超级集中的。
 
-Again, this is because POW is the only consensus mechanism that permits decentralization.
+再次强调，这是因为POW是唯一允许去中心化的共识机制。
 
-In a CBDC, the only way to participate as a node in the system is to receive permission from the central bank that controls it.
+在CBDC中，系统中唯一参与节点的方式是从控制它的中央银行获得许可。
 
-In POW, any computer in the world may download the ETC software and start running a node or begin mining.
+在POW中，世界上任何计算机都可以下载ETC软件并开始运行节点或开始挖矿。
 
-Nodes and miners in ETC can join and leave the network anonymously, without the need of consulting with any third party or asking for permission, and without the risk of censorship.
+ETC中的节点和矿工可以匿名加入和离开网络，无需咨询任何第三方或请求许可，也没有审查风险。
 
-In CBDCs both financial providers and users must go through cumbersome and bureaucratic processes to even open accounts in their systems!
+在CBDCs中，金融提供者和用户必须经历繁琐的官僚程序，甚至才能在其系统中开户！
 
-In a world where cultural, political, and ideological differences are objectively deepening, and where technology is enabling the possibility of central planning and control of entire populations, it is not far fetched to imagine that persecution for those who wish not to comply with the different forms of mass hysteria that will prevail in society will be persecuted in various forms.
+在一个文化、政治和意识形态差异显著加深的世界里，技术使得对整个社会进行中央计划和控制成为可能，不难想象，那些不愿意顺应社会上各种集体狂热形式的人将会受到各种形式的迫害。
 
-Groups will suffer the full force of cancellation, even incarceration, and possibly worse just for not following the irrational and arbitrary dictates of government and special interests. 
+团体将会因不遵循政府和特殊利益集团的不合理和任意指令而遭受完全的取消、甚至监禁，甚至更糟。
 
-In this scenario it is certainly important to understand the differences between these technologies to be able to discern.
-
+在这种情况下，理解这些技术之间的差异以便进行辨别显得尤为重要。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读这篇文章！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+想了解更多关于 ETC 的信息，请访问：https://ethereumclassic.org
