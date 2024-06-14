@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 31. POW’s Focus on Trust Minimization"
+title: "ETC 工作量证明课程：31. 工作量证明对信任最小化的关注"
 date: 2024-06-20
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,96 +8,94 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vl_esIzHRmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
-In the previous class, 30, we explained why Ethereum Classic (ETC) has value by describing its core features of proof of work (POW), hard money, and smart contracts, and we argued why it has a unique and valuable position in the industry.
+在上一节课（第30节）中，我们通过描述以太坊经典（ETC）的工作量证明（POW）、硬通货和智能合约的核心特性，解释了为什么ETC具有价值，并论证了它在行业中的独特且有价值的地位。
 
-In this class, 31, we will talk about the focus of POW blockchains, which is that they always seek trust minimization. 
+在这一节课（第31节）中，我们将讨论POW区块链的重点，即它们总是追求信任最小化。
 
-We will explain the meaning of trust minimization and its benefits, and why it is the root of security in blockchains such as ETC and Bitcoin.
+我们将解释信任最小化的意义及其好处，并说明为什么它是像ETC和比特币这样的区块链的安全根源。
 
-Trust minimization is important because trusted third parties in traditional systems manage our information and wealth, but they can behave badly or be hacked by crooks. 
+信任最小化之所以重要，是因为在传统系统中，受信任的第三方管理我们的信息和财富，但他们可能会表现不当或被黑客攻击。
 
-Also, it is a general assumption in these systems that wherever trust is deposited, that trust will always be abused.
+此外，在这些系统中有一个普遍假设，即无论信任放在哪里，那里的信任总会被滥用。
 
-## Satoshi Was Focused on Trust Minimization
+## 中本聪专注于信任最小化
 
-![](./1.png)
+工作量证明（POW）关乎信任最小化。
 
-POW is about trust minimization. 
+其证据是中本聪在比特币白皮书中实际上提到了[14次](https://etherplan.com/2020/02/29/satoshi-nakamoto-mentioned-trust-minimization-14-times-in-the-bitcoin-white-paper/10210/)信任最小化。
 
-Proof of this is that Satoshi Nakamoto actually mentioned trust minimization [14 times](https://etherplan.com/2020/02/29/satoshi-nakamoto-mentioned-trust-minimization-14-times-in-the-bitcoin-white-paper/10210/) in the Bitcoin white paper. 
+例如，一开始在摘要中他写道，“但如果仍然需要受信任的第三方，那么主要好处就丧失了”。
 
-For example, right from the get-go, in the abstract he wrote “but the main benefits are lost if a trusted third party is still required”.
+在区块链行业的背景下，“安全”一词意味着在涉及金钱和管理这些金钱的应用时尽可能少地依赖受信任的第三方。
 
-In the context of the blockchain industry, the term “security” means to depend the least possible on trusted third parties when it comes to money and applications to manage that money.
+中本聪对信任最小化高度关注，而他发明的实现所需去中心化的设备就是工作量证明。
 
-Mr. Nakamoto was sharp-focused on trust minimization and the device he invented to achieve the decentralization needed to accomplish it was proof of work.
+## “无信任”不是正确的术语
 
-## “Trustless” Is Not the Correct Term
+正如我的导师Nick Szabo教导我的那样，重要的是要理解POW是一种信任最小化技术，而不是像通常简化的那样称为“无信任”技术。
 
-As my mentor, Nick Szabo, taught me, it is important to understand that POW is a trust minimization technology, not a “trustless” technology as frequently simplified. 
+即使在比特币中，也存在一些对矿工、节点运营商和系统核心开发者的最低限度的依赖和信任。
 
-Even in Bitcoin there is some minimal marginal dependency, thus trust, in the aggregate of miners, node operators, and core developers of the system.
+事实上，如果比特币的所有节点运营商、矿工、矿池和开发者都同意对系统进行恶意更改，他们理论上可以做到。
 
-Indeed, if all node operators, miners, mining pools, and developers of Bitcoin were to agree on a nefarious change on the system, they could theoretically do it.
+然而，这种情况极不可能发生，因为存在所谓的“[协调问题](https://ethereumclassic.org/blog/2023-03-02-ethereum-classic-course-11-ethereum-classic-social-and-physical-layer-security#4-social-layer-coordination-problem-security)”，这由于比特币的物理去中心化和参与者随时[分离系统](https://ethereumclassic.org/blog/2024-03-07-etc-proof-of-work-course-17-pow-has-division-of-power-pos-does-not#the-right-to-split)的能力，成为了实施不受欢迎更改的障碍。
 
-However, this is highly unlikely because of what is called the “[coordination problem](https://ethereumclassic.org/blog/2023-03-02-ethereum-classic-course-11-ethereum-classic-social-and-physical-layer-security#4-social-layer-coordination-problem-security)”, which is a barrier to implementing unwanted changes due to Bitcoin’s physical decentralization and ability of participants to [split from the system](https://ethereumclassic.org/blog/2024-03-07-etc-proof-of-work-course-17-pow-has-division-of-power-pos-does-not#the-right-to-split) whenever they wish.
+## 毒性的议题
 
-## The Issue of Toxicity
+理解信任最小化和“无信任”的区别很重要，因为它能更好地揭示“毒性”问题以及对未来POW区块链升级中坏点子的强烈反对的必要性。
 
-The difference between trustlessness and trust minimization is important to understand because it sheds additional light on the issue of “toxicity” and the need for strong opposition to bad ideas proposed for future upgrades of POW blockchains.
+由于这些系统是真正去中心化的，因此没有管理员或领导者指示项目的方向。
 
-Because these systems are truly decentralized, then there are no administrators or leaders dictating the direction of the projects.
+唯一支持或反对变更的方法是在讨论频道和社交媒体上进行强力争论。
 
-The only way to argue for or against a change is by sheer brute force on discussion channels and social media.
+实际上，毒性对于POW去中心化区块链是有利的，因为这是阻止恶意更改进入这些系统的唯一方法。
 
-Indeed, toxicity is actually good for POW decentralized blockchains because it is the only way to stop nefarious changes into these systems.
+## 权益证明和权威证明是集中的
 
-## Proof of Stake and Proof of Authority Are Centralized
+当然，正如POW是信任最小化的，同样不能说POS或POA共识网络也是如此。
 
-Of course, as POW is trust minimized, the same cannot be said of POS or POA consensus networks. 
+这些技术几乎与传统公司和政府系统一样集中和信任最大化。
 
-These are technologies nearly as centralized and trust maximized as traditional corporate and government systems.
+我们说“几乎”是因为在这些系统中，所有节点的信息都是完全复制的，这具有一定的去中心化程度。
 
-We say “nearly” because there is a small degree of decentralization in the fact that their information is fully replicated in all nodes of the system.
+然而，由于它们的规模经济效率，很少有参与者实际上控制这些系统。这意味着，由于这些区块链没有进行任何工作，因此很容易逆转过去的交易。
 
-However, because of their efficient economies of scale, very few players actually control these systems. This means that, because these blockchains have no work done, it is very easy for them to reverse past transactions.
+此外，由于它们由集中的特殊利益管理，它们可以轻松地对其进行审查并进行不规则的状态更改。
 
-Also, because they are managed by concentrated special interests, they can easily censor them and make irregular state changes going forward.
+## 信任最小化 = 抗审查
 
-## Trust Minimization = Censorship Resistance
+POW产生的信任最小化的一个重要好处是抗审查。
 
-An important benefit of trust minimization produced by POW is censorship resistance.
+抗审查意味着，只要交易或智能合约是根据协议规则正确形成的，世界上任何人都可以向一个工作量证明区块链发送交易或智能合约，而不必担心它们被任何中央权威机构出于任何原因停止或取消。
 
-Censorship resistance means that, as long as they are correctly formed according to protocol rules, anyone in the world may send a transaction or smart contract to a proof of work blockchain without the risk of them being stopped or cancelled by any central authority for any reason.
+抗审查是通过这样实现的：世界上任何人都可以在像ETC或比特币这样的网络上运行一个节点，而该节点将发送和接收所有到达它的交易。
 
-Censorship resistance is achieved because anyone in the world may put a computer to run a node in a network as ETC or Bitcoin and that node will send and receive all transactions that reach it. 
+同样，任何人都可以随时在世界任何地方开始挖掘ETC或比特币。
 
-In the same way, anyone may start mining ETC or Bitcoin whenever they wish from anywhere in the world. 
+所有这些意味着，总会有一个节点或矿工愿意将一笔交易包含在系统中，无论其来源或目的。
 
-All this means that there will always be a node or miner willing to include a transaction in the system, no matter its origin or purpose.
+## 信任最小化 = 无需许可
 
-## Trust Minimization = Permissionlessness
+POW的另一个重要好处是无需许可。
 
-The other important benefit of POW is permissionlessness.
+尽管类似于抗审查，但无需许可更多地关注参与者，而不是交易和智能合约的自由流动。
 
-Although similar to censorship resistance, permissionlessness is more focused on the participants rather than on the free flow of transactions and smart contracts.
+如果一个托管账户、余额和智能合约的区块链像传统银行业那样需要许可才能参与，那么去中心化的所有好处就会丧失。
 
-If a blockchain that hosts accounts, balances, and smart contracts requires permission to participate as in the traditional banking industry, then all the benefits of decentralization are lost.
+许可意味着要运行一个节点、挖矿或向网络发送交易和智能合约，人们需要特殊许可、需要身份验证以及需要证明资金的来源和目的。
 
-Permission means that to run a node, to mine, or to send transactions and smart contracts to a network people need special permissions, it requires identification, and the need to prove the source and destination of funds to be able to do these things.
+ETC和比特币等区块链的无需许可意味着没有这些限制，并且是通过保持网络同步而无需检查任何第三方的同一个POW机制实现的。
 
-Permissionlessness in blockchains such as ETC and Bitcoin means no such restrictions and is achieved by the same POW mechanism that keeps the network synchronized without the need to check with any third parties.
-
-This is why trust minimization enabled by proof of work is the root of security in truly decentralized blockchains.
+这就是为什么由工作量证明启用的信任最小化是真正去中心化区块链安全的根源。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读这篇文章！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+想了解更多关于ETC的信息，请访问：https://ethereumclassic.org
