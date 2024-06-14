@@ -1,5 +1,5 @@
 ---
-title: "为什么你应该在以太坊经典（ETC）上构建：ETC是工作量证明"
+title: "为什么在以太坊经典（ETC）上构建：ETC是工作量证明"
 date: 2024-06-18
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
