@@ -58,6 +58,9 @@ items:
       AAX:
         __link: https://trade.aax.com/en-US/spot/ETC:USDT
         __name: AAX
+      Alchemy Pay:
+        __name: Alchemy Pay
+        __link: https://ramp.alchemypay.org/#/index        
       AscendEX:
         __link: https://ascendex.com/en/cashtrade-spottrading/usdt/etc
         __name: AscendEX
@@ -409,9 +412,6 @@ items:
       ABRA:
         __link: https://www.abra.com/
         __name: ABRA
-      Alchemy Pay:
-        __name: Alchemy Pay
-        __link: https://ramp.alchemypay.org/#/index
       AtomicWallet:
         __link: https://atomicwallet.io
         __name: AtomicWallet
