@@ -1,3 +1,17 @@
+- date: 2024-06-17
+  title: StealthEX
+  description: StealthEX is an instant cryptocurrency exchange for limitless swaps. The service is free from registration and does not store user’s funds on the platform. 1500+ coins and tokens are available for quick and easy exchanges. Data privacy and security is a top priority for StealthEX, so all the swaps are non-custodial, and forever will be.
+  image: ./images/240617-1130-stealthex.png
+  type: finance
+  author: Vadim Taszycki
+  authorLink: https://www.linkedin.com/in/vadim-taszycki-647b8723a/
+  links:
+    - name: Launch App
+      link: https://stealthex.io
+    - name: StealthEX X Profile
+      link: https://x.com/StealthEX_io
+    - name: StealthEX Telegram
+      link: https://t.me/StealthEX_io
 - title: Classic USD (USC) Stablecoin
   date: 2024-05-14
   image: ./images/usc-stablecoin.png
