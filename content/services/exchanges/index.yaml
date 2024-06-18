@@ -60,7 +60,7 @@ items:
         __name: AAX
       Alchemy Pay:
         __name: Alchemy Pay
-        __link: https://ramp.alchemypay.org/#/index        
+        __link: https://ramp.alchemypay.org/#/index
       AscendEX:
         __link: https://ascendex.com/en/cashtrade-spottrading/usdt/etc
         __name: AscendEX
@@ -133,12 +133,12 @@ items:
       BTC Markets:
         __link: https://app.btcmarkets.net/buy-sell?market=ETC-AUD
         __name: BTC Markets
-      Bybit:
-        __link: https://pro.btcturk.com/pro/al-sat/ETC_TRY
-        __name: Bybit
       BtcTurk:
         __link: https://www.bybit.com/en-US/trade/spot/ETC/USDT
         __name: BtcTurk
+      Bybit:
+        __link: https://pro.btcturk.com/pro/al-sat/ETC_TRY
+        __name: Bybit
       CAT.EX:
         __link: https://www.catex.io/trading/ETC/USDT
         __name: CAT.EX
@@ -265,12 +265,12 @@ items:
       OKCoin:
         __link: https://www.okcoin.com/spot/trade#product=etc_usd
         __name: OKCoin
-      OKX:
-        __link: https://www.okx.com/trade-spot/etc-usdt
-        __name: OKX
       OKex Korea:
         __link: https://okex.co.kr/kr/view/exchange?coin=ETC&market=BTC
         __name: OKex Korea
+      OKX:
+        __link: https://www.okx.com/trade-spot/etc-usdt
+        __name: OKX
       P2B:
         __link: https://p2pb2b.com/trade/ETC_USDT/
         __name: P2B
@@ -289,6 +289,9 @@ items:
       SouthXchange:
         __link: https://www.southxchange.com/Market/Book/ETC/BTC
         __name: SouthXchange
+      StealthEX:
+        __name: StealthEX
+        __link: https://stealthex.io/
       STEX:
         __link: https://www.stex.com/
         __name: STEX
@@ -307,12 +310,12 @@ items:
       WhiteBIT:
         __link: https://whitebit.com/trade/ETC_USDT
         __name: WhiteBIT
-      YoBit:
-        __link: https://yobit.net/en/trade/ETC/USD
-        __name: YoBit
       XT-com:
         __link: https://www.xt.com/trade/etc_usdt
         __name: XT.com
+      YoBit:
+        __link: https://yobit.net/en/trade/ETC/USD
+        __name: YoBit
       ZB:
         __link: https://www.zb.com/en/kline/etc_usdt
         __name: ZB
