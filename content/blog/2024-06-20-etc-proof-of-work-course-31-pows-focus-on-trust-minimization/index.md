@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 31. POW’s Focus on Trust Minimization"
+title: "ETC Proof of Work Course: 31. POWs Focus on Trust Minimization"
 date: 2024-06-20
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
