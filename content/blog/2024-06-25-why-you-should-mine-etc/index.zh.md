@@ -1,5 +1,5 @@
 ---
-title: "Why You Should Mine ETC"
+title: "为什么挖掘ETC"
 date: 2024-06-25
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,98 +8,98 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q0PKDo_FFyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 ![](./banner.png)
 
-Mining is the basic native business of proof of work (POW) blockchains.
+挖矿是工作量证明（PoW）区块链的基本本地业务。
 
-Miners provide computing power in the form of hashrate to blockchains so that each block may be stamped at a very high cost.
+矿工通过算力（哈希率）为区块链提供计算能力，以便每个区块能够以非常高的成本进行标记。
 
-These stamps are the only information all nodes and other miners in the system need to know to confirm which is the correct block in each round in a completely decentralized way.
+这些标记是系统中所有节点和其他矿工需要知道的唯一信息，用以完全去中心化的方式确认每一轮中的正确区块。
 
-This system has been working uninterruptedly in Bitcoin (BTC) for 15 years and in Ethereum Classic (ETC) for 9 years.
+这种系统在比特币（BTC）上已经连续运行了15年，在以太坊经典（ETC）上已经运行了9年。
 
-The incentives that miners have to put their machines to work for a blockchain such as ETC are the rewards per block.
+矿工们将他们的机器用于像ETC这样的区块链的动力是每个区块的奖励。
 
-These rewards are the payments per block in the form of newly created ETC, and the fees of all the transactions included in each block.
+这些奖励包括以新创建的ETC形式支付的每个区块的报酬，以及每个区块中所有交易的费用。
 
-The reason you should be mining ETC is for the earnings opportunity that it represents!
+你应该挖掘ETC的原因在于它所代表的收益机会！
 
 ![](./1.png)
 
-Indeed, ETC will generate plenty of revenues for years to come and those who mine it will reap the benefits of its success and growth.
+确实，ETC将在未来几年内产生大量收入，那些挖掘它的人将享受其成功和增长带来的好处。
 
-In the table above we listed the four major metrics to follow to quantify the total available market of ETC in terms of block rewards, which does not include the transaction fees which promise to be as large!
+在上表中，我们列出了量化ETC总可用市场的四个主要指标，这些指标不包括交易费用，而交易费用有望同样巨大！
 
-In the next sections we will explain each metric and their significance for miners.
+在接下来的部分中，我们将解释每个指标及其对矿工的意义。
 
-## Supply Cap
+## 供应上限
 
 ![](./2.png)
 
-One of Bitcoin’s salient features is that it has a fixed supply that was set since the beginning. The system started paying 50 BTC per block in 2009 and reduced that payment by 50% every 210,000 blocks.
+比特币的一个显著特点是它有一个自始至终设定的固定供应量。系统于2009年开始每个区块支付50个BTC，并且每210,000个区块减半支付一次。
 
-By doing the math, one may calculate that Bitcoin will reach a supply cap of 21,000,000 BTC sometime in the 2130s.
+通过计算，可以推算出比特币将在2130年代某个时间达到21,000,000 BTC的供应上限。
 
-Ethereum Classic adopted a similar monetary policy in 2017. ETC started paying 5 ETC per block and from then on, every 5,000,000 blocks, it is reducing that payment by 20%.
+以太坊经典在2017年采用了类似的货币政策。ETC开始时每个区块支付5个ETC，并且从那时起，每5,000,000个区块减20%。
 
-By doing the math, one may calculate that Ethereum Classic will reach a supply cap of 210,700,000 by the same time as Bitcoin.
+通过计算，可以推算出以太坊经典将在与比特币相同的时间达到210,700,000个供应上限。
 
-This supply cap in ETC makes it digital gold, so for miners mining this digital gold is the key of their business.
+这种供应上限使ETC成为数字黄金，因此挖掘这种数字黄金是矿工们业务的关键。
 
-## ETC Issued to Date
+## 已发行的ETC
 
 ![](./3.png)
 
-When Ethereum and Ethereum Classic were one blockchain in 2015, the network was launched with a premine of 72,009,990 coins. This is the initial stock of ETC that was issued before it started.
+当以太坊和以太坊经典在2015年还是一个区块链时，网络启动时预挖了72,009,990枚硬币。这是ETC在开始之前发行的初始库存。
 
-At the time of this writing, we are on block 20,081,198 and the total supply of ETC is nearly 147.5 million ETC or 147,494,079.63 ETC to be exact.
+在撰写本文时，我们处于第20,081,198个区块，ETC的总供应量接近1.475亿ETC，确切地说是147,494,079.63 ETC。
 
-This stock is comprised of the following components:
+这个库存包括以下几个部分：
 
-- Premine: 72,009,990
-- Block rewards: 73,966,294
-- Uncle blocks: 1,517,796
+- 预挖：72,009,990
+- 区块奖励：73,966,294
+- 叔块：1,517,796
 
-The uncle blocks are a small portion of the issuance that are paid to miners who, from time to time, make valid blocks at the same time as others but that are not included in the canonical chain.
+叔块是少量的发行量，支付给那些偶尔同时生成有效区块但未被纳入规范链的矿工。
 
-The issued to date metric is important to figure out the left to mine metric.
+已发行的ETC指标对于计算剩余的ETC具有重要意义。
 
-## ETC Left to Mine
+## 剩余的ETC
 
 ![](./4.png)
 
-The ETC left to mine metric is the key to miners because it quantifies the total available market for the business!
+剩余的ETC指标对矿工来说至关重要，因为它量化了业务的总可用市场！
 
-This is calculated by subtracting the ETC issued to date number to the supply cap number. 
+这是通过从供应上限数量中减去已发行的ETC数量来计算的。
 
-If there is a total number of ETC that will ever exist, which is 210.7 million, then if we subtract from that the total stock already issued, which is 147.5 million, we will get the ETC left to mine in the future.
+如果ETC的总供应量为210.7百万，那么从中减去已发行的总库存，即1.475亿，我们将得到未来剩余的ETC。
 
-This number is 63,200,000 ETC.
+这个数字是63,200,000 ETC。
 
-However, the ETC left to mine is not spread evenly over the years until the 2130s. Because of the decreasing monetary policy, around 50% of the ETC left to mine will be paid to miners in the next 10 years. This is a great opportunity!
+然而，剩余的ETC并不是均匀分布在直到2130年代的所有年份中。由于递减的货币政策，大约50%的剩余ETC将在未来10年内支付给矿工。这是一个巨大的机会！
 
-## Future Revenues
+## 未来收入
 
 ![](./5.png)
 
-If we multiply the ETC left to mine by the average price of ETC in the last few weeks we will come up with a figure in dollars of around $1,7 billion.
+如果我们将剩余的ETC乘以过去几周ETC的平均价格，我们将得出一个大约17亿美元的美元数字。
 
-This means that if nothing changes, miners in ETC will earn $1,700,000,000 of which 50% will be earned in the next 10 years. 
+这意味着如果一切保持不变，ETC矿工将赚取17亿美元，其中50%将在未来10年内赚取。
 
-However, there are two thing that miners must consider with regard to ETC. The first is that it is a blockchain that will likely continue growing, which means that the price of ETC will likely rise and make these revenue estimates pale in comparison.
+然而，矿工们需要考虑两个方面。首先，ETC是一条可能继续增长的区块链，这意味着ETC的价格可能会上涨，使这些收入估算相形见绌。
 
-The second consideration is that miners may accumulate ETC as reserves as they mine it and this will likely constitute a great investment in the future.
+其次，矿工们在挖掘ETC的过程中可能会积累ETC作为储备，这将很可能成为未来的伟大投资。
 
-## Mining Equipment
+## 挖矿设备
 
-To start your journey as an ETC miner you must buy specialized computers called ASICs.
+要开始你的ETC矿工之旅，你必须购买专用计算机，称为ASICs。
 
-For your convenience we have covered some brands that you may find useful:
+为了方便你，我们介绍了一些你可能觉得有用的品牌：
 
 **BITMAIN Antminer:** https://ethereumclassic.org/blog/2023-06-07-mining-ethereum-classic-with-an-antminer-e9-pro-through-antpool
 
@@ -107,20 +107,20 @@ For your convenience we have covered some brands that you may find useful:
 
 **iPollo:** https://ethereumclassic.org/blog/2023-03-14-mining-ethereum-classic-with-an-ipollo-asic-through-2miners-pool
 
-## Mining Pools
+## 矿池
 
-Once you have your mining gear, you will need to connect your machines to mining pools.
+一旦你拥有了矿机，你需要将机器连接到矿池。
 
-We have also covered mining pools on this website:
+我们在这个网站上也介绍了矿池：
 
 **F2pool:** https://ethereumclassic.org/blog/2023-09-13-mining-ethereum-classic-through-f2pool
 
-**Mining pools in general:** https://ethereumclassic.org/blog/2024-03-06-what-do-mining-pools-do-in-ethereum-classic 
+**一般矿池:** https://ethereumclassic.org/blog/2024-03-06-what-do-mining-pools-do-in-ethereum-classic
 
-We hope that this information will be useful to help you start your business mining ETC!
+我们希望这些信息能帮助你开始你的ETC挖矿业务！
 
 ---
 
-**Thank you for reading this article!**
+**感谢阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+想了解更多关于ETC的信息，请访问：https://ethereumclassic.org
