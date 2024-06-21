@@ -1,5 +1,5 @@
 ---
-title: "A Call to Wallets to Use the Standard ETC Derivation Path"
+title: "呼吁钱包使用标准的ETC推导路径"
 date: 2024-06-26
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m_fRfs2II-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,83 +16,83 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-## What Are Derivation Paths?
+## 什么是推导路径？
 
-Many people today using crypto are familiar with the secret passphrases they have to write down on paper or put in a safe place to be able to restore their blockchain addresses.
+现在使用加密货币的许多人都熟悉需要将秘密密码短语写在纸上或放在安全的地方，以便能够恢复他们的区块链地址。
 
-The way they work is that they are used to generate private and public key pairs for several blockchains. 
+它们的工作原理是用来生成多个区块链的私钥和公钥对。
 
-To generate these keys for several blockchains, and many addresses per blockchain, they pass through what are called derivation paths:
+为了生成这些区块链的多个密钥，以及每个区块链的多个地址，它们会经过所谓的推导路径：
 
 ```
-Secret passphrase -> derivation path -> many chains -> many addresses
+秘密密码短语 -> 推导路径 -> 多条链 -> 多个地址
 ```
 
-In a way the derivation path is a way to split the paths so the same root passphrase may be used for generating multiple private and public key pairs.
+某种程度上，推导路径是一种分割路径的方法，以便同一个根密码短语可用于生成多个私钥和公钥对。
 
-## Using Your Secret Passphrase With Other Wallets
+## 使用您的秘密密码短语与其他钱包
 
-A derivation path has this structure:
+推导路径的结构如下：
 
 ```
 m / purpose' / coin_type' / account' / change / address_index
 ```
 
-The “m” is just a symbol that indicates this is a derivation path; the “purpose” term indicates to what [BIP](https://www.coindesk.com/learn/what-are-bips-and-why-they-matter-to-bitcoins-future/) it is related to; the “coin_type” term indicates the ID of the blockchain for which it is generating a key pair; the “account” term is the ordinal number of the address in a sequence to be able to generate more addresses.
+“m”只是一个符号，表示这是一个推导路径；“purpose”项表示它与哪个[BIP](https://www.coindesk.com/learn/what-are-bips-and-why-they-matter-to-bitcoins-future/)相关；“coin_type”项表示它为哪个区块链生成密钥对的ID；“account”项是序列中的地址的序号，以便生成更多地址。
 
-The other two terms are either specific to Bitcoin or seldom used.
+其他两个项要么是比特币特有的，要么很少使用。
 
-For example, the derivation path to generate an address in Bitcoin from a secret passphrase would be:
+例如，从一个秘密密码短语生成比特币地址的推导路径是：
 
 ```
 m/84’/0’/0’/0/0
 ```
 
-“84” is the BIP to which this address corresponds, “0” is the chain ID of Bitcoin, and “0” is the first address in the sequence to be generated.
+“84”是此地址对应的BIP，“0”是比特币的链ID，“0”是要生成的序列中的第一个地址。
 
-However, if one would use a different derivation path, for example:
+然而，如果使用不同的推导路径，例如：
 
 ```
 m/84’/0’/1’/0/0
 ```
 
-Then a totally different private key and address would be generated!
+那么会生成一个完全不同的私钥和地址！
 
-And, because over the years several wallet brands have used different standards, then it has created some headaches and problems with people trying to restore their addresses or migrating to different wallets.
+由于多年来，几个钱包品牌使用了不同的标准，这导致了一些人尝试恢复他们的地址或迁移到不同的钱包时出现了一些麻烦和问题。
 
-For example, if one has created ETC addresses on MetaMask, but they transfer their secret passphrase to Trust Wallet, then they will not see their ETC addresses there!
+例如，如果有人在MetaMask上创建了ETC地址，但将他们的秘密密码短语转移到Trust Wallet上，那么他们将无法在那里看到他们的ETC地址！
 
-This is because they are using different derivation paths.
+这是因为它们使用了不同的推导路径。
 
-## What Is The Standard Derivation Path for Ethereum Classic?
+## 什么是Ethereum Classic的标准推导路径？
 
 ![](./1.png)
 
-So, given that this is the case in the market, we are making this call to wallet brands to please use the standard derivation path for ETC.
+鉴于市场上存在这种情况，我们在此呼吁钱包品牌请使用ETC的标准推导路径。
 
-The derivation path for ETC is very similar to that of Ethereum.
+ETC的推导路径与Ethereum非常相似。
 
-Ethereum has the standard base derivation path:
+Ethereum的标准基础推导路径是：
 
 ```
 m/44’/60’/0’/0/0
 ```
 
-The “coin_type” is 60 because that is Ethereum’s chain ID.
+“coin_type”是60，因为这是Ethereum的链ID。
 
-The Ethereum Classic standard derivation path is: 
+Ethereum Classic的标准推导路径是：
 
 ```
 m/44’/61’/0’/0/0
 ```
 
-This is the base derivation path, with the correct “coin_type”, that all wallets should use.
+这是基础推导路径，具有正确的“coin_type”，所有钱包都应该使用它。
 
-## How Do Users Generate More ETC Addresses?
+## 用户如何生成更多ETC地址？
 
-Above we say “the base derivation path” because it is only used to generate the first private key and address pair. 
+上面我们说“基础推导路径”，因为它仅用于生成第一个私钥和地址对。
 
-From there, to generate more addresses, the sequence in the “account” term must be continued like this: 
+从那里开始，要生成更多地址，必须继续“account”项中的序列，如下所示：
 
 ```
 m/44’/61’/0’/0/0
@@ -110,52 +110,52 @@ m/44’/61’/2’/0/0
 m/44’/61’/3’/0/0
 ```
 
-Etc.
+等等。
 
-Each of the derivation paths above will generate a different private and public key pair in ETC.
+以上每一个推导路径都会生成ETC中的不同私钥和公钥对。
 
-## A Call to MetaMask
+## 向MetaMask发出的呼吁
 
-So, the main problem ETC users are experiencing is that they use MetaMask as one of the most popular Ethereum Virtual Machine wallets, but MetaMask generates ETC addresses using the Ethereum derivation path, which is:
+ETC用户面临的主要问题是他们使用MetaMask作为最受欢迎的以太坊虚拟机钱包之一，但MetaMask使用Ethereum推导路径生成ETC地址，即：
 
 ```
 m/44’/60’/0’/0/0
 ```
 
-We kindly request the MetaMask team to configure their wallet so that when users add Ethereum Classic to their MetaMasks, using the chain ID 61, that they also use the following base derivation path with the correct “coin_type” like this:
+我们恳请MetaMask团队配置他们的钱包，使用户在将Ethereum Classic添加到他们的MetaMask时，使用链ID 61，也使用以下具有正确“coin_type”的基础推导路径，如下所示：
 
 ```
 m/44’/61’/0’/0/0
 ```
 
-## A Call to MyEtherWallet
+## 向MyEtherWallet发出的呼吁
 
-In the case of MyEtherWallet (MEW), a weird base derivation path is being used when users link their Ledger hardware wallets to their app.
+在MyEtherWallet (MEW)的情况下，当用户将Ledger硬件钱包链接到他们的应用程序时，使用了一个奇怪的基础推导路径。
 
-MEW is using the following derivation path for Ledger ETC addresses:
+MEW为Ledger ETC地址使用的推导路径如下：
 
 ```
 m/44’/60’/160720’/0/0
 ```
 
-But Ledger actually uses the correct standard derivation path for ETC, so we kindly request for MEW to adjust the derivation path for ETC when using Ledger in their service, which should be like this:
+但Ledger实际上使用正确的ETC标准推导路径，因此我们恳请MEW在其服务中使用Ledger时调整ETC的推导路径，应如下所示：
 
 ```
 m/44’/61’/0’/0/0
 ```
 
-## Don’t Worry If You See Different Addresses in Different Wallets!
+## 如果在不同的钱包中看到不同的地址，不必担心！
 
-All of the above should not alarm ETC users as this is just a sort of housekeeping issue in the different wallets.
+上述所有内容不应使ETC用户感到担忧，因为这只是不同钱包中的一种整理问题。
 
-To recover or see your ETC addresses that look different in other wallets, it is a matter of correcting the derivation path. 
+要恢复或看到在其他钱包中看起来不同的ETC地址，只需纠正推导路径。
 
-Although MetaMask currently does not allow this, other wallets such as MyEtherWallet and MyCrypto do allow users to choose their derivation paths.
+尽管MetaMask目前不允许这样做，但其他钱包如MyEtherWallet和MyCrypto确实允许用户选择他们的推导路径。
 
-This means that, even if you can’t see your addresses initially when using a different wallet while using the same secret passphrase, your addresses are still under your control, and there is a way of gaining access to them again.
+这意味着，即使您在使用相同的秘密密码短语时在使用不同钱包时最初看不到您的地址，您的地址仍然在您的控制之下，并且有办法重新获得访问权限。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
