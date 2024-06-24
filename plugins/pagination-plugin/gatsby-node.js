@@ -59,7 +59,7 @@ exports.createPages = async ({ graphql }, config) => {
     },
     {}
   );
-  // if we have an option to populate empty i18n pages, map the empty fields from defualt locale to others
+  // if we have an option to populate empty i18n pages, map the empty fields from default locale to others
   if (config.emptyi18nPages) {
     const {
       total: _total,
