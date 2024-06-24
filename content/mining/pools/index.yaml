@@ -101,6 +101,9 @@ items:
       ETC-POOL:
         __name: ETC-POOL
         __link: https://etc-pool.com/
+      ETCMC Monitor Pool:
+        __name: ETCMC Monitor Pool
+        __link: https://pool.etcmc-monitor.org/
       Ethermine:
         __name: Ethermine
         __link: https://etc.ethermine.org/
