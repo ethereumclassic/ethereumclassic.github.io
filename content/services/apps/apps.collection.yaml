@@ -1,3 +1,23 @@
+- date: 2024-06-24
+  title: Nyke Finance
+  description: Nyke Finance is a decentralized, non-custodial, algorithmic-based money market protocol that allows users to participate as liquidity suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow liquidity in an over-collateralized fashion. Nyke's protocol design and architecture references Compound V2, a proven and audited protocol.
+  image: ./images/240624-0353-nyke-finance.png
+  type: finance
+  author: Jabr0nie
+  verifiedContract: https://etc.blockscout.com/address/0x0040DCf62C380833dE60a502649567e939635fdB?tab=contract
+  openSource: https://github.com/Jabr0nie/Nyke-Protocol
+  links:
+    - name: Launch App
+      link: https://nyke.finance/
+    - name: Github
+      link: https://github.com/Jabr0nie/Nyke-Protocol
+      icon: github
+    - name: Discord
+      link: https://discord.gg/AjBX4KFMKN
+      icon: discord
+    - name: Documents
+      link: https://nyke.gitbook.io/nyke-finance/
+      icon: book
 - title: Classic USD (USC) Stablecoin
   date: 2024-05-14
   image: ./images/usc-stablecoin.png
