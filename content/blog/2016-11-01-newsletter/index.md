@@ -43,7 +43,7 @@ In the interview he discusses Ethereum Classic and blockchain in general.
 
 ## Article released by community member Dr. Seberino: ["Let's Admit Blockchains Are Weird: An Introduction To The Strangeness."](https://steemit.com/etc/@cseberino/let-s-admit-blockchains-are-weird-an-introduction-to-the-strangeness)
 
-## Article from ethnews.com discussing the successful ETC hardfork.[“Ethereum Classic succesfully hard forked the morning of October 25th. They made an upgrade to their network to stop attacks exploiting a vulnerability in the system.”](http://ethnews.com/ethereum-classic-successfully-hard-forks-to-fix-security-flaw)
+## Article from ethnews.com discussing the successful ETC hardfork.[“Ethereum Classic successfully hard forked the morning of October 25th. They made an upgrade to their network to stop attacks exploiting a vulnerability in the system.”](http://ethnews.com/ethereum-classic-successfully-hard-forks-to-fix-security-flaw)
 
 ## Interesting discussion on immutability taking place on reddit: ["Immutability doesn't mean being against hard forks."](https://www.reddit.com/r/ethereum/comments/59naa2/what_does_immutability_really_mean/d9a8g6n/)
 
