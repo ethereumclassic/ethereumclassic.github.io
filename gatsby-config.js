@@ -1,7 +1,7 @@
 require("dotenv").config({ path: ".env" });
 
 const siteUrl = "https://ethereumclassic.org";
-const lastUpdated = new Date("2022-02-22"); // passed to sitemap, shows roughtly last time page was updated unless overridden
+const lastUpdated = new Date("2022-02-22"); // passed to sitemap, shows roughly last time page was updated unless overridden
 
 const { locales, defaultLocale } = require("./configs/locales");
 
