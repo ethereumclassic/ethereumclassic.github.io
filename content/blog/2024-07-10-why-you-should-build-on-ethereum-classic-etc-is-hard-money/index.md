@@ -14,6 +14,8 @@ linkImage: ./banner.png
 
 ---
 
+![](./banner.png)
+
 This post is part of a series that will explain to dapp developers why they should build on Ethereum Classic (ETC).
 
 The titles of the series will start with the prefix “Why You Should Build on Ethereum Classic” followed by the highlighted feature of that post.
