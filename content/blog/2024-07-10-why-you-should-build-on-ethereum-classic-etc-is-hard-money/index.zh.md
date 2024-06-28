@@ -1,5 +1,5 @@
 ---
-title: "Why You Should Build on Ethereum Classic: ETC Is Hard Money"
+title: "为什么您应该在以太坊经典上构建：ETC是硬通货"
 date: 2024-07-10
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5wizIsM3zSo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,78 +16,77 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-This post is part of a series that will explain to dapp developers why they should build on Ethereum Classic (ETC).
+本文是一个系列的一部分，该系列将向dapp开发者解释为什么他们应该在以太坊经典（ETC）上构建。
 
-The titles of the series will start with the prefix “Why You Should Build on Ethereum Classic” followed by the highlighted feature of that post.
+系列标题将以“为什么您应该在以太坊经典上构建”作为前缀，后接该篇文章的亮点特性。
 
-The 9 highlighted features in this series will be:
+这个系列的九个亮点特性将是：
 
-- ETC Is Proof of Work
-- ETC is Hard Money
-- ETC Is Programmable
-- ETC Is Fully Replicated
-- ETC Is Composable
-- ETC Is the Largest POW Smart Contracts Blockchain in the World
-- Applications in ETC Are the Most Secure Apps in the World
-- ETC Is Code Is Law
-- ETC Is Bitcoin but With Ethereum Technology
+- ETC是工作量证明（PoW）
+- ETC是硬通货
+- ETC是可编程的
+- ETC是完全复制的
+- ETC是可组合的
+- ETC是世界上最大的PoW智能合约区块链
+- ETC上的应用是世界上最安全的应用
+- ETC是代码即法律
+- ETC是比特币但拥有以太坊技术
 
-In this post we will explain why developers should build on ETC due to the fact that it is hard money.
+在这篇文章中，我们将解释为什么开发者应该在ETC上构建，因为它是硬通货。
 
-## ETC Is Proof of Work
+## ETC是工作量证明
 
-The first reason ETC is hard money is because it is a proof of work (POW) blockchain. 
+ETC是硬通货的第一个原因是因为它是一个工作量证明（PoW）区块链。
 
-POW was first thought as digital gold as the proof of work hashes were analogous to gold in the real world. 
+PoW最初被认为是数字黄金，因为工作量证明的哈希类似于现实世界中的黄金。
 
-Just as gold is very difficult and costly to mine by gold miners, POW hashes in proof of work blockchains are very difficult and costly to mine by computers.
+正如黄金对矿工来说非常难且成本高昂，PoW区块链中的哈希对计算机来说也是非常难且成本高昂的。
 
-However, in Bitcoin and ETC the POW hashes are not the currency that circulates in the networks but native tokens have been created to have this monetary role.
+然而，在比特币和ETC中，PoW哈希并不是在网络中流通的货币，而是创建了本地代币来承担这种货币角色。
 
-These tokens, BTC and ETC, are just like digital gold because the cost of creating the blocks is the cost of creating the tokens.
+这些代币，BTC和ETC，就像数字黄金一样，因为创建区块的成本就是创建这些代币的成本。
 
-## ETC Has a Fixed Monetary Policy
+## ETC有固定的货币政策
 
-The ETC tokens are hard money and serve as currency because they have the properties desired to have this function.
+ETC代币是硬通货并充当货币，因为它具备了实现这一功能的所需特性。
 
-ETC is scarce, durable, costly to create, portable, divisible, fungible, and transferable. These are the features that economics defines as the main attributes of money.
+ETC是稀缺的、耐用的、创建成本高的、便携的、可分割的、可互换的和可转移的。这些是经济学定义的货币的主要属性。
 
-Not only is the ETC cryptocurrency costly to create because the coins are only issued when the work is done by miners, but it has a monetary policy that is deflationary and has a supply cap.
+不仅ETC加密货币的创建成本高，因为只有矿工完成工作后才会发行硬币，而且它还有一个通缩且有供应上限的货币政策。
 
-Indeed, according to ETC’s monetary policy, there will ever be 210,700,000 ETC in circulation.
+实际上，根据ETC的货币政策，流通中的ETC总量将达到210,700,000。
 
-ETC are created in every new block, it started in 2015 paying 5 ETC per block, and from then on it has been discounting that payment by 20% approximately every two years.
+ETC是在每个新区块中创建的，最初在2015年每个区块支付5 ETC，从那时起大约每两年就减少20%。
 
-As of this writing, the payment per block to miners is 2.048 ETC, which implies an annualized inflation rate of 3.37%, and trending lower.
+截至本文撰写时，矿工每个区块的支付是2.048 ETC，这意味着年通胀率为3.37%，并且趋势向低。
 
-## ETC Will Keep Its Value Over Time
+## ETC将保持其长期价值
 
-Given the monetary attributes described above, that it is a POW coin, and that it is programmable, ETC is usually mentioned as programmable digital gold.
+鉴于上述货币属性，它是一个PoW硬币，并且是可编程的，ETC通常被称为可编程的数字黄金。
 
-Just as gold in the real world has kept its value over thousands of years, ETC will keep its value over the long term.
+正如现实世界中的黄金在数千年中保持其价值一样，ETC将在长期内保持其价值。
 
-Not only ETC is good and scarce money, but it is the native token of the Ethereum Classic blockchain. This gives it two economic functions that sustain its value:
+不仅ETC是良好且稀缺的货币，它还是以太坊经典区块链的本地代币。这赋予它两种维持其价值的经济功能：
 
-- It is the coin used to pay miners for producing blocks
+- 它是用来支付矿工生产区块的硬币
+- 它是用户用来支付燃气费的硬币
 
-- It is the coin used by users to pay for gas fees
+这些在基础网络协议中的两个角色为ETC提供了额外的可持续性。
 
-These two roles in the base network protocol give ETC additional sustainability over time.
+## ETC将保护并增加用户的储蓄
 
-## ETC Will Protect and Grow Your Users’ Savings
+作为dapp开发者，您希望用户享受优秀的产品并对您的解决方案满意。
 
-As a dapp developer, you want your users to enjoy great products and for them to be satisfied with your solutions.
+在ETC中，您的用户不仅会享受到去中心化的好处，还会享受到一种将在长期内保护和增加他们储蓄的加密货币。
 
-In ETC, your users will not only be enjoying the benefits of decentralization, but also a cryptocurrency that will protect and increase their savings in the long term.
+市场上有许多加密货币、代币和区块链，但只有少数能够提供真正安全且去中心化的区块链（如比特币和ETC）所承诺的原始保障。
 
-There are many cryptocurrencies, tokens, and blockchains out there, but only very few provide the original guarantees promised by truly secure and decentralized blockchains such as Bitcoin and ETC.
+以太坊经典可能成为行业中最安全的基础层区块链之一，并且是开发者构建世界上最安全应用以服务其客户的主要链。
 
-Ethereum Classic will likely be one of the most secure base layer blockchains in the industry and the primary chain where developers will build the most secure apps in the world to serve their clients.
-
-This is yet another reason why you should build on ETC!
+这又是一个您应该在ETC上构建的理由！
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
