@@ -215,3 +215,7 @@ items:
       ŻET:
         __name: ŻET
         __link: https://etc.zet-tech.eu/
+      LongPool:
+        __name: Longpool
+        __link: https://longpool.org
+        __primary: 1
