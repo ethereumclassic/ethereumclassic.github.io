@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 33. The Meaning of Finality in POW"
+title: "ETC 工作量证明课程：33. 工作量证明中最终性的意义"
 date: 2024-07-11
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RtWd4Jrq0FA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,80 +16,80 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-In the previous class, 32, we talked about one of the negative impacts of trusted third parties in traditional systems, which is when there are banking crises, and how proof of work blockchains are so valuable in such moments.
+在之前的课程32中，我们讨论了传统系统中受信任的第三方带来的负面影响之一，即在银行危机时的影响，以及在这种情况下工作量证明区块链的价值。
 
-In a related topic, in this class, 33, we will talk about the meaning of finality with regards to money and decentralized applications (dapps).
+在相关主题中，在本课程33中，我们将讨论与金钱和去中心化应用程序（dapps）相关的最终性（Finality）的意义。
 
-We will explain the concept of finality in economics, that proof of stake (POS) finality is a gimmick, legal and software finality are weak, that finality does not magically exist because of man made rules, and that physical proof of work (POW) finality in blockchains such as Bitcoin (BTC) and Ethereum Classic (ETC) is true and strong.
+我们将解释经济学中的最终性概念，证明权益证明（POS）最终性是一个噱头，法律和软件的最终性很弱，最终性并不会因为人为规则而魔法般地存在，而比特币（BTC）和以太坊经典（ETC）等区块链中的物理工作量证明（POW）最终性是真实且强大的。
 
-## What Is Finality?
+## 什么是最终性？
 
-Finality is the term used to indicate that the state of a transaction has finalized and is irreversible. The finality of payments is when they are considered completed.
+最终性是指交易状态已完成且不可逆的术语。支付的最终性是指它们被认为已完成。
 
-When a movement of funds is final, the receiving party has irrevocable access to the money.
+当资金转移是最终的时，接收方对资金有不可撤销的访问权。
 
-Finality is a key concept in economics as commerce is dependent on the constant flow of transactions and payments.
+最终性是经济学中的关键概念，因为商业依赖于交易和支付的不断流动。
 
-Uncertainty in the finality of payments undermines the chain of transactions, thus the efficiency and growth of an economy.
+支付最终性的不确定性会破坏交易链，从而影响经济的效率和增长。
 
-Similarly, uncertainty in the finality of transactions and the state of dapps in a blockchain undermines human action taking place using these kinds of systems.
+同样，在区块链中，不确定的交易最终性和dapps状态会破坏使用这些系统的人类行为。
 
-## False Claims In Proof of Stake Circles
+## 权益证明圈中的虚假声明
 
-There is a narrative in POS circles that proof of stake offers finality but that POW is inferior because it offers only probabilistic finality. 
+在POS圈中，有一种说法认为权益证明提供最终性，而POW因为只提供概率最终性而较差。
 
-This is a naive and dishonest argument because the probability that a transaction will be deleted or reversed (or entire accounts frozen, confiscated, or banned) in POS is much higher than in POW because POS is centralized and POW is decentralized.
+这是一个幼稚且不诚实的论点，因为在POS中交易被删除或逆转（或整个账户被冻结、没收或禁止）的概率远高于POW，因为POS是中心化的，而POW是去中心化的。
 
-In proof of stake blockchains, very few constituents control those systems, and there is no work done that puts a barrier to arbitrary changes. This means that they can get together and trivially modify balances, confiscate funds, or do any other kind of actions in the ledger.
+在权益证明区块链中，只有少数参与者控制这些系统，并且没有阻止任意更改的工作。这意味着他们可以聚在一起轻易地修改余额、没收资金或在账本中执行任何其他操作。
 
-Proof of work blockchains have much higher guarantees of finality because the work done in the past does constitute a barrier to tampering with the ledger. 
+工作量证明区块链有更高的最终性保证，因为过去完成的工作确实构成了篡改账本的障碍。
 
-## Both POS and POW Are Probabilistic
+## POS和POW都是概率性的
 
-The truth is that both POS and POW are probabilistic. 
+事实是POS和POW都是概率性的。
 
-The deterministic finality claimed in POS doesn’t exist because it is just a matter of installing a new version of the software and a new ledger with the changes to do away with finality.
+POS中所声称的确定性最终性并不存在，因为只需要安装新版本的软件和具有更改的新的账本来取消最终性。
 
-In POS, the probability for a judge, regulator, or any civil authority forcing a chain to reverse a transaction is much higher than the probability that a POW blockchain transaction may be reversed, even if the same judge, regulator, civil authority, or even the military try to enforce it by violent means.
+在POS中，法官、监管者或任何民事当局强制链逆转交易的概率远高于POW区块链交易被逆转的概率，即使是同样的法官、监管者、民事当局，甚至军队通过暴力手段强制执行。
 
-As said before, in proof of work blockchains, to change the history of the database is very difficult because it would imply doing the work all over again. This would be very costly and time consuming to be practical.
+如前所述，在工作量证明区块链中，要更改数据库的历史非常困难，因为这意味着需要重新完成工作。这将非常昂贵且耗时，使其不具备实际可行性。
 
-Additionally, POW enables all miners and node operators to split from the chain, thus providing another method of preserving the original untampered ledger.
+此外，POW允许所有矿工和节点运营商脱离链，从而提供另一种保护原始未篡改账本的方法。
 
-## Proof of Stake Is As Insecure As the Banking System
+## 权益证明和银行系统一样不安全
 
-That a POS protocol will not consider more changes after a certain number of blocks, slots, epochs, eras, or whatever they wish to call their convoluted designs, is just a gimmick as ”immutability” and “finality” are gimmicks in the traditional banking industry.
+POS协议不会考虑一定数量的区块、槽位、时代、纪元或其他他们称之为复杂设计后的更多更改，只是一个噱头，正如传统银行业中的“不可变性”和“最终性”是噱头一样。
 
-In banking, it’s just a matter of a judge putting out an order that the banks will freeze, confiscate funds, or stop or reverse payments from any account.
+在银行业，只需法官发出命令，银行就会冻结、没收资金或停止或逆转任何账户的支付。
 
-The idea that “determistic finality” exists because developers designed rules into a protocol is very naive. 
+认为“确定性最终性”存在是因为开发人员在协议中设计了规则，这是非常幼稚的。
 
-True finality must mean that changes are extremely difficult to implement.
+真正的最终性必须意味着更改实施起来极其困难。
 
-## Proof of Work Is a New Paradigm in Financial Security
+## 工作量证明是金融安全的新范式
 
-POW blockchain transactions are irreversible, not because the protocol has man made rules prohibiting it, but because the magnitude of the work that would be needed to do so is so large that it becomes completely impractical.
+POW区块链交易是不可逆的，不是因为协议中有人为规则禁止它，而是因为需要做的工作的规模如此之大，以至于变得完全不可行。
 
-This is a substantial change in paradigm in finance because in the last 600 years entire societies had become nearly completely dependent on trusted third parties to handle payments and economic activity.
+这是金融范式的重大变化，因为在过去的600年中，整个社会几乎完全依赖受信任的第三方来处理支付和经济活动。
 
-Blockchains move the responsibility and security of transactions and balances to the end users. It is only with the private keys of any address that the funds may be touched or interactions with dapps initiated.
+区块链将交易和余额的责任和安全转移给终端用户。只有拥有任何地址的私钥，资金才可以被触动或与dapps进行交互。
 
-This does away with the influence of trusted third parties in the economy.
+这消除了受信任第三方在经济中的影响。
 
-## The New Paradigm in Finality Changes the Rules of Engagement for the Better
+## 最终性的新范式改变了更好的参与规则
 
-True finality in POW blockchains such as BTC and ETC forces authorities to seek other methods to fight crime and enforce the law, which actually respect basic human rights.
+POW区块链中的真正最终性，如BTC和ETC，迫使当局寻找其他方法来打击犯罪和执行法律，而实际上尊重基本人权。
 
-Today, authorities have developed incredibly invasive methods to control entire societies because they have influence or direct control over trusted third parties and through them they arbitrarily manipulate financial platforms such as payments.
+今天，当局已经发展了令人难以置信的侵入性方法来控制整个社会，因为他们对受信任的第三方有影响或直接控制，并通过他们任意操纵支付平台。
 
-With the existence of well designed POW blockchains, tampering with the payments platforms becomes impossible, therefore authorities need to target the actual agents committing crimes rather than assuming that entire groups or demographics must be criminals by default until proven innocent.
+随着设计良好的POW区块链的存在，篡改支付平台变得不可能，因此当局需要针对实际犯罪的代理人，而不是假设整个群体或人口是默认的罪犯，直到被证明无罪。
 
-Mere legal, protocol, and software finality are weak. 
+仅仅是法律、协议和软件的最终性是弱的。
 
-Physical, POW finality is strong and a force for good.
+物理的、POW的最终性是强大的，是一种善的力量。
 
 ---
 
-**Thank you for reading this article!**
+**感谢阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
