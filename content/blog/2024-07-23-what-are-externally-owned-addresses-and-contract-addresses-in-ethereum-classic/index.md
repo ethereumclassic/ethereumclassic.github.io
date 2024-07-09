@@ -39,7 +39,7 @@ and are composed of cryptographic pairs of private and public keys, as mentioned
 
 On the other hand, smart contract accounts have a cost to create because they use network storage; they can only send transactions in response to receiving a transaction; transactions from an external account to a contract account can trigger code which can execute many different actions; and they don't have private keys as they are controlled by the logic of their smart contract code.
 
-As smart contracts power decentralized applications (dapps), then the contract accounts are also the accounts that must used to interact with dapps.
+As smart contracts power decentralized applications (dapps), then the contract accounts are also the accounts that must be used to interact with dapps.
 
 ---
 
