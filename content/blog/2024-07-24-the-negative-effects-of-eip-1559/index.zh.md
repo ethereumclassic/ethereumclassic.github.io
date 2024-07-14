@@ -1,5 +1,5 @@
 ---
-title: "The Negative Effects of EIP-1559"
+title: "EIP-1559的负面影响"
 date: 2024-07-24
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DBWQHM9mPDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,76 +16,76 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-*This post is based on correspondence between the author and Virgil Griffith. To learn how to correspond with Virgil go to his website: https://virgil.gr*
+*这篇文章基于作者与Virgil Griffith的通信。如需了解如何与Virgil通信，请访问他的网站：https://virgil.gr*
 
-[EIP-1559](https://eips.ethereum.org/EIPS/eip-1559) was a change to the fee market in the Ethereum (ETH) network in part to bring some “fairness” to transaction fees, and in part to prepare the network for the proof of stake monetary policy, which is perpetual and has no caps as in Bitcoin (BTC) or Ethereum Classic (ETC).
+[EIP-1559](https://eips.ethereum.org/EIPS/eip-1559) 是对以太坊（ETH）网络费用市场的变更，部分是为了给交易费用带来一些“公平”，部分是为了为准备转向权益证明的货币政策做准备，该政策是永久性的，没有像比特币（BTC）或以太坊经典（ETC）那样的上限。
 
-To provide “fairness” or certainty to the gas fee market, EIP-1559 introduced a transaction pricing mechanism that includes a fixed-per-block network fee that is burned, and also a dynamic system that expands or contracts block sizes to deal with transient congestion.
+为了为燃气费市场提供“公平”或确定性，EIP-1559引入了一种交易定价机制，其中包括一个固定每区块的网络费用，该费用被烧毁，同时还引入了一个动态系统，通过扩展或缩小区块大小来应对暂时的拥堵。
 
-It is our opinion that this modification to the protocol did not bring any positive changes to the Ethereum fee market or monetary policy.
+我们认为，这一协议的修改并没有给以太坊的费用市场或货币政策带来任何积极的变化。
 
-Indeed, EIP-1559 will have some negative effects that we will explain in the following sections.
+事实上，EIP-1559将会产生一些负面影响，我们将在以下部分进行解释。
 
-The key is that the change needs to be seen from its whole economic impact.
+关键在于，这一变化需要从其整体经济影响来看待。
 
-## Does it Bring More Certainty to Gas Fees?
+## 它是否为燃气费带来了更多确定性？
 
-EIP-1559 divided the fee payment to miners into a base fee that is burned, and a “tip” that is earned by miners when users decide to add an incentive for their transactions to be included sooner in a block.
+EIP-1559将支付给矿工的费用分为一个被烧毁的基础费和一个由用户决定是否添加以便更快将交易包含在区块中的“提示费”。
 
-This feature brings certainty only to the base fee portion which is algorithmic, but does not solve the total fee cost uncertainty because people still have to compensate stakers with the “tip” that is discretionary. 
+这一特性仅为算法确定的基础费部分带来了确定性，但并没有解决总费用成本的不确定性，因为人们仍然需要通过“提示费”来补偿权益人，而“提示费”是可自由决定的。
 
-This tip has to be as large and uncertain as the fees were before because it will be the only way to get a transaction into the block.
+这个提示费必须和之前的费用一样大且不确定，因为这是将交易纳入区块的唯一方式。
 
-Indeed, one of the main complaints in Ethereum before and after it migrated to proof of stake was that the fees didn’t change, even with EIP-1559!
+事实上，以太坊在转向权益证明前后，主要的抱怨之一就是费用并没有改变，即使有了EIP-1559！
 
-EIP-1559 creates the illusion of certainty because it works like Uber. When there is a lot of congestion it increases the fees according to a specific function, therefore wallets and users can anticipate how much the base fee will be. But, that does not bring any certainty when it comes to competing to include a transaction in the next block.
+EIP-1559制造了一种确定性的假象，因为它像Uber一样，当拥堵严重时，它会根据特定函数增加费用，因此钱包和用户可以预见基础费将是多少。但这在争取将交易纳入下一个区块时并不带来任何确定性。
 
-The feature of expanding the block size when there is congestion also doesn’t make things much better because block size expansion must be limited to reduce bloat in the network and, when there is excess demand, the uncertainty in the tip fee still persists.
+在拥堵时扩展区块大小的功能也不会使情况变得更好，因为为了减少网络膨胀，区块大小扩展必须受到限制，而当需求过剩时，提示费的不确定性仍然存在。
 
-The gas fee model was perfect and simple as it was before. There is no such thing as certainty, or certainty can’t be recreated scientifically in a market that is still volatile, because volatility is a definition of uncertainty!
+燃气费模型在之前是完美而简单的。所谓的确定性在一个仍然波动的市场中是不存在的，或者科学地重建确定性是不可能的，因为波动性本身就是不确定性的定义！
 
-Certainty will only be possible when these technologies stabilize, are widely used, and the flow of transactions becomes more predictable.
+只有当这些技术稳定下来，被广泛使用，交易流量变得更可预测时，确定性才会成为可能。
 
-For all these reasons, ETC has remained with the original gas fee model. It is correct, fair, and let’s users and miners agree on gas fees in the free market. 
+出于所有这些原因，ETC保持了原始的燃气费模型。它是正确的、公平的，让用户和矿工在自由市场上协商燃气费。
 
-## Does it Burn Part of the Stock?
+## 它是否烧毁了一部分存量？
 
-Yes, EIP-1559 burns all the base fees, therefore implicitly changed the monetary policy of Ethereum. 
+是的，EIP-1559烧毁了所有的基础费，因此隐含地改变了以太坊的货币政策。
 
-This means that as stakers constantly receive newly minted coins, coins are burned and eliminated through the usage of the blockchain.
+这意味着，由于权益人不断收到新铸造的币，币通过区块链的使用被烧毁和消除。
 
-This burn feature was praised because it would increase the value of each ETH coin as it made it “ultra-sound money” as the number of coins would be diminishing over time.
+这个烧毁特性被赞誉为会增加每个ETH币的价值，因为它使ETH成为“超稳健货币”，因为币的数量会随着时间的推移而减少。
 
-However, EIP-1559 only inflates the value of the remaining stock artificially, but it does not necessarily create any new value in the system. 
+然而，EIP-1559只会人为地增加剩余存量的价值，但它不一定会在系统中创造任何新的价值。
 
-In other words, the market cap or overall value of the network may be the same, while the coin may be going up in value not because the system is more valuable but because the stock is diminishing. 
+换句话说，网络的市值或整体价值可能是一样的，而币的价值可能会上升，不是因为系统更有价值，而是因为存量在减少。
 
-This is an old criticism in the stock market. CEOs, in order to earn higher compensations, inflate the share values of their companies by using the corporations’ cash flows to buy back stock, reducing the supply, thus increasing the share value per unit, but not creating any new value for the companies!
+这是股票市场中的一个老批评。CEO们为了获得更高的报酬，通过利用公司的现金流回购股票，减少供应，从而提高每股的价值，但并没有为公司创造任何新价值！
 
-Monetary policies such as BTC’s and ETC’s are truly value creating models because they issue the coins only when miners perform enormous amounts of work, and then the coins remain in the market in perpetuity, traded between free individuals according to human action.
+像BTC和ETC这样的货币政策是真正创造价值的模型，因为它们只在矿工进行大量工作时发行币，然后这些币在市场中永久存在，根据人类行为在自由个体之间交易。
 
-Just as printing money out of thin air has negative effects, also burning money for no reason has negative effects.
+就像凭空印钞有负面影响一样，无缘无故烧钱也有负面影响。
 
-## Does it Bring a Fair Ethereum Economy for the World?
+## 它是否为世界带来了公平的以太坊经济？
 
-EIP-1559 has negative effects because it makes the rich get richer, it creates elites that control the system, and impoverishes people in the broader economy. 
+EIP-1559具有负面影响，因为它使富人更富，创造了控制系统的精英，并使更广泛的经济中的人们贫困。
 
 ![](./1.png)
 
-With EIP-1559 the rich ETH holders, who are stakers, and other investors just keep their holdings in ETH and receive staking rewards while the general public who uses ETH to buy and sell in the normal economy are seeing their stock diminish. 
+通过EIP-1559，持有大量ETH的富人（即权益人）和其他投资者只需持有ETH并获得权益奖励，而在正常经济中使用ETH进行买卖的一般公众则看到他们的存量减少。
 
-This is a [Cantillon effect](https://mises.org/mises-wire/cantillon-effects-why-inflation-helps-some-and-hurts-others) but in reverse. It is created not because money is being printed and inflated, but because the money is being burned and diminished artificially.
+这是一个[坎蒂隆效应](https://mises.org/mises-wire/cantillon-effects-why-inflation-helps-some-and-hurts-others)，但方向相反。它的产生不是因为钱被印制和通货膨胀，而是因为钱被人为烧毁和减少。
 
-EIP-1559 creates a massive transfer of wealth from active users to large ETH holders and stakers; it inflates the value of the coin artificially, exacerbating the problem; and does not make ETH “ultra-sound money” but “ultra-perverse money” because it is a mechanism to enrich the elites that control the system, making it ever more centralized. 
+EIP-1559创造了财富从活跃用户向大ETH持有者和权益人的巨大转移；它人为地提高了币的价值，加剧了问题；并且没有使ETH成为“超稳健货币”，而是“超反常货币”，因为它是一个富有精英控制系统的机制，使其更加集中。
 
-Networks such as BTC and ETC have simple and straightforward monetary policies that bring true fairness to the economy and create true value because they neither transfer wealth by printing excess coins nor by burning coins.
+像BTC和ETC这样的网络有简单而直接的货币政策，为经济带来真正的公平并创造真正的价值，因为它们既不通过印刷过多的币来转移财富，也不通过烧毁币来转移财富。
 
-BTC and ETC will just issue 21 M and 210 M coins respectively and then the market will decide how those are allocated or what value is assigned to them.
+BTC和ETC将分别只发行2100万和2.1亿币，然后市场将决定这些币的分配或价值。
 
-There is no complex system to fabricate an upward trend in the price of the cryptocurrency, and complexity in itself is an enemy of certainty and decentralization.
+没有复杂的系统来制造加密货币价格的上升趋势，而复杂性本身就是确定性和去中心化的敌人。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读这篇文章！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+欲了解更多关于ETC的信息，请访问：https://ethereumclassic.org
