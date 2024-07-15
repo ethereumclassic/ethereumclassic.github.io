@@ -1,5 +1,5 @@
 ---
-title: "Sending and Receiving ETC on Your Trezor"
+title: "在您的 Trezor 上发送和接收 ETC"
 date: 2024-07-16
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yReHZjsd2jI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,128 +16,128 @@ linkImage: ./banner.png
 
 ![](banner.png)
 
-In this post we will explain how to send and receive Ethereum Classic (ETC) on the Trezor Safe 3.
+在这篇文章中，我们将解释如何在 Trezor Safe 3 上发送和接收以太坊经典 (ETC)。
 
-We will show what are the Trezor components needed and then explain the steps to send and receive ETC. 
+我们将展示需要的 Trezor 组件，并解释发送和接收 ETC 的步骤。
 
-We will show the parallel actions on your Trezor Safe 3 and on your computer where appropriate.
+我们将展示在 Trezor Safe 3 和计算机上的并行操作。
 
-## The Trezor Hardware and Software Components
+## Trezor 硬件和软件组件
 
 ![](./0.png)
 
-Trezor Safe 3 is a hardware wallet, so to send or receive ETC on your Trezor you will need your hardware device and the app installed on your computer as explained in our post [“Using Ethereum Classic With Trezor”](https://ethereumclassic.org/blog/2024-03-27-using-ethereum-classic-with-trezor).
+Trezor Safe 3 是一款硬件钱包，因此要在 Trezor 上发送或接收 ETC，您需要硬件设备和安装在计算机上的应用程序，如我们在文章 [“使用 Trezor 管理以太坊经典”](https://ethereumclassic.org/blog/2024-03-27-using-ethereum-classic-with-trezor) 中所解释的那样。
 
-Following we created two sections that explain how to receive ETC first, and then how to send ETC, both using your Trezor Safe 3.
+接下来，我们创建了两个部分，分别解释如何使用 Trezor Safe 3 接收和发送 ETC。
 
-## Receive ETC
+## 接收 ETC
 
-### 1. Open Trezor Suite and Connect Your Trezor Safe 3
+### 1. 打开 Trezor Suite 并连接 Trezor Safe 3
 
 ![](./1.png)
 
-The first step to receive ETC on your Trezor Safe 3 is to open the Trezor Suite app on your computer and to connect your Trezor device to it. 
+接收 ETC 的第一步是在您的计算机上打开 Trezor Suite 应用程序并连接 Trezor 设备。
 
-Once connected, enter the PIN number on your device to associate it to the app on your computer.
+连接后，在您的设备上输入 PIN 码，以将其与计算机上的应用程序关联。
 
-### 2. Select Standard Wallet
+### 2. 选择标准钱包
 
 ![](./2.png)
 
-Once you entered the PIN number on your device, the Trezor Suite app on your computer will ask you to select what type of wallet you will use. For this example, we selected the “Standard wallet” option, which is what we have been using in these tutorials.
+输入 PIN 码后，计算机上的 Trezor Suite 应用程序将要求您选择使用何种钱包类型。在本例中，我们选择了“标准钱包”选项，这是我们在这些教程中一直使用的。
 
-### 3. Select the Ethereum Classic Asset
+### 3. 选择以太坊经典资产
 
 ![](./3.png)
 
-In the next step, the Trezor Suite app on your computer will show you the home of your wallet with the assets you have set up on it.
+在下一步中，计算机上的 Trezor Suite 应用程序将显示您已设置的资产首页。
 
-To receive ETC on your Trezor, select “Ethereum Classic” on the left hand vertical menu or click on the Ethereum Classic box in the assets section below. 
+要在 Trezor 上接收 ETC，请在左侧垂直菜单中选择“以太坊经典”或点击资产部分下的以太坊经典框。
 
-### 4. Get Your ETC Address
+### 4. 获取您的 ETC 地址
 
 ![](./4.png)
 
-In the next screen, click on the “Receive ETC” button at the bottom of the page so that Trezor Suite may show you your ETC address.
+在下一个屏幕中，点击页面底部的“接收 ETC”按钮，Trezor Suite 将显示您的 ETC 地址。
 
-When the popup box appears asking if the ETC will be received through the ETC network, press the “Confirm” button.
+当弹出框询问 ETC 是否通过 ETC 网络接收时，按“确认”按钮。
 
-### 5. Show Full Address
+### 5. 显示完整地址
 
 ![](./5.png)
 
-In the next screen, Trezor Suite will show you a partial portion of your address because it needs to be confirmed with your Trezor hardware wallet.
+在下一个屏幕中，Trezor Suite 将显示您的部分地址，因为需要通过 Trezor 硬件钱包确认。
 
-Press on the “Show full address” button in this step and then go to your Trezor device.
+在此步骤中按“显示完整地址”按钮，然后转到您的 Trezor 设备。
 
-### 6. Confirm and Copy Address
+### 6. 确认并复制地址
 
 ![](./6.png)
 
-On your Trezor Safe 3 device you will need to enter your PIN number to unlock the address on your Trezor Suite app on your computer.
+在您的 Trezor Safe 3 设备上，您需要输入 PIN 码以解锁计算机上 Trezor Suite 应用程序的地址。
 
-When you entered your PIN, then you will see the full address on your device and on your computer. If they are the same then the address is confirmed and you can go ahead and copy it and use it to receive ETC from third parties or other wallets.
+输入 PIN 码后，您将在设备和计算机上看到完整的地址。如果地址相同，则地址已确认，您可以继续复制并使用它来接收来自第三方或其他钱包的 ETC。
 
-## Send ETC
+## 发送 ETC
 
-### 1. Set Up Trezor Suite and Trezor Safe 3
+### 1. 设置 Trezor Suite 和 Trezor Safe 3
 
 ![](./7.png)
 
-The first step to send ETC from your Trezor Safe 3 is to open the Trezor Suite app on your computer and to connect your Trezor device to it.
+从 Trezor Safe 3 发送 ETC 的第一步是在您的计算机上打开 Trezor Suite 应用程序并连接 Trezor 设备。
 
-Once connected, enter the PIN number on your device to associate it to the app on your computer.
+连接后，在您的设备上输入 PIN 码，以将其与计算机上的应用程序关联。
 
-### 2. Select Standard Wallet
+### 2. 选择标准钱包
 
 ![](./8.png)
 
-Once you entered the PIN number on your device, the Trezor Suite app on your computer will ask you to select what type of wallet you will use. For this example, we selected the “Standard wallet” option, which is what we have been using in these tutorials.
+输入 PIN 码后，计算机上的 Trezor Suite 应用程序将要求您选择使用何种钱包类型。在本例中，我们选择了“标准钱包”选项，这是我们在这些教程中一直使用的。
 
-### 3. Select the Ethereum Classic Asset
+### 3. 选择以太坊经典资产
 
 ![](./9.png)
 
-In the next step, the Trezor Suite app on your computer will show you the home of your wallet with the assets you have set up on it.
+在下一步中，计算机上的 Trezor Suite 应用程序将显示您已设置的资产首页。
 
-To send ETC from your Trezor, select “Ethereum Classic” on the left hand vertical menu or click on the Ethereum Classic box in the assets section below. 
+要从 Trezor 发送 ETC，请在左侧垂直菜单中选择“以太坊经典”或点击资产部分下的以太坊经典框。
 
-### 4. Prepare Transaction to Send ETC
+### 4. 准备发送 ETC 的交易
 
 ![](./10.png)
 
-In the next screen you will see the ETC home page of your wallet. To prepare a transaction to send ETC, click on the “Send” button on the top right hand corner.
+在下一个屏幕中，您将看到钱包的 ETC 主页。要准备发送 ETC 的交易，请点击右上角的“发送”按钮。
 
-Then, in the next screen enter the address where you want to send ETC to, the amount to send, whether you want a normal or custom gas fee level for this transaction, and then press on the “Review & Send” button.
+然后，在下一个屏幕中输入您要发送 ETC 的地址、发送金额、您想要的普通或自定义 gas 费级别，然后按“审查并发送”按钮。
 
-### 5. Review Transaction
+### 5. 审查交易
 
 ![](./11.png)
 
-Next, you will see a popup box with the details of the transaction for you to review. 
+接下来，您将看到一个弹出框，其中包含交易的详细信息供您审查。
 
-However, because you are using a hardware wallet, you will need to go to it and confirm your transaction there.
+但是，由于您使用的是硬件钱包，您需要转到它并在设备上确认交易。
 
-### 6. Confirm Transaction on Your Trezor Safe 3 Device
+### 6. 在 Trezor Safe 3 设备上确认交易
 
 ![](./12.png)
 
-On your Trezor Safe 3 device, you will see the recipient address on the screen. If it is correct, then press “CONTINUE”.
+在您的 Trezor Safe 3 设备上，您将看到屏幕上的收件人地址。如果正确，请按“继续”。
 
-In the next screen, you will be able to review the amount and gas fee you selected.
+在下一个屏幕中，您将能够查看您选择的金额和 gas 费。
 
-If all looks good, then press on both buttons on your device as indicated in the screen and then go to the Trezor Suite app on your computer.
+如果一切正常，请按设备上指示的两个按钮，然后转到计算机上的 Trezor Suite 应用程序。
 
-### 7. Send ETC
+### 7. 发送 ETC
 
 ![](./13.png)
 
-When you go to the Trezor Suite app on your computer you will see that the transaction is ready to send as it has been confirmed and signed by your Trezor Safe 3 device.
+当您转到计算机上的 Trezor Suite 应用程序时，您将看到交易已准备好发送，因为它已由您的 Trezor Safe 3 设备确认并签名。
 
-To send the ETC, press the “Send” button.
+要发送 ETC，请按“发送”按钮。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读这篇文章！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于 ETC 的信息，请访问：https://ethereumclassic.org
