@@ -1,3 +1,21 @@
+- date: 2024-07-12
+  title: Stip&Flip
+  description: |-
+    Decentralized, permissionless synthetic trading.
+    Trade anything, long or short, with or without leverage, and zero liquidation risk.
+  image: ./images/240712-0940-stipflip.png
+  type: finance
+  author: So Tachi
+  verifiedContract: https://etc.blockscout.com/address/0x6ab9bab8f3c36a1b7db4b5cac8e122c9f5ceb4a6?tab=contract
+  openSource: https://github.com/stip-flip
+  testSuite: https://github.com/stip-flip/sf-contracts/tree/main/test
+  links:
+    - name: Launch App
+      link: https://sf.exchange/swap
+    - name: Documentation
+      link: https://docs.sf.exchange
+    - name: Twitter
+      link: https://x.com/StipFlip
 - date: 2024-06-24
   title: Nyke Finance
   description: Nyke Finance is a decentralized, non-custodial, algorithmic-based money market protocol that allows users to participate as liquidity suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow liquidity in an over-collateralized fashion. Nyke's protocol design and architecture references Compound V2, a proven and audited protocol.
@@ -70,7 +88,7 @@
       link: https://github.com/etcswap
       icon: github
     - name: Twitter
-      link: https://twitter.com/EthClassicDAO
+      link: https://twitter.com/ETCswap_org
       icon: twitter
 - title: SafeClassic Community NFT
   date: 2024-02-02
@@ -484,7 +502,7 @@
       link: https://github.com/etcswap
       icon: github
     - name: Twitter
-      link: https://twitter.com/EthClassicDAO
+      link: https://twitter.com/ETCswap_org
       icon: twitter
 - title: Wrapped Ether (WETC)
   date: 2022-05-06
