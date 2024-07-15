@@ -1,5 +1,5 @@
 ---
-title: "Why Ethereum Classic Should Be the Second Largest Blockchain in the World"
+title: "为什么以太坊经典应该成为世界第二大区块链"
 date: 2024-07-17
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YtcPtzgCFzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,92 +16,94 @@ linkImage: ./banner.png
 
 ![](banner.png)
 
-One of the most powerful arguments that we use when explaining Ethereum Classic (ETC) to the world is that it is Bitcoin’s philosophy with Ethereum’s technology.
+### 以太坊经典的哲学与技术
 
-There are only two major inventions in the blockchain industry. The first one is proof of work (POW) as a consensus mechanism, and the second one is smart contracts that provide programmability to the blockchain.
+当我们向世界解释以太坊经典（ETC）时，最有力的论据之一是它结合了比特币的哲学和以太坊的技术。
 
-The greatest and most secure blockchain that is proof of work is Bitcoin, and the largest smart contracts blockchain is Ethereum.
+在区块链行业中，只有两项主要发明。第一项是作为共识机制的工作量证明（POW），第二项是为区块链提供可编程性的智能合约。
 
-However, the only and largest blockchain that has both features at the same time is ETC.
+最伟大且最安全的POW区块链是比特币，而最大的智能合约区块链是以太坊。
 
-This will make ETC, together with Bitcoin, one of the most important and valuable technologies of the future.
+然而，唯一同时拥有这两项特性的最大区块链是ETC。
 
-## There Are Four Big Categories of Blockchains
+这将使ETC与比特币一起，成为未来最重要和最有价值的技术之一。
 
-Unfortunately, there is not a lot of honesty in the blockchain industry and many participants have little awareness of the core principles of decentralization.
+### 四大区块链类别
 
-This has created four main segments in the sector, of which only one is truly decentralized.
+不幸的是，区块链行业中缺乏诚实，许多参与者对去中心化的核心原则知之甚少。
 
-There is a small group of blockchains that are permissionless and censorship resistant and those are POW because it is the only consensus mechanism that enables a peer to peer cryptocurrency to be truly decentralized.
+这导致了该行业形成了四个主要类别，其中只有一个是真正去中心化的。
 
-Then, there is a larger group of proof of stake (POS) networks that were created opportunistically as a reaction to the energy consumption of POW. However, these systems have no real innovation and are nearly as centralized as traditional banking.
+有一小部分区块链是无需许可且抗审查的，这些区块链采用POW，因为这是唯一能使点对点加密货币真正去中心化的共识机制。
 
-Proof of authority (POA) blockchains are an even more centralized model because all the nodes participating in the system are selected trusted third parties.
+然后，有一个更大的群体是作为对POW能耗反应而创建的权益证明（POS）网络。然而，这些系统没有真正的创新，几乎像传统银行一样集中。
 
-Finally, there is a government sponsored type of networks called Central Bank Digital Currencies (CBDCs) that imitate the decentralized design of blockchains but are completely controlled by the government and banking system.
+权威证明（POA）区块链是一种更为集中的模型，因为系统中所有参与的节点都是被选定的可信第三方。
 
-## Blockchains Must be Judged By Their Weakest Link
+最后，还有一种政府赞助的网络，称为中央银行数字货币（CBDC），它们模仿区块链的去中心化设计，但完全由政府和银行系统控制。
 
-As we wrote above, of the four segments that we mentioned, only POW blockchains may be considered truly decentralized.
+### 区块链必须通过其最薄弱环节来评估
 
-Furthermore, it is important to note that any cryptocurrency will be as weak as its weakest link. 
+如前所述，在我们提到的四个类别中，只有POW区块链可以被认为是真正去中心化的。
 
-This is that, of all the components used to build it, if it has one minor detail that is centralized then the whole system will be centralized.
+此外，重要的是要注意到，任何加密货币的强度将与其最薄弱的环节一样弱。
 
-For example, hybrid blockchains that combine POW and POS, or POW and POA, must be centralized because the security brought by POW is cancelled by the centralized technology.
+这就是说，在构建它的所有组件中，如果有一个小细节是中心化的，那么整个系统就会是中心化的。
 
-## There Are Also Badly Designed Proof of Work Blockchains
+例如，混合区块链结合了POW和POS或POW和POA，必须是中心化的，因为POW带来的安全性被中心化技术所抵消。
 
-Another important fact to bear in mind is that just because a blockchain may be POW does not mean that it will be decentralized.
+### 也有设计不佳的工作量证明区块链
 
-Although POW is a necessary factor, it is not sufficient to make a blockchain decentralized.
+另一个需要记住的重要事实是，仅仅因为区块链可能是POW，并不意味着它会是去中心化的。
 
-There are three main things that would make a POW blockchain centralized: Hybridization, rank, and block size.
+虽然POW是一个必要因素，但它不足以使区块链去中心化。
 
-As we mentioned before, hybridization is that it is a mix of POW and another weaker consensus mechanism. When a centralized component is added to a chain, then the whole system will be centralized.
+有三件主要的事情会使POW区块链中心化：混合化、排名和区块大小。
 
-Rank is the size of the blockchain and whether it is the leader in its consensus mechanism. ETC, for example, is extremely valuable because it is the largest POW smart contracts blockchain in the world and the leader in its consensus mechanism. If there is a fork that is smaller, it doesn’t matter that it has the same design, it will always be vulnerable.
+如前所述，混合化是指它是POW与另一种较弱的共识机制的混合。当中心化组件被添加到链中时，整个系统将会是中心化的。
 
-Block size determines the bloating of the network, and bloating of the database leads to centralization. The counter strategy to bloating is pruning the data, but pruning also makes the system centralized because the whole system will be either unverifiable or dependent on a few full nodes.
+排名是指区块链的规模及其在共识机制中的领导地位。例如，ETC非常有价值，因为它是世界上最大的POW智能合约区块链，并且是其共识机制的领导者。如果有一个分叉较小，即使它有相同的设计，它也会始终处于脆弱状态。
 
-## There Are Only Two Inventions in the Blockchain Industry
+区块大小决定了网络的膨胀，而数据库的膨胀会导致中心化。对抗膨胀的策略是修剪数据，但修剪也会使系统中心化，因为整个系统将无法验证或依赖于少数全节点。
 
-As we mentioned in the introduction, there are only two important inventions in the blockchain industry, proof of work and smart contracts.
+### 区块链行业中只有两项发明
 
-The major invention by Satoshi Nakamoto when he built Bitcoin was to use the information of the block stamps so that all nodes in the network would know which is the correct block in each round without having to check with trusted third parties.
+如介绍中所述，区块链行业中只有两项重要发明，工作量证明和智能合约。
 
-The same information serves as the unifying focal point when the network splits, or when nodes want to join for the first time, or leave the network and join again.
+中本聪在构建比特币时的重大发明是利用区块时间戳的信息，使网络中的所有节点在每一轮都知道哪个是正确的区块，而无需与可信的第三方核对。
 
-However, Bitcoin could not be programmable so the next step was to add smart contracts to POW.
+同样的信息在网络分裂时或当节点首次加入时，或离开网络再加入时，作为统一的焦点。
 
-This is when Vitalik Buterin came with the brilliant idea of combining the Ethereum Virtual Machine (EVM), with the gas systems, and a programming language, which gave programmability to POW.
+然而，比特币无法编程，因此下一步是将智能合约添加到POW中。
 
-## Ethereum Classic Is the Only Blockchain That Has Both!
+这时，Vitalik Buterin提出了一个出色的想法，将以太坊虚拟机（EVM）与燃料系统和编程语言结合起来，为POW提供了可编程性。
 
-The amazing thing is that of the top two blockchains in the world, Bitcoin is proof of work but is not programmable and Ethereum is programmable with smart contracts but is not proof of work!
+### 以太坊经典是唯一拥有这两者的区块链！
 
-This is what creates this incredible void in the market that only ETC can fill because it has both inventions in one system!
+令人惊奇的是，在世界前两大区块链中，比特币是POW，但不可编程，而以太坊具有智能合约的可编程性，但不是POW！
 
-ETC is incredibly well designed because it is the original Ethereum but it stayed with the POW consensus mechanism.
+这就在市场上形成了一个只有ETC可以填补的巨大空缺，因为它在一个系统中拥有这两项发明！
 
-Philosophically, ETC shares the same ideology as Bitcoin as its motto is “Code Is Law”, and it values immutability as its highest principle.
+ETC设计得非常好，因为它是原始的以太坊，但仍然保持了POW共识机制。
 
-Technologically ETC is a state of the art EVM blockchain because it constantly upgrades the system to be on par with the Ethereum Virtual Machine standard.
+在哲学上，ETC与比特币共享相同的理念，它的座右铭是“代码即法律”，并且将不可变性视为其最高原则。
 
-## Only Bitcoin and Ethereum Classic Should Prevail
+在技术上，ETC是一个最先进的EVM区块链，因为它不断升级系统以与以太坊虚拟机标准保持一致。
 
-In terms of market positioning Bitcoin is a very strong system because it is the first mover, has network effects, it is truly digital Gold, and it is the largest POW blockchain in the world making it extremely resilient and safe.
+### 只有比特币和以太坊经典应该存在
 
-As a single function system Bitcoin is perfect in its position and very difficult to dethrone.
+从市场定位来看，比特币是一个非常强大的系统，因为它是先行者，具有网络效应，是名副其实的数字黄金，并且是世界上最大的POW区块链，使其极其坚韧和安全。
 
-However, of all the systems below Bitcoin we only reach ETC to see which is the next one with equal value.
+作为单一功能系统，比特币在其位置上是完美的，且很难被推翻。
 
-The systems in between in the ranks imitate the qualities of Bitcoin and add smart contracts, but none can be as secure because they have all chosen either POS or POA as their consensus mechanisms.
+然而，在比特币以下的所有系统中，我们只找到ETC，看哪一个具有同等价值。
 
-This means that, eventually, it would be only natural for ETC to become one of the top two blockchains in the world together with Bitcoin.
+在排名中间的系统模仿了比特币的特质并添加了智能合约，但由于它们选择了POS或POA作为其共识机制，因此没有一个能像比特币那样安全。
+
+这意味着，从长期来看，ETC自然会成为世界前两大区块链之一，与比特币一起。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
