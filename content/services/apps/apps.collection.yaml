@@ -1,3 +1,19 @@
+- date: 2024-07-17
+  title: OpenETC
+  description: The premier NFT marketplace on the Ethereum Classic blockchain.
+  image: ./images/240717-0525-openetc.png
+  type: nfts
+  author: Aradriguez
+  verifiedContract: https://etc.blockscout.com/address/0xBDcD40a932189AC35bb1d7eC88711d9263aD6a92
+  links:
+    - name: Launch App
+      link: https://openetc.io/
+    - name: Telegram
+      link: https://t.me/etcorcnft
+      icon: telegram
+    - name: Twitter
+      link: https://x.com/ETH_ORC
+      icon: twitter
 - date: 2024-07-12
   title: Stip&Flip
   description: |-
