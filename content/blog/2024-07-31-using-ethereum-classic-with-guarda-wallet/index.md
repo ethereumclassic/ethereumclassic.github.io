@@ -4,7 +4,7 @@ date: 2024-07-31
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["guides"]
-linkImage: ./banner.png
+linkImage: ./banner-1.png
 ---
 
 ---
@@ -14,7 +14,7 @@ linkImage: ./banner.png
 
 ---
 
-![](./banner.png)
+![](./banner-1.png)
 
 In this article we will explain how to use Ethereum Classic (ETC) with Guarda Wallet.
 
