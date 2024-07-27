@@ -1,5 +1,5 @@
 ---
-title: "Using Ethereum Classic With Guarda Wallet"
+title: "使用Guarda钱包操作以太坊经典"
 date: 2024-07-31
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner-1.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4IqQbHdVdFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,92 +16,92 @@ linkImage: ./banner-1.png
 
 ![](./banner-1.png)
 
-In this article we will explain how to use Ethereum Classic (ETC) with Guarda Wallet.
+在这篇文章中，我们将解释如何使用Guarda钱包操作以太坊经典（ETC）。
 
-Guarda Wallet is different than the wallets we usually cover in this website because rather than using secret passphrases as backups, it uses what they call a “backup file”.
+Guarda钱包与我们通常在本网站介绍的钱包不同，因为它不是使用秘密助记词作为备份，而是使用所谓的“备份文件”。
 
-In the following sections we will explain how to download, set up, and back up your Guarda Wallet.
+在接下来的部分中，我们将解释如何下载、设置和备份您的Guarda钱包。
 
-## 1. Download Guarda Wallet
+## 1. 下载Guarda钱包
 
 ![](./1.png)
 
-The first step to use ETC with Guarda Wallet is to download their desktop app and install it on your computer.
+使用Guarda钱包操作ETC的第一步是下载其桌面应用程序并将其安装在您的电脑上。
 
-To do this go to https://guarda.com and download the Guarda Wallet app file for your operating system. After this, install it.
+为此，请访问https://guarda.com 并下载适用于您的操作系统的Guarda钱包应用程序文件。然后进行安装。
 
-## 2. Open Guarda Wallet on Your Computer
+## 2. 在您的电脑上打开Guarda钱包
 
 ![](./2.png)
 
-Once your Guarda Wallet is downloaded and installed, open it and click on “Create a new wallet” to start the setup process (in a future post we will explain how to restore your Guarda Wallet from the backup file). 
+下载并安装Guarda钱包后，打开它并点击“创建新钱包”开始设置过程（在未来的文章中，我们将解释如何从备份文件恢复您的Guarda钱包）。
 
-## 3. Create a Password
+## 3. 创建密码
 
 ![](./3.png)
 
-The first thing that Guarda Wallet will ask you is to create a password of your wallet.
+Guarda钱包要求您为钱包创建一个密码。
 
-As Guarda Wallet does not store your password, it is important for you to write down this password and store it in a safe place. Without the password, you will not be able to access your crypto!
+由于Guarda钱包不会存储您的密码，因此您需要将此密码写下来并存放在安全的地方。没有密码，您将无法访问您的加密货币！
 
-## 4. Download Backup File
+## 4. 下载备份文件
 
 ![](./4.png)
 
-In the next step, Guarda Wallet will ask you to back up your new wallet before you can even open it. This is to make sure you have your backup file stored in your computer before proceeding.
+在下一步中，Guarda钱包会要求您在打开新钱包之前备份它。这是为了确保您在继续操作之前已经将备份文件存储在电脑中。
 
-To do this, click on “Download Backup”.
+为此，请点击“下载备份”。
 
-## 5. Store the Backup File in a Folder on Your Computer
+## 5. 将备份文件存储在电脑的文件夹中
 
 ![](./5.png)
 
-After clicking on “Download Backup” your operating system will prompt you to select in which folder in your computer to save the Guarda Wallet backup file. 
+点击“下载备份”后，您的操作系统将提示您选择将Guarda钱包备份文件保存到电脑的哪个文件夹中。
 
-Make sure to put it in a folder that you may easily find in the future. Also, it would be an additional layer of security if you backed up the backup file in a pen drive in case you lose your computer or it gets stolen.
+请确保将其放在您以后容易找到的文件夹中。此外，如果您将备份文件备份到一个U盘中作为额外的安全措施，以防丢失或电脑被盗，那将是一个额外的安全层。
 
-## 6. Create an Ethereum Classic Wallet on Guarda
+## 6. 在Guarda上创建以太坊经典钱包
 
 ![](./6.png)
 
-Once you downloaded the Guarda Wallet backup file on your computer, you will be taken to the Guarda Wallet homepage.
+将Guarda钱包备份文件下载到电脑后，您将被带到Guarda钱包的主页。
 
-To add Ethereum Classic as an asset to your wallet, click on the “+” sign link on the menu at the top of the crypto assets column.
+要将以太坊经典添加为钱包资产，请点击加密资产列顶部菜单中的“+”号链接。
 
-## 7. Search For ETC and Select it
+## 7. 搜索并选择ETC
 
 ![](./7.png)
 
-In the next step, Guarda Wallet will ask you to search for the asset you want to add.
+在下一步中，Guarda钱包会要求您搜索要添加的资产。
 
-To add ETC, enter “ETC” or “Ethereum Classic” on the search field and click on the ETC asset that will appear in the list.
+要添加ETC，在搜索字段中输入“ETC”或“Ethereum Classic”，并点击列表中出现的ETC资产。
 
-## 8. Download the Updated Backup File
+## 8. 下载更新后的备份文件
 
 ![](./8.png)
 
-Before taking you back to the homepage of the app, Guarda Wallet will ask you to make a backup again as the previous one did not have the ETC data on it yet. This will be your new Guarda Wallet backup for all assets.
+在将您带回应用程序主页之前，Guarda钱包会要求您再次备份，因为之前的备份文件中尚未包含ETC数据。这将是您所有资产的新Guarda钱包备份。
 
-To backup your latest Guarda Wallet with your new ETC address, click on “Download backup”.
+要备份包含新ETC地址的最新Guarda钱包，请点击“下载备份”。
 
-## 9. Your New ETC Wallet Is Added
+## 9. 添加新的ETC钱包
 
 ![](./9.png)
 
-After backing up your wallet and Guarda Wallet takes you back to the homepage of the app, you will see the ETC asset in the crypto assets list on the left hand column.
+备份钱包后，Guarda钱包将您带回应用程序主页，您将在左侧加密资产列表中看到ETC资产。
 
-To open your ETC wallet, click on the “Ethereum Classic” asset.
+要打开您的ETC钱包，请点击“以太坊经典”资产。
 
-## 10. Now You Can Use ETC on Guarda Wallet!
+## 10. 现在您可以在Guarda钱包上使用ETC了！
 
 ![](./10.png)
 
-When Guarda Wallet takes you to the ETC homepage, you will see all the functions of your new Ethereum Classic address.
+当Guarda钱包将您带到ETC主页时，您将看到新以太坊经典地址的所有功能。
 
-Now you can use Ethereum Classic on your Guarda Wallet to send, receive, exchange, or buy ETC.
+现在，您可以在Guarda钱包上使用以太坊经典来发送、接收、交换或购买ETC了。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于ETC的信息，请访问：https://ethereumclassic.org
