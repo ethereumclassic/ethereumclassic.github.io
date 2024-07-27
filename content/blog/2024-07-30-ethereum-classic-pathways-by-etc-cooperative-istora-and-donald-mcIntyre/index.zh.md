@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Classic Pathways by ETC Cooperative, Istora, and Donald McIntyre"
+title: "以太坊经典路径：由ETC合作社、Istora和唐纳德·麦金太尔联合发布"
 date: 2024-07-30
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -9,74 +9,67 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-*This post is based on [the presentation](https://www.youtube.com/live/vD7gS344qTg?t=20424s) the author did at WDMS Oman in March of 2024.*
+本文基于作者在2024年3月于阿曼举办的WDMS会议上的[演讲](https://www.youtube.com/live/vD7gS344qTg?t=20424s)。
 
-Smart contracts are the second most important invention of the blockchain industry. Satoshi Nakamoto actually had planned smart contracts for Bitcoin. However, because of technical problems with its design, Bitcoin did not support smart contracts inside its highly secure environment. This is why Vitalik Buterin invented Ethereum Classic (ETC), which is the original Ethereum, to be a POW blockchain, with digital gold, and that it could be programmable. Hence, ETC is Bitcoin’s philosophy with Ethereum’s technology. In other words, the best of both worlds.
+智能合约是区块链行业的第二大发明。中本聪实际上计划为比特币设计智能合约。然而，由于其设计存在技术问题，比特币未能在其高度安全的环境中支持智能合约。因此，Vitalik Buterin发明了以太坊经典（ETC），即原始以太坊，成为一个POW区块链，具有数字黄金的特性，并且可以编程。因此，ETC结合了比特币的哲学和以太坊的技术。换句话说，这是两者的最佳结合。
 
-ETC is a unique combination of attributes because it is not only a POW blockchain and has a fixed monetary supply schedule, but also is programmable with smart contracts. This is a unique positioning for Ethereum Classic that has already made it the largest POW smart contracts blockchain in the world, and the fifth largest POW blockchain overall. These three pillars make true the aspirations of “Code Is Law” and “Unstoppability”.
+ETC具有独特的属性组合，因为它不仅是一个POW区块链，并且有固定的货币供应计划，还能通过智能合约进行编程。这种独特定位使以太坊经典已经成为全球最大的POW智能合约区块链，也是总体上第五大POW区块链。这三大支柱实现了“代码即法律”和“不可阻挡”的愿景。
 
-Bitcoin’s innovation, enabled by POW, is permissionlessness and sound internet money. ETC’s innovation is to add programmability to permissionlessness and sound internet money, making applications unstoppable. With smart contracts inside Ethereum Classic, decentralized applications are much more secure than any type of application running on external systems, data centers, or cloud services. Indeed, applications in ETC are the most secure apps in the world.
+比特币的创新，通过POW实现了无许可性和健全的互联网货币。ETC的创新是将可编程性添加到无许可性和健全的互联网货币中，使应用程序不可阻挡。通过在以太坊经典中的智能合约，去中心化应用程序比任何运行在外部系统、数据中心或云服务上的应用程序都要安全得多。实际上，ETC中的应用程序是世界上最安全的应用程序。
 
-As a POW blockchain with smart contracts, ETC has the most valuable position in the industry because, after the move by Ethereum to POS, ETC became the largest POW programmable blockchain in the world that is digital gold. POS smart contract blockchains are insecure, and POW blockchains without smart contracts are less versatile AND less secure.
+作为一个具有智能合约的POW区块链，ETC在行业中拥有最有价值的地位，因为在以太坊转向POS后，ETC成为全球最大的可编程POW区块链，并且是数字黄金。POS智能合约区块链不安全，而没有智能合约的POW区块链则既不灵活又不安全。
 
-As ETC has a fixed supply cap of 210,700,000 ETC; and there are around 148 million already issued; then, there are more or less 62,700,000 ETC still to be mined. This is an estimated future revenue of more than $1.4 billion dollars at current prices, of which around 50% will be paid to miners in the next 10 years. However, because of its continued growth and excellent positioning as programmable digital gold, mining revenues are likely to be significantly higher.
+由于ETC的供应上限为210,700,000 ETC；目前已经发行约1.48亿ETC；因此，还有大约62,700,000 ETC有待挖掘。按当前价格计算，这是超过14亿美元的未来收入，其中大约50%将在未来10年内支付给矿工。然而，由于其持续增长和作为可编程数字黄金的优越定位，挖矿收入可能会显著更高。
 
-Although people often talk about "roadmaps" for these projetcs, ETC does not actually have a roadmap.  As Istora Mandiri, a very important ETC community member, explained [in a post](https://ethereumclassic.org/blog/2023-04-08-roadmaps-and-pathways) on the ETC community website, in a truly decentralized blockchain there cannot be roadmaps. Technological roadmaps are imposed by leadership, corporations, or foundations. Decentralized blockchains such as Bitcoin or Ethereum Classic do not have presidents, leaders, administrators, or managers. Everything happens through the improvement proposal process, which in ETC is the “Ethereum Classic Improvement Proposal (ECIP) process”. Instead, ETC has a pathway that is forged on the go by the ECIP process through intense debates in the ecosystem.
+尽管人们常谈论这些项目的“路线图”，但ETC实际上没有路线图。正如ETC社区的重要成员Istora Mandiri[在社区网站上的一篇文章](https://ethereumclassic.org/blog/2023-04-08-roadmaps-and-pathways)中解释的那样，在真正去中心化的区块链中，不可能有路线图。技术路线图是由领导层、公司或基金会强加的。去中心化区块链如比特币或以太坊经典没有主席、领导者、管理员或经理。所有事情都通过改进提案过程进行，在ETC中，这个过程被称为“以太坊经典改进提案（ECIP）过程”。相反，ETC有一条通过ECIP过程在生态系统中通过激烈辩论逐步形成的路径。
 
-Having said this, then, there are several parallel proposals for technological upgrades of the ETC blockchain, for example, this is the ETC Cooperative’s proposed pathway for 2024:
+话虽如此，ETC区块链有几个平行的技术升级提案，例如，这是ETC合作社为2024年提出的路径：
 
-1. Enhancing Client Stability and Functionality:
+1. 增强客户端稳定性和功能：
+   - 全面维护和增强Core-Geth客户端
+   - 在跨客户端测试中的高级支持和改进（Core Geth、Erigon、Core Geth Light和Hyperledger Besu）
 
-- Comprehensive Maintenance and Enhancement of the Core-Geth Client
-- Advanced Support and Refinement in Cross-Client Testing (Core Geth, Erigon, Core Geth Light, and Hyperledger Besu)
+2. 网络观察和分析进展（检查网络健康状况）：
+   - 节点基础设施用于观察和分析
+   - 升级链和网络监控及事件反应系统
+   - 升级网络分析工具
+   - 统一的基础设施管理（目前有许多服务器是手动管理的，计划使用一个称为Ansible的单一部署接口来统一管理）
 
-2. Network Observation and Analysis Advancements (to check network health):
+3. 技术开发和探索：
+   - EVM对象格式（EOF）：继续倡导将其包含到以太坊和ETC中（2024年下半年ETH的布拉格硬分叉可能包括EOF，但它与Verkle树竞争）
+   - EIP 1559：我们将探索在ETC上启用，以在这方面与以太坊完全保持一致
+   - Verkle树：我们将研究在没有信标链的情况下对ETC的影响（Patricia Merkle Tree将被Verkle Trees取代，以实现无状态客户端）
+   - 隐私导向的Geth部署，我们将研究在ETC的节点软件中添加隐私技术，如VPN服务
+   - 增强回归测试和自动化发布流程（更好地检查新版本对旧版本的影响等）
 
-- Node Infrastructure for Observation and Analysis
-- Upgrading Chain and Network Monitoring and Incident Reaction Systems
-- Upgrading Network Analysis Tooling
-- Unified Infrastructure Management (there are many servers managed manually, and the idea is to unify everything with a single deployment interface called Ansible)
+Istora Mandiri本人提出的路径如下：
 
-3. Technological Development and Exploration:
+1. 采用Erigon客户端：
+   - 以太坊经典的一个潜在路径是采用Erigon客户端，这将使网络更安全、更易访问。Erigon允许在更便宜的硬件上进行更快的同步和验证，使其成为更广泛用户的吸引选择，并增强ETC网络。
 
-- The EVM Object Format (EOF): To continue advocacy for inclusion to Ethereum and ETC (the Prague hard fork in ETH in the second half of 2024 may include EOF but it is competing with Verkle trees)
-- EIP 1559: We will be exploring enablement on ETC to have full parity with Ethereum in this aspect as well
-- Verkle Trees: We will research ETC implications in the absence of a beacon chain (the Patricia Merkle Tree will be replaced with Verkle Trees to enable stateless clients)
-- Privacy-Oriented Geth Deployment, we will study to add privacy technology to ETC’s node software such as VPN services
-- Enhancing regression testing and automating release processes (to better check how new releases affect older releases, etc.)
+2. 可升级性和EVM对象格式（EOF）：
+   - ETC的另一个可能方向是实施EVM对象格式（EOF），这将使以太坊虚拟机的可升级性成为可能。EOF对ETC特别有用，因为它在保持“代码即法律”原则的同时，打开了向后不兼容更新的大门。这也为更容易采用其他项目的EVM创新铺平了道路。
 
-Istora Mandiri himself proposed the following pathway:
+3. L2和隐私的密码学原语：
+   - ETC还可以通过增加类似于以太坊主网计划支持的密码学原语来支持L2协议并增强隐私功能。这些增加将为扩展和改进网络的整体功能提供坚实的基础。
 
-1. Erigon Client Adoption:
+4. L2扩展和兼容性：
+   - 虽然以太坊主网的长期目标是一级分片，目前的许多努力集中在L2协议上，如rollups。ETC可以利用这些技术并采用它们来实现兼容性和扩展。这将使以太坊经典能够与更广泛的以太坊生态系统共同成长。
 
-- One potential path for Ethereum Classic is the adoption of the Erigon client, which would make the network more secure and accessible. Erigon allows for faster syncing and validation on cheaper hardware, making it an attractive option for a wider range of users and strengthening the ETC network.
+而我在最近的一篇文章中提出的路线图如下：
 
-2. Upgradability and EVM Object Format (EOF):
+1. 取消MESS（修正指数主观评分）：我很高兴地报告，这已通过2024年2月5日激活的ETC硬分叉Spiral在主网中实施！
 
-- Another possible direction for ETC is the implementation of the EVM Object Format (EOF), which would enable upgradability of the Ethereum Virtual Machine. EOF is particularly useful for ETC as it opens the door to backwards-incompatible updates while maintaining the "Code is Law" principle. This also paves the way for more easily adopting EVM innovations made by other projects.
+2. 将Core Geth移动到以太坊经典社区GitHub库：这将恢复社区对节点客户端软件的主权。
 
-3. Cryptographic Primitives for L2 and Privacy:
+3. 解决账户和EVM版本系统的向后兼容性：这将解决每次硬分叉时智能合约中断的风险。
 
-- ETC may also benefit from adding cryptographic primitives similar to those planned for in Ethereum mainnet to support L2 protocols and enhance privacy features. These additions would provide a solid foundation for scaling and improving the overall functionality of the network.
+4. 开发工具以轻松审核ETC的实际供应：这将确保ETC的正确供应数量。
 
-4. L2 Scaling and Compatibility:
-
-- While Ethereum mainnet has long-term goals for layer-1 level sharding, much effort is currently focused on L2 protocols, such as rollups. ETC can take advantage of these technologies and adopt them for compatibility and scaling. This would allow Ethereum Classic to grow in tandem with the broader Ethereum ecosystem.
-
-And, the roadmap that I proposed in a recent article is the following:
-
-1. Cancel MESS (Modified Exponential Subjective Scoring): I am happy to report that this has been implemented with the ETC hard fork, Spiral, which was activated in the mainnet on February 5th of 2024!
-
-2. Move Core Geth to the Ethereum Classic community GitHub repository: This would restore sovereignty of the community on the node client software.
-
-3. Solve backward compatibility with the account and EVM versioning system: This would solve the risk of smart contracts breaking each time there is a hard fork.
-
-4. Develop a tool to easily audit the real supply of ETC: This would bring certainty to the correct supply number of ETC.
-
-5. Set the block size to 8 million gas: This would help to control bloat and take away from miners the ability to change the block size, as happened recently.
+5. 将区块大小设置为800万gas：这将有助于控制膨胀，并剥夺矿工改变区块大小的能力，如最近发生的那样。
 
 ---
 
-**Thank you for reading this article!**
+**感谢阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+了解更多关于ETC的信息，请访问：https://ethereumclassic.org
