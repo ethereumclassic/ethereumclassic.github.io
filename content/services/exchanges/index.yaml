@@ -445,6 +445,9 @@ items:
       Exolix:
         __link: https://exolix.com/
         __name: Exolix
+        Secureshift:
+        __link: https://secureshift.io/
+        __name: SecureShift
       FixedFloat:
         __link: https://fixedfloat.com/
         __name: FixedFloat
