@@ -14,7 +14,7 @@ linkImage: ./banner.png
 
 ---
 
-![](banner.png)
+![](./banner.png)
 
 In the previous class, 35, we explained why proof of work (POW) blockchains must be attackable to be secure, we went over the way POW works and how the bias to subjectivity could put at risk the consensus mechanism.
 
@@ -37,6 +37,8 @@ However, POW is not the cause!
 The inefficiency is caused by the rule of full replication of the database in all nodes globally, which requires smaller and slower blocks. Proof of Stake (POS) and Proof of Authority (POA) networks that require full replication have exactly the same inefficiency.
 
 ## Full Replication Is the Culprit
+
+![](./1.png)
 
 In a truly secure POW blockchain, both transactions and blocks are fully retransmitted to all participating nodes in the system. This is done so that all can keep and maintain an identical copy of the whole database.
 
