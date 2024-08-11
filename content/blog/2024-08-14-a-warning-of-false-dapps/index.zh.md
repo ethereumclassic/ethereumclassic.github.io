@@ -1,5 +1,5 @@
 ---
-title: "A Warning of False Dapps"
+title: "警告虚假去中心化应用程序 (Dapps)"
 date: 2024-08-14
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cJaw7Ma6yfk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,70 +16,68 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-With the advent of blockchain technology many opportunities for true decentralization in applications have emerged.
+随着区块链技术的兴起，许多实现应用程序真正去中心化的机会逐渐涌现。
 
-Decentralization is the reduction of the influence of trusted third parties in the operation of services that foster human action and thus the economy.
+去中心化是减少在促进人类行动及经济运作的服务中可信第三方的影响。这些服务可能包括支付和银行交易、交易所、投资服务，甚至是财产登记和所有权记录。
 
-These services may be payments and banking transactions, exchanges, investing services, and even property registries and ownership records.
+然而，开发团队为捕获价值的倾向使其中一些应用程序面临风险，因为中心化意味着更多的利润，但副作用是对这些服务的控制力也随之增加。
 
-However, the bias to capture value by developer teams has put at risk some of these applications as centralization means more profits but with the side effect of gaining more control over the services.
+在这篇文章中，我们将解释一些可能不像其创作者所宣传的那样去中心化的设计。
 
-In this post, we will explain some of the designs that may not be as decentralized as advertised by their creators.
+## 什么是应用程序和去中心化应用程序（Dapps）
 
-## What Are Apps and Dapps
+当我们使用电脑或手机时，会使用各种软件应用程序（即 App），如支付、银行、社交媒体、生产力工具等。
 
-When we use our computers or mobile phones we use software applications, also called apps, for payments, banking, social media, productivity, and many more use cases.
+由于这些服务由公司提供，并运行在其服务器上，因此它们是由这些可信第三方控制的中心化应用程序。
 
-As these services are provided by corporations and run on their servers, they are centralized applications controlled by these trusted third parties.
+当我们在区块链上使用类似的服务，如交易所、NFT、预测市场和其他由智能合约驱动的应用程序时，这些被称为去中心化应用程序，或 Dapps。
 
-When we use similar services such as exchanges, NFTs, prediction markets, and other smart contract powered applications on blockchains these are called decentralized applications or dapps.
+Dapps 应该是自主和去中心化的，因为它们运行在据称去中心化的平台上，使其信任最小化。
 
-Dapps are supposed to be autonomous and decentralized as they run on supposedly decentralized platforms which should make them trust minimized.
+## 中心化平台无法承载去中心化应用程序（Dapps）
 
-## Centralized Platforms Can’t Host Dapps
+应用程序和去中心化应用程序的运行方式是它们在称为操作系统的软件平台上运行。可编程的区块链可以被视为操作系统，因为它们提供了一种通用环境，可以部署智能合约来驱动各种 Dapps。
 
-The way applications and decentralized applications work is that they run on software platforms called operating systems. Programmable blockchains can be considered operating systems as they provide a generalized environment where smart contracts can be deployed to power all sorts of dapps.
+然而，正如企业云服务因受公司控制而中心化，进而受政府控制一样，使用权益证明（POS）或权威证明（POA）共识机制的区块链也是中心化的。
 
-However, just as corporate cloud services are centralized because they are controlled by corporations and, by extension, governments, blockchains that use the proof of stake (POS) or proof of authority (POA) consensus mechanism are also centralized.
+这意味着任何在 POS 或 POA 区块链上托管的 Dapp 也会是中心化的。
 
-This means that any dapp that is hosted in a POS or POA blockchain will also be centralized.
+因为如果底层操作系统可以被特殊利益控制，那么在其上运行的 Dapps 的所有功能也会受到相同特殊利益的影响。
 
-This is because if the underlying operating system can be controlled by special interests, then all the functions of dapps running on it will also be subject to capture by the same special interests.
+因此，即使 Dapp 设计得当，如果它运行在中心化平台上，它实际上也不会是去中心化的！
 
-For this reason, even if the dapp design is sound, if it runs on a centralized platform it will not actually be decentralized!
+## 去中心化区块链可以承载 Dapps 和 Apps
 
-## Decentralized Blockchains Can Host Both Dapps and Apps
+正如以太坊经典（ETC）生态系统的活跃参与者 Ronin 最近所解释的那样，中心化平台无法承载去中心化应用程序，但去中心化区块链可以承载中心化和去中心化应用程序。
 
-As Ronin, an active Ethereum Classic (ETC) ecosystem participant, explained recently, centralized platforms can’t host decentralized applications but decentralized blockchains can host both centralized and decentralized applications.
+理解这一点非常重要，因为很多人会误以为应用程序托管在区块链上就一定是去中心化的。
 
-This is very important to understand because many fall for the trick that because an app is hosted on a blockchain, then they believe it must be decentralized.
+但事实并非如此，因此用户需要警觉，并在使用这些服务之前自行教育。
 
-But this is not necessarily the case, therefore it is important to be able to discern these things.
+## 什么是假 Dapps
 
-## What Are False Dapps
+假 Dapps 的第一类是前面提到的那些，它们是设计良好的 Dapps，但部署在中心化区块链上，如 POS 或 POA 网络。
 
-The first category of false dapps are the ones mentioned above, which are well designed dapps but deployed on centralized blockchains such as POS or POA networks.
+第二类假 Dapps 是部署在真正去中心化区块链（如以太坊经典（ETC））上的应用程序，但由于设计原因，它们实际上是中心化的。
 
-The second kind of false dapps are applications that are deployed on truly decentralized blockchains such as Ethereum Classic (ETC) but that are really centralized due to their design.
+实际上，Dapps 可能表面上看起来是去中心化的，但如果它们集成了某些设计特性，那么它们会因为区块链外的外部利益或功能代表了单点风险或故障，或对其拥有绝对的集中控制权，而变得真正中心化。
 
-Indeed, dapps may have all the appearance of being decentralized but if certain design features are integrated in them, then they become really centralized because external interests or functions outside the blockchain may represent single points of risk or failure or have outright centralized power over them.
+## 假 Dapps 的五大特征
 
-## Five Signs of False Dapps
+为了帮助读者识别 ETC 和其他网络上的假 Dapps，我们列出了以下五种典型的设计特性，这些特性会使它们中心化。请注意，可能还有许多其他形式的 Dapps 中心化，因此用户需要保持警觉，并在采用这些服务前进行教育。
 
-As a guide to our readers to identify false dapps on ETC and other networks we list below five typical design features that make them centralized. Note that there may be many more forms of making dapps centralized so it is important for users to be alert and educate themselves before adopting these services.
+**依赖预言机的 Dapps:** 如果 Dapps 是在区块链内自包含的，它们可能是去中心化的，但如果它们依赖软件代理从链下资源中传递信息，那么这些代理，通常称为预言机，就成为了中心化的可信第三方。例如，算法稳定币和保险 Dapps 可能需要外部输入来确定价值和交易。
 
-**Dapps that depend on oracles:** If dapps are self contained inside the blockchain, then they may be decentralized, but if they depend on software agents to relay information from off chain sources then those agents, usually called oracles, become centralizing trusted third parties. Examples of these may be algorithmic stablecoins and insurance dapps that need external inputs to determine values and transactions.
+**有外部附件的 Dapps:** 类似于依赖链下数据的预言机，如果 Dapps 依赖外部附件，无论是数字的还是物理的对象，那么附件机制和外部对象的位置就成为中心化的因素。例如，代表区块链外资产的 NFT 和稳定币。
 
-**Dapps with external attachments:** Similar to oracles that depend on off chain data, if dapps depend on external attachments, either to digital or physical objects, then the attachment mechanisms and the location of the external objects become the centralizing factors. Examples may be NFTs and stablecoins that represent assets that are located outside the blockchain.
+**治理代币:** 具有治理功能的 Dapps，例如投票权、决策属性、提供某种所有权或权利分红或利息的 Dapps，是合成公司或合伙企业，并将在法律上被视为如此。这些 Dapps 实际上是中心化的，因为它们可以由投票多数控制，而这正是区块链技术试图避免的事情！这尤其问题严重，因为通常很少有治理代币持有人真正参与投票和这些机制。
 
-**Governance tokens:** Dapps that have governance features such as voting rights, decision making attributes, provide some sort of ownership, or rights to dividends or interest are synthetic corporations or partnerships and will legally be treated as such. These dapps are really centralized because they can be controlled by voting majorities which is one of the things blockchain technology was trying to avoid! This is made even more problematic as usually very few governance token holders actually vote and participate in these mechanisms.
+**功能代币:** 由功能代币驱动的 Dapps 是那些需要特定代币来激活其功能或特点的 Dapps。功能代币是中心化的风险，因为它们通常一开始就不需要，因为它们的功能可以通过区块链的本地加密货币支付，而且它们被创造出来即使不需要，也显示了开发者未来控制的倾向。
 
-**Utility tokens:** Utility token powered dapps are those that need a specific token to activate their features or functionality. Utility tokens are a risk of centralization because they are usually not needed in the first place as their features could be paid for by the blockchain’s native cryptocurrency, and the fact that they are created even if not needed shows an inclination by developers to exercise future control.
-
-**Promise of future cash flows:** Similar to utility tokens, if dapps promise future cash flows in the form of interest or dividends then those dapps will be prone to centralization. It is a matter of adding voting to them that they will become captured by special interests and the future revenues are in themselves and incentive to do so.
+**未来现金流的承诺:** 类似于功能代币，如果 Dapps 承诺未来的现金流形式的利息或股息，那么这些 Dapps 将容易中心化。只需向它们添加投票功能，它们就会被特殊利益所控制，而未来的收入本身就是这么做的激励。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于 ETC 的信息，请访问: https://ethereumclassic.org
