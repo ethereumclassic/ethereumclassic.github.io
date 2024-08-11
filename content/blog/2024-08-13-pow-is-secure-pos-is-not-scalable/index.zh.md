@@ -1,5 +1,5 @@
 ---
-title: "POW Is Secure, POS Is (Not) Scalable"
+title: "工作量证明是安全的，权益证明（不）具有可扩展性"
 date: 2024-08-13
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nh2OPLswPSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,62 +16,62 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-## The Original Idea Was Full Replication of the Information
+## 最初的想法是信息的完全复制
 
-In his 1998 essay “[Secure Property Titles with Owner Authority](https://nakamotoinstitute.org/library/secure-property-titles/)” Nick Szabo, a blockchain pioneer, laid the foundation of how to secure property ownership and transfers in decentralized networks.
+在 1998 年的文章《通过所有者权威保护财产权》中，区块链先驱 Nick Szabo 奠定了如何在去中心化网络中保护财产所有权和转让的基础。
 
-These ideas later became a reality in networks such as Bitcoin (BTC) and Ethereum Classic (ETC) powering the control and transfer of money and other crypto assets.
+这些想法后来在比特币（BTC）和以太坊经典（ETC）等网络中成为现实，推动了货币和其他加密资产的控制和转移。
 
-The basic assumption made in his proposal was that the information of the ownership records would be replicated in all participating nodes of the network.
+他提出的基本假设是所有权记录的信息将在网络的所有参与节点中复制。
 
-This replication would provide security to users in three forms: trust minimization, redundancy of the property data on a global scale, and the ability to split from the network with the correct information in case of corruption.
+这种复制将为用户提供三种形式的安全性：信任最小化、全球范围内的财产数据冗余，以及在发生腐败时能够携带正确信息从网络中分离出来。
 
-## Proof of Work Consensus Was Just a Way To Synchronize the Nodes
+## 工作量证明共识只是同步节点的一种方式
 
-It is likely that Satoshi Nakamoto stumbled with the solution of proof of work (POW) as a consensus mechanism. 
+很可能中本聪偶然发现了工作量证明（POW）作为共识机制的解决方案。
 
-POW was really a way of producing Bit Gold, but the discovery that it could be used as the way to synchronize the nodes to be on the same page at the same time every ten minutes was the key to the creation of Bitcoin.
+POW 本质上是一种生成 Bit Gold 的方式，但他发现它可以用来同步所有节点，使其每十分钟都保持一致，这是比特币诞生的关键。
 
-As of that moment, POW was not only a method of producing a scarce digital object but also became the mechanism by which all nodes in the network would keep a fully replicated copy of the data.
+从那一刻起，POW 不仅仅是生成稀缺数字对象的方法，还是使网络中所有节点保持完整复制数据的机制。
 
-Up to this moment, the security model was trust minimization, redundancy, and splitting ability, but POW had something else in store.
+到此为止，安全模型是信任最小化、冗余和分裂能力，但 POW 还带来了其他东西。
 
-## Then Proof of Work Became Part of the Security Model
+## 然后工作量证明成为安全模型的一部分
 
-Indeed, not only did POW produce digital scarcity, or digital gold in the form of Bit Gold, and consensus for all the nodes to keep the same exact copy of the database, but it also became an additional security mechanism, or a complement of the security model, by providing a barrier for attackers to corrupt the system.
+实际上，POW 不仅生成了数字稀缺性，或以 Bit Gold 形式出现的数字黄金，以及让所有节点保持相同数据副本的共识，它还通过为攻击者设置障碍来腐败系统，成为了安全模型的一个额外安全机制，或者说是安全模型的补充。
 
-As the way to produce Bit Gold requires a lot of work, and that work is what informs all nodes in the system to be synchronized in consensus, that same work then became a security component of the system by requiring anyone trying to reorganize the blockchain to do the whole work again. 
+因为生成 Bit Gold 的方法需要大量工作，而这种工作正是使系统中的所有节点在共识中同步的关键，这同样的工作也成为了系统的一个安全组成部分，因为它要求任何试图重新组织区块链的人都必须重新完成整个工作。
 
-This feature added an incredibly powerful protection to the database that was already secure by the distribution of the information in all nodes of the system.
+这一特性为已经通过在系统中所有节点中分布信息而安全的数据库增加了极其强大的保护。
 
-## But Full Replication Is Not Scalable
+## 但完全复制并不具有可扩展性
 
-However, the mere feature of full replication of the information is a complex process that imposes different kinds of costs to the system.
+然而，信息完全复制这一特性本身是一个复杂的过程，这对系统施加了不同类型的成本。
 
-In order to have all accounts, balances, smart contracts, and transactions distributed and replicated in all machines participating in the network, a lot of effort and time, consuming a lot of resources, is necessary.
+为了将所有账户、余额、智能合约和交易分布并复制到网络中所有参与的机器上，需要耗费大量的时间和资源。
 
-If the idea of blockchains is to have as many nodes in the network replicating the data, then those nodes would need more bandwidth, local processing power, and storage capacity to be able to accommodate the growth of the system.
+如果区块链的理念是让尽可能多的节点在网络中复制数据，那么这些节点就需要更多的带宽、本地处理能力和存储容量，以适应系统的增长。
 
-These restrictions imposed a limit in the size of the data that can be processed per round, therefore imposing a limit in the scalability of the system as measured by transactions per second.
+这些限制对每一轮可以处理的数据量设置了限制，因此限制了系统按每秒交易量衡量的可扩展性。
 
-## Proof of Stake Is Not Secure Because it Is Centralized
+## 权益证明不安全，因为它是中心化的
 
-Many in the blockchain industry believe that POW is the reason for the lack of scalability in these systems, but the truth is that the requirement of replicating the information is.
+区块链行业的许多人认为，POW 是这些系统缺乏可扩展性的原因，但事实是，真正的原因是信息复制的要求。
 
-Nevertheless, in search of scalability, and also to “save trees”, many projects have followed the path of proof of stake (POS) that doesn’t require POW mining, to solve the problem.
+然而，为了追求可扩展性，同时也为了“节约资源”，许多项目走上了不需要 POW 挖矿的权益证明（POS）道路，以解决这一问题。
 
-The problem with POS is that by not requiring work it lost the key component that enabled consensus in a decentralized way; it does not impose a cost to create the money; and it removed the barrier to prevent attackers to corrupt the system!
+POS 的问题在于，不需要工作就失去了在去中心化方式下实现共识的关键组成部分；它不需要成本来创造货币；并且它取消了阻止攻击者腐败系统的障碍！
 
-All these design changes have made POS blockchains centralized systems.
+所有这些设计变化使得 POS 区块链成为中心化系统。
 
-## Therefore Proof of Stake Is Insecure and Unscalable!
+## 因此，权益证明既不安全也不可扩展！
 
-So, if POW was just a mere means to accomplish the real goal of blockchains, which is full replication of the information; and it also added more security attributes to the system; but all these benefits were removed from POS networks; and if full replication is what makes blockchains unscalable; then proof of stake cryptocurrencies are not only not secure but also not scalable!
+因此，如果 POW 只是实现区块链真正目标的手段，即信息的完全复制；同时它还为系统增加了更多的安全属性；但所有这些好处都在 POS 网络中被移除；如果完全复制是导致区块链不可扩展的原因；那么权益证明加密货币不仅不安全，而且也不可扩展！
 
-This astounding reality is one of the most perplexing things in the industry: The reversal of all benefits and attributes of a new technology to pursue goals that were not accomplished and that actually reduced the promises of the whole experiment!
+这个惊人的现实是该行业中最令人困惑的事情之一：为了追求未能实现的目标而逆转新技术的所有好处和属性，实际上削弱了整个实验的承诺！
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+要了解更多关于 ETC 的信息，请访问: https://ethereumclassic.org
