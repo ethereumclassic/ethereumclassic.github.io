@@ -475,6 +475,9 @@ items:
       XChange:
         __link: https://www.xchange.me/
         __name: XChange
+      Secureshift:
+        __link: https://secureshift.io/
+        __name: SecureShift
   NFT Marketplaces:
     __type: buttons
     title: NFT Marketplaces

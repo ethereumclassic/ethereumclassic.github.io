@@ -34,6 +34,9 @@ items:
   pools:
     __type: buttons
     items:
+      PoolNode:
+        __name: PoolNode
+        __link: https://etc.pool-node.com/
       2Miners:
         __name: 2Miners
         __link: https://2miners.com/etc-mining-pool
