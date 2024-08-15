@@ -13,7 +13,7 @@ People could buy gold instead of Bitcoin (BTC) or Ethereum Classic (ETC), but in
 
 The reasons for this may revolve around trust minimization, self custody risks, and long distance transfers.
 
-Currently, the great majority of people must be investing in BTC and ETC for the upside potential and expected returns, but payments will be an increasingly important use case as time passes by, especially if we expect crises and globalization which would increase centralized control of our lives.
+Currently, the great majority of people must be investing in BTC and ETC for the upside potential and expected returns, but payments will be an increasingly important use case as time passes by, especially if we expect crises and globalization which would increase centralized control over our lives.
 
 ## Trust Minimization
 
@@ -23,15 +23,19 @@ Additionally BTC and ETC depend on trusted third parties, albeit well decentrali
 
 Gold may be physically held which means that there are no banking institutions, service providers, developers, or miners that would pose a risk to our holdings.
 
-This may represent a complementation between the two types of investment rather than a competition.
+This may represent a complementation between the two types of investment rather than a competition as we will explain below.
+
+One thing that gold bugs must understand is that holding gold at a financial institution is not trust minimized and confers no benefits in moments of stress. 
+
+Similarly, BTC and ETC holders should be aware that holding their crypto assets in centralized exchanges is no different than the traditional way of banking institutions.
 
 ## Self Custody Risks
 
 The similarity between digital gold, such as BTC and ETC, and real physical gold is that holding physical gold is not very different than holding the private keys of addresses in the Bitcoin and Ethereum Classic blockchains. In this sense, the risks are similar.
 
-Physically held gold must be stashed somewhere secretly at home or other places. If government or thieves were to try to steal or confiscate it, they they would have to go through the trouble of searching for it and retrieving it even if we resist.
+Physically held gold must be stashed somewhere secretly at home or other places. If government or thieves were to try to steal or confiscate it, then they would have to go through the trouble of searching for it and retrieving it even if we resist.
 
-The same happens with BTC or ETC, the only way to steal or confiscate crypto is by seizing the private keys of the owner.
+The same happens with BTC or ETC, the only way to steal or confiscate crypto is by seizing the private keys from the owner.
 
 But this kind of self custody is precisely the reason why people started to deposit their gold with gold smiths 600 years ago!
 
@@ -68,11 +72,11 @@ In 2010 [he wrote](https://bitcointalk.org/index.php?topic=583.msg11405#msg11405
 
 So, given these comparisons between physical gold and crypto, what is the solution to storing our wealth in a world that seems to be increasingly risky with regards to central control and potential dystopia?
 
-Well, in a way BTC and ETC are physically held as gold is.
+Well, in a way BTC and ETC are physically held as gold is, but they have the advantage that they may be tranfered long distance through the internet.
 
-If we think about it, the best method is to use a non-custodial wallet with our own private keys, but to secure our private keys we need to write down our secret passphrases and store them in paper, which is a form of physical custody!
+The best method to hold crypto is to use a non-custodial wallet with our own private keys, but to secure our private keys we need to write down our secret passphrases and store them in paper, which is a form of physical custody!
 
-But the difference is that with physical gold, we can hold a limited amount of value because it would be very cumbersome and revealing to bad actors to walk around with 3 kilos of the metal.
+Another difference is that with physical gold, we can hold a limited amount of value because, for example, it would be very cumbersome and revealing to bad actors to walk around with 3 kilos of the metal!
 
 With Bitcoin and ETC, we can carry billions of dollars in value with a single secret passphrase. 
 
@@ -80,11 +84,9 @@ This is a major advantage.
 
 However, when the big crises comes and we find ourselves with our loved ones isolated in places with no internet, then these advantages of crypto are not that great because it will not be accessible.
 
-Perhaps a better and balanced approach is to distribute our wealth between gold coins, silver coins, and other physical items that may hold value during severe crises, such as ammo or first aid medications such as common antibiotics.
+Perhaps a better and balanced approach is to distribute our wealth between gold coins, silver coins, and other physical items that may hold value during severe crises, such as ammo or first aid medications, such as common antibiotics, but to also have a considerable share of BTC and ETC in our emergency savings.
 
 Because we may have intermittent internet access, then having a portion of our survival reserves in BTC and ETC will also be certainly useful.
-
-Especially to avoid centralized control of our wealth and money.
 
 ---
 
