@@ -1,5 +1,5 @@
 ---
-title: "Why Would People Prefer Bitcoin and Ethereum Classic Rather Than Gold?"
+title: "为什么人们会更愿意选择比特币和以太坊经典，而不是黄金？"
 date: 2024-08-27
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -9,87 +9,85 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-People could buy gold instead of Bitcoin (BTC) or Ethereum Classic (ETC), but in a connected world, it is sometimes better to hold BTC and ETC rather than gold. 
+人们可以购买黄金而不是比特币（BTC）或以太坊经典（ETC），但在一个互联的世界中，有时持有BTC和ETC比持有黄金更为有利。
 
-The reasons for this may revolve around trust minimization, self custody risks, and long distance transfers.
+这种选择背后的原因可能涉及信任最小化、自主托管风险以及远距离转账的便利性。
 
-Currently, the great majority of people must be investing in BTC and ETC for the upside potential and expected returns, but payments will be an increasingly important use case as time passes by, especially if we expect crises and globalization which would increase centralized control over our lives.
+目前，大多数人投资BTC和ETC可能是因为它们的潜在收益和预期回报，但随着时间的推移，支付功能将变得越来越重要，特别是在我们预期危机和全球化的背景下，这会增加对我们生活的集中控制。
 
-## Trust Minimization
+## 信任最小化
 
-Physical gold may be even more trust minimized than Bitcoin and Ethereum Classic. After all, BTC and ETC are on the internet, which means that if there are outages, then there is no accessible money!
+实物黄金可能比比特币和以太坊经典在信任最小化方面更具优势。毕竟，BTC和ETC都依赖互联网，这意味着如果网络中断，那么这些货币将无法访问！
 
-Additionally BTC and ETC depend on trusted third parties, albeit well decentralized, such as core developers, node operators, and miners.
+此外，BTC和ETC虽然是去中心化的，但仍然依赖于一些可信的第三方，如核心开发者、节点运营商和矿工。
 
-Gold may be physically held which means that there are no banking institutions, service providers, developers, or miners that would pose a risk to our holdings.
+而黄金可以实体持有，这意味着没有银行机构、服务提供商、开发者或矿工会对我们的资产构成风险。
 
-This may represent a complementation between the two types of investment rather than a competition as we will explain below.
+这意味着两种投资类型之间可能存在互补性，而不是竞争关系，正如我们将在下文解释的那样。
 
-One thing that gold bugs must understand is that holding gold at a financial institution is not trust minimized and confers no benefits in moments of stress. 
+黄金爱好者需要明白的是，将黄金存放在金融机构中并不是信任最小化的选择，在压力时刻也不会带来任何好处。
 
-Similarly, BTC and ETC holders should be aware that holding their crypto assets in centralized exchanges is no different than the traditional way of banking institutions.
+同样，BTC和ETC的持有者也应意识到，将加密资产存放在中心化交易所与传统银行机构的方式没有区别。
 
-## Self Custody Risks
+## 自主托管风险
 
-The similarity between digital gold, such as BTC and ETC, and real physical gold is that holding physical gold is not very different than holding the private keys of addresses in the Bitcoin and Ethereum Classic blockchains. In this sense, the risks are similar.
+数字黄金（如BTC和ETC）与真实实物黄金的相似之处在于，持有实物黄金与持有比特币和以太坊经典区块链地址的私钥没有太大区别。从这个意义上说，两者的风险是相似的。
 
-Physically held gold must be stashed somewhere secretly at home or other places. If government or thieves were to try to steal or confiscate it, then they would have to go through the trouble of searching for it and retrieving it even if we resist.
+实物黄金必须秘密存放在家中或其他地方。如果政府或窃贼试图偷窃或没收它，他们必须费尽心力去寻找并夺取它，即使我们抵抗也是如此。
 
-The same happens with BTC or ETC, the only way to steal or confiscate crypto is by seizing the private keys from the owner.
+同样，BTC或ETC也只有通过从持有者手中夺取私钥的方式才能被盗或没收。
 
-But this kind of self custody is precisely the reason why people started to deposit their gold with gold smiths 600 years ago!
+但正是这种自我托管的原因，促使人们600年前开始将黄金存放在金匠那里！
 
-The convenience of having a third party build the secure facilities to hold valuable assets was a main driver for the creation of banking in the first place.
+让第三方建立安全设施来存放贵重资产的便利性是银行业最初发展的主要推动力之一。
 
-## Long Distance Transfers
+## 远距离转账
 
-However, gold is not transferable over a telecommunications channel as BTC or ETC are.
+然而，黄金无法像BTC或ETC那样通过电信渠道进行转移。
 
-An amazing explanation that Satoshi Nakamoto, the creator of Bitcoin, gave comparing physical gold and Bitcoin was precisely the ability of BTC to be transmitted over a communications channel.
+比特币的创造者中本聪给出的一个关于物理黄金和比特币之间对比的精彩解释，正是BTC能够通过通信渠道进行传输的能力。
 
-In 2010 [he wrote](https://bitcointalk.org/index.php?topic=583.msg11405#msg11405):
+2010年，他[写道](https://bitcointalk.org/index.php?topic=583.msg11405#msg11405)：
 
-*“As a thought experiment, imagine there was a base metal as scarce as gold but with the following properties:*
+*“作为一种思想实验，想象有一种像黄金一样稀缺的基础金属，但具有以下属性：*
 
-*- boring grey in colour*
-*- not a good conductor of electricity*
-*- not particularly strong, but not ductile or easily malleable either*
-*- not useful for any practical or ornamental purpose*
+*- 无聊的灰色*
+*- 不是良好的导电体*
+*- 不特别坚固，也不容易延展或可锻造*
+*- 不适合任何实际用途或装饰用途*
 
-*and one special, magical property:*
+*以及一个特别的、神奇的属性：*
 
-*- can be transported over a communications channel*
+*- 可以通过通信渠道传输*
 
-*If it somehow acquired any value at all for whatever reason, then anyone wanting to transfer wealth over a long distance could buy some, transmit it, and have the recipient sell it.*
+*如果它出于任何原因获得了任何价值，那么任何想要长距离转移财富的人都可以购买一些，传输它，并让接收者出售它。*
 
-*Maybe it could get an initial value circularly as you've suggested, by people foreseeing its potential usefulness for exchange.  (I would definitely want some)  Maybe collectors, any random reason could spark it.*
+*也许它可以通过你所建议的方式，通过人们预见其在交换中的潜在用途而获得初始价值。（我肯定会想要一些）也许是收藏家，任何随机原因都可能激发其价值。*
 
-*I think the traditional qualifications for money were written with the assumption that there are so many competing objects in the world that are scarce, an object with the automatic bootstrap of intrinsic value will surely win out over those without intrinsic value.  But if there were nothing in the world with intrinsic value that could be used as money, only scarce but no intrinsic value, I think people would still take up something.*
+*我认为传统的货币资格标准是基于世界上有这么多竞争性物品的假设，这些物品稀缺，并且具有内在价值，而那些没有内在价值的物品将肯定会被那些拥有内在价值的物品击败。但是，如果世界上没有任何具有内在价值的物品可以用作货币，只有稀缺但没有内在价值的物品，我认为人们仍然会选择某种东西。”*
 
-*(I'm using the word scarce here to only mean limited potential supply)”*
+## 最佳策略是什么？
 
-## What Is the Best Strategy to Follow?
+那么，鉴于实物黄金和加密货币之间的对比，在一个似乎越来越面临集中控制和潜在反乌托邦风险的世界中，储存财富的最佳解决方案是什么？
 
-So, given these comparisons between physical gold and crypto, what is the solution to storing our wealth in a world that seems to be increasingly risky with regards to central control and potential dystopia?
+实际上，BTC和ETC在某种程度上和黄金一样是实物持有的，但它们具有可以通过互联网进行远距离转移的优势。
 
-Well, in a way BTC and ETC are physically held as gold is, but they have the advantage that they may be tranfered long distance through the internet.
+持有加密货币的最佳方式是使用一个非托管钱包并掌握自己的私钥，但为了保护我们的私钥，我们需要将秘密助记词写在纸上保存，这也是一种物理托管的形式！
 
-The best method to hold crypto is to use a non-custodial wallet with our own private keys, but to secure our private keys we need to write down our secret passphrases and store them in paper, which is a form of physical custody!
+另一个不同之处在于，持有实物黄金时，我们能持有的价值是有限的，例如，携带3公斤黄金四处走动会非常麻烦，而且容易引起不法分子的注意！
 
-Another difference is that with physical gold, we can hold a limited amount of value because, for example, it would be very cumbersome and revealing to bad actors to walk around with 3 kilos of the metal!
+而通过比特币和ETC，我们可以通过一个秘密助记词携带价值数十亿美元的资产。
 
-With Bitcoin and ETC, we can carry billions of dollars in value with a single secret passphrase. 
+这是一个巨大的优势。
 
-This is a major advantage.
+然而，当大危机来临，我们发现自己和亲人被困在没有互联网的地方时，这些加密货币的优势就显得不那么大了，因为它们将无法访问。
 
-However, when the big crises comes and we find ourselves with our loved ones isolated in places with no internet, then these advantages of crypto are not that great because it will not be accessible.
+或许更好、更平衡的方法是将我们的财富分散在金币、银币和其他在严重危机中可能具有价值的实物项目上，如弹药或常见抗生素等急救药物，同时在我们的应急储蓄中也拥有相当比例的BTC和ETC。
 
-Perhaps a better and balanced approach is to distribute our wealth between gold coins, silver coins, and other physical items that may hold value during severe crises, such as ammo or first aid medications, such as common antibiotics, but to also have a considerable share of BTC and ETC in our emergency savings.
-
-Because we may have intermittent internet access, then having a portion of our survival reserves in BTC and ETC will also be certainly useful.
+因为我们可能会间歇性地访问互联网，因此在我们的生存储备中拥有一部分BTC和ETC肯定也会非常有用。
 
 ---
 
-**Thank you for reading this article!**
+**感谢您阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+想了解更多关于ETC的信息，请访问：https://ethereumclassic.org
