@@ -1,5 +1,5 @@
 ---
-title: "ETC Proof of Work Course: 37. POW Is Not Inefficient nor Wastes Energy"
+title: "ETC工作量证明课程：第37课。工作量证明既不低效也不浪费能源"
 date: 2024-08-29
 author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
@@ -8,7 +8,7 @@ linkImage: ./banner.png
 ---
 
 ---
-**You can listen to or watch this video here:**
+**由此收听或观看本期内容:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5qFsUiL_UuM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -16,41 +16,41 @@ linkImage: ./banner.png
 
 ![](./banner.png)
 
-In the previous class, 36, we explained that it is not the work in proof of work (POW) that makes blockchains unscalable, and we talked about the elements that make these kinds of networks limited in this dimension.
+在上一节课（第36课）中，我们解释了区块链的不可扩展性并非源于工作量证明（POW）中的工作本身，同时我们探讨了导致这类网络在这一维度上受到限制的因素。
 
-In a similar vein, in this class, 37, we will explain that POW blockchains are not inefficient because they require so much computing power and electricity to achieve consensus. 
+延续这个主题，在本节课（第37课）中，我们将解释POW区块链并非因为需要大量计算能力和电力来达成共识而低效。
 
-Indeed, the high cost of producing the cryptographic stamp is precisely the point of these systems!
+事实上，产生加密戳的高成本正是这些系统的核心要点！
 
-This is because proof of work is the only mechanism that enables consensus with the highest security guaranty known to man.
+这是因为工作量证明是唯一能够提供最高安全保障的共识机制。
 
-## Debunking the Supposed Inefficiency of POW
+## 驳斥POW所谓的低效性
 
-After the invention of Bitcoin, people with no understanding started to falsely question the “inefficiency” and “waste of energy” of the POW consensus mechanism.
-The fallacy that proof of work is inefficient is debunked by two arguments:
+在比特币发明之后，一些不了解的人开始错误地质疑POW共识机制的“低效性”和“能源浪费”。
+关于工作量证明低效的谬论可以通过以下两个论点来驳斥：
 
-1. The high cost of producing the cryptographic stamp is precisely the whole point of the method. Without that work done, then there would be no information available for participants worldwide to discern which is the correct block or chain in the network in their complete isolation.
+1. 产生加密戳的高成本正是这一方法的全部意义所在。如果没有完成这项工作，参与者就无法在全球范围内完全孤立的情况下辨别出网络中正确的区块或链。
 
-2. The true inefficiency is NOT proof of work. As we said in the previous class, proof of work and proof of stake are equally inefficient in terms of scalability because the rule of full replication of the data is what obligates the protocol design to create smaller blocks that fit less transactions per block.
+2. 真正的低效并非来自工作量证明。正如我们在上一节课中所说，工作量证明和权益证明在可扩展性方面同样低效，因为数据的完全复制规则要求协议设计创建较小的区块，使得每个区块容纳的交易数量减少。
 
-## Debunking the POW Waste of Energy Fallacy
+## 驳斥POW浪费能源的谬论
 
-The fallacy that proof of work wastes energy is debunked by four arguments:
+关于工作量证明浪费能源的谬论可以通过以下四个论点来驳斥：
 
-1. As we taught in previous classes, POW enables consensus between all computers in a global permissionless peer-to-peer network with the highest security guaranty known to man.
+1. 正如我们在前几节课中所教授的，POW使全球无许可的点对点网络中的所有计算机能够达成最高安全保障的共识。
 
-2. POW provides a focal point for entry, exit, and reentry of any participant in their world in their complete isolation without any certification, license, special interest dispensation, or authority approval.
+2. POW为任何参与者提供了一个进入、退出和重新进入网络的焦点，这可以在完全孤立的情况下进行，无需任何认证、许可证、特殊利益分配或授权批准。
 
-3. POW protects all the history of transactions of the ledger by forming a practically inviolable cryptographic wall.
+3. POW通过形成一个几乎无法侵犯的加密壁垒来保护账本中的所有交易历史。
 
-4. POW creates hard money because the cost of creating blocks is equal to the cost of creating the cryptocurrency, just like gold in the physical world.
+4. POW创造了硬通货，因为创建区块的成本等同于创造加密货币的成本，就像现实世界中的黄金一样。
 
-All these benefits combined have unprecedented value for human action globally, which is hardly an inefficiency or waste.
+所有这些好处的结合为全球范围内的人类行动带来了前所未有的价值，显然这并非低效或浪费。
 
-Proof of work is good for the world.
+工作量证明对世界有益。
 
 ---
 
-**Thank you for reading this article!**
+**感谢阅读本文！**
 
-To learn more about ETC please go to: https://ethereumclassic.org
+想了解更多关于ETC的信息，请访问：https://ethereumclassic.org
