@@ -71,11 +71,22 @@ learn:
       name: Knowledge
       description: Further reading on the foundations that underpin ETC
       navItems:
-        course:
+        courses:
           __link: /knowledge/course
-          name: Course
-          description: A structured video and article series about Ethereum Classic
+          name: Courses
+          description: Structured video and article series about Ethereum Classic
           __icon: hat
+          navItems:
+            ethereum-classic:
+              __link: /knowledge/course/ethereum-classic
+              name: Ethereum Classic
+              description: A course on the background of the blockchain industry and how Ethereum Classic fits in.
+              __icon: etc
+            proof-of-work:
+              __link: /knowledge/course/proof-of-work
+              name: Proof of Work
+              description: A course on why POW is so revolutionary and how ETC benefits from it.
+              __icon: hardhat
         foundation:
           __link: /knowledge/foundation
           name: Foundation
