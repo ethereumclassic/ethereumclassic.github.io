@@ -48,7 +48,7 @@ Accounts and balances and smart contracts are the components that enable basic r
 
 **Accounts and balances:** The addresses and accounts in blockchains such as Bitcoin and ETC are the actual property registries. These accounts with their balances and other assets assigned to them enable users to exclusively control their wealth and applications through their private keys.
 
-**Decentralized applications (Dapps):** As smart contracts are unstoppable and provide general programmability, dapps (which is the the name applications inside these decentralized systems) enable a more ample number of rights that are very difficult to tamper with, attack, interrupt, or intervene.
+**Decentralized applications (Dapps):** As smart contracts are unstoppable and provide general programmability, dapps (which is the name applications inside these decentralized systems) enable a more ample number of rights that are very difficult to tamper with, attack, interrupt, or intervene.
 
 ## The Security Attributes of These Components
 

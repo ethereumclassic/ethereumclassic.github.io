@@ -56,7 +56,7 @@ The great majority of users in ETC send transactions and do their queries using 
 
 ## The Risks of Third Party Nodes
 
-In a way, a blockchain is a kind of trusted third party, but the fact the the network is decentralized, and the data is replicated in all nodes globally, minimizes the influence of these trusted third parties to a sufficient degree that the security to users’ is very high.
+In a way, a blockchain is a kind of trusted third party, but the fact the network is decentralized, and the data is replicated in all nodes globally, minimizes the influence of these trusted third parties to a sufficient degree that the security to users’ is very high.
 
 However, even if one uses their own private keys and addresses, if the sending of transactions and querying of the blockchain is done through remote trusted third party nodes, then a significant part of the security to users is diminished.
 

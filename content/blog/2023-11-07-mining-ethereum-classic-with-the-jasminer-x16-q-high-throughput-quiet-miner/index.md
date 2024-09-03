@@ -126,7 +126,7 @@ In the following section we explain how to do this.
 
 ![](./6.png)
 
-To configure your miner to point to your mining pool, go to the the “Settings” tab again, and then click the “Miner” link.
+To configure your miner to point to your mining pool, go to the “Settings” tab again, and then click the “Miner” link.
 
 In the next screen you will see forms with fields to enter the data for several pools. This is for backup in case one pool is down, so your miner can jump to the other.
 
