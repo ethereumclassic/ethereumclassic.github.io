@@ -38,7 +38,7 @@ The history of how proof of work ended up inside Bitcoin and then in Ethereum Cl
 
 When Nick Szabo saw the mechanics of HashCash he immediately realized that the proof of work and the computational work that computers had to do to create them was analogous to gold, hence [Bit Gold](https://nakamotoinstitute.org/bit-gold/). 
 
-In the the real world a unit of gold is like a proof that a gold miner did a lot of work to find it, this is the reason for the use of the term “mining” in proof of work blockchains.
+In the real world a unit of gold is like a proof that a gold miner did a lot of work to find it, this is the reason for the use of the term “mining” in proof of work blockchains.
 
 However, POW is not the consensus mechanism itself, as we explained in the previous section, it is just one of the steps, albeit the most critical one, in Nakamoto Consensus.
 
