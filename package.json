@@ -64,6 +64,6 @@
     "@emotion/styled": "^11.10.4",
     "eslint-config-react-app": "^6.0.0",
     "gatsby-plugin-emotion": "^7.24.0",
-    "twin.macro": "^2.8.2"
+    "twin.macro": "^3.4.1"
   }
 }
