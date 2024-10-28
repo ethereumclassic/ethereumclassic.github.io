@@ -1,3 +1,22 @@
+- date: 2024-10-28
+  title: ETCeria
+  description: |-
+    ETCeria is the first unique set of digital collectables on Ethereum Classic from 2015. Initially underrecognized, the project gained traction when its contract was rediscovered and fully minted out in August, 2021.
+
+    ETCeria tiles are part of a digital landscape, comprising a 32x32 grid of hexagon-shaped tiles with varied elevation levels. 457 of these tiles are designated as ownable land and are freely tradable on the marketplace, offering a unique opportunity for collectors.
+  image: ./images/241028-2122-etceria.png
+  type: nfts
+  author: tschoerv
+  authorLink: https://x.com/tschoerv
+  verifiedContract: https://etc.blockscout.com/address/0x8F06AB435346B0143E26562BE961FAB8119aAd6b
+  openSource: https://github.com/tschoerv/ETCeria_marketplace
+  ipfsFrontend: https://etceria.eth.limo/
+  links:
+    - name: Launch App
+      link: https://etceria.eth.limo/
+    - name: NFT Relics Discord
+      link: https://discord.gg/nft-relics
+      icon: discord
 - title: ETCswap V3
   date: 2024-09-22
   image: ./images/etcswap.png
