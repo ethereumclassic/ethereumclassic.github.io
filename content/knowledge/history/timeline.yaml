@@ -326,6 +326,7 @@ items:
     text: Grayscale signals long-term support for Ethereum Classic protocol development by sponsoring the ETC Cooperative team with a portion of their ETCG management fees. Donations to the non-profit are tax-deductable.
   etcSummitHK:
     title: ETC Summit 2017
+    __dateText: ETC Conference
     __date: 2017-11-12
     __color: purple
     __icon: users
@@ -378,6 +379,7 @@ items:
     text: ETC Cooperative funds the development of the Kotti testnet, a Proof-of-Authority testnet constructed to provide interoperability testing with sister-chain ETH's Görli Testnet. PoA becomes the preferred testnet environment for dapp development testing.
   etcSummitSeoul:
     title: ETC Summit 2018
+    __dateText: ETC Cooperative
     __date: 2018-09-12
     __color: purple
     __icon: users
@@ -426,8 +428,9 @@ items:
     __link: /blog/2019-09-12-atlantis-hard-fork-upgrade/
     text: Ethereum Classic core developers implement ETH's Spurious Dragon and Byzantium network protocol upgrades to maintain operational parity with its sister chain.
   etcSummitVancouver:
-    __date: 2019-10-03
     title: ETC Summit 2019
+    __dateText: ETC Cooperative
+    __date: 2019-10-03
     __color: purple
     __icon: users
     __link: https://etcsummit.com/
@@ -673,13 +676,14 @@ items:
     __icon: bullhorn
     __link: /blog/2022-07-22-vitalik-buterin-endorses-ethereum-classic
     text: Vitalik Buterin, Ethereum's most prominent co-founder, gives an endorsement of the original Ethereum network-- Ethereum Classic for those who value Proof-of-Work chains.
-  antpoolETCDAOTreasuryFund:
-    title: Antpool
+  etcGrantsDaoLaunch:
+    title: Bitmain's $10M Support of ETC
+    __dateText: ETC Grants Dao
     __date: 2022-07-26
     __color: green
     __icon: userTie
-    __link: https://etcdao.co/
-    text: AntPool supports Ethereum Classic ecosystem with $10M Investment. Antpool seeds a treasury fund with a goal of supporting the professional development ecosystem on Ethereum Classic.
+    __link: https://www.etcgrantsdao.io
+    text: AntPool and Bitmain signal support for Ethereum Classic ecosystem with $10M Investment in a Grants program. Antpool and Bitmain seed a treasury fund with a goal of supporting the professional development ecosystem on Ethereum Classic.
   hashrateSurges:
     title: ETC Hashrate Surges
     __date: 2022-08-31
@@ -694,8 +698,8 @@ items:
     __icon: dumpsterFire
     __link: https://twitter.com/EthClassicDAO/status/1566909585163632640
     text: Days before the Merge, Charles Hoskinson publicly signals intent to "repurpose" the Ethereum Classic's main twitter account. He justifies this action due to sunk costs in the undelivered Mantis client and rejection of IOHK's 2021 centralized treasury proposal (ECIP-1098).
-  ethMerge:
-    title: ETH's Move to Proof of Stake
+ ethMerge:
+    title: Ethash Miners Move to Ethereum Classic
     __dateText: The Merge
     __date: 2022-09-15
     __color: purple
@@ -703,12 +707,76 @@ items:
     __link: https://ethereum.org/en/upgrades/merge/
     text: The Ethereum Foundation upgrades the largest EVM network to proof-of-stake consensus. This Merge event cements Ethereum Classic as the largest Proof of Work EVM network. Ethereum Classic's network security elevates as it becomes the apex network of all Ethash derivative mining algorithms. The Phoenix rises.
   twitter-Account-Rebranded:
-    title: Twitter Account Rebranded
+    title: Twitter Debacle
     __date: 2022-10-06
     __color: red
     __icon: dumpsterFire
-    __link: https://twitter.com/BobSummerwill/status/1578083922822713344
-    text: Fall out from the ETC community's social rejection of IOHK's centralized treasury in 2021, Charles Hoskinson transfers the Ethereum Classic's main Twitter account to a third-party open source project called Ergo. The Ergo team rebrands the account to their own project. Bob Summerwill is sent a newly registed Twitter account with the main Twitter accounts twitter handle with 0 history and 0 followers.
+    __link: https://ethereumclassic.org/blog/2022-10-07-twitter-debacle
+    text: Fall out from the ETC community's social rejection of IOHK's centralized treasury in 2021, Charles Hoskinson transfers the verified eth_classic Twitter account with 670,000+ followers to Ergo_Platform. Social attacks such as this have happened numerous times in the past and have always been fended off by the strong convictions and principles of the ETC community. As an anti-fragile system, such events only serve to strengthen the project.
+  etcGrantsDaoRound1:
+    title: ETC Grants DAO Round 1
+    __dateText: ETC Grants Dao
+    __date: 2023-08-17
+    __color: green
+    __icon: userTie
+    __link: https://etcgrants.softr.app/projects-list-funded-en
+    text: ETC Grants Dao announces their first round of grants fro the Ethereum Classic ecosystem.
+  ethMerge-Anniversary:
+    title: The Proof-of-Work EVM
+    __dateText: The Merge Anniversary
+    __date: 2023-09-15
+    __color: green
+    __icon: cubes
+    __link: https://x.com/eth_classic/status/1705109466801189350
+    text: Ethereum Classic has successfully onboarded the largest miner migration in blockchain history. The Ethash mining manufacturers have pivoted to support and market Ethereum Classic. The early participants decision to position Ethereum Classic as the proof-of-work EVM proves fruitful. Ethereum Classic's achieves its unique position as the most secure smart contract blockchain in the world.
+  powSummitPrague:
+    title: PoW Summit 2023
+    __dateText: ETC Cooperative
+    __date: 2023-09-25
+    __color: purple
+    __icon: users
+    __link: https://powsummit.com/2023
+    text: The first annual PoW Summit conference is held in Prague, Czech Republic.
+  era4:
+    title: 5M20 Era 5
+    __block: 20,000,001
+    __date: 2024-05-30
+    __color: green
+    __icon: coins
+    __link: https://etcis.money
+    text: Ethereum Classic's block rewards are reduced by 20% to 2.048 ETC per block, as per the bitcoin-inspired 5M20 emission schedule. The Ethereum Classic network hashrate continues to push all-time highs showing growth in the minerbase around ETC.
+  etcGrantsDaoRound1:
+    title: WDMS2024 ETC Grassroots Movement
+    __dateText: ETC Grants Dao
+    __date: 2023-08-17
+    __color: purple
+    __icon: users
+    __link: https://x.com/ETCGrantsDao/status/1803133234185904621
+    text: ETC Grants Dao features the Ethereum Classic network with a large booth and development talks at Bitmain's annual conference. This is the first time Ethereum Classic is showcased to the mining community as the Proof-of-Work EVM.
+  ethMerge-Anniversary2:
+    title: All Time High ETC Network Hashrate
+    __dateText: The Merge Anniversary 2
+    __date: 2024-09-15
+    __color: green
+    __icon: cubes
+    __link: https://x.com/jasminer_com/status/1836964908342084075
+    text: Two years since th Ethash miners committed to securing Ethereum Classic for the long-term, the miners, mining manufacturers, and mining pools are all in agreement that Etheruem Classic is the PoW EVM of choice. Network security and EVM protocol stability enables the Application layer on Ethereum Classic to blossom.
+  powSummitFrankfurt:
+    title: PoW Summit 2024
+    __dateText: ETC Cooperative
+    __date: 2024-09-27
+    __color: purple
+    __icon: users
+    __link: https://powsummit.com/2024
+    text: The second annual PoW Summit conference is held in Frankfurt, Germany.
+  etcGrantsDaoAmbassadorProgram:
+    title: ETC Ambassador Program
+    __dateText: ETC Grants Dao
+    __date: 2024-11-15
+    __color: white
+    __icon: userNinja
+    __link: https://x.com/ETCGrantsDao/status/1857108076605960385
+    text: An investment in the social layer of Ethereum Classic is launched. ETC Grants Dao launches the ETC Ambassador Program, a global initiative designed to spread the ETC vision to more audiences, emphasizing Ethereum Classic's unwavering commitment to decentralization and its adherence to Ethereum's original spirit.
   aBrightFuture:
     title: A Bright Future
     __dateText: The Future
