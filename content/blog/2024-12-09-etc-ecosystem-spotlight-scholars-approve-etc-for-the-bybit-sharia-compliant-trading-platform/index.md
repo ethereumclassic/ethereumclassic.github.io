@@ -7,6 +7,8 @@ tags: ["Guides"]
 linkImage: ./banner.png
 ---
 
+![](./banner.png)
+
 As a neutral and global platform to serve everyone in the world regardless of their nationality, culture, religion, or politics, Ethereum Classic is meant to be used by individuals and families everywhere in the world as a refuge against inflation and as a protection of basic rights.
 
 Following this philosophy, Bybit, the second largest crypto exchange in the world by volume, has launched a Sharia-compliant trading service to cater to Islamic countries and populations, and has integrated ETC as a permitted asset based on its characteristics and the approval by scholars who have advised the company on this matter.
