@@ -698,7 +698,7 @@ items:
     __icon: dumpsterFire
     __link: https://twitter.com/EthClassicDAO/status/1566909585163632640
     text: Days before the Merge, Charles Hoskinson publicly signals intent to "repurpose" the Ethereum Classic's main twitter account. He justifies this action due to sunk costs in the undelivered Mantis client and rejection of IOHK's 2021 centralized treasury proposal (ECIP-1098).
- ethMerge:
+  ethMerge:
     title: Ethash Miners Move to Ethereum Classic
     __dateText: The Merge
     __date: 2022-09-15
