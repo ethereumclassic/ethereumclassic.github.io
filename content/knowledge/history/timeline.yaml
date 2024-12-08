@@ -737,7 +737,7 @@ items:
     __icon: users
     __link: https://powsummit.com/2023
     text: The first annual PoW Summit conference is held in Prague, Czech Republic.
-  era4:
+  era5:
     title: 5M20 Era 5
     __block: 20,000,001
     __date: 2024-05-30
