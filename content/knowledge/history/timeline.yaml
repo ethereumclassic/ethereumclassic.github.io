@@ -328,7 +328,7 @@ items:
     title: ETC Summit 2017
     __dateText: ETC Conference
     __date: 2017-11-12
-    __color: purple
+    __color: green
     __icon: users
     __link: /blog/2017-11-11-whos-talking-at-the-classic-summit
     text: The first annual Ethereum Classic conference is held in Hong Kong.
@@ -381,7 +381,7 @@ items:
     title: ETC Summit 2018
     __dateText: ETC Cooperative
     __date: 2018-09-12
-    __color: purple
+    __color: green
     __icon: users
     __link: https://etcsummit.com/
     text: The second annual Ethereum Classic conference is held in Seoul, South Korea.
@@ -431,7 +431,7 @@ items:
     title: ETC Summit 2019
     __dateText: ETC Cooperative
     __date: 2019-10-03
-    __color: purple
+    __color: green
     __icon: users
     __link: https://etcsummit.com/
     text: The third annual Ethereum Classic conference is held in Vancouver, Canada.
@@ -764,7 +764,7 @@ items:
     title: WDMS2024 ETC Grassroots Movement
     __dateText: ETC Grants Dao
     __date: 2024-06-17
-    __color: purple
+    __color: green
     __icon: users
     __link: https://x.com/ETCGrantsDao/status/1803133234185904621
     text: ETC Grants Dao features the Ethereum Classic network with a large booth and development talks at Bitmain's annual conference. This is the first time Ethereum Classic is showcased to the mining community as the Proof-of-Work EVM.
@@ -785,11 +785,11 @@ items:
     __link: https://powsummit.com/2024
     text: The second annual PoW Summit conference is held in Frankfurt, Germany.
   etcGrantsDaoAmbassadorProgram:
-    title: ETC Ambassador Program
+    title: ETC Ambassador Program Launch
     __dateText: ETC Grants Dao
     __date: 2024-11-15
-    __color: white
-    __icon: userNinja
+    __color: green
+    __icon: rocket
     __link: https://x.com/ETCGrantsDao/status/1857108076605960385
     text: An investment in the social layer of Ethereum Classic is launched. ETC Grants Dao launches the ETC Ambassador Program, a global initiative designed to spread the ETC vision to more audiences, emphasizing Ethereum Classic's unwavering commitment to decentralization and its adherence to Ethereum's original spirit.
   aBrightFuture:
