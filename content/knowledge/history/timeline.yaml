@@ -745,14 +745,14 @@ items:
     __icon: coins
     __link: https://etcis.money
     text: Ethereum Classic's block rewards are reduced by 20% to 2.048 ETC per block, as per the bitcoin-inspired 5M20 emission schedule. The Ethereum Classic network hashrate continues to push all-time highs showing growth in the minerbase around ETC.
-  etcGrantsDaoRound1:
+  etcGrantsDaoWDMS:
     title: WDMS2024 ETC Grassroots Movement
     __dateText: ETC Grants Dao
     __date: 2023-08-17
     __color: purple
     __icon: users
     __link: https://x.com/ETCGrantsDao/status/1803133234185904621
-    text: ETC Grants Dao features the Ethereum Classic network with a large booth and development talks at Bitmain's annual conference. This is the first time Ethereum Classic is showcased to the mining community as the Proof-of-Work EVM.
+    text: ETC Grants DAO features the Ethereum Classic network with a large booth and development talks at Bitmain's annual conference. This is the first time Ethereum Classic is showcased to the mining community as the Proof-of-Work EVM.
   ethMerge-Anniversary2:
     title: All Time High ETC Network Hashrate
     __dateText: The Merge Anniversary 2
