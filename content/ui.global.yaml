@@ -68,10 +68,6 @@ socialItems:
     __icon: discord
     __hilight: 1
     name: Discord
-  discordCoop:
-    __link: https://discord.gg/5wDyd6u6pU
-    __icon: discord
-    name: ETC Coop Discord
   twitterEthclassic:
     __link: https://twitter.com/eth_classic
     __icon: twitter
