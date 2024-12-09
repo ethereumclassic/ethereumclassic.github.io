@@ -751,7 +751,7 @@ items:
     __color: blue
     __icon: angleDoubleUp
     __link: /blog/2024-02-23-spiral-upgrade-retrospective-success
-    text: Ethereum Classic core developers Ethereum Foundation's Shanghai network protocol upgrades to maintain operational parity with the greater EVM standards.
+    text: Ethereum Classic core developers implement Ethereum Foundation's Shanghai network protocol upgrades to maintain operational parity with the greater EVM standards.
   era5:
     title: 5M20 Era 5
     __block: 20,000,001
