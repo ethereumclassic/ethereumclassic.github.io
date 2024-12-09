@@ -702,7 +702,7 @@ items:
     title: Ethash Miners Move to Ethereum Classic
     __dateText: The Merge
     __date: 2022-09-15
-    __color: purple
+    __color: blue
     __icon: angleDoubleUp
     __link: https://ethereum.org/en/upgrades/merge/
     text: The Ethereum Foundation upgrades the largest EVM network to proof-of-stake consensus. This Merge event cements Ethereum Classic as the largest Proof of Work EVM network. Ethereum Classic's network security elevates as it becomes the apex network of all Ethash derivative mining algorithms. The Phoenix rises.
@@ -711,16 +711,23 @@ items:
     __date: 2022-10-06
     __color: red
     __icon: dumpsterFire
-    __link: https://ethereumclassic.org/blog/2022-10-07-twitter-debacle
+    __link: /blog/2022-10-07-twitter-debacle
     text: Fall out from the ETC community's social rejection of IOHK's centralized treasury in 2021, Charles Hoskinson transfers the verified eth_classic Twitter account with 670,000+ followers to Ergo_Platform. Social attacks such as this have happened numerous times in the past and have always been fended off by the strong convictions and principles of the ETC community. As an anti-fragile system, such events only serve to strengthen the project.
+  twitter-Together:
+    title: Twitter Together
+    __date: 2022-10-07
+    __color: green
+    __icon: users
+    __link: /blog/2022-10-07-twitter-debacle
+    text: The ETC_Network and eth_classic twitter accounts are integrated into the Twitter Together project to allow public contributions and github repo management of the Ethereum Classic project twitter accounts.
   etcGrantsDaoRound1:
-    title: ETC Grants DAO Round 1
+    title: ETC Grants Dao Round 1
     __dateText: ETC Grants Dao
     __date: 2023-08-17
     __color: green
     __icon: userTie
     __link: https://etcgrants.softr.app/projects-list-funded-en
-    text: ETC Grants Dao announces their first round of grants fro the Ethereum Classic ecosystem.
+    text: ETC Grants Dao announces their first round of grants for the Ethereum Classic ecosystem.
   ethMerge-Anniversary:
     title: The Proof-of-Work EVM
     __dateText: The Merge Anniversary
@@ -728,15 +735,23 @@ items:
     __color: green
     __icon: cubes
     __link: https://x.com/eth_classic/status/1705109466801189350
-    text: Ethereum Classic has successfully onboarded the largest miner migration in blockchain history. The Ethash mining manufacturers have pivoted to support and market Ethereum Classic. The early participants decision to position Ethereum Classic as the proof-of-work EVM proves fruitful. Ethereum Classic's achieves its unique position as the most secure smart contract blockchain in the world.
+    text: Over the year, Ethereum Classic successfully onboards the largest miner migration in blockchain history. The Ethash mining manufacturers pivoted to support and market Ethereum Classic. The early participants decision to position Ethereum Classic as the flagship proof-of-work EVM proves fruitful. Ethereum Classic's achieves its unique position as the most secure smart contract blockchain in the world.
   powSummitPrague:
     title: PoW Summit 2023
     __dateText: ETC Cooperative
     __date: 2023-09-25
-    __color: purple
+    __color: green
     __icon: users
     __link: https://powsummit.com/2023
     text: The first annual PoW Summit conference is held in Prague, Czech Republic.
+  spiralUpgrade:
+    title: Spiral Upgrade
+    __block: 19,250,000
+    __date: 2024-02-05
+    __color: blue
+    __icon: angleDoubleUp
+    __link: /blog/2024-02-23-spiral-upgrade-retrospective-success
+    text: Ethereum Classic core developers Ethereum Foundation's Shanghai network protocol upgrades to maintain operational parity with the greater EVM standards.
   era5:
     title: 5M20 Era 5
     __block: 20,000,001
@@ -748,11 +763,11 @@ items:
   etcGrantsDaoWDMS:
     title: WDMS2024 ETC Grassroots Movement
     __dateText: ETC Grants Dao
-    __date: 2023-08-17
+    __date: 2024-06-17
     __color: purple
     __icon: users
     __link: https://x.com/ETCGrantsDao/status/1803133234185904621
-    text: ETC Grants DAO features the Ethereum Classic network with a large booth and development talks at Bitmain's annual conference. This is the first time Ethereum Classic is showcased to the mining community as the Proof-of-Work EVM.
+    text: ETC Grants Dao features the Ethereum Classic network with a large booth and development talks at Bitmain's annual conference. This is the first time Ethereum Classic is showcased to the mining community as the Proof-of-Work EVM.
   ethMerge-Anniversary2:
     title: All Time High ETC Network Hashrate
     __dateText: The Merge Anniversary 2
@@ -760,12 +775,12 @@ items:
     __color: green
     __icon: cubes
     __link: https://x.com/jasminer_com/status/1836964908342084075
-    text: Two years since th Ethash miners committed to securing Ethereum Classic for the long-term, the miners, mining manufacturers, and mining pools are all in agreement that Etheruem Classic is the PoW EVM of choice. Network security and EVM protocol stability enables the Application layer on Ethereum Classic to blossom.
+    text: Two years since the Ethash miners committed to securing Ethereum Classic for the long-term, the miners, mining manufacturers, and mining pools are all in agreement that Etheruem Classic is the PoW EVM of choice. Network security and EVM protocol stability enables the Application layer on Ethereum Classic to blossom.
   powSummitFrankfurt:
     title: PoW Summit 2024
     __dateText: ETC Cooperative
     __date: 2024-09-27
-    __color: purple
+    __color: green
     __icon: users
     __link: https://powsummit.com/2024
     text: The second annual PoW Summit conference is held in Frankfurt, Germany.
