@@ -17,6 +17,21 @@
     - name: NFT Relics Discord
       link: https://discord.gg/nft-relics
       icon: discord
+- date: 2024-10-19
+  title: ETCORC
+  description: This is a game on the Ethereum Classic network, in which you can earn ETC and NFT by fighting other Orcs.
+  image: ./images/241019-0512-etcorc.png
+  type: games
+  author: ETCORC
+  verifiedContract: https://etc.blockscout.com/address/0x33394f2B91e91610489e8643eb7d791e74366363
+  links:
+    - name: Launch App
+      link: https://etcorcnft.com/
+    - name: Telegram
+      link: https://t.me/etcorcnft
+      icon: telegram
+    - name: Twitter
+      link: https://x.com/ETH_ORC
 - title: ETCswap V3
   date: 2024-09-22
   image: ./images/etcswap.png
