@@ -302,22 +302,23 @@
   authorLink: https://inargentumveritas.app
   verifiedContract: https://blockscout.com/etc/mainnet/address/0x09a9E6D00B07f7C991b98575F75d16811C9c50a4/contracts
   openSource: https://blockscout.com/etc/mainnet/address/0x09a9E6D00B07f7C991b98575F75d16811C9c50a4/contracts
-  description: ERC20s, Airdrops to NFT Owners, DEX.
+  description: IAV token [ERC20], NFT Auction House, Web3Chat, NFT wraiths collection..
   type: other
   links:
     - name: In Argentum Veritas
       link: https://inargentumveritas.app
       icon: link
-    - name: Airdrop for ETCPunks
-      link: https://blockscout.com/etc/mainnet/address/0x527fdC99F01158Bf699A168743a542d7f14ff93A/contracts
+    - name: NFT Auction House
+      link: https://AH.inArgentumVeritas.app
       icon: link
     - name: xTr
       link: https://blockscout.com/etc/mainnet/address/0x29364Fe5B156f1747D9dAC290094e98C8DF3CCE6/contracts
       icon: link
     - name: Swap
-      link: https://blockscout.com/etc/mainnet/address/0x1180B6C9581057ffb5f764974AD40105Bc23D7F4/contracts
+      link: https://blockscout.com/etc/mainnet/address/0xDc9f0C8F72E0C77c11CCB0c91cC809FcbE580c0b/contracts
       icon: link
     - name: Twitter
+      link: https://chat.inargentumveritas.app
       link: https://twitter.com/ArgentumVeritas
       icon: twitter
     - name: Discord
