@@ -302,7 +302,7 @@
   authorLink: https://inargentumveritas.app
   verifiedContract: https://blockscout.com/etc/mainnet/address/0x09a9E6D00B07f7C991b98575F75d16811C9c50a4/contracts
   openSource: https://blockscout.com/etc/mainnet/address/0x09a9E6D00B07f7C991b98575F75d16811C9c50a4/contracts
-  description: IAV token [ERC20], NFT Auction House, Web3Chat, NFT wraiths collection..
+  description: IAV token [ERC20], NFT Auction House, Web3Chat, WRAITHS NFT collection.
   type: other
   links:
     - name: In Argentum Veritas
@@ -319,8 +319,10 @@
       icon: link
     - name: Twitter
       link: https://chat.inargentumveritas.app
-      link: https://twitter.com/ArgentumVeritas
-      icon: twitter
+      icon: link
+    - name: web3chat
+      link: https://chat.inArgentumVeritas.app
+      icon: link
     - name: Discord
       link: https://discord.gg/Mh6Mz35G48
       icon: discord
