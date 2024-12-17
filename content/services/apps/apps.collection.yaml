@@ -311,14 +311,8 @@
     - name: NFT Auction House
       link: https://AH.inArgentumVeritas.app
       icon: link
-    - name: xTr
-      link: https://blockscout.com/etc/mainnet/address/0x29364Fe5B156f1747D9dAC290094e98C8DF3CCE6/contracts
-      icon: link
-    - name: Swap
-      link: https://blockscout.com/etc/mainnet/address/0xDc9f0C8F72E0C77c11CCB0c91cC809FcbE580c0b/contracts
-      icon: link
     - name: Twitter
-      link: https://chat.inargentumveritas.app
+      link: https://x.com/ArgentumVeritas
       icon: link
     - name: web3chat
       link: https://chat.inArgentumVeritas.app
