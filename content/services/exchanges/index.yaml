@@ -492,6 +492,9 @@ items:
       Tradim:
         __link: https://tradim.io/
         __name: Tradim
+      IAV Auction House:
+        __link: https://AH.inArgentumVeritas.app
+        __name: IAV Auction House
   Other:
     __type: buttons
     title: Other Exchange Services
