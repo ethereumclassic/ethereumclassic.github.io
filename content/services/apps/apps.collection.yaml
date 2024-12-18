@@ -534,7 +534,7 @@
     - name: Twitter
       link: https://twitter.com/ETCswap_org
       icon: twitter
-- title: Wrapped Ether (WETC)
+- title: Canonical WETC
   date: 2022-05-06
   image: ./images/wetc.png
   author: Dapphub
@@ -542,13 +542,16 @@
   verifiedContract: https://etc.blockscout.com/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a?tab=contract
   openSource: https://etc.blockscout.com/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a?tab=contract
   audit: https://github.com/gnosis/canonical-weth
-  description: Wrapped Ether (WETC) is a tokenized version of Ether (ETC), the native asset of the Ethereum Classic network. The Canonical Wrapped Ether (WETC) Initiative deployed a WETC contract that follows modern best practices in Solidity since version 0.5+. This smart contract is a public good that standardizes the WETC asset throughout the DeFi stack on Ethereum Classic. If you're developing on Ethereum Classic and neet to wrap ETC into an ERC20 asset, please implement this public good contract to improve the UX for ETC network users.
+  description: The Canonical WETC Initiative's primary goal is for the Ethereum Classic developers to build on the same WETC contract to provide users a seamless experience within the Ethereum Classic (ETC) application ecosystem.
   type: interoperability
   links:
-    - name: Wrapped Ether
-      link: https://etc.blockscout.com/address/0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a?tab=contract
+    - name: Launch App
+      link: https://v3.etcswap.org/#/swap?chain=classic&inputCurrency=ETC&outputCurrency=0x1953cab0E5bFa6D4a9BaD6E05fD46C1CC6527a5a
       icon: link
-    - name: Website
+    - name: Announcement
+      link: https://medium.com/@ethereum-classic/the-canonical-wetc-initiative-on-ethereum-classic-02be2b8efc9a
+      icon: link
+    - name: Documentation
       link: https://wrappedether.org
       icon: link
     - name: Github
