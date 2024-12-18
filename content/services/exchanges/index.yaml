@@ -483,15 +483,12 @@ items:
     title: NFT Marketplaces
     description: The following NFT marketplaces may not be *fully* decentralized marketplaces.
     items:
-      ClassicArt:
-        __link: https://classicart.io
-        __name: ClassicArt
       ETCPlantes:
         __link: https://etcplanets.com/
         __name: ETC Planets
-      Tradim:
-        __link: https://tradim.io/
-        __name: Tradim
+      IAV Auction House:
+        __link: https://AH.inArgentumVeritas.app/
+        __name: IAV Auction House
   Other:
     __type: buttons
     title: Other Exchange Services
