@@ -302,6 +302,7 @@
   authorLink: https://inargentumveritas.app
   verifiedContract: https://blockscout.com/etc/mainnet/address/0x09a9E6D00B07f7C991b98575F75d16811C9c50a4/contracts
   openSource: https://blockscout.com/etc/mainnet/address/0x09a9E6D00B07f7C991b98575F75d16811C9c50a4/contracts
+  ipfsFrontend: https://bafybeigup45p3lddcclqx6o57js37bmlszzepb4lw434iu262rdbjbxrxe.ipfs.dweb.link/
   description: IAV token [ERC20], NFT Auction House, Web3Chat, WRAITHS NFT collection.
   type: other
   links:
