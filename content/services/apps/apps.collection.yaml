@@ -10,10 +10,10 @@
   links:
     - name: Launch App
       link: https://launchpad.etcswap.org
-    - name: ETCswap Launchpad
-      link: https://launchpad.etcswap.org
+    - name: ETCswap
+      link: https://etcswap.org
       icon: link
-    - name: "ETCswap Launchpad: Initial Liquidity Offerings (ILOs) on Ethereum Classic"
+    - name: "Launchpad Announcement"
       link: https://medium.com/@ethereum-classic/etcswap-launchpad-initial-liquidity-offerings-ilos-on-ethereum-classic-f45af52463c5
       icon: medium
     - name: X / Twitter
