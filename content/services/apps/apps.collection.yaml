@@ -1,3 +1,30 @@
+- date: 2024-12-19
+  title: ETCswap Launchpad
+  description: ETCswap Launchpad lets anyone create a token on Ethereum Classic that can be instantly traded for ETC with just one click.
+  image: ./images/241219-2214-etcswap-launchpad.png
+  type: finance
+  author: Ethereum Classic DAO
+  authorLink: https://x.com/EthClassicDAO
+  verifiedContract: https://etc.blockscout.com/address/0x927af2a6B76d2d8206d93004463F8C122701383B?tab=contract
+  openSource: https://github.com/etcswap
+  links:
+    - name: Launch App
+      link: https://launchpad.etcswap.org
+    - name: ETCswap
+      link: https://etcswap.org
+      icon: link
+    - name: "Launchpad Announcement"
+      link: https://medium.com/@ethereum-classic/etcswap-launchpad-initial-liquidity-offerings-ilos-on-ethereum-classic-f45af52463c5
+      icon: medium
+    - name: X / Twitter
+      link: https://x.com/ETCswap_org
+      icon: twitter
+    - name: Docs
+      link: https://docs.etcswap.org
+      icon: book
+    - name: Github
+      link: https://github.com/etcswap
+      icon: link
 - date: 2024-10-28
   title: ETCeria
   description: |-
