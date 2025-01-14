@@ -68,6 +68,10 @@ socialItems:
     __icon: discord
     __hilight: 1
     name: Discord
+  discord2025:
+    __link: https://discord.gg/3j55xXEEdP
+    __icon: discord
+    name: 2025 Discord
   twitterEthclassic:
     __link: https://twitter.com/eth_classic
     __icon: twitter
