@@ -1,3 +1,15 @@
+- date: 2025-01-26
+  title: MICEX
+  description: MICEX is a decentralized crypto exchange for tokens on several chains including Ethereum Classic.
+  image: ./images/250126-0203-micex.png
+  type: finance
+  author: Gosbank
+  authorLink: https://gosbank.su.gy
+  links:
+    - name: Launch App
+      link: https://micex.net
+    - name: Fediverse
+      link: https://tokler.com/@gosbank
 - date: 2024-12-19
   title: ETCswap Launchpad
   description: ETCswap Launchpad lets anyone create a token on Ethereum Classic that can be instantly traded for ETC with just one click.
@@ -13,7 +25,7 @@
     - name: ETCswap
       link: https://etcswap.org
       icon: link
-    - name: "Launchpad Announcement"
+    - name: Launchpad Announcement
       link: https://medium.com/@ethereum-classic/etcswap-launchpad-initial-liquidity-offerings-ilos-on-ethereum-classic-f45af52463c5
       icon: medium
     - name: X / Twitter
