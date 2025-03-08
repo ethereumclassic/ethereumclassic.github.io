@@ -54,6 +54,6 @@ items:
         __type: testnet
         __networkId: 7
         __link: https://github.com/mordortestnet
-        __faucet: https://easy.hebeswap.com/#/faucet
+        __faucet: https://faucet.etcmc-monitor.org
         __consensusAlgo: pow
         __miningAlgo: Etchash
