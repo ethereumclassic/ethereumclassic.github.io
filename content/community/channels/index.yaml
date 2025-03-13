@@ -211,6 +211,9 @@ items:
     __type: buttons
     title: Regional Website
     items:
+      TradingKey:
+        __name: TradingKey
+        __link: https://www.tradingkey.com/zh-hant/markets/cryptocurrencies/ethereum-classic
       website ETC Hub:
         __link: https://etchub.io/
         __icon: etc
