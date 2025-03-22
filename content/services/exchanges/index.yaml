@@ -478,6 +478,9 @@ items:
       Secureshift:
         __link: https://secureshift.io/
         __name: SecureShift
+      ChainSwap:
+        __link: https://chainswap.io/
+        __name: ChainSwap
   NFT Marketplaces:
     __type: buttons
     title: NFT Marketplaces
