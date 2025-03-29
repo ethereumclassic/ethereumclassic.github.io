@@ -1,3 +1,14 @@
+- date: 2025-03-27
+  title: Classic Birds NFTs
+  description: ClassicBirds is not just another NFT project—it’s an experiment in sustainable tokenomics, where value grows with adoption and holders are directly rewarded. By combining dynamic pricing, burn mechanics, and volume-based appreciation, ClassicBirds creates a self-reinforcing economy that benefits long-term participants.
+  image: ./images/250327-1250-classic-birds-nfts.png
+  type: nfts
+  author: Alkai
+  authorLink: https://t.me/AlkaiETC
+  verifiedContract: https://etc.blockscout.com/address/0x2D4e4BE7819F164c11eE9405d4D195e43C7a94c6
+  links:
+    - name: Launch App
+      link: https://etc.blockscout.com/address/0x2D4e4BE7819F164c11eE9405d4D195e43C7a94c6?tab=read_write_contract
 - date: 2024-12-19
   title: ETCswap Launchpad
   description: ETCswap Launchpad lets anyone create a token on Ethereum Classic that can be instantly traded for ETC with just one click.
@@ -13,7 +24,7 @@
     - name: ETCswap
       link: https://etcswap.org
       icon: link
-    - name: "Launchpad Announcement"
+    - name: Launchpad Announcement
       link: https://medium.com/@ethereum-classic/etcswap-launchpad-initial-liquidity-offerings-ilos-on-ethereum-classic-f45af52463c5
       icon: medium
     - name: X / Twitter
