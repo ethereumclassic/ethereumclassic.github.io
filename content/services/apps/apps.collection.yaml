@@ -1,3 +1,25 @@
+- date: 2025-04-02
+  title: Zeus Encryption
+  description: Zeus Encryption is the world's first AES/SHA-256 encryption application running on decentralised smart contracts Ethereum Classic Network. Built with a combination of Solidity and Javascript/Html, the program accepts deposits of 10,000 ZEUS tokens in return for a passphrase protected encryption/decryption service on Ethereum Classic blockchain.
+  image: ./images/250402-1717-zeus-encryption.png
+  type: other
+  author: Richmond
+  openSource: https://github.com/ZeusPayETC/ZeusEncryption
+  links:
+    - name: Launch App
+      link: https://zeusencryption.app
+    - name: Telegram
+      link: https://t.me/+ahBGWbW09kxkYmI0
+      icon: telegram
+    - name: Medium
+      link: https://medium.com/@zeuspayetc/zeus-coin-and-the-lightening-network-afc15fbf4358
+      icon: medium
+    - name: Twitter
+      link: https://x.com/ZeusPayETC
+      icon: github
+    - name: Github
+      link: https://github.com/ZeusPayETC/ZeusEncryption
+      icon: github
 - date: 2025-03-27
   title: Classic Birds NFTs
   description: ClassicBirds is not just another NFT project—it’s an experiment in sustainable tokenomics, where value grows with adoption and holders are directly rewarded. By combining dynamic pricing, burn mechanics, and volume-based appreciation, ClassicBirds creates a self-reinforcing economy that benefits long-term participants.
