@@ -478,6 +478,9 @@ items:
       Secureshift:
         __link: https://secureshift.io/
         __name: SecureShift
+      Cyphergoat:
+        __link: https://cyphergoat.com
+        __name: CypherGoat
   NFT Marketplaces:
     __type: buttons
     title: NFT Marketplaces
