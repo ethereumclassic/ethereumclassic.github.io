@@ -430,6 +430,9 @@ items:
       ChangeNOW:
         __link: https://changenow.io/
         __name: ChangeNOW
+      CoinoSwap:
+        __name: CoinoSwap
+        __link: https://www.coinoswap.com/
       Coinveer:
         __link: https://coinveer.com/
         __name: Coinveer
@@ -451,6 +454,9 @@ items:
       FLASHIFT:
         __link: https://exchange.flashift.app/?currency_from=btc&currency_to=etc&amount=0.1
         __name: FLASHIFT
+      Secureshift:
+        __link: https://secureshift.io/
+        __name: SecureShift
       SimpleSwap:
         __link: https://simpleswap.io/coins/ethereum-classic
         __name: SimpleSwap
@@ -475,9 +481,6 @@ items:
       XChange:
         __link: https://www.xchange.me/
         __name: XChange
-      Secureshift:
-        __link: https://secureshift.io/
-        __name: SecureShift
   NFT Marketplaces:
     __type: buttons
     title: NFT Marketplaces
