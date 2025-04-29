@@ -424,6 +424,9 @@ items:
       Bitni:
         __link: https://bitni.com/
         __name: Bitni
+      ChainSwap:
+        __link: https://chainswap.io/
+        __name: ChainSwap
       ChangeAngel:
         __link: https://www.changeangel.io/
         __name: ChangeAngel
