@@ -2,7 +2,7 @@
 title: "Olympia Upgrade: ECIPs 1111–1114 Open for Community Review"
 date: 2025-07-04
 author: Chris Mercer
-contributors: ["dontpanicburns", "chris-mercer"]
+contributors: ["realcodywburns", "chris-mercer"]
 tags: ["announcement", "development", "hardfork"]
 ---
 
@@ -119,4 +119,4 @@ Please review the proposals and share feedback. This is your opportunity to shap
 This is the most significant advancement to ETC’s sustainability since the project’s inception. With your feedback and support, Olympia can ensure that Ethereum Classic remains decentralized, permissionless, and self-sovereign — for the long haul.
 
 —
-*Posted by [Chris Mercer](https://github.com/chris-mercer), with contributions from [Cody Burns](https://github.com/dontpanicburns)*
+*Posted by [Chris Mercer](https://github.com/chris-mercer), with contributions from [Cody Burns](https://github.com/realcodywburns)*
