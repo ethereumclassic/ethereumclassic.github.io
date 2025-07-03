@@ -1,3 +1,16 @@
+- date: 2025-07-03
+  title: Web3 Dialer
+  description: Any number can be associated with a link to an audio file.
+  image: ./images/250703-2234-web3-dialer.png
+  type: other
+  author: Tanner Haidt
+  verifiedContract: https://etc.blockscout.com/address/0xc90F7fFDd13bdD3c3DB68dd75DB95C0Dc245b17a?tab=contract
+  ipfsFrontend: https://bafybeiaw7lw6f2gna5v3zczolu6asbh3z6yoqhzsb3ykyocmcor4m5h5ii.ipfs.dweb.link
+  links:
+    - name: Launch App
+      link: https://bafybeiaw7lw6f2gna5v3zczolu6asbh3z6yoqhzsb3ykyocmcor4m5h5ii.ipfs.dweb.link
+    - name: Tanner's DApp Discord
+      link: https://discord.gg/trF2umws
 - date: 2025-04-02
   title: Zeus Encryption
   description: Zeus Encryption is the world's first AES/SHA-256 encryption application running on decentralised smart contracts Ethereum Classic Network. Built with a combination of Solidity and Javascript/Html, the program accepts deposits of 10,000 ZEUS tokens in return for a passphrase protected encryption/decryption service on Ethereum Classic blockchain.
