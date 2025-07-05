@@ -1,3 +1,16 @@
+- date: 2025-07-03
+  title: MintSearch
+  description: A web3 powered search engine with the option to add listings.
+  image: ./images/250703-2157-mintsearch.png
+  type: other
+  author: Tanner Haidt
+  verifiedContract: https://etc.blockscout.com/address/0x66ED0830C1099381707aCcf24BF584f9B1a5DB70
+  ipfsFrontend: https://bafybeiaoq6eqtulrd6djc4kvq4f2dhwkpfyrvdzlungjy3nqr2f7lyl3gi.ipfs.dweb.link
+  links:
+    - name: Launch App
+      link: https://bafybeiaoq6eqtulrd6djc4kvq4f2dhwkpfyrvdzlungjy3nqr2f7lyl3gi.ipfs.dweb.link
+    - name: Discord
+      link: https://discord.gg/trF2umws
 - date: 2025-04-02
   title: Zeus Encryption
   description: Zeus Encryption is the world's first AES/SHA-256 encryption application running on decentralised smart contracts Ethereum Classic Network. Built with a combination of Solidity and Javascript/Html, the program accepts deposits of 10,000 ZEUS tokens in return for a passphrase protected encryption/decryption service on Ethereum Classic blockchain.
