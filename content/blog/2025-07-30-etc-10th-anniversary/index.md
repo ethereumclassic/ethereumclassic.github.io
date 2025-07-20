@@ -827,8 +827,8 @@ It’s more than a stablecoin — it’s ETC’s fiat onramp, revenue generator,
 
 While early markets focus on core asset pairs, ETCswap is built to support a wide range of emerging use cases, including:
 
-- **Decentralized FX markets** between fiat-backed stablecoins (USD, EUR, XAU, XAG, etc.)  
-- **Permissionless trading pairs** for Proof-of-Work assets (BTC, LTC, DOGE, XMR, KAS, and others)  
+- **Decentralized FX markets** between fiat-backed stablecoins (USD, EUR, XAU, XAG, etc.)
+- **Permissionless trading pairs** for Proof-of-Work assets (BTC, DOGE, BCH, LTC, XMR and others)
 - **Synthetic assets** representing tokenized commodities, indexes, and real-world equities
 
 Importantly, ETCswap has **publicly signaled intent** to forward a share of its protocol fees to the **Olympia Treasury** — making every trade a potential contribution to long-term network sustainability.
