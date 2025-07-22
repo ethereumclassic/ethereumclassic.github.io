@@ -39,7 +39,7 @@ items:
         __block: 1,150,000
       Gas Reprice:
         title: Gas Reprice
-        __icon: gas
+        __icon: eth
         __color: purple
         __link: /blog/2016-10-17-gas-reprice-hard-fork/
         __date: 2016-10-24
