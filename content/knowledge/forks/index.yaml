@@ -109,7 +109,7 @@ items:
         __date: 2020-03-21
         text: Enabled the Ethereum Foundation Berlin network protocol upgrade features, reaching maximum compatibility with Ethereum.
         __block: 13,189,133
-      Mistique:
+      Mystique:
         title: Mystique
         __icon: eth
         __color: purple
@@ -117,3 +117,11 @@ items:
         __date: 2022-02-13
         text: Enabled the Ethereum Foundation London network protocol upgrade features, maintaining maximum compatibility with Ethereum.
         __block: 14,502,000
+      Spiral:
+        title: Spiral
+        __icon: eth
+        __color: purple
+        __link: /blog/2024-02-23-spiral-upgrade-retrospective-success
+        __date: 2024-02-05
+        text: Enabled the Ethereum Foundation Shanghai network protocol upgrade features, maintaining maximum compatibility with Ethereum.
+        __block: 19,250,000
