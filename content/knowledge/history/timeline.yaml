@@ -792,6 +792,36 @@ items:
     __icon: rocket
     __link: https://x.com/ETCGrantsDao/status/1857108076605960385
     text: An investment in the social layer of Ethereum Classic is launched. ETC Grants Dao launches the ETC Ambassador Program, a global initiative designed to spread the ETC vision to more audiences, emphasizing Ethereum Classic's unwavering commitment to decentralization and its adherence to Ethereum's original spirit.
+  etcCoopMaintenanceMode:
+    title: ETC Cooperative
+    __date: 2024-12-31
+    __color: white
+    __icon: userNinja
+    __link: https://etccooperative.org
+    text: The ETC Cooperative announces it will enter maintenance mode at the end of 2024. The ETC Cooperative has been a long-time supporter of Ethereum Classic development and ecosystem growth. The ETC community is grateful for their contributions and support over the years.
+  etcGrantsNovaHackathon:
+    title: ETC Nova Hackathon Launch
+    __dateText: ETC Grants Dao
+    __date: 2025-02-06
+    __color: green
+    __icon: rocket
+    __link: https://x.com/ETCGrantsDao/status/1887688521840030118
+    text:  The ETC Grants Dao launches the Nova Hackathon, a global initiative designed to foster innovation and development on the Ethereum Classic network. The hackathon aims to bring together developers, entrepreneurs, and enthusiasts to create new applications and solutions that leverage the unique features of Ethereum Classic.
+  olympiaDrafts:
+    title: Olympia Drafts Released
+    __date: 2025-07-04
+    __color: white
+    __icon: codeBranch
+    __link: https://ethereumclassic.org/blog/2025-07-04-olympia-upgrade-draft-review
+    text: Ethereum Classic core developers release the first draft of the Olympia upgrade specifications. The Olympia upgrade is set to implement EIp-1559 Type-2 trnsactions from the Ethereum Foundation's London network protocol upgrade to maintain operational parity with the greater EVM standards. Olympia also introduces the first decentralized treasury for Ethereum Classic core development.
+  etcGrantsDaoAmbassadorProgram2:
+    title: ETC Ambassador Program 2.0 Launch
+    __dateText: ETC Grants Dao
+    __date: 2025-7-10
+    __color: green
+    __icon: rocket
+    __link: https://x.com/ETCGrantsDao/status/1943297279605313801
+    text: The ETC Ambassador Program 2.0 is launched, building on the success of the initial program. This new phase aims to further expand the reach and impact of Ethereum Classic by empowering ambassadors to engage with communities worldwide, fostering a deeper understanding of ETC's values and vision.
   aBrightFuture:
     title: A Bright Future
     __dateText: The Future
