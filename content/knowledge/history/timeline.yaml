@@ -952,6 +952,14 @@ items:
     __icon: codeBranch
     __link: https://ethereumclassic.org/blog/2025-07-04-olympia-upgrade-draft-review
     text: Ethereum Classic core developers release the first draft of the Olympia upgrade specifications. The Olympia upgrade is set to implement EIP-1559 Type-2 transactions to voluntarily fund an opt-in, open, permissionless funding framework. A culmination of 10 years of core development disccusion on long-term permissionless funding to remove centralized team dependency from Ethereum Classic's critical software.
+  etc9thIndependenceDay:
+    title: Ten Years Unforked- Ethereum Classic Decade of Sovereignty
+    __dateText: Ethereum Classic
+    __date: 2025-7-20
+    __color: green
+    __icon: rocket
+    __link: https://coinmarketcap.com/community/articles/687d33500973d947194ba4bf/
+    text: Ethereum Classic marks 10 years of immutability, Proof-of-Work resilience, and principled resistance — the story of a blockchain that refused to compromise.
   etcGrantsDaoAmbassadorProgram2:
     title: ETC Ambassador Program 2.0 Launch
     __dateText: ETC Grants Dao
@@ -960,6 +968,14 @@ items:
     __icon: rocket
     __link: https://x.com/ETCGrantsDao/status/1943297279605313801
     text: The ETC Ambassador Program 2.0 is launched, building on the success of the initial program. This new phase aims to further expand the reach and impact of Ethereum Classic by empowering ambassadors to engage with communities worldwide, fostering a deeper understanding of ETC's values and vision.
+  etc10thGenesisBlockDay:
+    title: A Decade of Integrity- Celebrating 10 Years of Ethereum Classic
+    __dateText: Ethereum Classic
+    __date: 2025-7-30
+    __color: green
+    __icon: rocket
+    __link: https://coinmarketcap.com/community/articles/688a1da31c29df0fa3641d03/
+    text: Ethereum Classic turns 10. Explore the untold story of the original Ethereum chain that upheld immutability, preserved Proof-of-Work, and now powers the smart contract layer for PoW assets.
   aBrightFuture:
     title: A Bright Future
     __dateText: The Future
