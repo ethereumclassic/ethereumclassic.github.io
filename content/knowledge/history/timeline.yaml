@@ -182,6 +182,15 @@ items:
     __icon: rocket
     __link: https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/
     text: With predictions of the original non-forked chain to disappear within hours, many are surprised to find that miners continue to support the original chain. Bisq and OTC desks give these tokens a price discovery order book. The markets participants rebrand this non-forked chain Ethereum Classic (ETC).
+  oldEtcDevFunds:
+    title: Ethereum Foundation Pockets ETC Development Funds
+    __dateText: Ethereum Foundation
+    __block: 1,920,001
+    __date: 2016-07-20
+    __color: green
+    __icon: handHoldingUsd
+    __link: https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/
+    text: The Ethereum Foundation does not offer the Ethereum Classic community the development funds it raised from the 2014 ICO. Rather the Ethereum Foundation retains the ETC funds, which were earmarked to develop the ETC network while abandoning the original Ethereum for their own 2016 forked chain.
   missionAccomplished:
     title: Mission Accomplished!
     __dateText: Ethereum Foundation
