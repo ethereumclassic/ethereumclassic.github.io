@@ -35,7 +35,7 @@ In a world with AI, CBDCs, POS and POA centralized blockchains, scoring systems,
 
 If in the meantime, we see a constant flow of false projects flooding the market and confusing the world with their lies, and ETC gets no funding and dies, then it is better that it dies than to try to perpetuate it while totally centralizing its design.
 
-In terms of how to decide these things, and what upgrades to integrate, ETC actually has a very robust system with its ECIP process and community debates like the one we had in the last few days. In truly decentralized systems, formal roadmaps and actual future visions cannot exist, otherwise they would confirm that the system is centralized therefore already dead. 
+In terms of how to decide these things, and what upgrades to integrate, ETC actually has a very robust system with its ECIP process and community debates like the one we had in the last few days. In truly decentralized systems, formal roadmaps and future visions cannot exist, otherwise they would confirm that the system is centralized, therefore already dead.
 
 But ETC will never die. This is because it has already won, because it is already good. In a world of lies, ETC is true. This is its value. 
 
