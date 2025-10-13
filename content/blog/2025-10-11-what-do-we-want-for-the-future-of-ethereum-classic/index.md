@@ -5,6 +5,7 @@ author: Donald McIntyre
 contributors: ["DonaldMcIntyre"]
 tags: ["Philosophy"]
 linkImage: ./etc-vision.png
+disclaimer: opinion
 ---
 
 ![](./etc-vision.png)
