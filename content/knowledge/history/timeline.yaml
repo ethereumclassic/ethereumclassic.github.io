@@ -27,7 +27,7 @@ items:
     __icon: home
     __link: https://blog.ethereum.org/2016/02/29/homestead-release/
     text: Homestead is the second major version release of the Ethereum platform.
-  slockItCreatesThe Dao:
+  slockItCreatesTheDao:
     title: Slock.it Creates The DAO
     __dateText: Slock.it's The DAO
     __date: 2016-04-05
@@ -35,7 +35,7 @@ items:
     __icon: fileCode
     __link: https://blog.slock.it/deja-vu-dao-smart-contracts-audit-results-d26bc088e32e
     text: Slock.it constructs The DAO Ethereum Contract; a security audit is completed by Dejavu.
-  the DaoCrowdsaleBegins:
+  theDaoCrowdsaleBegins:
     title: The DAO Crowdsale Begins
     __dateText: Slock.it's The DAO
     __date: 2016-04-30
@@ -720,7 +720,7 @@ items:
     __icon: cubes
     __link: /blog/2020-11-27-thanos-hard-fork-upgrade/
     text: Ethereum Classic implements the Thanos Upgrade to adjust the mining algorithm from ETHash to ETCHash.
-  manis-ETC-Stupport:
+  mantis-ETC-Support:
     title: Mantis ETC Client Revival
     __dateText: IOHK Grothendieck
     __date: 2020-12-09
@@ -963,15 +963,15 @@ items:
   etc9thIndependenceDay:
     title: Ten Years Unforked- Ethereum Classic Decade of Sovereignty
     __dateText: Ethereum Classic
-    __date: 2025-7-20
+    __date: 2025-07-20
     __color: green
-    __icon: rocket
+    __icon: cubes
     __link: https://coinmarketcap.com/community/articles/687d33500973d947194ba4bf/
     text: Ethereum Classic marks 10 years of immutability, Proof-of-Work resilience, and principled resistance — the story of a blockchain that refused to compromise.
   etcGrantsDaoAmbassadorProgram2:
     title: ETC Ambassador Program 2.0 Launch
     __dateText: ETC Grants Dao
-    __date: 2025-7-10
+    __date: 2025-07-10
     __color: green
     __icon: rocket
     __link: https://x.com/ETCGrantsDao/status/1943297279605313801
@@ -979,11 +979,27 @@ items:
   etc10thGenesisBlockDay:
     title: A Decade of Integrity- Celebrating 10 Years of Ethereum Classic
     __dateText: Ethereum Classic
-    __date: 2025-7-30
+    __date: 2025-07-30
     __color: green
-    __icon: rocket
+    __icon: cubes
     __link: https://coinmarketcap.com/community/articles/688a1da31c29df0fa3641d03/
     text: Ethereum Classic turns 10. Explore the untold story of the original Ethereum chain that upheld immutability, preserved Proof-of-Work, and now powers the smart contract layer for PoW assets.
+  roadToOlympia:
+    title: The Road to Olympia: How Ethereum Classic Built a Sustainable Funding Future
+    __dateText: Ethereum Classic
+    __date: 2025-09-17
+    __color: white
+    __icon: codeBranch
+    __link: https://coinmarketcap.com/community/articles/6897663e1b7c85774590a8cd/
+    text: A longform CMC article tracing ETC’s decade of funding attempts and introducing Olympia (ECIPs 1111–1114), which redirects BASEFEE into an immutable, on-chain treasury — no miner tax, no insiders, no custody, no inflation — to sustainably fund public goods as block rewards decline.
+  bitmainFundsCore:
+    title: Bitmain Sponsors Two Core-Client Developers
+    __dateText: ETC Grants Dao
+    __date: 2025-10-02
+    __color: white
+    __icon: userNinja
+    __link: https://x.com/ETCGrantsDao/status/1973818014786347151
+    text: As core developers organize the path to long-term protocol-level funding through Olympia, Bitmain steps in as a stopgap to help fund core client development while the community finalizes implementation details.
   aBrightFuture:
     title: A Bright Future
     __dateText: The Future
