@@ -788,7 +788,6 @@ items:
     text: Ethereum Classic core developers implement ETH's London network protocol upgrades to maintain operational parity with its sister chain.
   etcFlood:
     title: ETC Welcomes New Hashrate
-    __dateText: Chris Mercer and Opposition of ECIP-1049
     __dateText: The Ethashrate Flood
     __date: 2022-03-18
     __color: green
