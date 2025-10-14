@@ -1,0 +1,2332 @@
+{
+  "summary": {
+    "totalLinksChecked": 605,
+    "deadLinks": 580,
+    "workingLinks": 25,
+    "filesWithDeadLinks": 17,
+    "errors": 0
+  },
+  "deadLinks": [
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://ethereumclassic.org/discord"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://www.facebook.com/groups/ethereum.hongkong/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://discord.gg/5wDyd6u6pU"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "http://facebook.com/EthereumClassicVietnam/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://open.kakao.com/o/gi4uNJ1"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://ethereumclassic.herokuapp.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://etccooperative.org/nanli777.jpg"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://gitter.im/core-geth/community"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://discord.gg/5KwEAdZ"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://chat.hyperledger.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://t.me/ethclassic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://t.me/ethclassicesp"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://t.me/ETC_Italia"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://t.me/etcru"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://t.me/ETCVietnam"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://t.me/chinaetc"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://www.reddit.com/r/EthereumClassic/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://bitcointalk.org/index.php?topic=1559630.0"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://bitcointalk.org/index.php?topic=5134923"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://www.youtube.com/playlist?list=PLMBYy3lWO3DkegQkvL23AMnm_JnX-LXW3"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://odysee.com/$/invite/@Ethereum_Classic:2"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://www.youtube.com/c/Etherplan"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://odysee.com/$/invite/@EthereumClassicNews:3"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://www.youtube.com/playlist?list=PLiW3acHwcR6LAa_WS5sFWf1S_GquYVeJb"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://www.youtube.com/playlist?list=PL8fotqNQa4-UGxH8rCqeHAtOG56OyhZGf"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://twitter.com/EthereumChina"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://www.youtube.com/playlist?list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://twitter.com/ETC_Network"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://twitter.com/eth_classic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://twitter.com/ETC_France"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://twitter.com/ethclassicesp"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://twitter.com/GermanyEtc"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://twitter.com/etcitalia"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://twitter.com/ETCJapan"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://twitter.com/ethclassic_kor"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://twitter.com/etckorea1"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://twitter.com/etcnetherlands"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://twitter.com/ETCVietNam"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://twitter.com/EtcTurkiye"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "https://etchub.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/channels/index.yaml",
+      "url": "http://ethereumclassic.cn/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/teams/index.yaml",
+      "url": "https://ethereum.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/teams/index.yaml",
+      "url": "https://parity.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/teams/index.yaml",
+      "url": "https://etcconsortium.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/teams/index.yaml",
+      "url": "https://etcdevteam.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/teams/index.yaml",
+      "url": "https://mantisclient.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/teams/index.yaml",
+      "url": "https://chipprbots.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/teams/index.yaml",
+      "url": "https://etccooperative.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/teams/index.yaml",
+      "url": "https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/teams/index.yaml",
+      "url": "https://grayscale.co/ethereum-classic-trust/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/teams/index.yaml",
+      "url": "https://commonwealth.gg"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/teams/index.yaml",
+      "url": "https://etclabs.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/teams/index.yaml",
+      "url": "https://www.poa.network/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/teams/index.yaml",
+      "url": "https://etccore.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/teams/index.yaml",
+      "url": "https://chainsafe.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/teams/index.yaml",
+      "url": "https://corepaper.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/teams/index.yaml",
+      "url": "https://www.secondstate.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/teams/index.yaml",
+      "url": "https://www.godel.ai/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/teams/index.yaml",
+      "url": "https://byzantine.fault.dev/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/community/teams/index.yaml",
+      "url": "https://storj.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/clients/index.yaml",
+      "url": "https://etclabscore.github.io/core-geth"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/clients/index.yaml",
+      "url": "https://besu.hyperledger.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://youtu.be/KnmIlUumMDo"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://vbstreetz.github.io/signatory-client/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://youtu.be/b1NJQkexJ2c"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://core-geth.org/setup-on-raspberry-pi"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://cryptozombies.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://youtu.be/BhVWWcwKKME"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://wiki.parity.io/Dapp-Tutorial"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-series"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://www.reddit.com/r/ethereum/comments/9h0w83/start_ethereum_dapp_development_career_ultimate/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://ethereumbuilders.gitbooks.io/guide/content/en/index.html"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://youtu.be/VdtBY6PEeks"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://karl.tech/learning-solidity-part-1-deploy-a-contract/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://www.saturn.network/blog/how-to-write-secure-smart-contracts/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://medium.com/@austin_48503/programming-decentralized-money-300bacec3a4f"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://forum.saturn.network/t/how-to-create-a-token-and-ico-on-ethereum-classic/1307"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://www.saturn.network/blog/how-to-use-brave-browser-with-ethereum-dapps/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://medium.com/ethereum-classic/vyper-and-brownie-contract-development-on-evm-chains-85ba7fa2feef"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://medium.com/ethereum-classic/adventures-in-classical-ether-38d576a9bdff"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://medium.com/ethereum-classic/kotti-solidity-etc-oh-my-2ae36926454d"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://core-geth.org/contribute-to-mordor-testnet"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://medium.com/etccooperative/migrate-to-hyperledger-besu-8867e5ad37f8"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://medium.com/ethereum-classic/ethereum-classic-on-raspberry-pi-a3be200cdca0"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://medium.com/ethereum-classic/analyzing-ethereum-classic-with-google-bigquery-df55822ec6a6"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://docs.ethercluster.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://www.saturn.network/blog/erc20-erc223-upgrade-path/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://medium.com/etc-core/creating-your-own-smart-contract-languages-using-llvm-a83a9aa1e0c1"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://medium.com/@DontPanicBurns/continuity-for-an-augmented-world-1ec16d48ac9c"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://medium.com/chainsafe-systems/deployment-automation-for-goerli-testnet-in-10-minutes-5212cef5542a"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://www.youtube.com/watch?v=7BuutRe0I28"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://medium.com/etclabscore/using-openrpc-mock-server-to-test-against-an-ethereum-json-rpc-api-50b86b6d02d6"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://medium.com/etclabscore/using-openrpc-mock-server-to-test-against-an-ethereum-json-rpc-api-50b86b6d02d6"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://medium.com/ethereum-classic-labs/ethereum-classic-labs-devs4devs-jade-suite-overview-and-workshop-143825355"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/guides/index.yaml",
+      "url": "https://www.codementor.io/learn/blockchain/solidity-tutorials"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://beincrypto.com/price/ethereum-classic/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://bitinfocharts.com/ethereum%20classic/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://markets.businessinsider.com/currencies/etc-usd"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://coin360.com/coin/ethereum-classic-etc"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://www.coinbase.com/price/ethereum-classic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://coincheckup.com/coins/ethereum-classic/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://coincodex.com/crypto/ethereum-classic/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://www.coindesk.com/price/ethereum-classic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://www.cryptocurrencychart.com/coin/ETC"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://www.coingecko.com/en/coins/ethereum-classic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://coinlib.io/coin/ETC/Ethereum+Classic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://coinmarketcap.com/currencies/ethereum-classic/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://coinranking.com/coin/hnfQfsYfeIGUQ+ethereumclassic-etc"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://coinstats.app/en/coins/ethereum-classic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://cointelegraph.com/etc-price-index"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://www.cryptocompare.com/coins/etc/overview/USD"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://cryptoslate.com/coins/ethereum-classic/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://cryptowat.ch/assets/etc"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://www.livecoinwatch.com/price/EthereumClassic-ETC"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://messari.io/asset/ethereum-classic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://nomics.com/assets/etc-ethereum-classic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://onchainfx.com/price/ethereum-classic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://www.worldcoinindex.com/coin/ethereumclassic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://www.tradingview.com/symbols/ETCUSD/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://finance.yahoo.com/quote/ETC-USD"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://anycoindirect.eu/en/buy-ethereum-classic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://bit4.sale/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://www.bitladon.com/ethereum-classic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://www.coinsbee.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://www.coindirect.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://coingate.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://coinmerce.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://www.coinpayments.net/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://cryptomate.co.uk/buy-ethereum-classic/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://cryptwerk.com/pay-with/etc/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://fuddesk.com/buy-crypto"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://www.litebit.eu/en/buy/ethereumclassic#rate-tile-ethereumclassic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://nowpayments.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://paxful.com/sell-bitcoin/ethereum-classic-etc"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://plisio.net/accept-ethereum-classic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://www.poof.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://www.roundlyx.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://utrust.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://buidl.secondstate.io/etc"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://dappkit.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://framework.embarklabs.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://eserialize.com/?input=string&output=hex"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://ethfiddle.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://www.trufflesuite.com/ganache"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://jade.builders/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://mythx.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://open-rpc.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://www.goquorum.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://openzeppelin.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://remix.ethereum.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://sidekik.xyz/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://signatory.dev/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://thirdweb.com/ethereum-classic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://www.trufflesuite.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://services.tokenview.io"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://core-geth.org/setup-on-raspberry-pi"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://dappnode.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://bloq.cloud/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://rivet.link/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://getblock.io"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://console.cloud.google.com/marketplace/details/ethereum-classic/crypto-ethereum-classic?filter=solution-type:dataset&q=ethereum%20classic&id=babd6e83-ec5f-4b0a-b44f-64d37710a71d"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://quiknode.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/development/tooling/index.yaml",
+      "url": "https://rivet.cloud/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/forks/index.yaml",
+      "url": "https://blog.ethereum.org/2015/07/22/frontier-is-coming-what-to-expect-and-how-to-prepare/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/forks/index.yaml",
+      "url": "https://blog.ethereum.org/2015/08/04/the-thawing-frontier/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/forks/index.yaml",
+      "url": "https://blog.ethereum.org/2016/02/29/homestead-release/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/forks/index.yaml",
+      "url": "https://medium.com/@stevan.blog/ethereum-classic-magneto-upgrade-announcement-aa48d9606b71"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/foundation/index.yaml",
+      "url": "https://etherplan.com/2019/08/14/ethereum-classic-vision/8595/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/foundation/index.yaml",
+      "url": "https://ethereumclassicclassic.org"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/foundation/index.yaml",
+      "url": "https://web.archive.org/web/20020316215014/http://szabo.best.vwh.net/idea.html"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/foundation/index.yaml",
+      "url": "https://bitcoin.org/en/bitcoin-paper"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/foundation/index.yaml",
+      "url": "https://ethereum.org/en/whitepaper/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/foundation/index.yaml",
+      "url": "https://ethereum.github.io/yellowpaper/paper.pdf"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://blog.ethereum.org/2015/07/30/ethereum-launches/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://blog.ethereum.org/2015/08/04/ethereum-protocol-update-1/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://blog.ethereum.org/2016/02/29/homestead-release/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://blog.slock.it/deja-vu-dao-smart-contracts-audit-results-d26bc088e32e"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://blog.slock.it/the-dao-creation-is-now-live-2270fd23affc"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://blog.slock.it/dao-security-a-proposal-to-guarantee-the-integrity-of-the-dao-3473899ace9d"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "http://hackingdistributed.com/2016/05/27/dao-call-for-moratorium/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "http://slacknation.github.io/medium/8/8.html"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "http://vessenes.com/more-ethereum-attacks-race-to-empty-is-the-real-deal/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://blog.slock.it/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "http://slacknation.github.io/medium/10/10.html"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://cointelegraph.com/news/dao-potentially-hacked-millions-of-ether-may-be-stolen-griff-green-says"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://blog.ethereum.org/2016/06/17/critical-update-re-dao-vulnerability/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://www.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://blog.ethereum.org/2016/06/24/dao-wars-youre-voice-soft-fork-dilemma/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://blog.ethereum.org/2016/06/28/security-alert-dos-vulnerability-in-the-soft-fork/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://blog.slock.it/hard-fork-specification-24b889e70703"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://blog.ethereum.org/2016/07/15/to-fork-or-not-to-fork/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://blog.ethereum.org/2016/07/20/hard-fork-completed/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://www.reddit.com/r/EthereumClassic/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://twitter.com/poloniex/status/757068619234803712"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://twitter.com/initc3org/status/758000698881613824"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://coinjournal.net/miner-attack-ethereum-classic-now-supporting/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "http://www.newsbtc.com/2016/07/31/51pool-attack-plans-51-network-attack-ethereum-classic/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "http://themerkle.com/white-hat-hackers-caught-red-handed-during-attempted-etc-sell-off/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://bitcoinmagazine.com/articles/millions-of-dollars-worth-of-etc-may-soon-be-dumped-on-the-market-1472567361"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://etccooperative.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://etclabs.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://www.reddit.com/r/EthereumClassic/comments/5cm582/monetary_policy_update/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://www.reddit.com/r/EthereumClassic/comments/5nt4qm/diehard_etc_protocol_upgrade_successful_nethash/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://www.etcdevteam.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://www.etcdevteam.com/blog/articles/a-joint-statement-ecip1017.html"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://grayscale.co/ethereum-classic-investment-thesis-march-2017/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://iohk.io/en/blog/posts/2017/08/08/mantis-ethereum-classic-beta-release/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://www.reddit.com/r/EthereumClassic/comments/88y77k/multigeth_a_goethereum_client_with_support_of/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://cryptodaily.co.uk/2018/11/What-is-Ethereum-Classics-Project-Goerli"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://etclabs.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://etcsummit.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://medium.com/@slowmist/the-analysis-of-etc-51-attack-from-slowmist-team-728596d76ead"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://www.cryptoglobe.com/latest/2019/01/ethereum-classic-51-attackers-return-100000-to-crypto-exchange-gate-io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://etcsummit.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://ecips.ethereumclassic.org/ECIPs/ecip-1050"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://gist.github.com/meowsbits/ddf54e7cb225e7f89b3ed0b7d92b8a37"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://ethereumclassicclassic.org"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://expedition.dev/?network=mordor"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://expedition.dev/?network=kotti"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://www.coindesk.com/openethereum-supported-50-of-ethereum-classic-now-its-leaving-the-project"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://blog.bitquery.io/ethereum-classic-51-chain-attack-july-31-2020"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://blog.bitquery.io/ethereum-classic-attack-8-august-catch-me-if-you-can"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://twitter.com/etherchain_org/status/1299822510607917056"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://expedition.dev/?network=mordor"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://coin.fyi/news/ethereum-classic/ethereum-classic-chain-split-announcement-sept-03-2021-phlz4r#!"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://ecips.ethereumclassic.org/ECIPs/ecip-1103"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://etcis.money"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://www.etcgrantsdao.io"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://coinjournal.net/news/ethereum-classic-etc-hashrate-surges-ahead-of-ethereum-merge/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://twitter.com/EthClassicDAO/status/1566909585163632640"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://ethereum.org/en/upgrades/merge/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://etcgrants.softr.app/projects-list-funded-en"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://x.com/eth_classic/status/1705109466801189350"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://etcis.money"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/investing/index.yaml",
+      "url": "https://etcis.money"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://x.com/ETCGrantsDao/status/1803133234185904621"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://powsummit.com/2023"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://x.com/jasminer_com/status/1836964908342084075"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://powsummit.com/2024"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/history/timeline.yaml",
+      "url": "https://x.com/ETCGrantsDao/status/1857108076605960385"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/investing/index.yaml",
+      "url": "https://etherplan.com/2020/02/25/the-ethereum-classic-monetary-policy-explained/10025/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/investing/index.yaml",
+      "url": "https://etherplan.com/2020/04/09/why-does-ethereum-classic-have-value/10916/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/investing/index.yaml",
+      "url": "https://etherplan.com/2020/01/14/the-logic-of-why-ethereum-classic-will-rise-1000x-in-the-medium-to-long-term/9639/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/investing/index.yaml",
+      "url": "https://grayscale.co/ethereum-classic-trust/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/theory/index.yaml",
+      "url": "https://etherplan.com/2019/08/14/ethereum-classic-vision/8595/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/investing/index.yaml",
+      "url": "https://etherplan.com/2019/10/15/in-banking-wealth-is-controlled-by-providers-in-blockchain-wealth-is-controlled-by-owners/9302/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/theory/index.yaml",
+      "url": "https://etherplan.com"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/theory/index.yaml",
+      "url": "https://etherplan.com/2019/07/23/ethereum-classic-vs-ethereum-2-0-what-is-the-difference/8425/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/theory/index.yaml",
+      "url": "https://phyro.github.io/etc-history/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/theory/index.yaml",
+      "url": "https://etherplan.com/2019/08/14/ethereum-classic-opportunities/8614/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/theory/index.yaml",
+      "url": "https://etherplan.com/2019/07/22/how-to-have-a-vision-for-ethereum-classic-without-creating-a-governance-orgy/8359/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/theory/index.yaml",
+      "url": "https://etherplan.com/2019/09/18/the-ethereum-classic-vs-ethereum-1-x-dichotomy/8752/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/knowledge/theory/index.yaml",
+      "url": "https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://etc.pool-node.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://2miners.com/etc-mining-pool"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "http://etc.altpool.pro/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://baikalmine.com/en/pplns/etc/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://antpool.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://beepool.org/coindetail/etc"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://etc.baypool.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://pool.btc.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://www.binance.com/en/support/faq/20ba5cf0ce1b4956bda87d8aede5f31d"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://etc.bwpool.net/pool/i"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://etc.clona.ru"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://etc.cominers.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://comining.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://crazypool.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://coolpool.top/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://www.cruxpool.com/etc/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://etc.digipools.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://e4pool.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://pool.emcd.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://www.etcmining.club/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://etcpool.us/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://etc-pool.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://pool.etcmc-monitor.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://etc.ethermine.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://ezil.me/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://www.f2pool.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://flexpool.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://hash.blue"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://hashcity.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://hellominer.com/ETC/EtcHome.aspx"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://etc.herominers.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://hiveon.net/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://www.hpt.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://icanmining.ru/?l=en&d=pool&pool=etc"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://k1pool.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://pool.kryptex.com/etc"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://etcpool.maxhash.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://minergate.com/etc-mining-pool"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "http://mole-pool.net/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://etc.myminers.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://etc.nanopool.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://okminer.com"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://etc.pearpool.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://prohashing.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://richpool.pro/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "http://rocimining.co.uk/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://etc.solopool.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://rupool.pro/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://etc.ua-mining.com"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://www.viabtc.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://wattpool.net/pools"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://whalesburg.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://woolypooly.com/#/coin/etc"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://www.xnpool.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://etc.yu-tam.contact/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "http://zergpool.com/site/mining?algo=ethash"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://longpool.org"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/pools/index.yaml",
+      "url": "https://etc.zet-tech.eu/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/software/index.yaml",
+      "url": "https://cruxpool.com/cruxminer"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/software/index.yaml",
+      "url": "https://nanominer.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/software/index.yaml",
+      "url": "https://bitcointalk.org/index.php?topic=2647654.0"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/software/index.yaml",
+      "url": "https://www.srbminer.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/software/index.yaml",
+      "url": "https://bitcointalk.org/index.php?topic=4432704.0"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/software/index.yaml",
+      "url": "https://bitcointalk.org/index.php?topic=5059817.0"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/software/index.yaml",
+      "url": "https://hiveos.farm/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/software/index.yaml",
+      "url": "https://bitcointalk.org/index.php?topic=5025783.0"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/software/index.yaml",
+      "url": "https://hiveos.farm/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/software/index.yaml",
+      "url": "https://minerstat.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/software/index.yaml",
+      "url": "https://app.mmpos.eu/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/software/index.yaml",
+      "url": "https://www.nicehash.com/nhos-mining"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/software/index.yaml",
+      "url": "https://getpimp.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/software/index.yaml",
+      "url": "https://raveos.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/software/index.yaml",
+      "url": "https://simplemining.net/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/mining/software/index.yaml",
+      "url": "https://stratu.ms/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/endpoints/index.yaml",
+      "url": "https://rivet.link"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/endpoints/index.yaml",
+      "url": "https://etccooperative.org"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/endpoints/index.yaml",
+      "url": "https://etcplanets.com"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/endpoints/index.yaml",
+      "url": "https://www.etc-network.info"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/endpoints/index.yaml",
+      "url": "https://www.etc-network.info"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/endpoints/index.yaml",
+      "url": "https://www.etc-network.info"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/endpoints/index.yaml",
+      "url": "https://www.etc-network.info"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/endpoints/index.yaml",
+      "url": "https://www.etc-network.info"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/endpoints/index.yaml",
+      "url": "https://www.etc-network.info"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/endpoints/index.yaml",
+      "url": "https://www.etc-network.info"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/endpoints/index.yaml",
+      "url": "https://services.tokenview.io"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/endpoints/index.yaml",
+      "url": "https://nownodes.io/nodes"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/endpoints/index.yaml",
+      "url": "https://etcdesktop.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/endpoints/index.yaml",
+      "url": "https://rivet.cloud"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/endpoints/index.yaml",
+      "url": "https://etc.mytokenpocket.vip/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/monitors/index.yaml",
+      "url": "https://2miners.com/etc-stats/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/monitors/index.yaml",
+      "url": "https://coinmetrics.io/charts/#assets=etc"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/monitors/index.yaml",
+      "url": "https://www.coinwarz.com/mining/ethereum-classic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/monitors/index.yaml",
+      "url": "https://insights.emeraldpay.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/monitors/index.yaml",
+      "url": "https://etc-network.info"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/monitors/index.yaml",
+      "url": "https://etcnodes.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/monitors/index.yaml",
+      "url": "https://www.forkwatch.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/monitors/index.yaml",
+      "url": "https://miningpoolstats.stream/ethereumclassic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/monitors/index.yaml",
+      "url": "https://etc.nanopool.org/stats"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/monitors/index.yaml",
+      "url": "https://pooldetective.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/monitors/index.yaml",
+      "url": "https://etc.tokenview.io"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/monitors/index.yaml",
+      "url": "https://etc-stats.ua-mining.com"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/network/monitors/index.yaml",
+      "url": "https://whattomine.com/coins/162-etc-ethash"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://trade.dydx.exchange/trade/ETC-USD"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://etcswap.org"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://hebeswap.com"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://fusion.novanetwork.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://pancakeswap.finance"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://soy.finance"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://trade.aax.com/en-US/spot/ETC:USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://ramp.alchemypay.org/#/index"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://ascendex.com/en/cashtrade-spottrading/usdt/etc"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://bequant.io/etc-to-usdt"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://big.one/trade/ETC-USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.bibox.com/en/exchange/basic/ETC_USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.binance.com/en/trade/ETC_USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.trbinance.com/en/trade/ETC_BUSD"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.binance.us/en/trade/ETC_USD"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://bingx.com/en-us/spot/ETCUSDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.bit.com/spot?pair=ETC-USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://bitbns.com/trade/#/etc"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://bitcoinira.com/cryptocurrencies#ethereum-classic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.bitfinex.com/t/ETC:USD"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.bitforex.com/en/spot/etc_usdt"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.bitget.com/en/spot/ETCUSDT_SPBL"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.bithumb.com/trade/order/ETC_KRW"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.bitmart.com/trade/en?symbol=ETC_USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://bitmax.io/en/cashtrade-spottrading/usdt/etc"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.bitpanda.com/en/prices/ethereum-classic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.bitrue.com/trade/etc_usdt"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://bittrex.com/Market/Index?MarketName=USD-ETC"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://global.bittrex.com/Market/Index?MarketName=USDT-ETC"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://account.bitvavo.com/markets/ETC-EUR"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.bkex.com/trade/ETC_USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://app.btcmarkets.net/buy-sell?market=ETC-AUD"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.bybit.com/en-US/trade/spot/ETC/USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://pro.btcturk.com/pro/al-sat/ETC_TRY"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.catex.io/trading/ETC/USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://pro.coinbase.com/trade/ETC-USD"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://coindcx.com/trade/ETCUSDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.coinex.com/exchange?currency=usdt&dest=etc"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.coinlore.com/coin/ethereum-classic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://coinone.co.kr/exchange/trade/etc/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://coinsbit.io/trade/ETC_USD"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.cointiger.com/en-us/#/trade_pro?coin=etc_usdt"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://crex24.com/exchange/ETC-BTC"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://coinut.com/spot/ETCUSDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://crypto.com/exchange/trade/ETC_USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.dcoin.com/currencyTrading/ETC_USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://dex-trade.com/spot/trading/ETCUSDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.digifinex.com/en-ww/trade/USDT/ETC"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://difx.com/trade/ETC_USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://digitalexchange.id/basic-trading/ETCIDR"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.etoro.com/markets/etc/chart"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.etorox.com/exchange/etc/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://exmo.com/en/trade/ETC_USD"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.fatbtc.com/trading?currency=ETC%2FUSDT&freetab=2"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.finexbox.com/Home/Orders/market/pair/ETC-BTC.html"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://gate.io/trade/etc_usdt"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://hitbtc.com/ETC-to-USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://hoo.com/spot/etc-usdt"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.hotbit.io/exchange?symbol=ETC_USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.huobi.com/en-us/exchange/etc_usdt/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://indodax.com/market/ETCIDR"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.independentreserve.com/market/etc"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://kickex.com/en/trade/ETC-USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://trade.kanga.exchange/market/ETC-oPLN"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.korbit.co.kr/markets/?market=etc-krw"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://trade.kraken.com/markets/kraken/etc/usd"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://trade.kucoin.com/spot/ETC-USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://latoken.com/exchange/USDT-ETC"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.lbank.info/exchange.html#/etc/usdt"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://localtrade.cc/trade/ETC_USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.litebit.eu/en/buy/ethereumclassic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://trade.mandala.exchange/trade/ETC_USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.mexc.com/exchange/ETC_USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.novadax.com/product/orderbook?pair=ETC_BRL"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://oceanex.pro/en/trades/etcusdt"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.okcoin.com/spot/trade#product=etc_usd"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://okex.co.kr/kr/view/exchange?coin=ETC&market=BTC"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.okx.com/trade-spot/etc-usdt"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://p2pb2b.com/trade/ETC_USDT/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://phemex.com/spot/trade/ETCUSDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.probit.kr/app/exchange/ETC-USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://poloniex.com/spot/ETC_USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.probit.com/app/exchange/ETC-USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.southxchange.com/Market/Book/ETC/BTC"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.stex.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://stealthex.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://tidex.com/exchange/ETC/USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://tokocrypto.com/en/trade/ETC_USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://upbit.com/exchange?code=CRIX.UPBIT.KRW-ETC"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://wazirx.com/exchange/ETC-USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://whitebit.com/trade/ETC_USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.xt.com/trade/etc_usdt"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.zb.com/en/kline/etc_usdt"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://yobit.net/en/trade/ETC/USD"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.zbg.com/trade/etc_usdt"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.aax.com/futures/trade/ETC:USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://ascendex.com/en/basic/futures-perpetualcontract-trading/etc-perp"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.bibox.com/contract?coinPair=4ETC_USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://bingx.com/en-us/futures/forward/ETCUSDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.binance.com/en/futures/ETCUSDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.bit.com/futures?type=ETC-USDT-PERPETUAL"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.bitfinex.com/t/ETCF0:USTF0"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.bitget.com/en/mix/usdt/ETCUSDT_UMCBL"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://futures.bitmart.com/?symbol=ETC_USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.bitrue.com/futures/E-ETC-USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.btcex.com/en-us/perpetual?target=ETC-USDT-PERPETUAL"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.bybit.com/app/exchange/ETCUSDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.coinex.com/perpetual/etc-usdt"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://swap.cointiger.com/?symbol=ETCUSDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://crypto.com/exchange/perpetual/ETCUSD-PERP"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.deepcoin.com/en/SwapU?currentId=ETCUSDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.delta.exchange/app/futures/trade/ETC/ETCUSDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://web.hopex.com/trade?marketCode=ETCUSDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.gate.io/futures_trade/USDT/ETC_USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://dm.huobi.com/en-us"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://futures.kucoin.com/trade/ETCUSDTM"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://contract.mexc.com/exchange?symbol=ETC_USDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.okx.com/trade-swap/etc-usdt-swap"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://phemex.com/trade/ETCUSD"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://poloniex.com/futures/trade/index/ETCUSDTPERP"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://app.stormgain.com/#instrument_ETCUSDT"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://x.woo.org/en/trade"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.abra.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://atomicwallet.io"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://bitcoinvn.io/?deposit=usdterc20&settle=etc"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://bitni.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.changeangel.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://chainswap.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.coinoswap.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://changenow.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://coinveer.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://cyphergoat.com"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://stealthex.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://emerald.cash/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://exchang.io/exchange-pairs/btc-to-etc"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.exodus.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://exolix.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://fixedfloat.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://exchange.flashift.app/?currency_from=btc&currency_to=etc&amount=0.1"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://simpleswap.io/coins/ethereum-classic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://secureshift.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://swapspace.co/?from=etc&to=btc&amount=1"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://changenow.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://swapzone.io/?to=btc&from=etc"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://swapswop.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.switchain.com"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.investvoyager.com/blog/how-to-buy-ethereum-classic/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.xchange.me/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://etcplanets.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://AH.inArgentumVeritas.app"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://www.bestchange.com/ethereum-classic-to-bitcoin.html"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://coinmarketcap.com/currencies/ethereum-classic/markets/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/exchanges/index.yaml",
+      "url": "https://nowpayments.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://coin.space/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://www.mycrypto.com"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://www.myetherwallet.com"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://www.portis.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://brave.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://mathwallet.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://metamask.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://www.opera.com/crypto"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://simplehold.io/download"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://extension.tokenpocket.pro/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://www.coolwallet.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://www.bitski.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://www.ellipal.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://www.htcexodus.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://keypal.pro/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://shop.ledger.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://www.safepal.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://www.parity.io/signer/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://vbstreetz.github.io/signatory-client/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://www.abra.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://coin.space/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://trezor.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://alphawallet.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://atomicwallet.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://btcpop.co/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://cobo.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://buttonwallet.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://www.coinomi.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://emerald.cash/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://www.exodus.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://mathwallet.org/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://www.ethos.io/universal-wallet/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://edge.app/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://www.etorox.com/crypto-wallet/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://guarda.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://www.huobiwallet.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://hebecore.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://midasprotocol.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://mixin.one/messenger"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://walletnow.app/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://ownbit.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://plisio.net/personal"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://tokenpocket.pro/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://trustwallet.com/ethereum-classic-wallet"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://trusteeglobal.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://zel.network/project/zelcore/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://zengo.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://billfodl.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/ui.global.yaml",
+      "url": "https://ethereumclassic.org/discord"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://www.blockplate.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://coldti.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://cryptokeystack.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://cryptosteel.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://cryptotag.io/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://hodlinox.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/services/wallets/index.yaml",
+      "url": "https://thesteely.com/"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/ui.global.yaml",
+      "url": "https://ethereumclassic.org/blog/2023-12-09-spiral-fork-announcement"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/ui.global.yaml",
+      "url": "https://discord.gg/3j55xXEEdP"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/ui.global.yaml",
+      "url": "https://twitter.com/eth_classic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/ui.global.yaml",
+      "url": "https://twitter.com/ETC_Network"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/ui.global.yaml",
+      "url": "https://github.com/ethereumclassic"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/ui.global.yaml",
+      "url": "https://github.com/etclabscore"
+    },
+    {
+      "file": "/home/runner/work/ethereumclassic.github.io/ethereumclassic.github.io/content/ui.global.yaml",
+      "url": "https://reddit.com/r/ethereumclassic"
+    }
+  ],
+  "errors": []
+}
