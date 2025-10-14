@@ -48,7 +48,7 @@ items:
         __link: https://open.kakao.com/o/gi4uNJ1
         name: Kakao (Korean)
       chat Slack:
-        __link: https://ethereumclassic.herokuapp.com/
+        __link: https://ethereumclassic.org
         __icon: slack
         name: Slack (English)
       chat WeChat:
