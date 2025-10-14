@@ -960,7 +960,7 @@ items:
     __color: white
     __icon: codeBranch
     __link: https://ethereumclassic.org/blog/2025-07-04-olympia-upgrade-draft-review
-    text: Ethereum Classic core developers release the first draft of the Olympia upgrade specifications. The Olympia upgrade is set to implement EIP-1559 Type-2 transactions to voluntarily fund an opt-in, open, permissionless funding framework. A culmination of 10 years of core development disccusion on long-term permissionless funding to remove centralized team dependency from Ethereum Classic's critical software.
+    text: Ethereum Classic core developers release the first draft of the Olympia upgrade specifications. The Olympia upgrade is set to implement EIP-1559 Type-2 transactions to voluntarily fund an opt-in, open, permissionless funding framework. A culmination of 10 years of core development discussion on long-term permissionless funding to remove centralized team dependency from Ethereum Classic's critical software.
   etc9thIndependenceDay:
     title: Ten Years Unforked- Ethereum Classic Decade of Sovereignty
     __dateText: Ethereum Classic
