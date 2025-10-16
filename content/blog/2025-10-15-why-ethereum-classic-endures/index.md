@@ -2,11 +2,13 @@
  title: "Why Ethereum Classic Endures" 
  date: 2025-10-15
  author: Cody Burns
- contributors: ["codyburns"] 
+ contributors: ["realcodywburns"] 
  tags: ["Philosophy"] 
  linkImage: ./why_etc_endures.png
  disclaimer: opinion 
 ---
+
+![](./why_etc_endures.png)
 
 I was there when we made the choice to defend immutability. It wasn’t easy, convenient, or even popular. It was the moment we decided that the principle of “code is law” was not just a slogan it was a moral commitment to the permanence of truth. When others rewrote history to protect the few, we wrote a declaration of independence and chose to protect the many. That decision gave birth to Ethereum Classic. It was a defining act of conviction, and it remains the reason I believe this network still matters. In those early days, we weren’t idealists chasing price charts; we were builders and miners defending an idea that once a transaction is recorded on a public ledger, it should remain there forever, unedited and uncorrupted. It was not rebellion for rebellion’s sake. It was stewardship. We chose to protect a foundation that technology itself depends upon: the ability to trust the record without trusting the recorder.
 
