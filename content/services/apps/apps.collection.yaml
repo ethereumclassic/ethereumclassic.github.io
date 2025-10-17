@@ -1,3 +1,29 @@
+- date: 2025-07-05
+  title: Tornado Cash
+  description: Tornado Cash is a non-custodial privacy protocol allowing permissionless shielded transactions on Ethereum and derivative networks. Tornado Cash is not a mixer, as assets are never commingled due to the presence of zero knowledge cryptography.
+  image: ./images/tornadocash.png
+  type: finance
+  author: Tornado Cash
+  authorLink: https://github.com/tornadocash/docs
+  verifiedContract: https://etc.blockscout.com/address/0xac97AB4fBd872ea762974CbBB0Ee72351afe16F3?tab=contract
+  openSource: https://codeberg.org/torndao/classic-ui
+  audit: https://tornado.cash/audits/TornadoCash_contract_audit_ABDK.pdf
+  ipfsFrontend: https://tornadocash.eth.limo
+  links:
+    - name: Launch App
+      link: https://tornadocash.eth.limo
+    - name: telegram
+      link: https://t.me/TornadoCashOfficialDAO
+      icon: telegram
+    - name: Announcement
+      link: https://tornadocash.eth.limo/governance
+      icon: link
+    - name: Github
+      link: https://codeberg.org/torndao/classic-ui
+      icon: github
+    - name: Twitter
+      link: https://x.com/TornadoCash
+      icon: twitter
 - date: 2025-07-03
   title: MintSearch
   description: A web3 powered search engine with the option to add listings.
