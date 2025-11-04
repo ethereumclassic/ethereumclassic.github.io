@@ -2,6 +2,7 @@ billboard:
   text: The %%$$%% Ethereum
   ## must be kind of short, so they fit on the page
   randomWords:
+    Genesis: "Genesis"
     Decentralized: "Decentralized"
     Immutable: "Immutable"
     Unstoppable: "Unstoppable"
@@ -9,21 +10,39 @@ billboard:
     Proof of Work: "Proof of Work"
     Code is Law: "Code is Law"
     Sound Money: "Sound Money"
+    Sovereign: "Sovereign"
     SovereignGrade: "Sovereign Grade"
     TrustMinimized: "Trust Minimized"
-    Permisionless: "Permissionless"
+    Permissionless: "Permissionless"
     Principled: "Principled"
     Cypherpunk: "Cypherpunk"
     Uncensored: "Uncensored"
+    CensorshipResistant: "Censorship Resistant"
     Uncaptured: "Uncaptured"
     Untampered: "Untampered"
     Uninterrupted: "Uninterrupted"
+    Unbroken: "Unbroken"
+    Undeterred: "Undeterred"
     Undefiled: "Undefiled"
-    Underdog: "Underdog"
-    Honey Badger: "Honey Badger"
+    Unyielding: "Unyielding"
+    Independent: "Independent"
+    Honest: "Honest"
+    Resilient: "Resilient"
     Antifragile: "Antifragile"
+    EnergyBacked: "Energy-Backed"
+    MinerSecured: "Miner-Secured"
+    HardCapped: "Hard-Capped"
+    Deflationary: "Deflationary"
     Global: "Global"
+    Enduring: "Enduring"
+    Eternal: "Eternal"
+    Autonomous: "Autonomous"
+    Programmable: "Programmable"
+    Secure: "Secure"
     Classic: "Classic"
+    Fearless: "Fearless"
+    Underdog: "Underdog"
+    HoneyBadger: "Honey Badger"
 ## feature
 feature:
   __icon: question
@@ -61,6 +80,7 @@ __contributors:
   - flotob
   - saturn-network
   - realcodywburns
+  - chris-mercer
   - Zorlin
   - cicorias
   - redsn0w0
