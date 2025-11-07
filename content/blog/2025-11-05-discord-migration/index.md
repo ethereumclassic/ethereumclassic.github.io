@@ -14,11 +14,11 @@ Over the years, the Ethereum Classic Discord has served as a central meeting pla
 
 To protect new participants and restore a professional, secure chat environment consistent with the expectations of a top-tier blockchain project, the community has established a **new Ethereum Classic Community Discord**.  
 
-This new server was organized in December 2024 and is now being formalized as the project’s **primary public chat hub**. It features comprehensive automated moderation, anti-spam protections, and structured information channels designed to improve both safety and user experience.
+This new server was organized in December 2024 and is now being recommended as the project’s **primary public chat hub**. It features comprehensive automated moderation, anti-spam protections, and structured information channels designed to improve both safety and user experience.
 
 ### Why the Change
 
-The previous server’s inactive administration made it difficult to implement basic protections or integrate modern tooling. Over time, this degraded the user experience and, more importantly, posed a reputational risk to new visitors encountering unchecked scam activity.
+The previous server’s administrators became less active and made it difficult to implement spam/bot protections or integrate modern tooling. Over time, this degraded the user experience and, more importantly, posed a reputational risk to new visitors encountering unchecked scam activity.
 
 The new server resolves these issues by providing:
 - **Automated moderation and verification** — spam, phishing, and impersonation are blocked automatically.  
@@ -34,13 +34,13 @@ Open debate remains welcome. Moderation focuses strictly on maintaining civility
 
 ### Continuity and Legacy Access
 
-To preserve historical context, the legacy Discord server will remain accessible with a link on the community website, but modern conversations about Ethereum Classic will be held in the maintained Discord server. Longtime community members are encouraged to migrate to the new server to continue participating in ongoing governance and ecosystem discussions.
+To preserve historical context, the legacy Discord server will remain accessible with a link on the community website, but modern conversations about Ethereum Classic will be encouraged to be held in the new Discord server. Longtime community members are encouraged to migrate to the new server to continue participating in ongoing governance and ecosystem discussions.
 
-The legacy server will remain available at [discord.com/invite/hQs894U](https://discord.com/invite/hQs894U) for archival reference and historical continuity.
+The legacy server will remain available at [discord.com/invite/hQs894U](https://discord.com/invite/hQs894U) for archival reference and historical continuity, and it's link will remain the footer of this website.
 
 ### Join the New Ethereum Classic Community Discord
 
-**Invite Link:** [ethereumclassic.org/discord](https://ethereumclassic.org/discord)
+The new invite link will be highlighted, and will become the default redirect when visitng [ethereumclassic.org/discord](https://ethereumclassic.org/discord). 
 
 This transition marks an important step toward a more professional, secure, and integrated communication experience for the Ethereum Classic ecosystem.  
 
