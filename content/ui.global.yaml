@@ -64,14 +64,14 @@ signOff: Made with `<3` for the Original Ethereum Vision
 socialHilight: The ETC community is active on Discord
 socialItems:
   discord:
-    __link: https://ethereumclassic.org/discord
+    __link: https://discord.com/invite/Tq57jxSwsa
     __icon: discord
     __hilight: 1
     name: Discord
-  discord2025:
-    __link: https://discord.gg/3j55xXEEdP
+  discordLegacy:
+    __link: https://discord.com/invite/hQs894U
     __icon: discord
-    name: 2025 Discord
+    name: Legacy Discord
   twitterEthclassic:
     __link: https://twitter.com/eth_classic
     __icon: twitter
@@ -83,11 +83,11 @@ socialItems:
   githubOrg:
     __link: https://github.com/ethereumclassic
     __icon: github
-    name: Github
-  githubLabs:
-    __link: https://github.com/etclabscore
+    name: ETC Network Github
+  githubEtcClient:
+    __link: https://github.com/ethereumclassic/core-geth
     __icon: github
-    name: ETC Labs Github
+    name: ETC Client Github
   reddit:
     __link: https://reddit.com/r/ethereumclassic
     __icon: reddit
