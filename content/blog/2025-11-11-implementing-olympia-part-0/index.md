@@ -1,7 +1,7 @@
 ---
 title: "Implementing Olympia: From Draft to Testnet"
 date: 2025-11-11
-author: Ethereum Classic
+author: Chris Mercer
 contributors: ["chris-mercer"]
 tags: ["announcement", "hardfork", "development", "Infrastructure", "series"]
 linkImage: ./olympia_implementation.png
