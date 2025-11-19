@@ -34,6 +34,15 @@ Infrastructure providers also responded. Infura and Alchemy restricted API acces
 
 ---
 
+## Why this matters for credible neutrality
+
+The response to the Tornado Cash sanctions highlighted an important point about privacy and financial technology. Tools such as mixers and privacy protocols are not inherently criminal. Individuals and organizations use them for many ordinary reasons, including protecting salary information, safeguarding business activity, shielding wallet addresses from public association, or maintaining privacy while transacting in politically sensitive environments.
+Law enforcement agencies already focus their efforts on the parts of the system where oversight is practical. These are the entry and exit points where digital assets are exchanged for fiat currency, such as centralized exchanges, custodians, and payment processors. These organizations maintain compliance programs, conduct reporting, and cooperate with investigations. Monitoring these regulated entities allows authorities to trace illicit activity without requiring the underlying blockchain to censor or restrict protocol-level transactions.
+
+A blockchain network that maintains integrity at the consensus layer supports this balance. When the network remains neutral, it includes all valid transactions according to the protocol’s rules, regardless of their origin or social interpretation. This approach creates a consistent and predictable execution environment. Participants can rely on the network to process transactions fairly, and regulators still retain the ability to enforce laws at the surrounding on-ramps and off-ramps. Credible neutrality comes from the idea that the network itself should not interpret intent or apply policy but should focus on verifying validity.
+
+---
+
 ## How proof-of-work responds differently
 
 Ethereum Classic miners are not organized around validator sets, corporate entities, or identifiable operators. The mining ecosystem follows economic incentives rather than membership requirements. Several characteristics contribute to this:
