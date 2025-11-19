@@ -23,11 +23,11 @@ In contrast, proof-of-stake systems require participants to lock assets in valid
 When the U.S. Treasury’s Office of Foreign Assets Control sanctioned Tornado Cash in August 2022, the effects were visible across the Ethereum ecosystem. Research from the Federal Reserve Bank of New York documented that a noticeable share of Ethereum blocks began excluding transactions from sanctioned addresses. The report is available here:
 https://www.newyorkfed.org/research/staff_reports/sr1112
 
-Flashbots, a leading block-building infrastructure provider, added filters for sanctioned addresses. The Block reported that at least 23 percent of Ethereum blocks in October 2022 fell into this category:
-https://www.theblock.co/post/173417/at-least-23-of-ethereum-blocks-are-complying-with-us-sanctions
+Flashbots, a leading block-building infrastructure provider, added filters for sanctioned addresses. [The Block](https://www.theblock.co/post/173417/at-least-23-of-ethereum-blocks-are-complying-with-us-sanctions) reported that at least 23 percent of Ethereum blocks in October 2022 fell into this category:
 
-After the sanctions announcement, Ethermine, which had been the largest Ethereum mining pool before the Merge, stopped processing Tornado Cash transactions as reported by CryptoSlate:
-https://cryptoslate.com/largest-ethereum-miner-ethermine-stops-processing-sanctioned-transactions
+
+After the sanctions announcement, Ethermine, which had been the largest Ethereum mining pool before the Merge, stopped processing Tornado Cash transactions as reported by [CryptoSlate](
+https://cryptoslate.com/largest-ethereum-miner-ethermine-stops-processing-sanctioned-transactions)
 
 Infrastructure providers also responded. Infura and Alchemy restricted API access to Tornado Cash contracts, and Circle froze USDC held in sanctioned addresses. These actions created cascading effects that influenced validator behavior.
 
@@ -65,16 +65,13 @@ Since GPU mining remains common, the network does not rely solely on specialized
 
 ## Current mining landscape
 
-When Ethereum transitioned to proof-of-stake in September 2022, most Ethash miners migrated to Ethereum Classic. Hashrate rose from approximately 65 TH/s to more than 275 TH/s within days, a shift covered by CoinDesk:
-https://www.coindesk.com/tech/2022/09/16/ethereum-classic-hashrate-jumps-post-merge
+When Ethereum transitioned to proof-of-stake in September 2022, most Ethash miners migrated to Ethereum Classic. Hashrate rose from approximately 65 TH/s to more than 275 TH/s within days, a shift covered by [CoinDesk](https://www.coindesk.com/tech/2022/09/16/ethereum-classic-hashrate-jumps-post-merge)
 
 Today, miners distribute their hashrate across several pools such as:
 
-2Miners (https://2miners.com/etc-mining-pool)
-
-F2Pool (https://www.f2pool.com/coin/etc)
-
-Hiveon (https://hiveon.com/pool/etc)
+- 2Miners (https://2miners.com/etc-mining-pool)
+- F2Pool (https://www.f2pool.com/coin/etc)
+- Hiveon (https://hiveon.com/pool/etc)
 
 
 MiningPoolStats tracks dozens of active pools:
