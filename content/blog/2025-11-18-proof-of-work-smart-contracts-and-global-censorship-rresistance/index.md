@@ -3,13 +3,11 @@ title: "Ethereum Classic: Proof-of-Work Smart Contracts and Global Censorship Re
 date: 2025-11-17
 author: Cody Burns
 contributors: ["RealCodyWBurns"]
-tags: ["Guides"]
+tags: ["Mining"]
 linkImage: ./banner.png
 ---
 
 ![](./banner.png)
-
-# Ethereum Classic: Proof-of-Work Smart Contracts and Global Censorship Resistance
 
 Ethereum Classic is currently the largest proof-of-work smart contract platform. The network operates at roughly 300 terahashes per second (TH/s), according to public hashrate trackers such as [2Miners](https://2miners.com/etc-network-hashrate). This represents approximately 90 to 95 percent of all Ethash or Etchash compatible hashing power across all networks.
 
