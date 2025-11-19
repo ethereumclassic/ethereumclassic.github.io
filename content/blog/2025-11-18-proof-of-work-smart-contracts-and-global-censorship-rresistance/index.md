@@ -1,4 +1,4 @@
-Ethereum Classic: Proof-of-Work Smart Contracts and Global Censorship Resistance
+# Ethereum Classic: Proof-of-Work Smart Contracts and Global Censorship Resistance
 
 Ethereum Classic is currently the largest proof-of-work smart contract platform. The network operates at roughly 300 terahashes per second (TH/s), according to public hashrate trackers such as [2Miners](https://2miners.com/etc-network-hashrate). This represents approximately 90 to 95 percent of all Ethash or Etchash compatible hashing power across all networks.
 
@@ -53,11 +53,9 @@ https://ecips.ethereumclassic.org/ECIPs/ecip-1099
 
 ASIC manufacturers such as Bitmain, Jasminer, and iPollo all produce miners compatible with Ethereum Classic. Examples include:
 
-iPollo V-series: https://ipollo.com/products/v1-mini-etchash
-
-Jasminer X16-Q Pro: https://www.jasminer.com/products/x16-q-pro
-
-Bitmain Antminer E9 models: https://shop.bitmain.com/products/antminer-e9
+- iPollo V-series: https://ipollo.com/products/v1-mini-etchash
+- Jasminer X16-Q Pro: https://www.jasminer.com/products/x16-q-pro
+- Bitmain Antminer E9 models: https://shop.bitmain.com/products/antminer-e9
 
 
 Since GPU mining remains common, the network does not rely solely on specialized hardware that could be restricted through export policy.
