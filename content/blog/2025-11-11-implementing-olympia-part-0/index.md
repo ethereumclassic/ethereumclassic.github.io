@@ -1,5 +1,5 @@
 ---
-title: "Implementing Olympia: From Draft to Testnet"
+title: "Olympia Development Series — From Draft to Testnet (Part 0)"
 date: 2025-11-11
 author: Chris Mercer
 contributors: ["chris-mercer"]
