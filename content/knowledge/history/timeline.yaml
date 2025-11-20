@@ -183,11 +183,11 @@ items:
     __link: https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/
     text: With predictions of the original non-forked chain to disappear within hours, many are surprised to find that miners continue to support the original chain. Bisq and OTC desks give these tokens a price discovery order book. The markets participants rebrand this non-forked chain Ethereum Classic (ETC).
   oldEtcDevFunds:
-    title: Ethereum Foundation Pockets ETC Development Funds
+    title: Ethereum Foundation Retains ETC Network Development Funds
     __dateText: Ethereum Foundation
     __block: 1,920,001
     __date: 2016-07-20
-    __color: green
+    __color: purple
     __icon: handHoldingUsd
     __link: https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/
     text: The Ethereum Foundation does not offer the Ethereum Classic community the development funds it raised from the 2014 ICO. Rather the Ethereum Foundation retains the ETC funds, which were earmarked to develop the ETC network while abandoning the original Ethereum for their own 2016 forked chain.
@@ -948,24 +948,24 @@ items:
     title: ETC Nova Hackathon Launch
     __dateText: ETC Grants Dao
     __date: 2025-02-06
-    __color: green
-    __icon: rocket
+    __color: white
+    __icon: userNinja
     __link: https://x.com/ETCGrantsDao/status/1887688521840030118
     text:  The ETC Grants Dao launches the Nova Hackathon, a global initiative designed to foster innovation and development on the Ethereum Classic network. The hackathon aims to bring together developers, entrepreneurs, and enthusiasts to create new applications and solutions that leverage the unique features of Ethereum Classic.
   olympiaDrafts:
-    title: Olympia Treasury Proposal
-    __dateText: Cody Burns and Chris Mercer
+    title: Olympia Upgrade Drafts Released
+    __dateText: Ethereum Classic Core Devs
     __date: 2025-07-04
     __color: white
-    __icon: codeBranch
+    __icon: fileCode
     __link: https://ethereumclassic.org/blog/2025-07-04-olympia-upgrade-draft-review
-    text: Ethereum Classic core developers release the first draft of the Olympia upgrade specifications. The Olympia upgrade is set to implement EIP-1559 Type-2 transactions to voluntarily fund an opt-in, open, permissionless funding framework. A culmination of 10 years of core development discussion on long-term permissionless funding to remove centralized team dependency from Ethereum Classic's critical software.
+    text: Ethereum Classic core developers publish the first full draft of the Olympia upgrade suite — ECIPs 1111 through 1114 — introducing BASEFEE redirection, an immutable protocol-level Treasury, a tokenless governance framework, and a permissionless funding proposal system. This marks the culmination of a decade of discussion on sustainable, decentralized funding for Ethereum Classic.
   etc9thIndependenceDay:
     title: Ten Years Unforked- Ethereum Classic Decade of Sovereignty
     __dateText: Ethereum Classic
     __date: 2025-07-20
     __color: green
-    __icon: cubes
+    __icon: flag
     __link: https://coinmarketcap.com/community/articles/687d33500973d947194ba4bf/
     text: Ethereum Classic marks 10 years of immutability, Proof-of-Work resilience, and principled resistance — the story of a blockchain that refused to compromise.
   etcGrantsDaoAmbassadorProgram2:
@@ -981,25 +981,49 @@ items:
     __dateText: Ethereum Classic
     __date: 2025-07-30
     __color: green
-    __icon: cubes
+    __icon: flag
     __link: https://coinmarketcap.com/community/articles/688a1da31c29df0fa3641d03/
     text: Ethereum Classic turns 10. Explore the untold story of the original Ethereum chain that upheld immutability, preserved Proof-of-Work, and now powers the smart contract layer for PoW assets.
+  olympiaDraftsPolished:
+    title: Olympia ECIP Suite Polished After Community Review
+    __dateText: Ethereum Classic Core Devs
+    __date: 2025-08-10
+    __color: white
+    __icon: fileCode
+    __link: https://github.com/ethereumclassic/ECIPs/pull/538
+    text: Following the initial publication of the Olympia ECIP drafts on July 4, the core developers complete a major synchronization and polishing pass across ECIPs 1111–1114. This refinement incorporates early community feedback from the public review period, resolving specification gaps and aligning the four ECIPs into a coherent, modular upgrade framework. This milestone marks the transition from initial drafting to structured review under the ECIP-1000 process.
   roadToOlympia:
     title: The Road to Olympia- How Ethereum Classic Built a Sustainable Funding Future
     __dateText: Ethereum Classic
     __date: 2025-09-17
-    __color: white
-    __icon: codeBranch
+    __color: green
+    __icon: book
     __link: https://coinmarketcap.com/community/articles/6897663e1b7c85774590a8cd/
     text: A longform CMC article tracing ETC’s decade of funding attempts and introducing Olympia (ECIPs 1111–1114), which redirects BASEFEE into an immutable, on-chain treasury — no miner tax, no insiders, no custody, no inflation — to sustainably fund public goods as block rewards decline.
   bitmainFundsCore:
     title: Bitmain Sponsors Two Core-Client Developers
     __dateText: ETC Grants Dao
     __date: 2025-10-02
-    __color: white
-    __icon: userNinja
+    __color: green
+    __icon: handHoldingUsd
     __link: https://x.com/ETCGrantsDao/status/1973818014786347151
     text: As core developers organize the path to long-term protocol-level funding through Olympia, Bitmain steps in as a stopgap to help fund core client development while the community finalizes implementation details.
+  olympiaDay:
+    title: Olympia Day — Implementation Phase Begins
+    __dateText: Ethereum Classic Core Devs
+    __date: 2025-11-11
+    __color: white
+    __icon: rocket
+    __link: https://coinmarketcap.com/community/articles/69135a2872417b07898025bc/
+    text: Following several months of public review, iterative redrafting, and broad technical feedback under the ECIP-1000 process, the ECIP authors judge the Olympia suite (1111–1114) sufficiently polished to begin implementation. Ethereum Classic publicly announces the transition from specification review into active client development and testnet preparation, marking the start of the Olympia implementation phase.
+  ecip1115Draft:
+    title: Olympia — ECIP-1115 L-Curve Smoothing Draft Completed
+    __dateText: Ethereum Classic Core Devs
+    __date: 2025-11-12
+    __color: white
+    __icon: fileCode
+    __link: https://github.com/ethereumclassic/ECIPs/pull/544
+    text: The ECIP-1115 draft is published, defining an optional governance-layer L-curve smoothing model for Treasury-held BASEFEE, enabling additive, structured miner incentives that complement existing consensus-layer rewards while keeping all logic outside consensus.
   aBrightFuture:
     title: A Bright Future
     __dateText: The Future
