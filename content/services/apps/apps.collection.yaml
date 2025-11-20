@@ -1,3 +1,28 @@
+- date: 2025-10-05
+  title: GHOST Faucet
+  description: The GHOST Faucet supplies free testnet tokens for the Mordor Testnet. It is available to all web3 developers without KYC or geo-restrictions, providing the essential resources for smart contract development and testing.
+  image: ./images/251005-1616-ghost-faucet.png
+  type: other
+  author: GHOST
+  authorLink: https://ghostchain.io/
+  links:
+    - name: Launch App
+      link: https://ghostchain.io/faucet/ethereum-classic-mordor/
+    - name: Website
+      link: https://faucet.ghostchain.io/
+      icon: link
+    - name: X
+      link: https://x.com/realGhostChain
+      icon: twitter
+    - name: Telegram
+      link: https://t.me/realGhostChain
+      icon: telegram
+    - name: Discord
+      link: https://discord.gg/CvYP7vrqN3
+      icon: discord
+    - name: Medium
+      link: https://ghostchain.medium.com/
+      icon: medium
 - date: 2025-07-03
   title: MintSearch
   description: A web3 powered search engine with the option to add listings.
