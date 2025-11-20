@@ -8,9 +8,9 @@ linkImage: ./olympia_implementation.png
 excerpt: "Ethereum Classic begins the development phase of the Olympia upgrade—its first on-chain, self-funding Proof-of-Work framework for sustainable development."
 ---
 
-![](./implementing_olympia.png)
+![](./olympia-development-series.png)
 
-# Implementing Olympia: From Draft to Testnet
+# Olympia Development Series — From Draft to Testnet (Part 0)
 **November 11, 2025**
 
 ## Part 0: The Transition from Research to Reality
@@ -162,7 +162,7 @@ For miners, developers, ecosystem sponsors, and long-time community members alik
 
 ## Next in the Series
 
-👉 **Part 1 — Implementing ECIP-1111: BASEFEE Redirection**
+👉 **Developing ECIP-1111: BASEFEE Redirection & Modernized Fee Mechanics**
 
 💚⚒️  
 *Olympia ECIP Authors & ETC Contributors*
