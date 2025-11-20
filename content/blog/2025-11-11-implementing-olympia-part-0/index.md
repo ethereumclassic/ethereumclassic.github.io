@@ -13,8 +13,6 @@ excerpt: "Ethereum Classic begins implementing the Olympia upgrade—its first o
 # Implementing Olympia: From Draft to Testnet
 **November 11, 2025**
 
----
-
 ## Part 0: The Transition from Research to Reality
 
 It’s fitting that this transition begins on **11/11** — a date that mirrors the number at the heart of Olympia’s foundation: **ECIP-1111**.  
@@ -29,8 +27,6 @@ This milestone marks the first time in Ethereum Classic’s history that the net
 In November 2025, this suite expanded with **ECIP-1115**, an optional governance-layer L-curve smoothing mechanism designed to stabilize miner incentives without modifying consensus.
 
 Olympia represents the culmination of a long-standing goal: establishing a **sustainable, decentralized mechanism** to fund client development, public infrastructure, and ecosystem maintenance.
-
----
 
 ## Why Olympia Matters
 
@@ -51,8 +47,6 @@ It establishes an on-chain system that reveals the baseline funding requirements
 - **Off-Chain Services** — provide institutional and financial infrastructure through exchanges, custodians, and TradFi integrations that depend on modern, well-maintained clients.  
 - **Application Developers** — expand demand for blockspace and rely on a modern, actively maintained EVM that remains interoperable with upstream tooling and programmability.  
 - **End Users** — depend on stable, secure systems to transact efficiently, self-custody assets, and enjoy a first-class user experience.
-
----
 
 ## Beyond Funding — Aligning Incentives in Proof-of-Work
 
@@ -78,16 +72,12 @@ Because smoothing operates entirely at the governance layer, it can be activated
 
 In addition, Olympia’s new transaction type preserves **compatibility with modern wallet and exchange standards**, ensuring Ethereum Classic remains fully integrated within the broader cryptocurrency ecosystem — from centralized exchanges to open-source browser wallets.
 
----
-
 ## The Significance of 11 / 11
 
 **Olympia Day — 11 / 11 / 2025** marks the moment Ethereum Classic begins implementing the Olympia upgrade suite.  
 Just as ECIP-1111 anchors the technical foundation of Olympia, 11/11 now anchors its timeline — signifying the transition from theory to practice, from drafts to deployment.
 
 On this date, Ethereum Classic reaffirms its role as **the programmable Proof-of-Work network built to last**, aligning security, sustainability, and self-sovereignty within a single, immutable system.
-
----
 
 ## The Four Pillars of Olympia
 
@@ -102,22 +92,16 @@ This adaptation maintains full **EVM compatibility** while ensuring every transa
 
 Additional miner-alignment mechanisms — including the optional smoothing model defined in **ECIP-1115** — may build on this foundation but are not part of ECIP-1111’s consensus-layer scope.
 
----
-
 ### 🔹 ECIP-1112 — The Immutable Treasury Contract
 
 Defines a **minimal, immutable, protocol-level smart contract** that receives all redirected `BASEFEE` revenue.  
 This contract functions as **Ethereum Classic’s first on-chain funding vault**, with transparent accounting and no administrative keys.  
 Every coin received is **auditable, visible, and governed by protocol logic alone.**
 
----
-
 ### 🔹 ECIP-1113 — The Olympia DAO Governance Framework
 
 Establishes the **Olympia DAO**, a modular governance framework to manage treasury disbursements through **on-chain voting**, **quorum thresholds**, and **time-locked execution**.  
 It introduces the **Olympia Improvement Proposal (OIP)** process — a structured way to evolve governance, deploy new child-DAO pipelines, or modify parameters without new hard forks.
-
----
 
 ### 🔹 ECIP-1114 — The Funding Proposal and Disbursement System
 
@@ -126,15 +110,11 @@ Any developer, researcher, or organization can submit a proposal with milestones
 
 Approved proposals are executed automatically through the DAO, ensuring transparent, auditable, and milestone-based disbursements that remove the friction and opacity of manual grant programs.
 
----
-
 ### 🔹 ECIP-1115 — Optional L-Curve Smoothing (Governance-Layer Miner Incentives)
 
 Defines a **governance-layer mechanism** that allocates a configurable share of Treasury-held BASEFEE to miners as a long-term security budget.  
 ECIP-1115 introduces **no consensus changes** and complements ECIP-1111 by smoothing Treasury-based miner rewards across a predictable window.  
 Activation and parameter tuning occur entirely through the **Olympia DAO** via the OIP process.
-
----
 
 ### 🔁 Together, these four ECIPs form a closed-loop system:
 
@@ -146,8 +126,6 @@ Activation and parameter tuning occur entirely through the **Olympia DAO** via t
 This architecture transforms Ethereum Classic from a **donor-dependent network** into a **self-funding, self-governing public utility** — powered by on-chain activity and aligned incentives.  
 (ECIP-1115 extends this loop by optionally smoothing miner incentives at the governance layer, without altering the consensus-level foundation.)
 
----
-
 ## Pioneering PoW: A First Among Proof-of-Work Networks
 
 While most PoW chains rely on centralized foundations or off-chain grants, **Ethereum Classic can now finance its own evolution through protocol logic**.
@@ -157,8 +135,6 @@ Olympia demonstrates what only a **smart-contract-capable Proof-of-Work network*
 It preserves the values that defined ETC in 2016 — **immutability, Proof-of-Work, and credible neutrality** — while finally addressing the long-standing challenges of decentralized, durable funding and long-term network security.
 
 With **ECIP-1115**, ETC can optionally extend this sustainability loop into miner incentives themselves, providing a mechanism for **predictable, non-inflationary security budgeting.**
-
----
 
 ## The Road Ahead
 
@@ -175,8 +151,6 @@ Together, these explorations document how Olympia moves from draft to deployed c
 
 Each installment will take readers deeper into the contracts, logic, and governance systems now moving toward ETC’s testnets — showing how Olympia is being implemented to be **auditable, adaptable, and permanently decentralized.**
 
----
-
 ## A Bright Future: The Olympia Implementation Era Begins
 
 **Olympia Day — 11 / 11 / 2025** marks the moment Ethereum Classic begins implementing the Olympia upgrade suite.  
@@ -186,11 +160,9 @@ For miners, developers, ecosystem sponsors, and long-time community members alik
 
 > “A credibly neutral, self-sustaining Proof-of-Work network built to last — secured by miners, maintained by builders, supported by institutions, and enforced by code.”
 
----
-
 ## Next in the Series
 
-👉 **Part 1 — Implementing ECIP-1111: BASEFEE Redirection and Miner Alignment**
+👉 **Part 1 — Implementing ECIP-1111: BASEFEE Redirection**
 
 💚⚒️  
 *Ethereum Classic Core Devs*
