@@ -5,7 +5,7 @@ author: Chris Mercer
 contributors: ["chris-mercer"]
 tags: ["announcement", "hardfork", "development", "Infrastructure", "series"]
 linkImage: ./olympia_implementation.png
-excerpt: "Ethereum Classic begins implementing the Olympia upgrade—its first on-chain, self-funding Proof-of-Work framework for sustainable development."
+excerpt: "Ethereum Classic begins the development phase of the Olympia upgrade—its first on-chain, self-funding Proof-of-Work framework for sustainable development."
 ---
 
 ![](./implementing_olympia.png)
@@ -16,7 +16,7 @@ excerpt: "Ethereum Classic begins implementing the Olympia upgrade—its first o
 ## Part 0: The Transition from Research to Reality
 
 It’s fitting that this transition begins on **11/11** — a date that mirrors the number at the heart of Olympia’s foundation: **ECIP-1111**.  
-On this day, often celebrated as a symbol of alignment and renewal, **Ethereum Classic moves from years of research into the first phase of implementation.**
+On this day, often celebrated as a symbol of alignment and renewal, **The Olympia authors move from years of research into the first phase of implementation work.**
 
 After nearly a decade of debate and experimentation, Ethereum Classic enters a new phase of maturity.
 
@@ -74,7 +74,7 @@ In addition, Olympia’s new transaction type preserves **compatibility with mod
 
 ## The Significance of 11 / 11
 
-**Olympia Day — 11 / 11 / 2025** marks the moment Ethereum Classic begins implementing the Olympia upgrade suite.  
+**Olympia Day — 11 / 11 / 2025** marks the moment Ethereum Classic beginsthe implementation work for the Olympia upgrade suite.  
 Just as ECIP-1111 anchors the technical foundation of Olympia, 11/11 now anchors its timeline — signifying the transition from theory to practice, from drafts to deployment.
 
 On this date, Ethereum Classic reaffirms its role as **the programmable Proof-of-Work network built to last**, aligning security, sustainability, and self-sovereignty within a single, immutable system.
@@ -153,7 +153,7 @@ Each installment will take readers deeper into the contracts, logic, and governa
 
 ## A Bright Future: The Olympia Implementation Era Begins
 
-**Olympia Day — 11 / 11 / 2025** marks the moment Ethereum Classic begins implementing the Olympia upgrade suite.  
+**Olympia Day — 11 / 11 / 2025** marks the moment Ethereum Classic begins the development phase of the Olympia upgrade suite.  
 Olympia is not a single hard fork; it’s the start of a **living framework** where on-chain activity directly powers network longevity.
 
 For miners, developers, ecosystem sponsors, and long-time community members alike, this marks a return to Ethereum Classic’s founding ethos:
@@ -165,4 +165,4 @@ For miners, developers, ecosystem sponsors, and long-time community members alik
 👉 **Part 1 — Implementing ECIP-1111: BASEFEE Redirection**
 
 💚⚒️  
-*Ethereum Classic Core Devs*
+*Olympia ECIP Authors & ETC Contributors*
