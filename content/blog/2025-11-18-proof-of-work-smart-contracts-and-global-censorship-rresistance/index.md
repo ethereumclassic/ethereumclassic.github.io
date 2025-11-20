@@ -13,9 +13,6 @@ Ethereum Classic is currently the largest proof-of-work smart contract platform.
 
 This level of mining participation has practical implications. It supports a permissionless environment where individuals and organizations anywhere in the world can participate without identification or prior approval. It also strengthens resistance to censorship because mining hardware and miners themselves are geographically dispersed.
 
-
----
-
 ## Mining without permission
 
 Anyone with compatible hardware can mine Ethereum Classic. The project’s mining guide at ethereumclassic.org/mining explains how to download mining software, connect to a pool, and begin contributing computational work. No registration, identity verification, or staking commitment is required.
@@ -24,8 +21,6 @@ Miners can operate on home computers, small rigs, or professional farms. They ma
 
 In contrast, proof-of-stake systems require participants to lock assets in validator nodes. On Ethereum, this means holding 32 ETH to run a validator. Most participants use staking services provided by companies such as Coinbase, Kraken, or Lido, which operate within regulatory jurisdictions. These organizations maintain offices, personnel, and identifiable corporate structures.
 
-
----
 
 ## Censorship concerns after the Tornado Cash sanctions
 
@@ -41,8 +36,6 @@ https://cryptoslate.com/largest-ethereum-miner-ethermine-stops-processing-sancti
 Infrastructure providers also responded. Infura and Alchemy restricted API access to Tornado Cash contracts, and Circle froze USDC held in sanctioned addresses. These actions created cascading effects that influenced validator behavior.
 
 
----
-
 ## Why this matters for credible neutrality
 
 The response to the Tornado Cash sanctions highlighted an important point about privacy and financial technology. Tools such as mixers and privacy protocols are not inherently criminal. Individuals and organizations use them for many ordinary reasons, including protecting salary information, safeguarding business activity, shielding wallet addresses from public association, or maintaining privacy while transacting in politically sensitive environments.
@@ -50,7 +43,6 @@ Law enforcement agencies already focus their efforts on the parts of the system 
 
 A blockchain network that maintains integrity at the consensus layer supports this balance. When the network remains neutral, it includes all valid transactions according to the protocol’s rules, regardless of their origin or social interpretation. This approach creates a consistent and predictable execution environment. Participants can rely on the network to process transactions fairly, and regulators still retain the ability to enforce laws at the surrounding on-ramps and off-ramps. Credible neutrality comes from the idea that the network itself should not interpret intent or apply policy but should focus on verifying validity.
 
----
 
 ## How proof-of-work responds differently
 
@@ -79,8 +71,6 @@ ASIC manufacturers such as Bitmain, Jasminer, and iPollo all produce miners comp
 Since GPU mining remains common, the network does not rely solely on specialized hardware that could be restricted through export policy.
 
 
----
-
 ## Current mining landscape
 
 When Ethereum transitioned to proof-of-stake in September 2022, most Ethash miners migrated to Ethereum Classic. Hashrate rose from approximately 65 TH/s to more than 275 TH/s within days, a shift covered by [CoinDesk](https://www.coindesk.com/tech/2022/09/16/ethereum-classic-hashrate-jumps-post-merge)
@@ -91,14 +81,11 @@ Today, miners distribute their hashrate across several pools such as:
 - F2Pool (https://www.f2pool.com/coin/etc)
 - Hiveon (https://hiveon.com/pool/etc)
 
-
 MiningPoolStats tracks dozens of active pools:
 https://miningpoolstats.stream/ethereumclassic
 
 Solo mining is still practical for small and mid-size operators. Sites such as https://etc.solopool.org provide estimates for finding blocks with moderate hashrate levels.
 
-
----
 
 ## Security considerations
 
@@ -107,9 +94,6 @@ Because Ethereum Classic dominates the available Ethash and Etchash hashrate, ac
 Performing a majority attack would require acquiring a large number of ASICs or GPUs, which involves high capital cost and lengthy procurement times. The attacker would also suffer opportunity costs because mining produces a steady revenue stream.
 
 Block rewards currently total approximately 2.56 ETC per block, and around 6,000 blocks are mined each day. At an ETC price near $16, this results in roughly $250,000 to $300,000 in daily miner revenue. Any attack must exceed both capital and opportunity costs for participants already earning predictable returns.
-
-
----
 
 ### Position within the broader ecosystem
 
