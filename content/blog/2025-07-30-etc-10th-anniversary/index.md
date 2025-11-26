@@ -173,13 +173,13 @@ Despite its growth, Ethereum Classic long faced a structural challenge: it had *
 
 The **2025 [Olympia Upgrade](https://medium.com/@ethereum-classic/whats-olympia-why-now-bef537babcda)** proposal changed that.
 
-By introducing **Type-2 transactions** (EIP-1559-compatible) with a twist, Olympia redirects **BASEFEE** not to a burn address, but to an **immutable on-chain treasury**.
+By introducing **Type-2 transactions** (EIP-1559-compatible) with a twist, Olympia redirects **BASEFEE** not to a burn address, but to an **immutable on-chain treasury**. *This treasury is governed by a tokenless DAO and standardized funding process (ECIP-1112–1114), with optional miner-smoothing via ECIP-1115.*
 
-- Participation is **voluntary** — legacy transactions remain supported.
-- Funds are **non-inflationary** — no new ETC is minted.
-- The treasury is **immutable**, **non-upgradable**, and **governance-isolated**.
+* Participation is **voluntary** — legacy transactions remain supported.
+* Funds are **non-inflationary** — no new ETC is minted.
+* The treasury is **immutable**, **non-upgradable**, and **governance-isolated**.
 
-**Olympia** represents a historic achievement in chain sovereignty:  
+**Olympia** represents a historic achievement in chain sovereignty:
 A **self-funding public infrastructure model** that aligns with ETC’s founding values.
 
 ![The Olympia Upgrade Proposal](./8-olympia.png)
