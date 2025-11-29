@@ -55,7 +55,7 @@ In essence, Olympia introduces a single, elegant mechanism to solve two of Proof
 2. Ensuring continuous, decentralized development
 
 **Shared principle:**
-When on-chain activity grows, so do the incentives that sustain miners, fund development, and strengthen the network as a whole.
+> *When on-chain activity grows, so do the incentives that sustain miners, fund development, and strengthen the network as a whole.*
 
 With the optional smoothing model, miners enjoy steady fee flows even as block rewards decline — reinforcing network security — while the same BASEFEE revenue supports client maintenance, infrastructure, and ecosystem growth. Because smoothing operates entirely at the governance layer, it can be activated, tuned, or disabled without additional protocol changes, giving ETC flexibility as fee-market dynamics evolve.
 
@@ -63,9 +63,9 @@ In addition, Olympia’s new transaction type preserves compatibility with moder
 
 ## The Significance of 11 / 11
 
-Olympia Day — 11 / 11 / 2025 marks the moment Ethereum Classic core developers have begun implementation work on a reference client for the Olympia upgrade suite. Just as ECIP-1111 anchors the technical foundation of Olympia, 11/11 now anchors its timeline — signifying the transition from theory to practice, from drafts to deployment.
+**Olympia Day — 11 / 11 / 2025** marks the moment Ethereum Classic core developers have begun implementation work on a reference client for the Olympia upgrade suite. Just as ECIP-1111 anchors the technical foundation of Olympia, 11/11 now anchors its timeline — signifying the transition from theory to practice, from drafts to deployment.
 
-On this date, Ethereum Classic reaffirms its role as the programmable Proof-of-Work network built to last, aligning security, sustainability, and self-sovereignty within a single, immutable system.
+On this date, Ethereum Classic reaffirms its role as the **programmable Proof-of-Work network built to last**, aligning security, sustainability, and self-sovereignty within a single, immutable system.
 
 ## The Four Pillars of Olympia
 
@@ -91,7 +91,7 @@ Defines the Ethereum Classic Funding Proposal (ECFP) standard — the interface 
 
 Defines a governance-layer mechanism that allocates a configurable share of Treasury-held BASEFEE to miners as a long-term security budget. ECIP-1115 introduces no consensus changes and complements ECIP-1111 by smoothing Treasury-based miner rewards across a predictable window. Activation and parameter tuning occur entirely through the Olympia DAO via the OIP process.
 
-🔁 **Together, these four ECIPs form a closed-loop system:**
+### 🔁 Together, these four ECIPs form a closed-loop system:
 
 - Revenue generation through network activity
 - Secure custody of funds
@@ -104,11 +104,7 @@ Once adopted and implemented, this architecture transforms Ethereum Classic from
 
 ## Pioneering PoW: A First Among Proof-of-Work Networks
 
-While most PoW chains rely on centralized foundations or off-chain grants, Ethereum Classic can now finance its own evolution through protocol logic. Olympia demonstrates what only a smart-contract-capable Proof-of-Work network can achieve — a sustainable economic loop that rewards security, development, and utility, without inflation or trusted intermediaries.
-
-It preserves the values that defined ETC in 2016 — immutability, Proof-of-Work, and credible neutrality — while finally addressing the long-standing challenges of decentralized, durable funding and long-term network security.
-
-With ECIP-1115, ETC can optionally extend this sustainability loop into miner incentives themselves, providing a mechanism for predictable, non-inflationary security budgeting.
+While most PoW chains rely on centralized foundations or off-chain grants, Ethereum Classic can now finance its own evolution through protocol logic. Olympia demonstrates what only a smart-contract-capable Proof-of-Work network can achieve — a sustainable economic loop that rewards security, development, and utility, without inflation or trusted intermediaries. It preserves the values that defined ETC in 2016 — immutability, Proof-of-Work, and credible neutrality — while finally addressing the long-standing challenges of decentralized, durable funding and long-term network security. With ECIP-1115, ETC can optionally extend this sustainability loop into miner incentives themselves, providing a mechanism for predictable, non-inflationary security budgeting.
 
 ## The Road Ahead
 
@@ -122,9 +118,7 @@ Over the coming months, we’ll explore:
 - The workflow and transparency of the ECIP-1114 Funding Process
 - The optional ECIP-1115 smoothing mechanism and how governance can configure long-term miner-reward curves without modifying consensus.
 
-Together, these explorations document how Olympia moves from draft to deployed code — outlining the technical path that could lead to acceptance and eventual mainnet activation, reflecting growing community engagement and ongoing review.
-
-Each installment will take readers deeper into the contracts, logic, and governance systems now moving toward Ethereum Classic’s Mordor testnet — showing how Olympia is being prototyped and tested in preparation for potential adoption, with an emphasis on auditability, adaptability, and long-term decentralization.
+Together, these explorations document how Olympia moves from draft to deployed code — outlining the technical path that could lead to acceptance and eventual mainnet activation, reflecting growing community engagement and ongoing review. Each installment will take readers deeper into the contracts, logic, and governance systems now moving toward Ethereum Classic’s Mordor testnet — showing how Olympia is being prototyped and tested in preparation for potential adoption, with an emphasis on auditability, adaptability, and long-term decentralization.
 
 ### ECIP Procedural Clarity
 
