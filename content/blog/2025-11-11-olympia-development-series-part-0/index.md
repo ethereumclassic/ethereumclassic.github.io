@@ -132,7 +132,7 @@ The Olympia ECIPs (1111–1115) are currently in Draft status in the ECIP proces
 
 ## A Bright Future: The Olympia Implementation Era Begins
 
-Olympia Day — 11 / 11 / 2025 mmarks the moment Ethereum Classic core developers began implementation work on a reference client for the Olympia upgrade suite. Olympia is not a single hard fork; it’s the start of a living framework where on-chain activity directly powers network longevity.
+Olympia Day — 11 / 11 / 2025 marks the moment Ethereum Classic core developers began implementation work on a reference client for the Olympia upgrade suite. Olympia is not a single hard fork; it’s the start of a living framework where on-chain activity directly powers network longevity.
 
 For miners, developers, ecosystem sponsors, and long-time community members alike, this marks a return to Ethereum Classic’s founding ethos:
 
