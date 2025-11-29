@@ -11,7 +11,9 @@ excerpt: "Ethereum Classic begins the development phase of the Olympia upgrade�
 ![](./olympia-development-series.png)
 
 Ethereum Classic Core Developers — Olympia Development Series (Part 0)
+
 From Draft to Testnet: The Road to the Olympia Upgrade
+
 November 11, 2025
 
 ## Part 0: The Transition from Research to Reality
@@ -130,7 +132,7 @@ Olympia Day — 11 / 11 / 2025 marks the moment Ethereum Classic core developers
 
 For miners, developers, ecosystem sponsors, and long-time community members alike, this marks a return to Ethereum Classic’s founding ethos:
 
-> *"A credibly neutral, self-sustaining Proof-of-Work network built to last — secured by miners, maintained by builders, supported by institutions, and enforced by code."*
+> *A credibly neutral, self-sustaining Proof-of-Work network built to last — secured by miners, maintained by builders, supported by institutions, and enforced by code.*
 
 ## Next in the Series
 
