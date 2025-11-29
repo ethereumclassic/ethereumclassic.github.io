@@ -3,7 +3,7 @@ title: "Olympia Development Series — From Draft to Testnet (Part 0)"
 date: 2025-11-11
 author: Chris Mercer
 contributors: ["chris-mercer"]
-tags: ["announcement", "hardfork", "development", "Infrastructure", "series"]
+tags: ["announcement", "hardfork", "development", "education", "series"]
 linkImage: ./olympia-development-series.png
 excerpt: "Ethereum Classic begins the development phase of the Olympia upgrade—its first on-chain, self-funding Proof-of-Work framework for sustainable development."
 ---
