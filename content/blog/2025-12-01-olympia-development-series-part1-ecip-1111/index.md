@@ -3,7 +3,7 @@ title: "Olympia Development Series — Implementing ECIP-1111 & ECIP-1112 (Part 
 date: 2025-12-01
 author: Chris Mercer
 contributors: ["chris-mercer"]
-tags: ["development", "hardfork", "infrastructure", "series"]
+tags: ["announcement", "hardfork", "development", "education", "series"]
 linkImage: ./olympia-development-series.png
 excerpt: "A technical walkthrough of the two consensus components of the Olympia Upgrade — ECIP-1111 and ECIP-1112, and how they are being prepared for client implementation and testnet deployment."
 ---
