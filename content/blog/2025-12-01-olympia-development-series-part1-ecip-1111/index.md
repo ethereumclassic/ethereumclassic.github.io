@@ -51,10 +51,10 @@ This format is already standard across most wallets and infrastructure.
 This exposes the current block’s BASEFEE to contract logic (e.g., for gas estimators, DEX routers, and other tooling).
 
 ### **What changes for ETC?**
-Only one behavior differs from Ethereum Mainnet:
+Only one behavior differs from Ethereum Foundation (ETH) Mainnet:
 
-- On Ethereum: BASEFEE is **burned**.
-- On Ethereum Classic: BASEFEE is **redirected to the Treasury** defined in ECIP-1112.
+- On Ethereum Foundation (ETH): BASEFEE is **burned**.
+- On Ethereum Classic (ETC): BASEFEE is **redirected to the Treasury** defined in ECIP-1112.
 
 All other EIP-1559 semantics are implemented as originally specified.
 
