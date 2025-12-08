@@ -1,10 +1,12 @@
-# Welcome to the Gorgoroth Trials - Fukuii Alpha Testing Campaign
-
-**December 8, 2025**  
-**Contributors**: @realcodywburns, @fukuii  
-**Testing Period**: December 8, 2025 - December 31, 2025 (23:59:59 UTC)
-
 ---
+title: "Welcome to the Gorgoroth Trials - Fukuii Alpha Testing Campaign"
+date: 2025-12-08
+author: Cody Burns
+contributors: ["RealCodyWBurns"]
+tags: ["Community", "Infrastructure"]
+linkImage: ./gorgoroth.png
+---
+
 
 ## Introduction
 
