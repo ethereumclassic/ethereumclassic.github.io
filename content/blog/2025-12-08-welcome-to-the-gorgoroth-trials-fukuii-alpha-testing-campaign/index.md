@@ -6,7 +6,7 @@ contributors: ["RealCodyWBurns"]
 tags: ["Community", "Infrastructure"]
 linkImage: ./gorgoroth.png
 ---
-
+![](./gorgoroth.png)
 
 ## Introduction
 
