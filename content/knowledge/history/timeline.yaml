@@ -1009,13 +1009,21 @@ items:
     __link: https://x.com/ETCGrantsDao/status/1973818014786347151
     text: As core developers organize the path to long-term protocol-level funding through Olympia, Bitmain steps in as a stopgap to help fund core client development while the community finalizes implementation details.
   olympiaDay:
-    title: Olympia Day — Implementation Work Announced
-    __dateText: Olympia ECIP Authors
+    title: Olympia Day — From Draft to Testnet
+    __dateText: Ethereum Classic Core Devs
     __date: 2025-11-11
     __color: white
     __icon: rocket
     __link: https://coinmarketcap.com/community/articles/69135a2872417b07898025bc/
-    text: Following several months of public review, iterative redrafting, and technical feedback under the ECIP-1000 process, the Olympia ECIP authors publish a statement that the suite (1111–1114) is ready to begin reference-client implementation and testnet preparation, and outline the planned path from Draft ECIPs toward potential deployment.
+    text: Olympia Development Series — Part 0 (“From Draft to Testnet”) is published, marking “Olympia Day” (11/11/2025) as the point where the Olympia ECIP authors publicly outline the transition from years of research into a planned implementation phase, describing how reference-client work and future Mordor testnet evaluations for ECIPs 1111–1115 will proceed while all Olympia ECIPs remain in Draft status under ECIP-1000.
+  olympiaDevSeriesPart1:
+    title: Olympia Dev Series — Part 1: Implementing ECIP-1111 & ECIP-1112
+    __dateText: Ethereum Classic Core Devs
+    __date: 2025-12-01
+    __color: white
+    __icon: book
+    __link: https://coinmarketcap.com/community/articles/691fb0f0383b145cbcd3c6c6/
+    text: Olympia Development Series — Part 1 is published, providing a technical walkthrough of ECIP-1111 and ECIP-1112, defining Olympia’s consensus boundary, and describing the proposed BASEFEE mechanics, immutable Treasury destination, and early reference-client plumbing for potential Mordor testnet testing—without implying activation or acceptance beyond the ECIP-1000 Draft stage.
   ecip1115Draft:
     title: Olympia — ECIP-1115 L-Curve Smoothing Draft Completed
     __dateText: Ethereum Classic Core Devs
@@ -1024,6 +1032,14 @@ items:
     __icon: fileCode
     __link: https://github.com/ethereumclassic/ECIPs/pull/544
     text: The ECIP-1115 draft is published, defining an optional governance-layer L-curve smoothing model for Treasury-held BASEFEE, enabling additive, structured miner incentives that complement existing consensus-layer rewards while keeping all logic outside consensus.
+  gorgorothTrials:
+    title: Gorgoroth Trials — Multi-Client Alpha Testing Begins
+    __dateText: Ethereum Classic Core Devs
+    __date: 2025-12-08
+    __color: blue
+    __icon: rocket
+    __link: https://coinmarketcap.com/community/articles/69372a1e3e407d6b6ad51dc3/
+    text: The Ethereum Classic core developers launch the Gorgoroth Trials, a community-driven alpha testing campaign for Fukuii — a new Scala 3 client designed to modernize ETC’s execution stack. The trials establish a structured multi-client proving ground, validating consensus alignment across Fukuii, Core-Geth, and Hyperledger Besu ahead of potential Olympia-related testnet work, as community testers submit field reports across networking, mining, and protocol-compatibility scenarios.
   aBrightFuture:
     title: A Bright Future
     __dateText: The Future
