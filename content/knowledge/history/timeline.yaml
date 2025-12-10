@@ -1009,13 +1009,13 @@ items:
     __link: https://x.com/ETCGrantsDao/status/1973818014786347151
     text: As core developers organize the path to long-term protocol-level funding through Olympia, Bitmain steps in as a stopgap to help fund core client development while the community finalizes implementation details.
   olympiaDay:
-    title: Olympia Day — Implementation Phase Begins
-    __dateText: Ethereum Classic Core Devs
+    title: Olympia Day — Implementation Work Announced
+    __dateText: Olympia ECIP Authors
     __date: 2025-11-11
     __color: white
     __icon: rocket
     __link: https://coinmarketcap.com/community/articles/69135a2872417b07898025bc/
-    text: Following several months of public review, iterative redrafting, and broad technical feedback under the ECIP-1000 process, the ECIP authors judge the Olympia suite (1111–1114) sufficiently polished to begin implementation. Ethereum Classic publicly announces the transition from specification review into active client development and testnet preparation, marking the start of the Olympia implementation phase.
+    text: Following several months of public review, iterative redrafting, and technical feedback under the ECIP-1000 process, the Olympia ECIP authors publish a statement that the suite (1111–1114) is ready to begin reference-client implementation and testnet preparation, and outline the planned path from Draft ECIPs toward potential deployment.
   ecip1115Draft:
     title: Olympia — ECIP-1115 L-Curve Smoothing Draft Completed
     __dateText: Ethereum Classic Core Devs
