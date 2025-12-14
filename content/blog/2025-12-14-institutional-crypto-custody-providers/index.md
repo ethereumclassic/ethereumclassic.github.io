@@ -14,60 +14,33 @@ This article is written for financial-institution technologists who want to unde
 
 At a fundamental level, custody providers are responsible for safeguarding private keys, because control of the private key is control of the asset. For institutions, this responsibility extends far beyond simple storage.
 
-Modern custody providers typically deliver:
+Modern custody providers typically deliver secure key management using hardware security modules (HSMs), multi-signature schemes, or multi-party computation (MPC), a model described in detail by platforms such as [Fireblocks](https://www.fireblocks.com/blog/what-is-institutional-crypto-custody/). Assets are commonly held in segregated cold-storage environments to reduce online attack surfaces, with policy-based controls governing who can initiate or approve transactions.
 
-- **Secure key management**, using hardware security modules (HSMs), multi-signature schemes, or multi-party computation (MPC)  
-- **Cold storage and asset segregation**, reducing online attack surfaces  
-- **Operational controls**, such as role-based access, transaction policies, and approval workflows  
-- **Auditability and reporting**, including SOC 1 / SOC 2 controls and asset attestations  
-- **Trading and settlement integrations**, enabling assets to move efficiently without leaving custody  
-- **Insurance and regulatory alignment**, helping institutions manage counterparty and operational risk  
+From an operational perspective, custodians also provide auditability through SOC 1 and SOC 2 reporting, asset segregation attestations, and regulatory-aligned processes. Many platforms integrate directly with trading and settlement venues, allowing institutions to trade or rebalance positions without moving assets out of custody, as seen in offerings like [Coinbase Prime](https://www.coinbase.com/institutional/prime).
 
-From an institutional perspective, custody providers form the control plane that allows blockchain-based assets to be used within established enterprise and regulatory frameworks.
-
-**References**
-- Fireblocks, *What is Institutional Crypto Custody*  
-  https://www.fireblocks.com/blog/what-is-institutional-crypto-custody/  
-- Coinbase, *Institutional Crypto Custody Overview*  
-  https://www.coinbase.com/institutional/prime  
+For institutions, custody providers form the control plane that makes interaction with blockchain networks compatible with enterprise risk, compliance, and governance requirements.
 
 ---
 
 ## Who Uses Institutional Custody Solutions?
 
-Institutional custody is used across a broad range of participants in the digital asset ecosystem.
+Institutional custody is used across a wide range of organizations participating in digital asset markets.
 
 ### Asset Managers and Hedge Funds
 
-Investment managers rely on custody providers to meet fiduciary obligations, protect client assets, and satisfy internal and external audit requirements. Custody solutions allow funds to hold assets such as ETC alongside portfolio reporting and governance controls.
-
-**Reference**
-- Fidelity Digital Assets, *Custody in Digital Assets*  
-  https://www.fidelitydigitalassets.com/overview  
+Asset managers and hedge funds rely on custody providers to meet fiduciary obligations and protect client assets. Custody solutions allow funds to hold assets such as ETC while maintaining internal controls and audit readiness similar to traditional securities custody. Providers like [Fidelity Digital Assets](https://www.fidelitydigitalassets.com/overview) highlight custody as a foundational requirement for institutional participation.
 
 ### Exchanges and Trading Firms
 
-Exchanges and proprietary trading firms use custody to secure customer assets, manage treasury balances, and reduce exposure to hot-wallet risk. Many institutional custody platforms integrate directly with exchanges or settlement networks.
-
-**Reference**
-- Copper, *ClearLoop and Off-Exchange Settlement*  
-  https://copper.co/clearloop  
+Exchanges and proprietary trading firms use custody to secure customer assets, manage treasury balances, and reduce hot-wallet exposure. Many institutional custody platforms integrate directly with exchanges or provide off-exchange settlement models, such as [Copper’s ClearLoop](https://copper.co/clearloop), which allows trading activity without transferring assets out of custody.
 
 ### Corporate Treasuries and Fintechs
 
-Corporations holding crypto on balance sheets require shared access, internal approvals, and clear audit trails. Custody providers enable this without concentrating control in a single employee or device.
-
-**Reference**
-- Anchorage Digital, *Crypto Custody for Institutions*  
-  https://www.anchorage.com/custody  
+Corporations holding crypto on their balance sheets require shared access controls, approval workflows, and clear audit trails. Institutional custody providers such as [Anchorage Digital](https://www.anchorage.com/custody) offer governance tooling that supports these needs without concentrating key control in a single employee or device.
 
 ### Miners, Foundations, and Ecosystem Organizations
 
-Mining companies, blockchain foundations, and protocol treasuries often custody large balances for extended periods. Institutional custody supports secure long-term storage and structured governance.
-
-**Reference**
-- BitGo, *Institutional Custody Solutions*  
-  https://www.bitgo.com/products/custody/  
+Mining companies, blockchain foundations, and protocol treasuries often hold significant balances over long periods. Custody providers like [BitGo](https://www.bitgo.com/products/custody/) support secure long-term storage and structured access for these organizations.
 
 ---
 
@@ -77,116 +50,41 @@ The defining question in crypto custody is **who controls the private keys**.
 
 ### Custodial Key Management
 
-In a custodial model, a third party holds and manages private keys on behalf of the client. Assets are typically held in segregated wallets under the custodian’s control.
+In a custodial model, a third party holds and manages private keys on behalf of the client. Assets are typically stored in segregated wallets controlled by the custodian. This model closely mirrors traditional financial custody and is often preferred by institutions that require qualified custodians and regulated entities.
 
-**Advantages**
-- Outsourced security and operational complexity  
-- Insurance coverage and audited controls  
-- Alignment with regulatory expectations for qualified custodians  
-
-**Trade-offs**
-- Reliance on a third party  
-- Exposure to custodian operational and legal risk  
-
-This model closely mirrors traditional financial custody.
-
-**Ethereum Classic Reference**
-- Ethereum Classic, *Custodial vs Non-Custodial Wallets*  
-  https://ethereumclassic.org/why-classic/wallets  
+The trade-off is that the institution is relying on a third party for asset control. Ethereum Classic’s own educational material explains this distinction clearly, noting that in custodial wallets the user does not directly control the private keys ([ethereumclassic.org/why-classic/wallets](https://ethereumclassic.org/why-classic/wallets)).
 
 ### Non-Custodial (Self-Custody) Key Management
 
-In a non-custodial model, the institution retains control of its private keys. This may involve hardware wallets, multi-signature setups, or internally managed MPC systems.
+In a non-custodial model, the institution retains direct control of its private keys. This may involve hardware wallets, multi-signature setups, or internally managed MPC systems. While this approach reduces reliance on third parties, it places full responsibility for key security, recovery, and operational resilience on the institution itself.
 
-**Advantages**
-- Direct control over assets  
-- Reduced reliance on third parties  
-
-**Trade-offs**
-- Full responsibility for security, backups, and recovery  
-- Increased operational complexity  
-
-Many modern institutional platforms use **hybrid MPC models**, where key control is distributed between the institution and the service provider.
-
-**References**
-- Fireblocks, *How MPC Works*  
-  https://www.fireblocks.com/platform/multi-party-computation/  
-- NIST, *Digital Signature and Key Management Guidance*  
-  https://csrc.nist.gov/publications  
+Many modern institutional platforms blur this distinction by using MPC-based architectures, where key control is distributed between multiple parties or environments. Fireblocks provides a detailed explanation of this approach and its security properties in its overview of [multi-party computation](https://www.fireblocks.com/platform/multi-party-computation/).
 
 ---
 
 ## Institutional Custody Providers Supporting Ethereum Classic
 
-The following custody providers currently support Ethereum Classic, enabling ETC to be held within institutional-grade custody infrastructure.
+Several leading institutional custody providers currently support Ethereum Classic, enabling ETC to be held using professional custody infrastructure.
 
 ### Coinbase Custody (Coinbase Prime)
 
-Coinbase Custody Trust Company is a New York–chartered trust and qualified custodian. It provides segregated cold storage, audited controls, and integration with Coinbase Prime trading and brokerage services.
-
-Ethereum Classic is supported as part of Coinbase’s institutional asset coverage.
-
-**References**
-- Coinbase Prime  
-  https://www.coinbase.com/institutional/prime  
-- Coinbase Asset Hub – Ethereum Classic  
-  https://www.coinbase.com/price/ethereum-classic  
-
----
+[Coinbase Custody Trust Company](https://www.coinbase.com/institutional/prime) is a New York-chartered trust and qualified custodian. It offers segregated cold storage, audited controls, and deep integration with Coinbase’s institutional trading and brokerage services. Ethereum Classic is supported as part of Coinbase’s institutional asset coverage, allowing ETC to be custodied alongside other major digital assets.
 
 ### BitGo
 
-BitGo is a long-established institutional custodian known for its multi-signature security model. It operates regulated custody entities in multiple jurisdictions and offers insured, segregated storage.
-
-Ethereum Classic is supported by BitGo’s custody platform.
-
-**References**
-- BitGo Supported Assets  
-  https://www.bitgo.com/resources/digital-assets/  
-- BitGo Custody Overview  
-  https://www.bitgo.com/products/custody/  
-
----
+[BitGo](https://www.bitgo.com/products/custody/) is one of the longest-established institutional custody providers and is widely known for its multi-signature security architecture. It operates regulated custody entities in multiple jurisdictions and offers insured, segregated storage. Ethereum Classic is included in BitGo’s list of [supported digital assets](https://www.bitgo.com/resources/digital-assets/).
 
 ### Fireblocks
 
-Fireblocks provides an MPC-based custody and transaction platform used by banks, exchanges, and asset managers. It removes single private keys by distributing signing authority across secure environments.
-
-Ethereum Classic is supported on the Fireblocks platform.
-
-**References**
-- Fireblocks Supported Blockchains  
-  https://www.fireblocks.com/platform/blockchains/  
-- Fireblocks Security Architecture  
-  https://www.fireblocks.com/platform/security/  
-
----
+[Fireblocks](https://www.fireblocks.com/platform/blockchains/) provides an MPC-based custody and transaction platform used by banks, exchanges, and asset managers. By eliminating single private keys and distributing signing authority across secure environments, Fireblocks enables institutions to custody and move Ethereum Classic while maintaining strong operational control.
 
 ### Copper
 
-Copper is an institutional custody provider focused on MPC-based custody and off-exchange settlement. Its ClearLoop network allows institutions to trade without moving assets out of custody.
-
-Ethereum Classic is supported within Copper’s custody offering.
-
-**References**
-- Copper Supported Assets  
-  https://copper.co/digital-assets  
-- Copper Custody Overview  
-  https://copper.co/custody  
-
----
+[Copper](https://copper.co/custody) is an institutional custody provider focused on MPC-based security and off-exchange settlement. Its ClearLoop network allows institutions to trade on supported exchanges without moving assets out of custody. Ethereum Classic is supported within Copper’s [digital asset coverage](https://copper.co/digital-assets).
 
 ### Anchorage Digital
 
-Anchorage Digital is a federally chartered digital asset bank regulated by the U.S. Office of the Comptroller of the Currency (OCC). It offers bank-grade custody services with governance and compliance controls.
-
-Ethereum Classic is supported within Anchorage’s custody platform.
-
-**References**
-- Anchorage Digital Bank  
-  https://www.anchorage.com  
-- OCC Charter Announcement  
-  https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-8.html  
+[Anchorage Digital](https://www.anchorage.com) is a federally chartered digital asset bank regulated by the U.S. Office of the Comptroller of the Currency. Operating under an OCC charter ([announcement](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-8.html)), Anchorage offers bank-grade custody services with governance and compliance controls. Ethereum Classic is supported within Anchorage’s custody platform, allowing ETC to be held under a U.S. banking framework.
 
 ---
 
