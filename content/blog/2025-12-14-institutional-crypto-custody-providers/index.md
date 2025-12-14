@@ -3,9 +3,10 @@ title: "Institutional Crypto Custody Providers: What They Do and How They Suppor
 date: 2025-12-14
 author: Cody Burns
 contributors: ["RealCodyWBurns"]
-tags: ["Community", "Infrastructure"]
+tags: ["Community", "Wallets"]
 linkImage: ./custody.png
 ---
+![](./custody.png)
 
 ## Introduction
 
