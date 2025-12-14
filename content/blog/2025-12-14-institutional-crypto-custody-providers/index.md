@@ -6,7 +6,7 @@ Institutional investors and enterprises entering the crypto space quickly discov
 
 Institutional digital asset custody providers exist to meet these needs. They allow businesses to hold, move, and account for crypto assets with security and governance comparable to traditional financial infrastructure. While most custodians are blockchain-agnostic, their support for specific networks matters. Ethereum Classic (ETC) is supported by several leading institutional custody platforms, ensuring that ETC can be safely held and used by professional market participants.
 
-This article is written for financial-institution technologists who want to understand what custody means in practice, how custodial models differ, and which providers currently support Ethereum Classic.
+This article is written for technologists who want to understand what custody means in practice, how custodial models differ, and which providers currently support Ethereum Classic.
 
 ---
 
