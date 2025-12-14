@@ -1,4 +1,12 @@
-# Institutional Crypto Custody Providers: What They Do and How They Support Ethereum Classic
+
+---
+title: "Institutional Crypto Custody Providers: What They Do and How They Support Ethereum Classic"
+date: 2025-12-14
+author: Cody Burns
+contributors: ["RealCodyWBurns"]
+tags: ["Community", "Infrastructure"]
+linkImage: ./custody.png
+---
 
 ## Introduction
 
