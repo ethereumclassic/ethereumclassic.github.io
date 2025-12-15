@@ -17,6 +17,9 @@ disclaimers:
   opinion:
     title: Contenu d'opinion
     text: Cette page ne reflète pas nécessairement l'opinion de toutes les parties prenantes du CTE.
+  debate:
+    title: Contenu débattu
+    text: Ce sujet fait l'objet d'une discussion continue au sein de la communauté ETC.
 next: Continuer la lecture
 prev: Article précédent
 contribute: Si vous souhaitez contribuer en ajoutant ou en corrigeant des informations sur cette page, veuillez envoyer un message à [Discord](https://discord.com/invite/dwxb6nf) ou créer un problème à [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io).

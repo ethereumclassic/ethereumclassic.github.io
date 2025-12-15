@@ -17,6 +17,9 @@ disclaimers:
   opinion:
     title: Sadržaj mišljenja
     text: Ova stranica ne odražava nužno gledište svih dionika ETC-a.
+  debate:
+    title: Raspravljeni sadržaj
+    text: Ova tema podliježe stalnoj raspravi unutar ETC zajednice.
 next: Nastavi čitati
 prev: Prethodni članak
 contribute: Ako želite doprinijeti dodavanjem ili ispravljanjem informacija na ovoj stranici, ispustite poruku na [Discord](https://discord.com/invite/dwxb6nf) ili napravite problem na [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)

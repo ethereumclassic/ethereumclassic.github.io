@@ -17,6 +17,9 @@ disclaimers:
   opinion:
     title: Opinionated Content
     text: This page does not necessarily reflect the view of all ETC stakeholders.
+  debate:
+    title: Debated Content
+    text: This topic is subject to ongoing discussion within the ETC community.
 next: Continue Reading
 prev: Previous Article
 contribute: If you would like to contribute by adding or correcting information to this page, please drop a message on [Discord](https://discord.com/invite/dwxb6nf) or create an issue on [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)

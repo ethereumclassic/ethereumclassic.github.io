@@ -17,6 +17,9 @@ disclaimers:
   opinion:
     title: Мнение о контенте
     text: Эта страница не обязательно отражает мнение всех заинтересованных сторон ЕТК.
+  debate:
+    title: Обсуждаемый контент
+    text: Эта тема является предметом постоянного обсуждения в сообществе ETC.
 next: Continue Reading
 prev: Предыдущая статья
 contribute: Если вы хотите внести свой вклад, добавив или исправив информацию на этой странице, пожалуйста, оставьте сообщение на [Discord](https://discord.com/invite/dwxb6nf) или создайте проблему на [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io).

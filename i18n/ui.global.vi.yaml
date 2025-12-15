@@ -17,6 +17,9 @@ disclaimers:
   opinion:
     title: Nội dung có ý kiến
     text: Trang này không nhất thiết phản ánh quan điểm của tất cả các bên liên quan đến ETC.
+  debate:
+    title: Nội dung đang tranh luận
+    text: Chủ đề này đang được thảo luận liên tục trong cộng đồng ETC.
 next: Tiếp tục đọc
 prev: Bài báo trước
 contribute: Nếu bạn muốn đóng góp bằng cách thêm hoặc sửa thông tin vào trang này, vui lòng gửi thông báo trên [Discord](https://discord.com/invite/dwxb6nf) hoặc tạo sự cố trên [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)

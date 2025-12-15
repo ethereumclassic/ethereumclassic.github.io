@@ -4,6 +4,7 @@ import Icon from "./icon";
 import Md from "./markdownDynamic";
 import Fader from "./fader";
 import { Popover } from "@headlessui/react";
+import Link from "./link";
 
 const palette = {
   secondary: {
@@ -45,6 +46,8 @@ function MainBox({
   text,
   colConf,
   markdown,
+  link,
+  linkText,
   ...rest
 }) {
   return (
@@ -64,20 +67,35 @@ function MainBox({
         {title && (
           <div
             css={[
-              tw`inline font-medium mr-2 whitespace-nowrap`,
+              tw`font-medium mr-2 whitespace-nowrap`,
               colConf.textSecondary,
+              inline ? tw`font-bold block mb-1` : tw`inline`,
             ]}
           >
             {title}
           </div>
         )}
-        {markdown ? (
-          <Md css={textConf} styleLinks>
-            {text}
-          </Md>
-        ) : (
-          <p css={textConf}>{text}</p>
-        )}
+        <div css={[inline ? tw`block` : tw`inline`]}>
+          {markdown ? (
+            <Md css={textConf} styleLinks>
+              {text}
+            </Md>
+          ) : (
+            <span css={textConf}>{text}</span>
+          )}
+          {link && (
+            <Link
+              to={link}
+              css={[
+                tw`inline ml-1 hover:no-underline`,
+                colConf.textSecondary,
+                { textDecoration: "underline dotted" },
+              ]}
+            >
+              {linkText || "Learn More"} →
+            </Link>
+          )}
+        </div>
       </div>
     </As>
   );
@@ -93,11 +111,12 @@ export default function InfoBox(props) {
     colConf.bg,
     tw`rounded-md relative overflow-hidden shadow-sm leading-snug px-3 py-2 pr-16 text-xs md:text-sm`,
     mini && tw`max-w-xs`,
-    (inline || micro) && tw`px-1.5 py-1 pr-10`,
+    micro && tw`px-1.5 py-1 pr-10`,
+    inline && tw`px-3 py-2 pr-10`,
   ];
   const textConf = [
     colConf.text,
-    tw`block sm:inline`,
+    inline ? tw`inline` : tw`block sm:inline`,
     micro && tw`hidden sm:hidden`,
   ];
   if (!micro) {

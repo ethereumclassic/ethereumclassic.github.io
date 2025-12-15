@@ -17,6 +17,9 @@ disclaimers:
   opinion:
     title: Opiniërende inhoud
     text: Deze pagina geeft niet noodzakelijk het standpunt van alle ETC-belanghebbenden weer.
+  debate:
+    title: Bediscussieerde inhoud
+    text: Dit onderwerp is onderwerp van voortdurende discussie binnen de ETC-gemeenschap.
 next: Lees verder
 prev: Vorig artikel
 contribute: Als u wilt bijdragen door informatie aan deze pagina toe te voegen of te corrigeren, stuur dan een bericht naar [Discord](https://discord.com/invite/dwxb6nf) of maak een probleem aan op [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io).

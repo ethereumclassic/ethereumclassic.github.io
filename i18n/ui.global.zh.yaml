@@ -17,6 +17,9 @@ disclaimers:
   opinion:
     title: 有意见的内容
     text: 本页不一定反映所有ETC利益相关者的观点。
+  debate:
+    title: 争议中的内容
+    text: 此主题在ETC社区内正在进行讨论。
 next: 继续阅读
 prev: 上一篇文章
 contribute: 如果您想通过添加或更正本页面的信息来做出贡献，请在 [Discord](https://discord.com/invite/dwxb6nf)上留言，或在 [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)上创建一个问题。

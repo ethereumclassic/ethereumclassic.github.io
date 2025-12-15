@@ -17,6 +17,9 @@ disclaimers:
   opinion:
     title: Fikir Veren İçerik
     text: Bu sayfa tüm ETC paydaşlarının görüşlerini yansıtmak zorunda değildir.
+  debate:
+    title: Tartışılan İçerik
+    text: Bu konu ETC topluluğu içinde devam eden tartışmalara tabidir.
 next: Continue Reading
 prev: Önceki Makale
 contribute: Bu sayfaya bilgi ekleyerek veya düzelterek katkıda bulunmak isterseniz, lütfen [Discord](https://discord.com/invite/dwxb6nf) adresine bir mesaj bırakın veya [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io) adresinde bir sorun oluşturun.

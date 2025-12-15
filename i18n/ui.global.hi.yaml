@@ -17,6 +17,9 @@ disclaimers:
   opinion:
     title: राय वाली सामग्री
     text: यह पृष्ठ आवश्यक रूप से सभी ईटीसी हितधारकों के दृष्टिकोण को नहीं दर्शाता है।
+  debate:
+    title: बहस वाली सामग्री
+    text: यह विषय ETC समुदाय के भीतर निरंतर चर्चा के अधीन है।
 next: जारी रखें पढ़ रहे हैं
 prev: पिछला लेख
 contribute: अगर आप इस पेज पर जानकारी जोड़कर या सुधार कर योगदान देना चाहते हैं, तो कृपया [Discord](https://discord.com/invite/dwxb6nf) पर एक संदेश छोड़ें या [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io) पर एक समस्या बनाएं

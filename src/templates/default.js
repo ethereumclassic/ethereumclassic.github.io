@@ -44,6 +44,7 @@ export const pageQuery = graphql`
         contribute
         contributors
         disclaimer
+        disclaimerLink
         updated
         info
         tags

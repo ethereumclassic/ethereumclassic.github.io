@@ -17,6 +17,9 @@ disclaimers:
   opinion:
     title: محتوى رأي
     text: لا تعكس هذه الصفحة بالضرورة وجهة نظر جميع أصحاب المصلحة في ETC.
+  debate:
+    title: محتوى مُناقَش
+    text: هذا الموضوع قيد النقاش المستمر داخل مجتمع ETC.
 next: أكمل القراءة
 prev: المقال السابق
 contribute: إذا كنت ترغب في المساهمة بإضافة المعلومات أو تصحيحها إلى هذه الصفحة ، فيرجى ترك رسالة على [Discord](https://discord.com/invite/dwxb6nf) أو إنشاء مشكلة على [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)
