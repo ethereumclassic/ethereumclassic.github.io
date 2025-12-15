@@ -5,6 +5,7 @@ import Md from "./markdownDynamic";
 import Fader from "./fader";
 import { Popover } from "@headlessui/react";
 import Link from "./link";
+import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
 const palette = {
   secondary: {
@@ -92,7 +93,7 @@ function MainBox({
                 { textDecoration: "underline dotted" },
               ]}
             >
-              {linkText || "Learn More"} →
+              {linkText}
             </Link>
           )}
         </div>
@@ -102,7 +103,9 @@ function MainBox({
 }
 
 export default function InfoBox(props) {
+  const { ui } = useGlobals();
   const { gray, type, title, text, color = "gray", ...rest } = props;
+  const linkText = ui.readMore;
   const inline = type === "inline";
   const micro = type === "micro";
   const mini = type === "mini";
@@ -121,7 +124,19 @@ export default function InfoBox(props) {
   ];
   if (!micro) {
     return (
-      <MainBox {...{ bgConf, textConf, colConf, inline, micro, ...props }} />
+      <MainBox
+        {...{
+          bgConf,
+          textConf,
+          colConf,
+          inline,
+          micro,
+          linkText,
+          ...rest,
+          title,
+          text,
+        }}
+      />
     );
   }
   return (
@@ -130,7 +145,18 @@ export default function InfoBox(props) {
         <>
           <MainBox
             As={Popover.Button}
-            {...{ bgConf, textConf, colConf, open, inline, micro, ...props }}
+            {...{
+              bgConf,
+              textConf,
+              colConf,
+              open,
+              inline,
+              micro,
+              linkText,
+              ...rest,
+              title,
+              text,
+            }}
           />
           <Fader>
             <Popover.Panel

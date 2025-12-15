@@ -4,9 +4,8 @@ import InfoBox from "./infoBox";
 
 export default function Disclaimer({ text: key = "verify", link, ...rest }) {
   const {
-    ui: { disclaimers, announcement },
+    ui: { disclaimers },
   } = useGlobals();
   const { title, text } = disclaimers[key];
-  const linkText = announcement?.button?.text;
-  return <InfoBox {...{ ...rest, title, text, link, linkText }} />;
+  return <InfoBox {...{ ...rest, title, text, link }} />;
 }
