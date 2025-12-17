@@ -18,7 +18,7 @@ Two proposals have been submitted for consideration. Each offers a coherent visi
 
 ## Two Proposals, Two Approaches
 
-### The Olympia Upgrade (ECIPs 1111-1114)
+### The Olympia Upgrade (ECIPs 1111-1115)
 
 Olympia, introduced by Cody Burns and Chris Mercer, proposes redirecting basefees to a protocol-level treasury governed by on-chain mechanisms:
 
@@ -26,6 +26,7 @@ Olympia, introduced by Cody Burns and Chris Mercer, proposes redirecting basefee
 - **[ECIP-1112](https://ecips.ethereumclassic.org/ECIPs/ecip-1112)**: Defines the on-chain treasury contract
 - **[ECIP-1113](https://ecips.ethereumclassic.org/ECIPs/ecip-1113)**: Establishes a modular on-chain governance framework
 - **[ECIP-1114](https://ecips.ethereumclassic.org/ECIPs/ecip-1114)**: Creates the Olympia Improvement Process (OIP) for funding proposals
+- **[ECIP-1115](https://ecips.ethereumclassic.org/ECIPs/ecip-1115)**: Introduces optional L-curve smoothing to distribute a governance-defined portion of basefees to miners
 
 #### The case for Olympia
 
@@ -36,6 +37,8 @@ The treasury is designed to be governed entirely on-chain through smart contract
 Proponents argue that empowering ETC holders to govern fund allocation aligns incentives between those who hold value in the network and those who decide how protocol revenue is spent. They suggest the OIP (Olympia Improvement Process) would open funding access to all contributors equally.
 
 Some believe that on-chain governance, properly designed, enhances decentralization by replacing opaque off-chain decision-making with transparent on-chain processes.
+
+ECIP-1115 offers a middle ground within the Olympia framework. Rather than directing all basefees exclusively to the treasury, governance can allocate a portion to miners through a smoothing mechanism. This allows the network to balance treasury funding with miner incentives, with the split adjustable through the OIP process without requiring hard forks.
 
 ### ECIP-1120: Basefee Market with Miner Rewards
 
