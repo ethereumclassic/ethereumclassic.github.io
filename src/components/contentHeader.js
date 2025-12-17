@@ -25,6 +25,7 @@ export default function ContentHeader({ mdx, i18n, pre, ...rest }) {
   const { title, date, author, updated } = mdx?.meta || i18n;
   const header = articleHeader || title;
   const disclaimer = mdx?.meta?.disclaimer || i18n.disclaimer;
+  const disclaimerLink = mdx?.meta?.disclaimerLink || i18n.disclaimerLink;
   const info = mdx?.meta?.info || i18n.info;
   const tags = mdx?.meta?.tags
     ?.map((tag) => ({
@@ -74,12 +75,17 @@ export default function ContentHeader({ mdx, i18n, pre, ...rest }) {
             )}
           </div>
         </div>
-        {disclaimer && (
+        {disclaimer && disclaimer !== "opinion" && disclaimer !== "debate" && (
           <div tw="hidden md:block ml-4">
             <Disclaimer type="micro" text={disclaimer} />
           </div>
         )}
       </div>
+      {(disclaimer === "opinion" || disclaimer === "debate") && (
+        <div tw="mt-4">
+          <Disclaimer type="inline" text={disclaimer} link={disclaimerLink} />
+        </div>
+      )}
       {globalDisclaimer && (
         <div
           tw="text-xs mt-4 text-shade-light italic select-none"

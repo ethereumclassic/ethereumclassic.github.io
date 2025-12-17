@@ -17,8 +17,12 @@ disclaimers:
   opinion:
     title: 의견이 있는 콘텐츠
     text: 이 페이지는 반드시 모든 ETC 이해 관계자의 견해를 반영하는 것은 아닙니다.
+  debate:
+    title: 검토 중
+    text: 이 주제는 진행 중인 커뮤니티 논의의 일부입니다. 아직 확정된 결정은 없습니다.
 next: 계속 읽기
 prev: 이전 기사
+readMore: 더 읽기
 contribute: 이 페이지에 정보를 추가하거나 수정하여 기여하고 싶다면 [Discord](https://discord.com/invite/dwxb6nf)에 메시지를 남기거나 [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)에서 이슈를 생성하세요.
 contributors: "이 페이지는 부분적으로 다음 기여자들 덕분에 존재합니다:"
 allLanguages: 모든 언어

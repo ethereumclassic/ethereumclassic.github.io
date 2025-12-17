@@ -17,8 +17,12 @@ disclaimers:
   opinion:
     title: 意見交換型コンテンツ
     text: このページは、必ずしもすべてのETC関係者の見解を反映したものではありません。
+  debate:
+    title: 検討中
+    text: このトピックはコミュニティの継続的な議論の一部です。最終的な決定は行われていません。
 next: 続きを読む
 prev: 前の記事
+readMore: もっと読む
 contribute: このページへの情報の追加や修正で貢献したい方は、 [Discord](https://discord.com/invite/dwxb6nf) にメッセージを送っていただくか、 [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io) に課題を作成してください。
 contributors: "このページは、以下の方々のご協力により成り立っています。"
 allLanguages: すべての言語

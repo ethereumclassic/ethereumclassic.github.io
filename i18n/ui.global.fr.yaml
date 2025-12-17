@@ -17,8 +17,12 @@ disclaimers:
   opinion:
     title: Contenu d'opinion
     text: Cette page ne reflète pas nécessairement l'opinion de toutes les parties prenantes du CTE.
+  debate:
+    title: En Cours d'Examen
+    text: Ce sujet fait partie d'une discussion communautaire en cours. Aucune décision n'a été finalisée.
 next: Continuer la lecture
 prev: Article précédent
+readMore: En savoir plus
 contribute: Si vous souhaitez contribuer en ajoutant ou en corrigeant des informations sur cette page, veuillez envoyer un message à [Discord](https://discord.com/invite/dwxb6nf) ou créer un problème à [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io).
 contributors: "Cette page existe en partie grâce aux contributeurs suivants :"
 allLanguages: Toutes les langues

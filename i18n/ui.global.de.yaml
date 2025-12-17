@@ -17,8 +17,12 @@ disclaimers:
   opinion:
     title: Meinungsbildende Inhalte
     text: Diese Seite spiegelt nicht unbedingt die Meinung aller ETC-Akteure wider.
+  debate:
+    title: In Betrachtung
+    text: Dieses Thema ist Teil einer laufenden Gemeinschaftsdiskussion. Es wurden noch keine endgültigen Entscheidungen getroffen.
 next: Lesen Sie weiter
 prev: Vorheriger Artikel
+readMore: Mehr erfahren
 contribute: Wenn Sie Informationen zu dieser Seite hinzufügen oder korrigieren möchten, senden Sie bitte eine Nachricht an [Discord](https://discord.com/invite/dwxb6nf) oder erstellen Sie ein Problem auf [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)
 contributors: "Diese Seite existiert unter anderem dank der folgenden Mitwirkenden:"
 allLanguages: Alle Sprachen
