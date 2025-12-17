@@ -90,10 +90,6 @@ Several leading institutional custody providers currently support Ethereum Class
 
 [Copper](https://copper.co/custody) is an institutional custody provider focused on MPC-based security and off-exchange settlement. Its ClearLoop network allows institutions to trade on supported exchanges without moving assets out of custody. Ethereum Classic is supported within Copper’s [digital asset coverage](https://copper.co/digital-assets).
 
-### Anchorage Digital
-
-[Anchorage Digital](https://www.anchorage.com) is a federally chartered digital asset bank regulated by the U.S. Office of the Comptroller of the Currency. Operating under an OCC charter ([announcement](https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-8.html)), Anchorage offers bank-grade custody services with governance and compliance controls. Ethereum Classic is supported within Anchorage’s custody platform, allowing ETC to be held under a U.S. banking framework.
-
 ---
 
 ## Conclusion
