@@ -16,7 +16,7 @@ This article explores:
 
 - How **mining pools** use the Stratum protocol and payout algorithms like PPLNS  
 - How **liquidity providers** bridge miners and institutional consumers  
-- Why these mechanisms provide useful intuition for **fee-smoothing proposals such as ECIP-1120**, including the optional use of a protocol treasury  
+- Why these mechanisms provide useful intuition for **fee-smoothing proposals such as ECIP-1115 & 1120**, including the optional use of a protocol treasury  
 
 ---
 
