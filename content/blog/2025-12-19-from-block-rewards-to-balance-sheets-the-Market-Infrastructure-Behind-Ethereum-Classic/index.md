@@ -171,7 +171,7 @@ Each exists because **uncoordinated systems do not scale sustainably**.
 
 ## Conclusion
 
-Ethereum Classic’s ecosystem demonstrates that proof-of-work systems scale not by eliminating intermediaries, it does it by **making coordination optional, transparent, and competitive**.
+Ethereum Classic’s ecosystem demonstrates that proof-of-work systems scale not by eliminating intermediaries, it does this by **making coordination optional, transparent, and competitive**.
 
 Mining pools coordinate hashpower.  
 Liquidity providers coordinate markets.  
