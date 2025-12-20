@@ -80,15 +80,15 @@ Rather than eliminating randomness, PPLNS **averages randomness over time and pa
 ## Ethereum Classic Mining Pools in Practice
 
 Ethereum Classic is supported by a diverse and mature mining-pool ecosystem. A full list is maintained on the official  
-[ethereumclassic.org mining pools page](https://ethereumclassic.org/mining/pools/).
+ethereumclassic.org [mining pools](https://ethereumclassic.org/mining/pools/) page.
 
 Notable ETC-supporting pools include:
 
-- **F2Pool** – One of the **largest mining pools globally**, supporting ETC with professional infrastructure and long-standing operational reliability. F2Pool’s participation brings deep hashpower and international miner participation to the Ethereum Classic network.  
-  https://www.f2pool.com/
-
 - **AntPool** – Operated by **Bitmain**, AntPool has been a **consistent and visible supporter of Ethereum Classic**, contributing hashpower, stability, and long-term alignment with PoW ecosystems.  
   https://www.antpool.com/
+
+- **F2Pool** – One of the **largest mining pools globally**, supporting ETC with professional infrastructure and long-standing operational reliability. F2Pool’s participation brings deep hashpower and international miner participation to the Ethereum Classic network.  
+  https://www.f2pool.com/
 
 - **2Miners ETC Pool** – A popular community pool using PPLNS payout mechanics.  
   https://etc.2miners.com/
