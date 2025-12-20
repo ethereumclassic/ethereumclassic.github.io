@@ -155,7 +155,7 @@ Each layer reduces variance without altering the underlying rules.
 
 ## Treasury as a Coordination Analogue
 
-In Olympia discussions, treasury allocation is best understood not as extraction, its **infrastructure funding**, analogous to:
+In Olympia discussions, treasury allocation is best understood not as extraction, it’s **infrastructure funding**, analogous to:
 
 - Pool fees funding mining infrastructure
 - Liquidity spreads funding market depth
