@@ -6,7 +6,7 @@ author: "Cody Burns"
 linkImage: ./energy_market.png
 tags: ["mining", "pools", "stratum", "liquidity", "ETC"]
 ---
-
+![](./energy_market.png)
 
 # How Mining Pools, Stratum, and Liquidity Providers Enable Predictable Payouts and Economic Coordination in Ethereum Classic
 
