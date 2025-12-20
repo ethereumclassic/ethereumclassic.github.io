@@ -3,6 +3,7 @@ title: "From Block Rewards to Balance Sheets: The Market Infrastructure Behind E
 date: 2025-12-19
 description: "Explaining how Stratum distributes work and rewards in mining pools, how payout algorithms like PPLNS work, and why liquidity providers are essential bridges between miners and consumers — tied together with an analogy to BASE fee smoothing."
 author: "Cody Burns"
+linkImage: ./energy_market.png
 tags: ["mining", "pools", "stratum", "liquidity", "ETC", "ECIP-1120"]
 ---
 
