@@ -4,7 +4,7 @@ date: 2025-12-19
 description: "Explaining how Stratum distributes work and rewards in mining pools, how payout algorithms like PPLNS work, and why liquidity providers are essential bridges between miners and consumers — tied together with an analogy to BASE fee smoothing."
 author: "Cody Burns"
 linkImage: ./energy_market.png
-tags: ["mining", "pools", "stratum", "liquidity", "ETC", "ECIP-1120"]
+tags: ["mining", "pools", "stratum", "liquidity", "ETC"]
 ---
 
 
@@ -39,7 +39,9 @@ Importantly, pools do **not** alter consensus rules. They are an economic coordi
 
 ## Stratum: The Coordination Protocol of Mining Pools
 
-Modern mining pools rely on the **Stratum protocol** to distribute work and collect results efficiently.
+Every node on Ethereum Classic is capable of building and validating blocks internally or they can share block templates through the rpc protocol.  The `get_work` end point returns the hash of the current block, the seedHash, and the boundary condition to be met ('target'). This is all a miner *needs* from the node to do the work required in ETChash. The miner will return the solution after it is discovered. Multiple miners can receive work from the same node and work in parallel to be more efficient. 
+
+Modern mining pools rely on the [**Stratum protocol**](https://github.com/AndreaLanfranchi/EthereumStratum-2.0.0/blob/master/README.md) to distribute work and collect results efficiently.
 
 Stratum enables pools to:
 
@@ -135,7 +137,7 @@ In modern markets, liquidity rarely flows directly from miner to end user. Inste
 3. **Liquidity Provider** – Absorbs volume and prices risk  
 4. **Consumers** – Exchanges, funds, payment processors, enterprises  
 
-Major centralized exchanges such as **Binance**, **Gate**, **MEXC**, and others provide ETC liquidity at institutional scale, while on-chain venues such as [**ETCswap**](https://etcswap.org/) enable decentralized liquidity participation.
+Major centralized exchanges such as [**Binance**](https://www.binance.com/en/trade/ETC_USDC?type=spot), [**Coinbase**](https://www.coinbase.com/price/ethereum-classic), [**MEXC**](https://www.mexc.com/futures/ETC_USDT), and [others](https://ethereumclassic.org/services/exchanges) provide ETC liquidity at institutional scale, while on-chain venues such as [**ETCswap**](https://etcswap.org/) and [HebeSwap](https://hebeswap.com/) enable decentralized liquidity participation.
 
 Liquidity providers play a role analogous to **primary dealers in traditional finance**: they ensure issuance can be absorbed without destabilizing markets.
 
