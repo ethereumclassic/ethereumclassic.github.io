@@ -64,7 +64,7 @@ Once shares are collected and blocks are found, pools must determine **how rewar
 
 ### A Miners Fair "Share"
 
-Mining pools require strategic payout systems to incentivize miner loyalty and maintain a stable, predictable hashrate, which secures the network and ensures a consistent block discovery rate. [Several](https://en.bitcoin.it/wiki/Comparison_of_mining_pools) payout strategies have evolved to balance pool stability with individual miner autonomy.
+Mining pools require strategic payout systems to incentivize miner loyalty and maintain a stable, predictable hashrate, which secures the network and ensures a consistent block discovery rate. Several[payout strategies](https://en.bitcoin.it/wiki/Comparison_of_mining_pools) have evolved to balance pool stability with individual miner autonomy.
 
 **PPLNS** is one of the most widely adopted payout models in Ethereum Classic mining.
 
