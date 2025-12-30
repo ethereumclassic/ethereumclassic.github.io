@@ -14,7 +14,7 @@ items:
     __type: timeline
     items:
       Frontier:
-        __color: purple
+        __color: white
         __icon: rocket
         title: Frontier
         __link: https://blog.ethereum.org/2015/07/22/frontier-is-coming-what-to-expect-and-how-to-prepare/
@@ -24,7 +24,7 @@ items:
       Ice Age:
         title: Ice Age
         __icon: snowflake
-        __color: blue
+        __color: white
         __link: https://blog.ethereum.org/2015/08/04/the-thawing-frontier/
         __date: 2015-09-07
         text: The frontier thawing fork lifted the 5,000 gas limit per block and set the default gas price to 51 gwei. This allowed for transactions – transactions require 21,000 gas.
@@ -39,8 +39,8 @@ items:
         __block: 1,150,000
       Gas Reprice:
         title: Gas Reprice
-        __icon: gas
-        __color: red
+        __icon: eth
+        __color: purple
         __link: /blog/2016-10-17-gas-reprice-hard-fork/
         __date: 2016-10-24
         text: ECIP-1015 was Ethereum Classic's First independent protocol upgrade after the DAO Hard Fork, which involved long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks.
@@ -48,7 +48,7 @@ items:
       Die Hard:
         title: Die Hard
         __icon: bomb
-        __color: pink
+        __color: green
         __link: /blog/2017-01-17-die-hard-fork-upgrade/
         __date: 2017-01-13
         text: The Die Hard fork delayed the difficulty bomb, reprised the EXP opcode and implemented replay protection, setting ETC's Chain ID to 61.
@@ -64,7 +64,7 @@ items:
       Defuse Difficulty Bomb:
         title: Defuse Difficulty Bomb
         __icon: update
-        __color: yellow
+        __color: green
         __link: /blog/2018-05-29-defuse-difficulty-bomb-hard-fork-upgrade/
         __date: 2018-05-29
         text: The Difficulty Bomb is delayed, with no other changes.
@@ -109,7 +109,7 @@ items:
         __date: 2020-03-21
         text: Enabled the Ethereum Foundation Berlin network protocol upgrade features, reaching maximum compatibility with Ethereum.
         __block: 13,189,133
-      Mistique:
+      Mystique:
         title: Mystique
         __icon: eth
         __color: purple
@@ -117,3 +117,11 @@ items:
         __date: 2022-02-13
         text: Enabled the Ethereum Foundation London network protocol upgrade features, maintaining maximum compatibility with Ethereum.
         __block: 14,502,000
+      Spiral:
+        title: Spiral
+        __icon: eth
+        __color: purple
+        __link: /blog/2024-02-23-spiral-upgrade-retrospective-success
+        __date: 2024-02-05
+        text: Enabled the Ethereum Foundation Shanghai network protocol upgrade features, maintaining maximum compatibility with Ethereum.
+        __block: 19,250,000
