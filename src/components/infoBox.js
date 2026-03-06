@@ -4,6 +4,8 @@ import Icon from "./icon";
 import Md from "./markdownDynamic";
 import Fader from "./fader";
 import { Popover } from "@headlessui/react";
+import Link from "./link";
+import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
 const palette = {
   secondary: {
@@ -45,6 +47,8 @@ function MainBox({
   text,
   colConf,
   markdown,
+  link,
+  linkText,
   ...rest
 }) {
   return (
@@ -64,27 +68,44 @@ function MainBox({
         {title && (
           <div
             css={[
-              tw`inline font-medium mr-2 whitespace-nowrap`,
+              tw`font-medium mr-2 whitespace-nowrap`,
               colConf.textSecondary,
+              inline ? tw`font-bold block mb-1` : tw`inline`,
             ]}
           >
             {title}
           </div>
         )}
-        {markdown ? (
-          <Md css={textConf} styleLinks>
-            {text}
-          </Md>
-        ) : (
-          <p css={textConf}>{text}</p>
-        )}
+        <div css={[inline ? tw`block` : tw`inline`]}>
+          {markdown ? (
+            <Md css={textConf} styleLinks>
+              {text}
+            </Md>
+          ) : (
+            <span css={textConf}>{text}</span>
+          )}
+          {link && (
+            <Link
+              to={link}
+              css={[
+                tw`inline ml-1 hover:no-underline`,
+                colConf.textSecondary,
+                { textDecoration: "underline dotted" },
+              ]}
+            >
+              {linkText}
+            </Link>
+          )}
+        </div>
       </div>
     </As>
   );
 }
 
 export default function InfoBox(props) {
+  const { ui } = useGlobals();
   const { gray, type, title, text, color = "gray", ...rest } = props;
+  const linkText = ui.readMore;
   const inline = type === "inline";
   const micro = type === "micro";
   const mini = type === "mini";
@@ -93,16 +114,29 @@ export default function InfoBox(props) {
     colConf.bg,
     tw`rounded-md relative overflow-hidden shadow-sm leading-snug px-3 py-2 pr-16 text-xs md:text-sm`,
     mini && tw`max-w-xs`,
-    (inline || micro) && tw`px-1.5 py-1 pr-10`,
+    micro && tw`px-1.5 py-1 pr-10`,
+    inline && tw`px-3 py-2 pr-10`,
   ];
   const textConf = [
     colConf.text,
-    tw`block sm:inline`,
+    inline ? tw`inline` : tw`block sm:inline`,
     micro && tw`hidden sm:hidden`,
   ];
   if (!micro) {
     return (
-      <MainBox {...{ bgConf, textConf, colConf, inline, micro, ...props }} />
+      <MainBox
+        {...{
+          bgConf,
+          textConf,
+          colConf,
+          inline,
+          micro,
+          linkText,
+          ...rest,
+          title,
+          text,
+        }}
+      />
     );
   }
   return (
@@ -111,7 +145,18 @@ export default function InfoBox(props) {
         <>
           <MainBox
             As={Popover.Button}
-            {...{ bgConf, textConf, colConf, open, inline, micro, ...props }}
+            {...{
+              bgConf,
+              textConf,
+              colConf,
+              open,
+              inline,
+              micro,
+              linkText,
+              ...rest,
+              title,
+              text,
+            }}
           />
           <Fader>
             <Popover.Panel

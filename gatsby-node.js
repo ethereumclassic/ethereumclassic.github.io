@@ -27,11 +27,15 @@ exports.createSchemaCustomization = ({ actions }) => {
       ipfsFrontend: String
       image: File @fileByRelativePath
     }
-    
+
     type AppLinks {
       name: String
       link: String
       icon: String
+    }
+
+    type MdxFrontmatter {
+      disclaimerLink: String
     }
   `;
   createTypes(typeDefs);
