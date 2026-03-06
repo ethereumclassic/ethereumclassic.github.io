@@ -1,3 +1,13 @@
+- date: 2026-02-21
+  title: Classic Entropy
+  description: Classic Entropy is a verifiable randomness (VRF) coordinator built for Ethereum Classic. It enables smart contracts to request secure, auditable, and tamper-resistant randomness for DAOs, NFT mints, gaming, and governance. Designed with ETC’s immutability and Proof-of-Work security in mind, Classic Entropy provides a transparent fee model and reliable entropy infrastructure for developers building on Ethereum Classic.
+  image: ./images/260221-2028-classic-entropy.png
+  type: other
+  author: Standard Entropy
+  authorLink: HTTPS://x.com/classicentropy
+  links:
+    - name: Launch App
+      link: https://ipfs.io/ipfs/bafybeig63th6exyykcqj4hcpxzxbsoht4vufp3vvlzhodinoda6q6rzd6q/
 - date: 2025-10-05
   title: GHOST Faucet
   description: The GHOST Faucet supplies free testnet tokens for the Mordor Testnet. It is available to all web3 developers without KYC or geo-restrictions, providing the essential resources for smart contract development and testing.
