@@ -1,8 +1,8 @@
 ---
 title: "The ETC Fee Market Debate: Navigating the Path Forward"
 date: 2025-12-16
-author: Cody Burns, Diego López León, Istora Mandiri, Chris Mercer
-contributors: ["realcodywburns", "IstoraMandiri", "chris-mercer", "diega"]
+author: Cody Burns, Diego López León, Istora Mandiri
+contributors: ["realcodywburns", "IstoraMandiri", "diega"]
 tags: ["announcement", "development", "hardfork"]
 ---
 
