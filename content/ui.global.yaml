@@ -84,10 +84,10 @@ socialItems:
     __link: https://github.com/ethereumclassic
     __icon: github
     name: ETC Network Github
-  githubEtcClient:
-    __link: https://github.com/ethereumclassic/core-geth
+  githubLabs:
+    __link: https://github.com/etclabscore
     __icon: github
-    name: ETC Client Github
+    name: ETC Labs Github
   reddit:
     __link: https://reddit.com/r/ethereumclassic
     __icon: reddit
