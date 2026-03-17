@@ -17,7 +17,11 @@ disclaimers:
   opinion:
     title: Kandungan Berpendapat
     text: Halaman ini tidak semestinya menggambarkan pandangan semua pihak berkepentingan ETC.
+  debate:
+    title: Dalam Pertimbangan
+    text: Topik ini adalah sebahagian daripada perbincangan komuniti yang berterusan. Tiada keputusan muktamad telah dibuat.
 next: Teruskan membaca
+readMore: Baca Lagi
 prev: Artikel Sebelumnya
 contribute: Jika anda ingin menyumbang dengan menambah atau membetulkan maklumat pada halaman ini, sila hantar mesej pada [Discord](https://discord.com/invite/dwxb6nf) atau buat isu pada [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)
 contributors: "Halaman ini wujud sebahagiannya terima kasih kepada penyumbang berikut:"
