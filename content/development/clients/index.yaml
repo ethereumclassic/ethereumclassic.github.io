@@ -33,14 +33,14 @@ items:
         name: Support
     items:
       CoreGeth:
-        __link: https://etclabscore.github.io/core-geth
-        __guide: https://etclabscore.github.io/core-geth/getting-started/installation/
-        __release: https://github.com/etclabscore/core-geth/releases
-        __support: https://discord.gg/xQY3MTUTYd
-        __supportIcon: discord
+        __link: https://github.com/ethereumclassic/core-geth
+        __guide: https://github.com/ethereumclassic/core-geth/edit/master/README.md
+        __release: https://github.com/ethereumclassic/core-geth/releases
+        __support: https://github.com/ethereumclassic/core-geth/issues
+        __supportIcon: github
         __name: CoreGeth
         description: A highly configurable Go implementation of the Ethereum protocol. This client is Long Term Supported by the ETC Cooperative development team. This is a recommended client from a well-known transparent team.
-      Hyperledger Besu:
+     Hyperledger Besu:
         __link: https://besu.hyperledger.org/
         __guide: https://besu.hyperledger.org/en/stable/HowTo/Get-Started/Install-Binaries/
         __release: https://github.com/hyperledger/besu/releases
