@@ -40,11 +40,3 @@ items:
         __supportIcon: discord
         __name: CoreGeth
         description: A highly configurable Go implementation of the Ethereum protocol. This client is Long Term Supported by the ETC Cooperative development team. This is a recommended client from a well-known transparent team.
-      Hyperledger Besu:
-        __link: https://besu.hyperledger.org/
-        __guide: https://besu.hyperledger.org/en/stable/HowTo/Get-Started/Install-Binaries/
-        __release: https://github.com/hyperledger/besu/releases
-        __support: https://discord.gg/xQY3MTUTYd
-        __supportIcon: discord
-        __name: Hyperledger Besu
-        description: An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client. This client is Long Term Supported by the ETC Cooperative teams. This is a recommended client from a well-known transparent team.
