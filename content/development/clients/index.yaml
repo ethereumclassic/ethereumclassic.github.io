@@ -34,7 +34,7 @@ items:
     items:
       CoreGeth:
         __link: https://github.com/ethereumclassic/core-geth
-        __guide: https://github.com/ethereumclassic/core-geth/edit/master/README.md
+        __guide: https://github.com/ethereumclassic/core-geth#readme
         __release: https://github.com/ethereumclassic/core-geth/releases
         __support: https://github.com/ethereumclassic/core-geth/issues
         __supportIcon: github
