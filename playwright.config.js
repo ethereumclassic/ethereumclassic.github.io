@@ -9,7 +9,7 @@ module.exports = defineConfig({
   },
   webServer: {
     command:
-      'bash -c \'export NVM_DIR="/usr/local/share/nvm" && source "$NVM_DIR/nvm.sh" && nvm use 18 && npm run develop\'',
+      'bash -c \'export NVM_DIR="/usr/local/share/nvm" && source "$NVM_DIR/nvm.sh" && nvm use 22 && npm run develop\'',
     url: "http://localhost:8000",
     timeout: 300000,
     reuseExistingServer: true,
