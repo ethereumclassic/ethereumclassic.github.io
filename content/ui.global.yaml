@@ -17,8 +17,12 @@ disclaimers:
   opinion:
     title: Opinionated Content
     text: This page does not necessarily reflect the view of all ETC stakeholders.
+  debate:
+    title: Under Consideration
+    text: This topic is part of an ongoing community discussion. No decisions have been finalized.
 next: Continue Reading
 prev: Previous Article
+readMore: Read More
 contribute: If you would like to contribute by adding or correcting information to this page, please drop a message on [Discord](https://discord.com/invite/dwxb6nf) or create an issue on [GitHub](https://github.com/ethereumclassic/ethereumclassic.github.io)
 contributors: "This page exists thanks in part to the following contributors:"
 allLanguages: All Languages
@@ -84,10 +88,10 @@ socialItems:
     __link: https://github.com/ethereumclassic
     __icon: github
     name: ETC Network Github
-  githubEtcClient:
-    __link: https://github.com/ethereumclassic/core-geth
+  githubLabs:
+    __link: https://github.com/etclabscore
     __icon: github
-    name: ETC Client Github
+    name: ETC Labs Github
   reddit:
     __link: https://reddit.com/r/ethereumclassic
     __icon: reddit

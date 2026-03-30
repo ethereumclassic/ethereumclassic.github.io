@@ -1,3 +1,38 @@
+- date: 2026-03-08
+  title: ETCMCv2
+  description: ETCMCv2 is an Ethereum Classic dapp centered on node operation, DAO participation, and ETCPOWv2 rewards. Users can run an Ethereum Classic node with a valid license to earn ETCPOWv2, mint a DAO NFT for enhanced staking APY, and vote on DAO proposals. The platform also outlines broader plans for the ETC ecosystem, including games, VPN services, and decentralized IPFS-style infrastructure gated or rewarded through Ethereum Classic.
+  image: ./images/etcmcv2.png
+  type: other
+  author: ETCMCv2
+  authorLink: https://www.etcmc.xyz/
+  links:
+    - name: Launch App
+      link: https://main.etcmc.xyz/
+    - name: Website
+      link: https://www.etcmc.xyz/
+      icon: link
+    - name: ETCPOWv2 Token
+      link: https://etc.blockscout.com/token/0xDe9016EC50335711F32378d730e9f6096B850479
+      icon: link
+    - name: X
+      link: https://x.com/etcmcv2
+      icon: twitter
+    - name: Discord
+      link: https://discord.gg/pwg4tYthsG
+      icon: discord
+    - name: Telegram
+      link: https://t.me/+p_8rYm2d4PQ2YjBk
+      icon: telegram
+- date: 2026-02-21
+  title: Classic Entropy
+  description: Classic Entropy is a verifiable randomness (VRF) coordinator built for Ethereum Classic. It enables smart contracts to request secure, auditable, and tamper-resistant randomness for DAOs, NFT mints, gaming, and governance. Designed with ETC’s immutability and Proof-of-Work security in mind, Classic Entropy provides a transparent fee model and reliable entropy infrastructure for developers building on Ethereum Classic.
+  image: ./images/260221-2028-classic-entropy.png
+  type: other
+  author: Standard Entropy
+  authorLink: HTTPS://x.com/classicentropy
+  links:
+    - name: Launch App
+      link: https://ipfs.io/ipfs/bafybeig63th6exyykcqj4hcpxzxbsoht4vufp3vvlzhodinoda6q6rzd6q/
 - date: 2025-10-05
   title: GHOST Faucet
   description: The GHOST Faucet supplies free testnet tokens for the Mordor Testnet. It is available to all web3 developers without KYC or geo-restrictions, providing the essential resources for smart contract development and testing.

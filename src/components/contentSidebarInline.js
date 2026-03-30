@@ -23,7 +23,7 @@ export default function ContentSidebarInline({ items, disclaimer }) {
               <Icon icon={item.icon} tw="h-4" />
               <div>{item.name}</div>
             </Link>
-            {disclaimer && (
+            {disclaimer && disclaimer !== "opinion" && disclaimer !== "debate" && (
               <div tw="md:hidden">
                 <Disclaimer type="micro" text={disclaimer} />
               </div>
