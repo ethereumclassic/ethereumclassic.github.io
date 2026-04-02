@@ -88,10 +88,6 @@ socialItems:
     __link: https://github.com/ethereumclassic
     __icon: github
     name: ETC Network Github
-  githubLabs:
-    __link: https://github.com/etclabscore
-    __icon: github
-    name: ETC Labs Github
   reddit:
     __link: https://reddit.com/r/ethereumclassic
     __icon: reddit
