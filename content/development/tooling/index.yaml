@@ -195,6 +195,10 @@ items:
         __link: https://jade.builders/
         __name: Jade Suite
         description: The Jade suite of tools empowers developers to create peer-to-peer decentralized applications on top of EVM-based blockchains like Ethereum Classic.
+      "LiveLoonStr: An easy DAPP project to learn ETC.":
+        __name: "LiveLoonStr: An easy DAPP project to learn ETC."
+        __link: https://github.com/liveloon15526065807/LiveLoonStr
+        description: This goal of this project is to teach beginner how to deploy a contract and use a frontend interface to call its functions .
       Mythx:
         __link: https://mythx.io/
         __name: Mythx
