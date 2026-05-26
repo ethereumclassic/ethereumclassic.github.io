@@ -1,3 +1,15 @@
+- date: 2026-05-26
+  title: CryptoFlower
+  description: |-
+    CryptoFlower is a decentralized game running on Ethereum Classic (Mordor Testnet).
+    In this game, you can plant and nurture your very own unique digital flower — an NFT that is eternally yours.
+  image: ./images/260526-0859-cryptoflower.png
+  type: games
+  author: Live.loon Dapp
+  openSource: https://github.com/LiveLoon/crypto-flower
+  links:
+    - name: Launch App
+      link: https://github.com/LiveLoon/crypto-flower
 - date: 2026-03-08
   title: ETCMCv2
   description: ETCMCv2 is an Ethereum Classic dapp centered on node operation, DAO participation, and ETCPOWv2 rewards. Users can run an Ethereum Classic node with a valid license to earn ETCPOWv2, mint a DAO NFT for enhanced staking APY, and vote on DAO proposals. The platform also outlines broader plans for the ETC ecosystem, including games, VPN services, and decentralized IPFS-style infrastructure gated or rewarded through Ethereum Classic.
