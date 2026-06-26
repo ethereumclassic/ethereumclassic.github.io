@@ -10,6 +10,25 @@
   links:
     - name: Launch App
       link: https://github.com/LiveLoon/crypto-flower
+- date: 2026-05-23
+  title: SaturnDEX
+  description: SaturnDEX is a permissionless, censorship-resistant and decentralized exchange with orderbook by design. Continuing the legacy of Saturn Network's vision, we emphasize long-life sustainability with minimal human intervention, focusing on autonomous operations and fair incentive distribution across all participants.
+  image: ./images/260523-2147-saturndex.png
+  type: finance
+  author: Graham
+  verifiedContract: https://etc.blockscout.com/address/0x9a9A75b9504e30F7D8A35d6a06868293BC2F96B4
+  links:
+    - name: Launch App
+      link: https://app.saturndex.org
+    - name: Discord
+      link: https://discord.gg/spWVruAgB5
+      icon: discord
+    - name: X
+      link: https://x.com/saturndexorg
+      icon: twitter
+    - name: Github
+      link: https://github.com/Saturn-DEX
+      icon: github
 - date: 2026-03-08
   title: ETCMCv2
   description: ETCMCv2 is an Ethereum Classic dapp centered on node operation, DAO participation, and ETCPOWv2 rewards. Users can run an Ethereum Classic node with a valid license to earn ETCPOWv2, mint a DAO NFT for enhanced staking APY, and vote on DAO proposals. The platform also outlines broader plans for the ETC ecosystem, including games, VPN services, and decentralized IPFS-style infrastructure gated or rewarded through Ethereum Classic.
