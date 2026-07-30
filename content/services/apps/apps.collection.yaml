@@ -1,3 +1,15 @@
+- date: 2026-05-26
+  title: CryptoFlower
+  description: |-
+    CryptoFlower is a decentralized game running on Ethereum Classic (Mordor Testnet).
+    In this game, you can plant and nurture your very own unique digital flower — an NFT that is eternally yours.
+  image: ./images/260526-0859-cryptoflower.png
+  type: games
+  author: Live.loon Dapp
+  openSource: https://github.com/LiveLoon/crypto-flower
+  links:
+    - name: Launch App
+      link: https://github.com/LiveLoon/crypto-flower
 - date: 2026-05-23
   title: SaturnDEX
   description: SaturnDEX is a permissionless, censorship-resistant and decentralized exchange with orderbook by design. Continuing the legacy of Saturn Network's vision, we emphasize long-life sustainability with minimal human intervention, focusing on autonomous operations and fair incentive distribution across all participants.
