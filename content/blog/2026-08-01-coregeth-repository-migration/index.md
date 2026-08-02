@@ -16,7 +16,7 @@ The CoreGeth repository referenced by this website is moving from `etclabscore/c
 
 The client links on ethereumclassic.org — repository, releases, and issue tracker — now point to [`ethereumclassic/core-geth`](https://github.com/ethereumclassic/core-geth). Ongoing maintenance, review, and release tagging happen there.
 
-The repository has existed under the community org since the [ETC Pathways announcement in July 2024](https://ethereumclassic.org/blog/2024-07-30-ethereum-classic-pathways-by-etc-cooperative-istora-and-donald-mcIntyre), when the intent to consolidate community-maintained assets was first stated publicly. The same consolidation covered the ECIP repository, this website, community calls, and — as of [November 2025](https://ethereumclassic.org/blog/2025-11-05-discord-migration/) — the community Discord. This step completes it for the client.
+The repository has existed under the community org as described in the [ETC Pathways announcement in July 2024](https://ethereumclassic.org/blog/2024-07-30-ethereum-classic-pathways-by-etc-cooperative-istora-and-donald-mcIntyre), when the intent to consolidate community-maintained assets was first stated publicly. The same consolidation covered the ECIP repository, this website, community calls, and — as of [November 2025](https://ethereumclassic.org/blog/2025-11-05-discord-migration/) — the community Discord. This step completes it for the client.
 
 ### What Is Not Changing
 
@@ -75,6 +75,8 @@ Alternative implementations and plugins for ETC include:
 - [Hyperledger Besu](https://github.com/hyperledger/besu) with the [ETC plugin](https://github.com/diega/besu-etc-plugin)
 - [Nethermind](https://github.com/NethermindEth/nethermind) with the [ETC plugin](https://github.com/etccooperative/nethermind-etc-plugin)
 - [go-ethereum-classic](https://github.com/diega/go-ethereum-classic)
+- [Fukuii](https://github.com/chippr-robotics/fukuii)
+
 
 Operators evaluating client choice are encouraged to look at these, and developers interested in maintaining an implementation are encouraged to build one. Consensus rules are defined by the [ECIP process](https://github.com/ethereumclassic/ECIPs), not by any repository or organization.
 
