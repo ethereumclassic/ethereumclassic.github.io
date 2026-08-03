@@ -85,5 +85,5 @@ Operators evaluating client choice are encouraged to look at these, and develope
 Discussion happens in the [community Discord](https://ethereumclassic.org/discord) and on the [community calls](https://cc.ethereumclassic.org/). If your infrastructure depends on the previous repository path in a way this post does not address, raise it — operator feedback on transition mechanics is welcome before and after the cutover.
 
 💚⚒️
-*Ethereum Classic Community*
+
 
