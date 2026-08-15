@@ -12,6 +12,8 @@ description: |
   For more information on other networks, check out the [testnets](/development/testnets) section.
 
   **It is recommended to select one of the real-time-monitored ETC RPC endpoints over at [ChainList.org](https://chainlist.org/chain/61).**
+
+  Live latency benchmarks for these endpoints (p50/p90/p99, 3 regions, updated every 60 s): [OpenChainBench Ethereum Classic RPC](https://openchainbench.com/benchmarks/ethereum-classic-rpc)
 __contributors:
   - arvicco
   - dax-classix
