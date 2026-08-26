@@ -442,6 +442,9 @@ items:
       Cyphergoat:
         __link: https://cyphergoat.com
         __name: CypherGoat
+      EIDEX:
+        __link: https://eidex.io/screener
+        __name: EIDEX
       Emerald:
         __link: https://emerald.cash/
         __name: Emerald
