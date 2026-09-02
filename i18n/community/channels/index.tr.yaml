@@ -1,17 +1,43 @@
 title: Sosyal Kanallar
-seo: Ethereum Classic sohbet odaları, Twitter hesapları, tartışma grupları, forumlar, podcast'ler, depolar ve bölgesel web sitelerinden oluşan bir koleksiyon.
+seo: 'Ethereum Classic sohbet odaları, Twitter hesapları, tartışma grupları, forumlar, podcast''ler, depolar ve bölgesel web sitelerinden oluşan bir koleksiyon.'
 description: |
-  Aşağıda, aktif Ethereum Classic tartışma kanallarının ve gruplarının kapsamlı olmayan bir listesi yer almaktadır.
+  Ethereum Classic'in merkezi bir organizasyonu yoktur, dolayısıyla "resmi" bir sosyal medya hesabı da yoktur; burada listelenen her kanal topluluk üyeleri tarafından bağımsız olarak yürütülür.
 
-  Şu anda ETC topluluğu içindeki ana faaliyet merkezi [Discord](https://ethereumclassic.org/discord) adresindedir.
+  Discord, Telegram, Twitter ve Reddit bölümleri bu sitenin alt bilgisinde bağlantısı verilen kanalları kapsar. Geri kalanı, bölgesel ve konuya özel grupların tamamını kapsamayan bir dizinidir; bir süredir gözden geçirilmeyen kısımları var, bu yüzden bazı bağlantılar güncelliğini yitirmiş olabilir.
 items:
-  Chat Rooms:
-    title: Sohbet Odaları
+  discord:
+    description: |
+      İkisi de aktif olan, genel amaçlı iki ETC Discord sunucusu var. Kuruldukları sıraya göre, herhangi bir tercih belirtilmeden listelenmiştir; hangisi size uyuyorsa ona ya da ikisine birden katılabilirsiniz.
     items:
-      chat Discord:
-        name: Discord (Topluluk, Küresel)
-      chat Discord Coop:
-        name: Discord (ETC Coop)
+      discordClassic:
+        name: Ethereum Classic Discord
+        description: 2016'dan beri çalışan ilk topluluk sunucusu; geçmişteki core dev çağrılarının ve topluluk çağrılarının çoğuna ev sahipliği yaptı.
+      discordCommunity:
+        name: Ethereum Classic Community Discord
+        description: 'Kasım 2025''te açılan, daha sıkı denetlenen ve otomatik doğrulama, spam koruması ile duyuru entegrasyonları çalıştıran daha yeni bir sunucu. Ayrıntılar için [duyuru yazısına](/blog/2025-11-05-discord-migration) bakın.'
+  telegram:
+    items:
+      telegramGrantsDao:
+        name: ETC Grants DAO
+        description: 'Ethereum Classic üzerinde geliştirilen projeleri fonlayan [ETC Grants DAO](https://etcgrantsdao.io) etrafındaki grup. Ekosistemi her gün konuşan çok sayıda aktif kullanıcısıyla en hareketli ETC sohbetlerinden biri.'
+      telegramEnglish:
+        name: Ethereum Classic (İngilizce)
+        description: Genel ETC sohbeti için uzun süredir var olan İngilizce grup.
+  twitter:
+    description: |
+      Topluluğun iki ana hesabı [twitter-together](https://github.com/twitter-together/action) ile yürütülür: tweetler hesabın deposuna pull request olarak önerilir, herkese açık şekilde incelenir ve birleştirildiğinde otomatik olarak paylaşılır. Tweet önermenin en kolay yolu, GitHub hesabı olsun ya da olmasın pull request'i sizin yerinize açan [ETC Contributions uygulamasıdır](https://etc.contributions.app). Ayrıca `#ETCtweets` etiketli tweetlerden fikirler derlenir ve bunlar Discord'daki `#ETCtweets` başlığında tartışılır.
+    items:
+      twitterEthClassic:
+        description: 'İki hesaptan daha çok takip edileni; yayın ilkeleri onu resmi, tarafsız ve mizah paylaşımlarından uzak tutar. Tweetler [tweets-eth_classic](https://github.com/ethereumclassic/tweets-eth_classic) deposunda önerilir.'
+      twitterEtcNetwork:
+        description: 'Ağ ve geliştirme haberlerinin yanında mizahi ve daha rahat paylaşımlara da izin veren, daha az resmi bir hesap. Tweetler [tweets-etc_network](https://github.com/ethereumclassic/tweets-etc_network) deposunda önerilir.'
+  reddit:
+    items:
+      redditEthereumClassic:
+        description: 'Ethereum Classic subreddit''i; daha uzun tartışmalar, sorular ve ekosistemin her yerinden haber ve bağlantı paylaşmak için kullanılır.'
+  Chat Rooms:
+    title: Diğer Sohbet Odaları
+    items:
       chat Facebook English:
         name: Facebook (İngilizce)
       chat Facebook Vietnam:
@@ -32,10 +58,8 @@ items:
       Hyperledger Besu dev:
         name: Hyperledger Besu
   Telegram Groups:
-    title: Telegram Grupları
+    title: Bölgesel Telegram Grupları
     items:
-      telegram English:
-        name: İngilizce
       telegram Español:
         name: Español
       telegram Italia:
@@ -47,10 +71,8 @@ items:
       telegram China:
         name: 中文
   Forums:
-    title: Forumlar
+    title: Diğer Forumlar
     items:
-      forum RedditEthereumClassic:
-        name: Reddit r/EthereumClassic
       forum BitcoinTalk:
         name: BitcoinTalk
       forum Archived BitcoinTalk:
@@ -75,14 +97,10 @@ items:
       media Let's Talk ETC!:
         name: ETC'yi Konuşalım!
   Twitter Accounts:
-    title: Twitter Hesapları
+    title: Bölgesel Twitter Hesapları
     items:
       twitter China:
         name: Çin
-      twitter English 1:
-        name: "@ETC_Network"
-      twitter English 2:
-        name: "@eth_classic"
       twitter Español:
         name: Español
       twitter France:

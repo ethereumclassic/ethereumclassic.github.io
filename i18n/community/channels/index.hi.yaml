@@ -1,17 +1,43 @@
 title: सामाजिक चैनल
-seo: एथेरियम क्लासिक चैट रूम, ट्विटर अकाउंट, चर्चा समूह, फ़ोरम, पॉडकास्ट, रिपॉजिटरी और क्षेत्रीय वेबसाइटों का संग्रह।
+seo: 'एथेरियम क्लासिक चैट रूम, ट्विटर अकाउंट, चर्चा समूह, फ़ोरम, पॉडकास्ट, रिपॉजिटरी और क्षेत्रीय वेबसाइटों का संग्रह।'
 description: |
-  निम्नलिखित सक्रिय एथेरियम क्लासिक चर्चा चैनलों और समूहों की एक गैर-विस्तृत सूची है।
+  Ethereum Classic का कोई केंद्रीय संगठन नहीं है, इसलिए कोई "आधिकारिक" सोशल मीडिया भी नहीं है; यहाँ सूचीबद्ध हर चैनल समुदाय के सदस्य स्वतंत्र रूप से चलाते हैं।
 
-  वर्तमान में ETC समुदाय के भीतर गतिविधि का मुख्य केंद्र [Discord](https://ethereumclassic.org/discord) पर है।
+  Discord, Telegram, Twitter और Reddit वाले हिस्से उन चैनलों को कवर करते हैं जिनके लिंक इस वेबसाइट के फ़ुटर में हैं। बाकी हिस्सा क्षेत्रीय और विषय-विशेष समूहों की एक अधूरी सूची है; इसके कुछ हिस्सों की काफ़ी समय से जाँच नहीं हुई है, इसलिए कुछ लिंक पुराने हो सकते हैं।
 items:
-  Chat Rooms:
-    title: चैट रूम
+  discord:
+    description: |
+      ETC के दो सामान्य उद्देश्य वाले Discord सर्वर हैं, और दोनों सक्रिय हैं। इन्हें बनने के क्रम में, बिना किसी वरीयता के सूचीबद्ध किया गया है; आपको जो ठीक लगे उसमें, या दोनों में शामिल हों।
     items:
-      chat Discord:
-        name: कलह (समुदाय, वैश्विक)
-      chat Discord Coop:
-        name: कलह (ईटीसी कॉप)
+      discordClassic:
+        name: Ethereum Classic Discord
+        description: 'समुदाय का मूल सर्वर, जो 2016 से चल रहा है और जहाँ पहले की कई कोर डेवलपर कॉल और सामुदायिक कॉल हुई हैं।'
+      discordCommunity:
+        name: Ethereum Classic कम्युनिटी Discord
+        description: 'नवंबर 2025 में शुरू हुआ नया सर्वर, जहाँ मॉडरेशन अधिक सख़्त है और स्वचालित सत्यापन, स्पैम-रोधी सुरक्षा तथा घोषणाओं के इंटीग्रेशन मौजूद हैं। पृष्ठभूमि के लिए [घोषणा वाली पोस्ट](/blog/2025-11-05-discord-migration) देखें।'
+  telegram:
+    items:
+      telegramGrantsDao:
+        name: ETC Grants DAO
+        description: '[ETC Grants DAO](https://etcgrantsdao.io) से जुड़ा समूह, जो Ethereum Classic पर बन रही परियोजनाओं को अनुदान देता है। यह ETC के सबसे व्यस्त चैट समूहों में से एक है, जहाँ कई सक्रिय उपयोगकर्ता रोज़ाना पारिस्थितिकी तंत्र पर चर्चा करते हैं।'
+      telegramEnglish:
+        name: Ethereum Classic (अंग्रेज़ी)
+        description: ETC पर सामान्य बातचीत के लिए लंबे समय से चला आ रहा अंग्रेज़ी समूह।
+  twitter:
+    description: |
+      समुदाय के दोनों मुख्य खाते [twitter-together](https://github.com/twitter-together/action) से चलते हैं: ट्वीट खाते की रिपॉज़िटरी में पुल रिक्वेस्ट के रूप में प्रस्तावित होते हैं, खुले तौर पर उनकी समीक्षा होती है और मर्ज होते ही वे अपने आप पोस्ट हो जाते हैं। सबसे आसान तरीका [ETC कंट्रीब्यूशंस ऐप](https://etc.contributions.app) है, जो आपकी ओर से पुल रिक्वेस्ट भेज देता है, चाहे आपके पास GitHub खाता हो या न हो। `#ETCtweets` टैग वाले ट्वीट से भी विचार लिए जाते हैं, जिन पर Discord के `#ETCtweets` थ्रेड में चर्चा होती है।
+    items:
+      twitterEthClassic:
+        description: 'दोनों में से अधिक फ़ॉलो किया जाने वाला खाता, जिसके संपादकीय दिशानिर्देश इसे औपचारिक, तटस्थ और मीम-मुक्त रखते हैं। ट्वीट [tweets-eth_classic](https://github.com/ethereumclassic/tweets-eth_classic) में प्रस्तावित किए जाते हैं।'
+      twitterEtcNetwork:
+        description: 'कम औपचारिक खाता, जहाँ नेटवर्क और विकास से जुड़ी ख़बरों के साथ मीम और हल्की-फुल्की पोस्ट भी स्वीकार्य हैं। ट्वीट [tweets-etc_network](https://github.com/ethereumclassic/tweets-etc_network) में प्रस्तावित किए जाते हैं।'
+  reddit:
+    items:
+      redditEthereumClassic:
+        description: 'Ethereum Classic का सबरेडिट, जो लंबी चर्चाओं, सवालों और पूरे पारिस्थितिकी तंत्र की ख़बरें व लिंक साझा करने के लिए इस्तेमाल होता है।'
+  Chat Rooms:
+    title: अन्य चैट रूम
+    items:
       chat Facebook English:
         name: फेसबुक (अंग्रेज़ी)
       chat Facebook Vietnam:
@@ -32,10 +58,8 @@ items:
       Hyperledger Besu dev:
         name: हाइपरलेगर बेसू
   Telegram Groups:
-    title: टेलीग्राम समूह
+    title: क्षेत्रीय Telegram समूह
     items:
-      telegram English:
-        name: अंग्रेज़ी
       telegram Español:
         name: स्पेनोलि
       telegram Italia:
@@ -47,10 +71,8 @@ items:
       telegram China:
         name: मैं
   Forums:
-    title: मंचों
+    title: अन्य फ़ोरम
     items:
-      forum RedditEthereumClassic:
-        name: Reddit r/EthereumClassic
       forum BitcoinTalk:
         name: बिटकॉइनटॉक
       forum Archived BitcoinTalk:
@@ -75,14 +97,10 @@ items:
       media Let's Talk ETC!:
         name: ईटीसी बात करते हैं!
   Twitter Accounts:
-    title: ट्विटर खाते
+    title: क्षेत्रीय Twitter खाते
     items:
       twitter China:
         name: चीन
-      twitter English 1:
-        name: "@ETC_Network"
-      twitter English 2:
-        name: "@eth_classic"
       twitter Español:
         name: स्पेनोलि
       twitter France:

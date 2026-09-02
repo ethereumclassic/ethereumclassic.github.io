@@ -1,17 +1,43 @@
 title: Kênh xã hội
-seo: Tập hợp các phòng trò chuyện Ethereum Classic, tài khoản Twitter, nhóm thảo luận, diễn đàn, podcast, kho lưu trữ và các trang web khu vực.
+seo: 'Tập hợp các phòng trò chuyện Ethereum Classic, tài khoản Twitter, nhóm thảo luận, diễn đàn, podcast, kho lưu trữ và các trang web khu vực.'
 description: |
-  Sau đây là danh sách không đầy đủ các kênh và nhóm thảo luận Ethereum Classic đang hoạt động.
+  Ethereum Classic không có tổ chức trung tâm, vì vậy cũng không có mạng xã hội "chính thức"; mọi kênh được liệt kê ở đây đều do các thành viên cộng đồng tự vận hành một cách độc lập.
 
-  Trung tâm hoạt động chính trong cộng đồng ETC hiện tại là trên [Discord](https://ethereumclassic.org/discord).
+  Các mục Discord, Telegram, Twitter và Reddit bao gồm những kênh được liên kết ở chân trang của trang web này. Phần còn lại là danh mục chưa đầy đủ về các nhóm theo khu vực và theo chủ đề; một số phần đã lâu không được rà soát nên có thể còn liên kết cũ.
 items:
-  Chat Rooms:
-    title: Các phòng chat
+  discord:
+    description: |
+      Hiện có hai máy chủ Discord ETC dùng chung, cả hai đều đang hoạt động. Chúng được liệt kê theo thứ tự thành lập, không ưu tiên máy chủ nào; bạn có thể tham gia máy chủ phù hợp với mình, hoặc cả hai.
     items:
-      chat Discord:
-        name: Bất hòa (Cộng đồng, Toàn cầu)
-      chat Discord Coop:
-        name: Sự bất hòa (ETC Coop)
+      discordClassic:
+        name: Discord Ethereum Classic
+        description: 'Máy chủ cộng đồng đầu tiên, hoạt động từ năm 2016, nơi đã diễn ra nhiều cuộc gọi của các nhà phát triển cốt lõi và các cuộc gọi cộng đồng trước đây.'
+      discordCommunity:
+        name: Discord Cộng đồng Ethereum Classic
+        description: 'Máy chủ mới hơn, ra mắt vào tháng 11 năm 2025, được kiểm duyệt chặt chẽ hơn và có xác minh tự động, chống thư rác cùng các tích hợp thông báo. Xem [bài đăng thông báo](/blog/2025-11-05-discord-migration) để biết bối cảnh.'
+  telegram:
+    items:
+      telegramGrantsDao:
+        name: ETC Grants DAO
+        description: 'Nhóm xoay quanh [ETC Grants DAO](https://etcgrantsdao.io), tổ chức tài trợ cho các dự án xây dựng trên Ethereum Classic. Đây là một trong những nhóm trò chuyện ETC sôi nổi nhất, với nhiều người dùng tích cực bàn luận về hệ sinh thái mỗi ngày.'
+      telegramEnglish:
+        name: Ethereum Classic (tiếng Anh)
+        description: Nhóm tiếng Anh lâu đời để trò chuyện chung về ETC.
+  twitter:
+    description: |
+      Hai tài khoản cộng đồng chính được vận hành bằng [twitter-together](https://github.com/twitter-together/action): các tweet được đề xuất dưới dạng pull request vào kho lưu trữ của tài khoản, được xem xét công khai và tự động đăng khi hợp nhất. Cách đơn giản nhất để đề xuất là dùng [ứng dụng đóng góp ETC](https://etc.contributions.app), ứng dụng này sẽ gửi pull request thay bạn, dù bạn có tài khoản GitHub hay không. Ý tưởng cũng được lấy từ các tweet gắn thẻ `#ETCtweets` và được thảo luận trong luồng `#ETCtweets` trên Discord.
+    items:
+      twitterEthClassic:
+        description: 'Tài khoản có nhiều người theo dõi hơn trong hai tài khoản, với quy tắc biên tập giữ cho nội dung trang trọng, trung lập và không đăng meme. Tweet được đề xuất tại [tweets-eth_classic](https://github.com/ethereumclassic/tweets-eth_classic).'
+      twitterEtcNetwork:
+        description: 'Tài khoản ít trang trọng hơn, nơi meme và các bài đăng nhẹ nhàng được chấp nhận bên cạnh tin tức về mạng lưới và phát triển. Tweet được đề xuất tại [tweets-etc_network](https://github.com/ethereumclassic/tweets-etc_network).'
+  reddit:
+    items:
+      redditEthereumClassic:
+        description: 'Subreddit của Ethereum Classic, dùng cho những thảo luận dài hơn, đặt câu hỏi và chia sẻ tin tức, liên kết từ khắp hệ sinh thái.'
+  Chat Rooms:
+    title: Phòng trò chuyện khác
+    items:
       chat Facebook English:
         name: Facebook (tiếng Anh)
       chat Facebook Vietnam:
@@ -32,10 +58,8 @@ items:
       Hyperledger Besu dev:
         name: Hyperledger Besu
   Telegram Groups:
-    title: Nhóm Telegram
+    title: Nhóm Telegram theo khu vực
     items:
-      telegram English:
-        name: Tiếng Anh
       telegram Español:
         name: Español
       telegram Italia:
@@ -47,10 +71,8 @@ items:
       telegram China:
         name: 中文
   Forums:
-    title: Diễn đàn
+    title: Diễn đàn khác
     items:
-      forum RedditEthereumClassic:
-        name: Reddit r / EthereumClassic
       forum BitcoinTalk:
         name: BitcoinTalk
       forum Archived BitcoinTalk:
@@ -75,14 +97,10 @@ items:
       media Let's Talk ETC!:
         name: Let's Talk ETC!
   Twitter Accounts:
-    title: Tài khoản Twitter
+    title: Tài khoản Twitter theo khu vực
     items:
       twitter China:
         name: Trung Quốc
-      twitter English 1:
-        name: "@ETC_Network"
-      twitter English 2:
-        name: "@eth_classic"
       twitter Español:
         name: Español
       twitter France:

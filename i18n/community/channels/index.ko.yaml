@@ -1,17 +1,43 @@
 title: 소셜 채널
-seo: Ethereum Classic 대화방, Twitter 계정, 토론 그룹, 포럼, 팟캐스트, 저장소 및 지역 웹사이트 모음.
+seo: 'Ethereum Classic 대화방, Twitter 계정, 토론 그룹, 포럼, 팟캐스트, 저장소 및 지역 웹사이트 모음.'
 description: |
-  다음은 활성 Ethereum Classic 토론 채널 및 그룹의 전체 목록입니다.
+  Ethereum Classic에는 중앙 조직이 없으며, 따라서 "공식" 소셜 미디어도 없습니다. 여기에 나열된 채널은 모두 커뮤니티 구성원이 각자 독립적으로 운영합니다.
 
-  현재 ETC 커뮤니티 내 주요 활동 허브는 [Discord](https://ethereumclassic.org/discord)입니다.
+  Discord, Telegram, Twitter, Reddit 항목은 이 웹사이트 하단에 연결된 채널을 다룹니다. 그 아래는 지역별·주제별 그룹을 모아 둔 목록으로, 전부를 담고 있지는 않습니다. 한동안 점검하지 않은 부분이 있어 오래된 링크가 남아 있을 수 있습니다.
 items:
-  Chat Rooms:
-    title: 대화방
+  discord:
+    description: |
+      일반적인 용도의 ETC Discord 서버는 두 곳이며, 둘 다 활발히 운영되고 있습니다. 우열을 두지 않고 만들어진 순서대로 나열했습니다. 마음에 드는 곳에, 또는 두 곳 모두에 참여하세요.
     items:
-      chat Discord:
-        name: Discord(커뮤니티, 글로벌)
-      chat Discord Coop:
-        name: 디스코드(ETC Coop)
+      discordClassic:
+        name: Ethereum Classic Discord
+        description: '2016년부터 운영된 최초의 커뮤니티 서버로, 과거의 코어 개발자 콜과 커뮤니티 콜이 대부분 이곳에서 열렸습니다.'
+      discordCommunity:
+        name: Ethereum Classic 커뮤니티 Discord
+        description: '2025년 11월에 시작된 새로운 서버로, 더 엄격하게 관리되며 자동 인증, 스팸 차단, 공지 연동 기능을 갖추고 있습니다. 자세한 배경은 [공지 게시물](/blog/2025-11-05-discord-migration)을 참고하세요.'
+  telegram:
+    items:
+      telegramGrantsDao:
+        name: ETC Grants DAO
+        description: 'Ethereum Classic 위에서 개발되는 프로젝트를 지원하는 [ETC Grants DAO](https://etcgrantsdao.io) 관련 그룹입니다. 활동적인 사용자가 많아 생태계 이야기가 매일 오가는, ETC에서 가장 활발한 채팅방 중 하나입니다.'
+      telegramEnglish:
+        name: Ethereum Classic(영어)
+        description: 'ETC 전반을 이야기하는, 오랫동안 이어져 온 영어 그룹입니다.'
+  twitter:
+    description: |
+      두 개의 주요 커뮤니티 계정은 [twitter-together](https://github.com/twitter-together/action)로 운영됩니다. 트윗은 계정 저장소에 풀 리퀘스트로 제안되어 공개적으로 검토된 뒤, 병합되면 자동으로 게시됩니다. 가장 간단한 방법은 [ETC 기여 앱](https://etc.contributions.app)을 이용하는 것으로, GitHub 계정이 없어도 대신 풀 리퀘스트를 만들어 줍니다. `#ETCtweets` 태그가 달린 트윗에서도 아이디어를 모으며, 이는 Discord의 `#ETCtweets` 스레드에서 논의됩니다.
+    items:
+      twitterEthClassic:
+        description: '두 계정 중 팔로워가 더 많은 쪽으로, 편집 지침에 따라 격식 있고 중립적이며 밈을 다루지 않습니다. 트윗은 [tweets-eth_classic](https://github.com/ethereumclassic/tweets-eth_classic)에서 제안합니다.'
+      twitterEtcNetwork:
+        description: '조금 더 가벼운 계정으로, 네트워크와 개발 소식과 함께 밈이나 가벼운 게시물도 허용됩니다. 트윗은 [tweets-etc_network](https://github.com/ethereumclassic/tweets-etc_network)에서 제안합니다.'
+  reddit:
+    items:
+      redditEthereumClassic:
+        description: 'Ethereum Classic의 서브레딧으로, 긴 호흡의 토론과 질문, 생태계 전반의 소식과 링크 공유에 쓰입니다.'
+  Chat Rooms:
+    title: 기타 채팅방
+    items:
       chat Facebook English:
         name: 페이스북(영어)
       chat Facebook Vietnam:
@@ -32,10 +58,8 @@ items:
       Hyperledger Besu dev:
         name: 하이퍼레저 베수
   Telegram Groups:
-    title: 전보 그룹
+    title: 지역별 Telegram 그룹
     items:
-      telegram English:
-        name: 영어
       telegram Español:
         name: 스페인어
       telegram Italia:
@@ -47,10 +71,8 @@ items:
       telegram China:
         name: 중문
   Forums:
-    title: 포럼
+    title: 기타 포럼
     items:
-      forum RedditEthereumClassic:
-        name: Reddit r/EthereumClassic
       forum BitcoinTalk:
         name: 비트코인톡
       forum Archived BitcoinTalk:
@@ -75,14 +97,10 @@ items:
       media Let's Talk ETC!:
         name: Let's Talk ETC!
   Twitter Accounts:
-    title: 트위터 계정
+    title: 지역별 Twitter 계정
     items:
       twitter China:
         name: 중국
-      twitter English 1:
-        name: "@ETC_Network"
-      twitter English 2:
-        name: "@eth_classic"
       twitter Español:
         name: 스페인어
       twitter France:

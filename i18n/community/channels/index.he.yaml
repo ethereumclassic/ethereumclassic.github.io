@@ -1,17 +1,43 @@
 title: ערוצים חברתיים
-seo: אוסף של חדרי צ'אט Ethereum Classic, חשבונות טוויטר, קבוצות דיון, פורומים, פודקאסטים, מאגרים ואתרי אינטרנט אזוריים.
+seo: 'אוסף של חדרי צ''אט Ethereum Classic, חשבונות טוויטר, קבוצות דיון, פורומים, פודקאסטים, מאגרים ואתרי אינטרנט אזוריים.'
 description: |
-  להלן רשימה לא ממצה של ערוצי דיון וקבוצות פעילים של Ethereum Classic.
+  ל-Ethereum Classic אין ארגון מרכזי, ולכן אין לו גם רשתות חברתיות "רשמיות"; כל ערוץ שמופיע כאן מנוהל באופן עצמאי על ידי חברי הקהילה.
 
-  מרכז הפעילות העיקרי בקהילת ETC כיום הוא ב [Discord](https://ethereumclassic.org/discord).
+  המקטעים Discord, Telegram, Twitter ו-Reddit מכסים את הערוצים המקושרים בכותרת התחתונה של אתר זה. שאר הרשימה היא מדריך חלקי לקבוצות אזוריות ונושאיות; חלקים ממנה לא נבדקו זמן מה, ולכן ייתכן שחלק מהקישורים אינם מעודכנים.
 items:
-  Chat Rooms:
-    title: חדרי צ'אט
+  discord:
+    description: |
+      קיימים שני שרתי Discord כלליים של ETC, ושניהם פעילים. הם מופיעים לפי סדר הקמתם, ללא העדפה; אפשר להצטרף לזה שמתאים לכם, או לשניהם.
     items:
-      chat Discord:
-        name: דיסקורד (קהילה, גלובלי)
-      chat Discord Coop:
-        name: דיסקורד (ETC Coop)
+      discordClassic:
+        name: Discord של Ethereum Classic
+        description: 'שרת הקהילה המקורי, פועל מאז 2016, ובו התקיימו רבות משיחות מפתחי הליבה ומשיחות הקהילה בעבר.'
+      discordCommunity:
+        name: Discord של קהילת Ethereum Classic
+        description: 'שרת חדש יותר, שהושק בנובמבר 2025, עם ניהול קפדני יותר, אימות אוטומטי, הגנה מפני ספאם ושילובי הודעות. לרקע נוסף ראו את [פוסט ההכרזה](/blog/2025-11-05-discord-migration).'
+  telegram:
+    items:
+      telegramGrantsDao:
+        name: ETC Grants DAO
+        description: 'הקבוצה סביב [ETC Grants DAO](https://etcgrantsdao.io), שמממן פרויקטים הנבנים על Ethereum Classic. זו אחת מקבוצות הצ''אט הפעילות ביותר של ETC, עם משתמשים רבים שדנים במערכת האקולוגית מדי יום.'
+      telegramEnglish:
+        name: Ethereum Classic (אנגלית)
+        description: הקבוצה הוותיקה בשפה האנגלית לשיחה כללית על ETC.
+  twitter:
+    description: |
+      שני חשבונות הקהילה המרכזיים מנוהלים באמצעות [twitter-together](https://github.com/twitter-together/action): ציוצים מוצעים כבקשות משיכה במאגר של החשבון, נבדקים בגלוי ומתפרסמים אוטומטית לאחר המיזוג. הדרך הפשוטה ביותר להציע ציוץ היא [אפליקציית התרומות של ETC](https://etc.contributions.app), שמגישה עבורכם את בקשת המשיכה, עם חשבון GitHub או בלעדיו. רעיונות נאספים גם מציוצים המתויגים ב-`#ETCtweets`, ונדונים בשרשור `#ETCtweets` ב-Discord.
+    items:
+      twitterEthClassic:
+        description: 'החשבון בעל מספר העוקבים הגדול יותר מבין השניים, עם קווים מנחים ששומרים עליו רשמי, ניטרלי ונטול ממים. ציוצים מוצעים ב-[tweets-eth_classic](https://github.com/ethereumclassic/tweets-eth_classic).'
+      twitterEtcNetwork:
+        description: 'חשבון פחות רשמי, שבו מותרים ממים ופוסטים קלילים לצד עדכוני רשת ופיתוח. ציוצים מוצעים ב-[tweets-etc_network](https://github.com/ethereumclassic/tweets-etc_network).'
+  reddit:
+    items:
+      redditEthereumClassic:
+        description: 'הסאב-רדיט של Ethereum Classic, המשמש לדיונים ארוכים, שאלות ושיתוף חדשות וקישורים מכל המערכת האקולוגית.'
+  Chat Rooms:
+    title: חדרי צ'אט נוספים
+    items:
       chat Facebook English:
         name: פייסבוק (אנגלית)
       chat Facebook Vietnam:
@@ -32,10 +58,8 @@ items:
       Hyperledger Besu dev:
         name: Hyperledger Besu
   Telegram Groups:
-    title: קבוצות טלגרם
+    title: קבוצות Telegram אזוריות
     items:
-      telegram English:
-        name: אנגלית
       telegram Español:
         name: Español
       telegram Italia:
@@ -47,10 +71,8 @@ items:
       telegram China:
         name: 中文
   Forums:
-    title: פורומים
+    title: פורומים נוספים
     items:
-      forum RedditEthereumClassic:
-        name: Reddit r/EthereumClassic
       forum BitcoinTalk:
         name: BitcoinTalk
       forum Archived BitcoinTalk:
@@ -75,14 +97,10 @@ items:
       media Let's Talk ETC!:
         name: בואו נדבר וכו'!
   Twitter Accounts:
-    title: חשבונות טוויטר
+    title: חשבונות Twitter אזוריים
     items:
       twitter China:
         name: חרסינה
-      twitter English 1:
-        name: "@ETC_Network"
-      twitter English 2:
-        name: "@eth_classic"
       twitter Español:
         name: Español
       twitter France:
