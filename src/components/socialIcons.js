@@ -3,6 +3,7 @@ import tw from "twin.macro";
 
 import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 import Icon from "./icon";
+import Link from "./link";
 import Tooltip from "./tooltip";
 
 export default function SocialIcons() {
@@ -15,10 +16,8 @@ export default function SocialIcons() {
       <div tw="flex space-x-4">
         {socialItems.map(({ key, name, icon, link, hilight }) => (
           <div className="group" tw="relative" key={key}>
-            <a
-              target="_blank"
-              rel="noreferrer"
-              href={link}
+            <Link
+              to={link}
               css={[
                 hilight
                   ? tw`text-secondary-neutral hover:text-secondary-dark`
@@ -35,7 +34,7 @@ export default function SocialIcons() {
                 )}
                 <Icon icon={icon} tw="h-6" />
               </div>
-            </a>
+            </Link>
             <Tooltip>{name}</Tooltip>
           </div>
         ))}

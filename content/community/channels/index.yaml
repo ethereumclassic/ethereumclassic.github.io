@@ -15,27 +15,65 @@ __contributors:
   - redsn0w0
   - TheEnthusiasticAs
   - w1g0
-__updated: 2022-02-22
+__updated: 2026-09-02
 seo: A collection of Ethereum Classic chat rooms, Twitter accounts, discussion groups, forums, podcasts, repositories and regional websites.
 description: |
-  The following is a non-exhaustive list of active Ethereum Classic discussion channels and groups.
+  Ethereum Classic has no central organisation, and therefore no "official" social media; every channel listed here is run independently by members of the community.
 
-  The main hub of activity within the ETC community at present is on [Discord](https://ethereumclassic.org/discord).
+  The Discord, Telegram, Twitter and Reddit sections cover the channels linked in the footer of this website. The rest is a non-exhaustive directory of regional and topic specific groups; parts of it have not been reviewed in a while, so some links may be out of date.
 items:
+  discord:
+    __type: cells
+    title: Discord
+    description: |
+      There are two general purpose ETC Discord servers, both active. They are listed in the order they were created, without preference; feel free to join whichever suits you, or both.
+    items:
+      discordClassic:
+        __link: https://discord.com/invite/hQs894U
+        name: Ethereum Classic Discord
+        description: The original community server, running since 2016, and the venue for many of the past core devs calls and community calls.
+      discordCommunity:
+        __link: https://discord.com/invite/Tq57jxSwsa
+        name: Ethereum Classic Community Discord
+        description: A newer server, launched in November 2025, which is more tightly moderated and runs automated verification, anti-spam and announcement integrations. See the [announcement post](/blog/2025-11-05-discord-migration) for background.
+  telegram:
+    __type: cells
+    title: Telegram
+    items:
+      telegramGrantsDao:
+        __link: https://t.me/ETCGrantsDao
+        name: ETC Grants DAO
+        description: The group around [ETC Grants DAO](https://etcgrantsdao.io), which funds projects building on Ethereum Classic. It is one of the busiest ETC chats, with many active users discussing the ecosystem day to day.
+      telegramEnglish:
+        __link: https://t.me/ethclassic
+        name: Ethereum Classic (English)
+        description: The long-running English language group for general ETC chat.
+  twitter:
+    __type: cells
+    title: Twitter
+    description: |
+      The two main community accounts are run through [twitter-together](https://github.com/twitter-together/action); tweets are proposed as pull requests against the account's repository, reviewed in the open, and posted automatically once merged. The easiest way to suggest one is the [ETC Contributions app](https://etc.contributions.app), which submits the pull request for you, with or without a GitHub account. Ideas are also picked up from tweets tagged `#ETCtweets`, which are discussed in the `#ETCtweets` Discord thread.
+    items:
+      twitterEthClassic:
+        __link: https://twitter.com/eth_classic
+        __name: "@eth_classic"
+        description: The more widely followed of the two accounts, with editorial guidelines that keep it formal, neutral and free of memes. Tweets are proposed in [tweets-eth_classic](https://github.com/ethereumclassic/tweets-eth_classic).
+      twitterEtcNetwork:
+        __link: https://twitter.com/ETC_Network
+        __name: "@ETC_Network"
+        description: A less formal account where memes and lighter posts are permitted alongside network and development updates. Tweets are proposed in [tweets-etc_network](https://github.com/ethereumclassic/tweets-etc_network).
+  reddit:
+    __type: cells
+    title: Reddit
+    items:
+      redditEthereumClassic:
+        __link: https://reddit.com/r/ethereumclassic
+        __name: r/EthereumClassic
+        description: The Ethereum Classic subreddit, used for longer form discussion, questions, and sharing news and links from around the ecosystem.
   Chat Rooms:
     __type: buttons
-    title: Chat Rooms
+    title: Other Chat Rooms
     items:
-      chat Discord:
-        __link: https://ethereumclassic.org/discord
-        __icon: discord
-        __primary: 1
-        name: Discord (Community, Global)
-      chat Discord Coop:
-        __link: https://discord.gg/5wDyd6u6pU
-        __icon: discord
-        __primary: 1
-        name: Discord (ETC Coop)
       chat Facebook English:
         __link: https://www.facebook.com/groups/ethereum.hongkong/
         __icon: facebook
@@ -71,12 +109,8 @@ items:
         name: Hyperledger Besu
   Telegram Groups:
     __type: buttons
-    title: Telegram Groups
+    title: Regional Telegram Groups
     items:
-      telegram English:
-        __link: https://t.me/ethclassic
-        __icon: telegram
-        name: English
       telegram Español:
         __link: https://t.me/ethclassicesp
         __icon: telegram
@@ -99,12 +133,8 @@ items:
         name: 中文
   Forums:
     __type: buttons
-    title: Forums
+    title: Other Forums
     items:
-      forum RedditEthereumClassic:
-        __link: https://www.reddit.com/r/EthereumClassic/
-        __icon: reddit
-        name: Reddit r/EthereumClassic
       forum BitcoinTalk:
         __link: https://bitcointalk.org/index.php?topic=5134923
         __icon: news
@@ -151,22 +181,12 @@ items:
         name: Let's Talk ETC!
   Twitter Accounts:
     __type: buttons
-    title: Twitter Accounts
+    title: Regional Twitter Accounts
     items:
       twitter China:
         __link: https://twitter.com/EthereumChina
         __icon: twitter
         name: China
-      twitter English 1:
-        __link: https://twitter.com/ETC_Network
-        __icon: twitter
-        __primary: 1
-        name: "@ETC_Network"
-      twitter English 2:
-        __link: https://twitter.com/eth_classic
-        __icon: twitter
-        __primary: 1
-        name: "@eth_classic"
       twitter Español:
         __link: https://twitter.com/ethclassicesp
         __icon: twitter
