@@ -15,25 +15,63 @@ __contributors:
   - redsn0w0
   - TheEnthusiasticAs
   - w1g0
-__updated: 2022-02-22
+__updated: 2026-09-02
 seo: crwdns119061:0crwdne119061:0
 description: |
   crwdns119063:0crwdne119063:0
 items:
+  discord:
+    __type: cells
+    title: crwdns119351:0crwdne119351:0
+    description: |
+      crwdns119357:0crwdne119357:0
+    items:
+      discordClassic:
+        __link: https://discord.com/invite/hQs894U
+        name: crwdns119363:0crwdne119363:0
+        description: crwdns119369:0crwdne119369:0
+      discordCommunity:
+        __link: https://discord.com/invite/Tq57jxSwsa
+        name: crwdns119375:0crwdne119375:0
+        description: crwdns119381:0crwdne119381:0
+  telegram:
+    __type: cells
+    title: crwdns119387:0crwdne119387:0
+    items:
+      telegramGrantsDao:
+        __link: https://t.me/ETCGrantsDao
+        name: crwdns119393:0crwdne119393:0
+        description: crwdns119399:0crwdne119399:0
+      telegramEnglish:
+        __link: https://t.me/ethclassic
+        name: crwdns119405:0crwdne119405:0
+        description: crwdns119411:0crwdne119411:0
+  twitter:
+    __type: cells
+    title: crwdns119417:0crwdne119417:0
+    description: |
+      crwdns119423:0crwdne119423:0
+    items:
+      twitterEthClassic:
+        __link: https://twitter.com/eth_classic
+        __name: '@eth_classic'
+        description: crwdns119429:0crwdne119429:0
+      twitterEtcNetwork:
+        __link: https://twitter.com/ETC_Network
+        __name: '@ETC_Network'
+        description: crwdns119435:0crwdne119435:0
+  reddit:
+    __type: cells
+    title: crwdns119441:0crwdne119441:0
+    items:
+      redditEthereumClassic:
+        __link: https://reddit.com/r/ethereumclassic
+        __name: r/EthereumClassic
+        description: crwdns119447:0crwdne119447:0
   Chat Rooms:
     __type: buttons
     title: crwdns119067:0crwdne119067:0
     items:
-      chat Discord:
-        __link: https://ethereumclassic.org/discord
-        __icon: discord
-        __primary: 1
-        name: crwdns119075:0crwdne119075:0
-      chat Discord Coop:
-        __link: https://discord.gg/5wDyd6u6pU
-        __icon: discord
-        __primary: 1
-        name: crwdns119083:0crwdne119083:0
       chat Facebook English:
         __link: https://www.facebook.com/groups/ethereum.hongkong/
         __icon: facebook
@@ -71,10 +109,6 @@ items:
     __type: buttons
     title: crwdns119133:0crwdne119133:0
     items:
-      telegram English:
-        __link: https://t.me/ethclassic
-        __icon: telegram
-        name: crwdns119139:0crwdne119139:0
       telegram Español:
         __link: https://t.me/ethclassicesp
         __icon: telegram
@@ -99,10 +133,6 @@ items:
     __type: buttons
     title: crwdns119173:0crwdne119173:0
     items:
-      forum RedditEthereumClassic:
-        __link: https://www.reddit.com/r/EthereumClassic/
-        __icon: reddit
-        name: crwdns119179:0crwdne119179:0
       forum BitcoinTalk:
         __link: https://bitcointalk.org/index.php?topic=5134923
         __icon: news
@@ -155,16 +185,6 @@ items:
         __link: https://twitter.com/EthereumChina
         __icon: twitter
         name: crwdns119253:0crwdne119253:0
-      twitter English 1:
-        __link: https://twitter.com/ETC_Network
-        __icon: twitter
-        __primary: 1
-        name: "crwdns119261:0crwdne119261:0"
-      twitter English 2:
-        __link: https://twitter.com/eth_classic
-        __icon: twitter
-        __primary: 1
-        name: "crwdns119269:0crwdne119269:0"
       twitter Español:
         __link: https://twitter.com/ethclassicesp
         __icon: twitter
