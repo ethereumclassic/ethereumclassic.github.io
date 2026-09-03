@@ -1,3 +1,28 @@
+- date: 2026-08-25
+  title: ETCMCv2 DEX
+  description: |-
+    ETCMCv2 DEX is a next-generation decentralized exchange on Ethereum Classic, built on Uniswap v4–style architecture. Trade ETC and ETCPOWv2 with modern pools, LP vault staking, and a live farm drip — on Classic mainnet and Mordor testnet. Newer than Uniswap v3–style venues on ETC, with an open in-app guide at v4.etcmc.xyz. User-submitted community listing — contracts are on-chain and visible on Blockscout; always do your own research.
+  image: ./images/etcmcv2.png
+  type: finance
+  author: ETCMCv2
+  authorLink: https://www.etcmc.xyz/
+  verifiedContract: https://etc.blockscout.com/address/0x5aE649b5C972AdB6d3969855F0AEc8a3A8dD7d38?tab=contract
+  links:
+    - name: Launch App
+      link: https://v4.etcmc.xyz
+      icon: link
+    - name: Website
+      link: https://etcmc.xyz/
+      icon: link
+    - name: ETCMCv2 Hub
+      link: https://main.etcmc.xyz/
+      icon: link
+    - name: X
+      link: https://x.com/etcmcv2
+      icon: twitter
+    - name: Discord
+      link: https://discord.gg/pwg4tYthsG
+      icon: discord
 - date: 2026-05-26
   title: CryptoFlower
   description: |-
