@@ -3,6 +3,7 @@ title: Events Timeline
 items:
   frontierRelease:
     title: Ethereum Launches
+    __dateText: Ethereum Foundation
     __date: 2015-07-30
     __color: blue
     __icon: rocket
@@ -10,6 +11,7 @@ items:
     text: Vitalik Buterin and The Ethereum Foundation created the first blockchain-based Turing-complete smart contract platform with the Frontier release.
   frontierThawingUpgrade:
     title: Frontier Thawing Upgrade
+    __dateText: Ethereum Foundation
     __block: 200,000
     __date: 2015-09-08
     __color: blue
@@ -18,21 +20,24 @@ items:
     text: The network implements an ‘Ice Age’ at block 200,000 introducing the Difficulty Bomb, a mechanism designed to move the network's consensus mechanism away from Proof-of-Work to Proof-of-Stake.
   homesteadUpgrade:
     title: Homestead Upgrade
+    __dateText: Ethereum Foundation
     __block: 1,150,000
     __date: 2016-03-14
     __color: blue
     __icon: home
     __link: https://blog.ethereum.org/2016/02/29/homestead-release/
     text: Homestead is the second major version release of the Ethereum platform.
-  slockItCreatesThe Dao:
+  slockItCreatesTheDao:
     title: Slock.it Creates The DAO
+    __dateText: Slock.it's The DAO
     __date: 2016-04-05
     __color: white
     __icon: fileCode
     __link: https://blog.slock.it/deja-vu-dao-smart-contracts-audit-results-d26bc088e32e
     text: Slock.it constructs The DAO Ethereum Contract; a security audit is completed by Dejavu.
-  the DaoCrowdsaleBegins:
+  theDaoCrowdsaleBegins:
     title: The DAO Crowdsale Begins
+    __dateText: Slock.it's The DAO
     __date: 2016-04-30
     __color: white
     __icon: bullhorn
@@ -40,6 +45,7 @@ items:
     text: The DAO smart contract is deployed; members of the public send it value in return for DAO tokens.
   securityProposal:
     title: Security Proposal
+    __dateText: Slock.it's The DAO
     __date: 2016-05-26
     __color: orange
     __icon: keyboard
@@ -47,6 +53,7 @@ items:
     text: Slock.it announces a $1.5 Million USD proposal, paid in Ether by the crowdfund, 'to guarantee the integrity of The DAO'.
   moratoriumCalled:
     title: Moratorium Called
+    __dateText: Slock.it's The DAO
     __date: 2016-05-27
     __color: orange
     __icon: crosshairs
@@ -54,6 +61,7 @@ items:
     text: On the last day of the crowdsale, DAO curator Vlad Zamfir calls for a moratorium on The DAO, citing many game-theoretical security issues.
   the DaoCrowdsaleEnds:
     title: The DAO Crowdsale Ends
+    __dateText: Slock.it's The DAO
     __date: 2016-05-27
     __color: white
     __icon: funnelDollar
@@ -61,6 +69,7 @@ items:
     text: The crowdsale completes to become the world's largest and raising an incredible $150 Million USD.
   recursiveCallBugDiscovered:
     title: Recursive Call Bug Discovered
+    __dateText: Slock.it's The DAO
     __date: 2016-06-09
     __color: orange
     __icon: bug
@@ -68,6 +77,7 @@ items:
     text: Peter Vessenes publicly discloses the existence of a critical security vulnerability overlooked in many Solidity contracts.
   noFundsAtRisk:
     title: No Funds at Risk
+    __dateText: Slock.it's The DAO
     __date: 2016-06-12
     __color: white
     __icon: thumbsUp
@@ -75,6 +85,7 @@ items:
     text: Stephan Tual publicly claims that The DAO funds are safe despite the newly-discovered critical security flaw.
   the DAOIsHacked:
     title: The DAO is Hacked
+    __dateText: Slock.it's The DAO
     __date: 2016-06-17
     __color: red
     __icon: timesCircle
@@ -82,6 +93,7 @@ items:
     text: Ether is slowly and silently drained from The DAO as the re-entry bug is applied.
   panicHitsTheMarkets:
     title: Panic Hits the Markets
+    __dateText: Slock.it's The DAO
     __date: 2016-06-17
     __color: red
     __icon: chartArea
@@ -89,6 +101,7 @@ items:
     text: The price of Ether is slashed in half as Griff Green announces that The DAO has been hacked.
   theCountdownBegins:
     title: The Countdown Begins
+    __dateText: Slock.it's The DAO
     __date: 2016-06-17
     __color: orange
     __icon: hourglassStart
@@ -96,6 +109,7 @@ items:
     text: The DAO's splitting mechanism gives around a month for a solution to be found that recovers the funds; Foundation and community developers race to implement a soft fork.
   robinHoodGroupAnnounced:
     title: Robin Hood Group Announced
+    __dateText: Robin Hood Group
     __date: 2016-06-21
     __color: white
     __icon: userSecret
@@ -103,6 +117,7 @@ items:
     text: A group of 'white-hat' hackers secure 70% of The DAO funds but protocol-level action is required to save the remaining 30% split by the hacker.
   softForkTheDao:
     title: "DAO Wars: Soft Fork Vote"
+    __dateText: Ethereum Foundation
     __date: 2016-06-24
     __color: orange
     __icon: fileCode
@@ -110,6 +125,7 @@ items:
     text: The Ethereum Foundation releases a 'Soft Fork' client to censor transactions coming from the hacker; mining pools vote to enable it by lowering gas limit.
   softForkVulnerability:
     title: Soft Fork Vulnerability
+    __dateText: Ethereum Foundation
     __date: 2016-06-28
     __color: red
     __icon: bug
@@ -117,6 +133,7 @@ items:
     text: Critical Denial of Service flaws are found in the Soft Fork implementation, miners quickly decide NOT to use it.
   hardForkDebate:
     title: Hard Fork Debate
+    __dateText: Ethereum Foundation
     __date: 2016-06-28
     __color: white
     __icon: users
@@ -124,6 +141,7 @@ items:
     text: Many days of intense arguing goes on in the Ethereum community about the pros and cons of implementing a Hard Fork.
   hardForkSpecAnnounced:
     title: Hard Fork Spec Announced
+    __dateText: Ethereum Foundation
     __date: 2016-07-15
     __color: orange
     __icon: fileCode
@@ -131,6 +149,7 @@ items:
     text: The only remaining option is a controversial Hard Fork. A Specification is determined and announced by Slock.it and Ethereum Foundation members.
   lastMinuteCarbonvote:
     title: Last Minute Carbonvote
+    __dateText: Ethereum Foundation
     __date: 2016-07-15
     __color: red
     __icon: faExclamationTriangle
@@ -138,6 +157,7 @@ items:
     text: With 12 hours notice, The Ethereum Foundation use a controversial third party 'coin vote' to determine that the Hard Fork should be turned on by default; consensus is declared, and an updated client is released.
   daoBailoutHardFork:
     title: DAO Bailout Hard Fork
+    __dateText: Ethereum Foundation
     __block: 1,920,000
     __date: 2016-07-20
     __color: blue
@@ -146,6 +166,7 @@ items:
     text: With around 80% of nodes updating to the new client, the community nervously await the arrival of the DAO Bailout fork activation block 1,920,000.
   newEthereumIsBorn:
     title: New Fork Chain
+    __dateText: Ethereum Foundation
     __block: 1,920,001
     __date: 2016-07-20
     __color: purple
@@ -154,14 +175,25 @@ items:
     text: A forked-chain is born! The Ethereum Foundation creates an altered version of Ethereum on July 20 2016 to reverse the DAO theft. As trademark rights holders, the Ethereum Foundation applies the Ethereum (ETH) brand to the new forked chain.
   ethereumRenamedToClassic:
     title: Original Non-Fork Chain
+    __dateText: Ethereum Classic Community
     __block: 1,920,001
     __date: 2016-07-20
     __color: green
     __icon: rocket
     __link: https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/
     text: With predictions of the original non-forked chain to disappear within hours, many are surprised to find that miners continue to support the original chain. Bisq and OTC desks give these tokens a price discovery order book. The markets participants rebrand this non-forked chain Ethereum Classic (ETC).
+  oldEtcDevFunds:
+    title: Ethereum Foundation Retains ETC Network Development Funds
+    __dateText: Ethereum Foundation
+    __block: 1,920,001
+    __date: 2016-07-20
+    __color: purple
+    __icon: handHoldingUsd
+    __link: https://blog.ethereum.org/2016/07/26/onward_from_the_hard_fork/
+    text: The Ethereum Foundation does not offer the Ethereum Classic community the development funds it raised from the 2014 ICO. Rather the Ethereum Foundation retains the ETC funds, which were earmarked to develop the ETC network while abandoning the original Ethereum for their own 2016 forked chain.
   missionAccomplished:
     title: Mission Accomplished!
+    __dateText: Ethereum Foundation
     __date: 2016-07-20
     __color: white
     __icon: cocktail
@@ -169,13 +201,39 @@ items:
     text: The ETH community lets out a sigh of relief as the DAO fork code is successfully implemented with no obvious flaws; champagne corks are popped all over the globe. The birth of a new chain is a success!
   poloniexListsETC:
     title: Poloniex Lists ETC
+    __dateText: Poloniex
     __date: 2016-07-23
     __color: green
     __icon: chartLine
     __link: https://twitter.com/poloniex/status/757068619234803712
     text: The largest Ethereum exchange signals long-term support for the original chain, Poloniex lists ETC. Many exchanges quickly follow suit.
+  krakenListsETC:
+    title: Kraken Lists ETC
+    __dateText: Kraken
+    __date: 2016-07-26
+    __color: green
+    __icon: chartLine
+    __link: https://x.com/krakenfx/status/758011228304257024
+    text: The first Ethereum exchange signals long-term support for the original chain, Kraken lists ETC.
+  bitfinexListsETC:
+    title: Bitfinex Lists ETC
+    __dateText: Bitfinex
+    __date: 2016-07-27
+    __color: green
+    __icon: chartLine
+    __link: https://blog.bitfinex.com/announcements/ethereum-classic-launch/
+    text: The largest Bitcoin exchange signals long-term support for the original chain, Bitfinex lists ETC. Later forming ETC's first lending markets.
+  coinbaseCreditsETC:
+    title: Coinbase Credits Users ETC
+    __dateText: Coinbase
+    __date: 2016-08-04
+    __color: green
+    __icon: handHoldingUsd
+    __link: https://www.coinbase.com/blog/adding-ethereum-classic-support-to-coinbase
+    text: The largest United States cryptocurrency exchange signals long-term support for the original chain, Coinbase credits users their ETC. Later listing ETC on their platform.
   etheriansInDisarray:
     title: Ethereans Fracture
+    __dateText: Ethereum Foundation
     __date: 2016-07-23
     __color: red
     __icon: frown
@@ -183,6 +241,7 @@ items:
     text: The Flame Wars begin in subreddits. As economically-charged vitriolic spats begin to take hold of the participants as it comes to terms with the reality of the split.
   ethereumClassicsupporters:
     title: Ethereum Classic Supporters
+    __dateText: Ethereum Classic Community
     __date: 2016-07-24
     __color: green
     __icon: users
@@ -190,6 +249,7 @@ items:
     text: The Ethereum Classic supporters branch off from Ethereum subreddits and form their own social channels.
   geth-ETC-Support:
     title: Geth Supports Ethereum Classic
+    __dateText: Geth
     __date: 2016-07-27
     __color: blue
     __icon: codeBranch
@@ -197,6 +257,7 @@ items:
     text: Geth releases support for Ethereum Classic network. This node has all the DAO code removed from the client and requires no additional flags to use the Ethereum Classic network.
   parity-ETC-Support:
     title: Parity Supports Ethereum Classic
+    __dateText: Parity
     __date: 2016-07-31
     __color: blue
     __icon: codeBranch
@@ -204,6 +265,7 @@ items:
     text: Parity signals long term support for Ethereum Classic with 1.2.3 release that addresses network stability issues for both Ethereum HF and Ethereum Classic chains and brings a few changes to the transaction tracing API.
   51Pool:
     title: 51% Attack Threat
+    __dateText: 51pool.org
     __date: 2016-07-31
     __color: red
     __icon: faExclamationTriangle
@@ -218,6 +280,7 @@ items:
     text: After the ETC network grew to a point where they could no longer attack it, ETH miners publicly declare not to attack ETC. To prevent hurting innocent Ethereum Classic holders, ETHash miners commit resources to mining ETC.
   attackRhg:
     title: RHG Attacks ETC
+    __dateText: Robin Hood Group
     __date: 2016-08-10
     __color: red
     __icon: dumpsterFire
@@ -225,6 +288,7 @@ items:
     text: The Robin Hood Group attempts to market dump a large quantity of stolen ETC from the DAO fork. Poloniex freezes their funds.
   classicDeclaresIndependence:
     title: Classic Declares Independence
+    __dateText: Ethereum Classic Community
     __block: 2,050,000
     __date: 2016-08-13
     __color: green
@@ -240,6 +304,7 @@ items:
     text: Ethereum Classic proves its resilience to the markets as ETC emerges from the ETH attacks with a stabilizing price. The networks core principles are galvanized during the DAO Bailout. Supporters begin rebuilding from the ashes.
   unlockedDaoFunds:
     title: DAO Funds Unlock on ETC
+    __dateText: Slock.it's The DAO
     __date: 2016-08-31
     __color: red
     __icon: chartArea
@@ -254,6 +319,7 @@ items:
     text: During the ETH attacks, many battle cries come out of Ethereum Classic supporters. They begin to clarify their core principles and validate the ETC network existence to the public.
   gasReprice:
     title: Gas Reprice Upgrade
+    __dateText: ETCDEV
     __block: 2,500,000
     __date: 2016-10-24
     __color: blue
@@ -262,63 +328,72 @@ items:
     text: Both Ethereum networks are attacked due to vulnerabilities in the tech stack. ETC devs quickly ensure a smooth and non-contentious network upgrade to patch exploited vulnerabilities.
   etcMonetaryPolicy:
     title: ETC Monetary Policy
+    __dateText: ETCDEV
     __date: 2016-11-01
     __color: green
     __icon: handHoldingUsd
     __link: https://www.reddit.com/r/EthereumClassic/comments/5cm582/monetary_policy_update/
     text: Ethereum Classic supporters debate ETC's emission schedule and monetary policy.
   grothendieckTeam:
-    title: Grothendieck Team
+    title: IOHK Grothendieck Team Launch
+    __dateText: IOHK Grothendieck
     __date: 2016-12-11
     __color: white
     __icon: userNinja
     __link: /blog/2016-12-12-TeamGrothendieck/
-    text: IOHK commits a team of 7 full-time developers to Ethereum Classic
+    text: IOHK commits a team of 7 full-time developers to Ethereum Classic.
   dieHardUpgrade:
     title: Die Hard Upgrade
+    __dateText: ETCDEV
     __block: 3,000,000
     __date: 2017-01-13
     __color: blue
     __icon: bomb
     __link: https://www.reddit.com/r/EthereumClassic/comments/5nt4qm/diehard_etc_protocol_upgrade_successful_nethash/
     text: Ethereum Classic addresses replay attacks and delays the difficulty bomb in a network upgrade.
-  etcDEVTeamAnnouncement:
-    title: ETCDEV Team
+  etcDEVTeamLaunch:
+    title: ETCDEV Team Launch
+    __dateText: ETCDEV
     __date: 2017-02-20
     __color: white
     __icon: userNinja
     __link: https://www.etcdevteam.com/
     text: A team of long-term ETC contributors and volunteers rebrands as a ETCDEV team.
   monetaryPolicyAdopted:
-    title: Monetary Policy Consensus
+    title: Monetary Policy Consensus ECIP-1017
+    __dateText: ETCDEV
     __date: 2017-03-01
     __color: green
     __icon: handHoldingUsd
     __link: https://www.etcdevteam.com/blog/articles/a-joint-statement-ecip1017.html
     text: Ethereum Classic forms consensus around a 210.7M ETC fixed-cap monetary policy with a Bitcoin-inspired limited emission schedule called 5M20; 20% block reward reduction every 5M blocks.
   etcInvestmentFund:
-    title: ETCG Investment Fund
+    title: Ethereum Classic Trust Investment Fund
+    __dateText: Grayscale
     __date: 2017-03-01
     __color: green
     __icon: userTie
     __link: https://grayscale.co/ethereum-classic-investment-thesis-march-2017/
     text: Grayscale launches the first non-bitcoin crypto fund enabling traditional investors to add ETC to their portfolio with the all the tax benefits of a traditional investment asset.
-  etcCommonwealth:
-    title: Commonwealth Team
+  etcCommonwealthLaunch:
+    title: ETC Commonwealth Team Launch
+    __dateText: ETC Commonwealth
     __date: 2017-07-22
     __color: white
     __icon: userNinja
     __link: /blog/2017-07-23-development-boost/
-    text: A development team forms under the Ethereum Commonwealth name.
+    text: A development team forms under the ETC Commonwealth name led by Dexaran.
   mantis-Launch:
-    title: Mantis Launch
+    title: Mantis Client Launch
+    __dateText: IOHK Grothendieck
     __date: 2017-08-08
     __color: blue
     __icon: codeBranch
     __link: https://iohk.io/en/blog/posts/2017/08/08/mantis-ethereum-classic-beta-release/
     text: The release of this beta client, Mantis, will take place today and is the culmination of seven months of work by the Grothendieck Team, the IOHK developers dedicated to Ethereum Classic.
-  etcCoop:
-    title: ETC Cooperative Team
+  etcCoopLaunch:
+    title: ETC Cooperative Team Launch
+    __dateText: Grayscale
     __date: 2017-09-01
     __color: white
     __icon: userNinja
@@ -326,7 +401,7 @@ items:
     text: Grayscale signals long-term support for Ethereum Classic protocol development by sponsoring the ETC Cooperative team with a portion of their ETCG management fees. Donations to the non-profit are tax-deductable.
   etcSummitHK:
     title: ETC Summit 2017
-    __dateText: ETC Conference
+    __dateText: ETC Cooperative
     __date: 2017-11-12
     __color: green
     __icon: users
@@ -334,6 +409,7 @@ items:
     text: The first annual Ethereum Classic conference is held in Hong Kong.
   gothamUpgrade:
     title: Gotham Upgrade
+    __dateText: ETCDEV
     __block: 5,000,000
     __date: 2017-12-11
     __color: blue
@@ -349,7 +425,8 @@ items:
     __link: /blog/2017-12-11-gotham-hard-fork-upgrade-5m20-era2
     text: Ethereum Classic's 5M20 emission schedule enters Era 2. Block rewards are reduced by 20% to 4 ETC per block.
   multi-Geth-Launch:
-    title: Multi-Geth Launch
+    title: Multi-Geth Client Launch
+    __dateText: Sorpaas
     __date: 2018-04-08
     __color: blue
     __icon: codeBranch
@@ -357,6 +434,7 @@ items:
     text: The Multi-Geth client project launches. This is a go-ethereum client forked from Ethereum Foundation's version, aimed to follow closely for upstream changes, and support multiple Ethereum networks. We have just added alpha support for Ethereum Classic network.
   defuseDifficultyBomb:
     title: Defuse Difficulty Bomb
+    __dateText: ETCDEV
     __block: 5,900,000
     __date: 2018-05-29
     __color: blue
@@ -364,7 +442,8 @@ items:
     __link: /blog/2018-05-29-defuse-difficulty-bomb-hard-fork-upgrade
     text: ETC safely disables the difficulty bomb to switch the original Ethereum project to PoS. Ethereum Classic signals long-term commitment to Proof of Work as a network consensus mechanism.
   etclabs:
-    title: ETC Labs Team
+    title: ETC Labs Team Launch
+    __dateText: ETC Labs
     __date: 2018-06-01
     __color: white
     __icon: userNinja
@@ -372,6 +451,7 @@ items:
     text: Ethereum Classic Labs provides funding, industry connections, and office space to burgeoning ETC projects; with office space in San Francisco and Singapore.
   kotti:
     title: Kotti Testnet Launches
+    __dateText: ETC Labs
     __date: 2018-09-08
     __color: blue
     __icon: rocket
@@ -387,17 +467,35 @@ items:
     text: The second annual Ethereum Classic conference is held in Seoul, South Korea.
   coinbase:
     title: Coinbase Lists ETC
+    __dateText: Coinbase
     __date: 2018-10-01
     __color: green
     __icon: chartLine
     text: The largest cryptocurrency exchange in the USA signals long-term support for the original Ethereum chain; Ethereum Classic.
   etcLabsIncubator:
     title: Incubator Program Launch
+    __dateText: ETC Labs
     __date: 2018-10-25
     __color: white
     __icon: userNinja
     __link: https://etclabs.org/
     text: Ethereum Classic Labs launches an incubator program. ETC Labs commits to work with as many as 24 Ethereum Classic based startups each year.
+  etcDEVTeamWindDown:
+    title: ETCDEV Team Wind Down
+    __dateText: ETCDEV
+    __date: 2018-12-03
+    __color: white
+    __icon: userNinja
+    __link: https://cryptobriefing.com/etc-labs-core-ethereum-classic/
+    text: The ETCDEV team announces it will wind down at the end of 2018. The ETCDEV has been a long-time supporter of Ethereum Classic development and ecosystem growth. The ETC community is grateful for their contributions and support over the years.
+  etcCommonwealthWindDown:
+    title: ETC Commonwealth Team Wind Down
+    __dateText: ETC Commonwealth
+    __date: 2018-03-05
+    __color: white
+    __icon: userNinja
+    __link: https://bitcoinwiki.org/wiki/Callisto
+    text: The ETC Commonwealth team announces it will move on to their sidechain Callisto Network in March, 2018. The ETC Commonwealth has been a long-time supporter of Ethereum Classic development and ecosystem growth. The ETC community is grateful for their contributions and support over the years.
   51Attack:
     title: 51% Attack
     __date: 2019-01-08
@@ -414,6 +512,7 @@ items:
     text: The 51% attacker appears to be a whitehat hacker and returns stolen funds to a compromised exchange. Centralized exchanges tighten 51% attack monitoring on Proof of Work coins across the board.
   atlantisConsensus:
     title: Atlantis Rough Consensus
+    __dateText: ETC Labs and ETC Cooperative
     __date: 2019-06-20
     __color: white
     __icon: fileCode
@@ -421,6 +520,7 @@ items:
     text: Ethereum Classic core developers reach rough consensus on ECIP-1054 in an effort to implement ETH's Spurious Dragon and Byzantium network protocol upgrades.
   atlantisUpgrade:
     title: Atlantis Upgrade
+    __dateText: ETC Labs and ETC Cooperative
     __block: 8,772,000
     __date: 2019-09-12
     __color: blue
@@ -437,6 +537,7 @@ items:
     text: The third annual Ethereum Classic conference is held in Vancouver, Canada.
   mordorLaunch:
     title: Mordor Launches
+    __dateText: ETC Labs and ETC Cooperative
     __date: 2019-10-04
     __color: blue
     __icon: rocket
@@ -444,6 +545,7 @@ items:
     text: Core developers removed testnet redundancy by replacing Kensington, Morden, and Nazgul test networks with Mordor, an Ethash PoW testnet for protocol level testing.
   besu-ETC-Support:
     title: Besu Supports Ethereum Classic
+    __dateText: ETC Cooperative
     __date: 2019-11-12
     __color: blue
     __icon: codeBranch
@@ -451,6 +553,7 @@ items:
     text: Hyperledger Besu adds Ethereum Classic support to their Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases.
   aztlanConsensus:
     title: Aztlán Rough Consensus
+    __dateText: ETC Labs and ETC Cooperative
     __date: 2019-12-05
     __color: white
     __icon: fileCode
@@ -458,6 +561,7 @@ items:
     text: Ethereum Classic core developers reach rough consensus on ECIP-1061 in an effort to implement ETH's Istanbul network protocol upgrade.
   aghartaConsensus:
     title: Agharta Rough Consensus
+    __dateText: ETC Labs and ETC Cooperative
     __date: 2019-12-12
     __color: white
     __icon: fileCode
@@ -465,6 +569,7 @@ items:
     text: Ethereum Classic core developers reach rough consensus on ECIP-1056 in an effort to implement ETH's Constantinople and Petersburg network protocol upgrades.
   aghartaUpgrade:
     title: Agharta Upgrade
+    __dateText: ETC Labs and ETC Cooperative
     __block: 9,573,000
     __date: 2020-01-11
     __color: blue
@@ -473,6 +578,7 @@ items:
     text: Ethereum Classic core developers implement ETH's Constantinople and Petersburg network protocol upgrades to maintain operational parity with its sister chain.
   core-Geth-Launch:
     title: Core-Geth Launch
+    __dateText: ETC Labs
     __date: 2020-02-03
     __color: blue
     __icon: codeBranch
@@ -480,6 +586,7 @@ items:
     text: The ETC Core team forks away from the Multi-Geth client project. The project is named Core-Geth, an ethereum/go-ethereum downstream effort to make the Ethereum Protocol accessible and extensible for a diverse ecosystem.
   phoenixFixConsensus:
     title: Phoenix Fix Rough Consensus
+    __dateText: ETC Labs and ETC Cooperative
     __date: 2020-02-05
     __color: white
     __icon: fileCode
@@ -494,6 +601,7 @@ items:
     text: ECIP 1050 Status Codes moves to Final status. This standard outlines a common set of Status Codes in the same vein as HTTP statuses. This provides a shared set of signals to allow smart contracts to react to situations autonomously, expose localized error messages to users, and so on.
   aztlanBugs:
     title: Testnets Catch Bugs
+    __dateText: ETC Labs and ETC Cooperative
     __date: 2020-02-20
     __color: orange
     __icon: bug
@@ -501,6 +609,7 @@ items:
     text: During Aztlán testnet implementations, Ethereum Classic core developers discover complications with ECIP 1061 and 1078 specs to add ETH's Istanbul network protocol upgrade. Meowbits of ETC Core documents the findings. As intended, the ETC testnets catch the issues and core developers go back to the drawing board.
   aztlanRejected:
     title: Aztlán Rejected
+    __dateText: ETC Labs and ETC Cooperative
     __date: 2020-02-26
     __color: orange
     __icon: timesCircle
@@ -508,6 +617,7 @@ items:
     text: Based on the issues discovered during Aztlán testnet implementation, Phoenix Fix being found to not be a sufficient fix and both testnets breaking; the Core developers proposes to reject ecips-1061, 1078, 1086 due to security and stability concerns and to move on with writing a new proposal from scratch.
   phoenixConsensus:
     title: Phoenix Rough Consensus
+    __dateText: ETC Labs and ETC Cooperative
     __date: 2020-02-20
     __color: white
     __icon: fileCode
@@ -515,6 +625,7 @@ items:
     text: Ethereum Classic core developers reach rough consensus on ECIP-1088 in an effort to implement ETH's Istanbul network protocol upgrade. Testnet implementations revealed issues with prior attempts in specs ECIP-1061 and ECIP-1078.
   phoenixMordor:
     title: Phoenix Mordor Testing
+    __dateText: ETC Labs and ETC Cooperative
     __date: 2020-03-09
     __color: white
     __icon: codeBranch
@@ -530,6 +641,7 @@ items:
     text: Ethereum Classic's block rewards are reduced by 20% to 3.2 ETC per block, as per the bitcoin-inspired 5M20 emission schedule.
   phoenixKotti:
     title: Phoenix Kotti Testing
+    __dateText: ETC Labs and ETC Cooperative
     __date: 2020-04-15
     __color: white
     __icon: codeBranch
@@ -537,6 +649,7 @@ items:
     text: Phoenix testing begins on the Kotti PoA testnet on block 2,200,013. Core development teams have signaled that this is a complex implementation. Testing may uncover issues that delay this network upgrade, but Ethereum Classic will never rush to upgrade the mainnet.
   phoenixUpgrade:
     title: Phoenix Upgrade
+    __dateText: ETC Labs and ETC Cooperative
     __block: 10,500,839
     __date: 2020-06-01
     __color: blue
@@ -545,6 +658,7 @@ items:
     text: Ethereum Classic core developers implement ETH's Istanbul network protocol upgrades to maintain operational parity with its sister chain.
   client-Deprecation-Attacks:
     title: Client Deprecation Attacks
+    __dateText: Sorpaas
     __date: 2020-07-20
     __color: red
     __icon: faExclamationTriangle
@@ -573,6 +687,7 @@ items:
     text: Ethereum Classic experiences the fourth successful chain reorganization attack on its network.
   messClientFunctionality:
     title: M.E.S.S. Client Functionality
+    __dateText: Isaac Ardis
     __block: 11,380,000
     __date: 2020-10-10
     __color: blue
@@ -581,6 +696,7 @@ items:
     text: The Core-Geth client implements the flags to apply the optional M.E.S.S. functionality as a response to the Ethereum Classic networks' 51% attacks.
   thanosMordor:
     title: Thanos Mordor Testing
+    __dateText: ETC Labs and ETC Cooperative
     __date: 2020-10-19
     __color: white
     __icon: codeBranch
@@ -588,6 +704,7 @@ items:
     text: Thanos testing begins on the Mordor PoW testnet on block 2,520,000.
   thanosUpgrade:
     title: Thanos Upgrade
+    __dateText: Luke Williams and Cody Burns
     __block: 11,700,000
     __date: 2020-11-28
     __color: blue
@@ -596,14 +713,16 @@ items:
     text: Ethereum Classic implements the Thanos Upgrade to recalibrate the epoch length used in DAG calculations.
   etchash:
     title: ETChash
+    __dateText: Luke Williams and Cody Burns
     __block: 11,700,000
     __date: 2020-11-28
     __color: green
     __icon: cubes
     __link: /blog/2020-11-27-thanos-hard-fork-upgrade/
     text: Ethereum Classic implements the Thanos Upgrade to adjust the mining algorithm from ETHash to ETCHash.
-  manis-ETC-Stupport:
+  mantis-ETC-Support:
     title: Mantis ETC Client Revival
+    __dateText: IOHK Grothendieck
     __date: 2020-12-09
     __color: blue
     __icon: codeBranch
@@ -611,6 +730,7 @@ items:
     text: Input Output Global signals support for the Ethereum Classic network with the revival of the Mantis client and GUI.
   gethBugs:
     title: Geth Client Bugs
+    __dateText: ETC Labs and ETC Cooperative
     __date: 2021-09-03
     __color: red
     __icon: bug
@@ -618,6 +738,7 @@ items:
     text: The Geth exploit software bugs that split the Ethereum Foundation mainnet in August, 2021 splits the Ethereum Classic mainnet. Everyone is advised to update their clients.
   lcetcc:
     title: Let's Keep Ethereum Classic Classic
+    __dateText: Istora
     __date: 2021-09-04
     __color: green
     __icon: pen
@@ -625,21 +746,40 @@ items:
     text: A concerned ETC participant penned a long rebuttal that argued against the implementation of ECIP-1098.
   treasuryDebate:
     title: IOHK Treasury Proposal Withdrawn
+    __dateText: IOHK Grothendieck
     __date: 2021-09-20
     __color: orange
     __icon: timesCircle
     __link: https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098
     text: After a year long discussion about whether a ECIP-1098 would gel with ETC values, ETC Coop, followed by IOHK withdraw support for a Treasury Proposal at the network level.
+  grothendieckTeamWindDown:
+    title: IOHK Grothendieck Team Wind Down
+    __dateText: IOHK Grothendieck
+    __date: 2021-09-21
+    __color: white
+    __icon: userNinja
+    __link: https://etccooperative.org/posts/2021-09-20-withdraws-support-for-ecip-1098
+    text: The IOHK Grothendieck team announces it will wind down after the rejection of it's treasury proposal ECIP-1098. The IOHK Grothendieck team has been a long-time supporter of Ethereum Classic development and ecosystem growth. The ETC community is grateful for their contributions and support over the years.
   magnetoUpgrade:
     title: Magneto Upgrade
+    __dateText: ETC Labs and ETC Cooperative
     __block: 13,189,133
     __date: 2021-07-23
     __color: blue
     __icon: angleDoubleUp
     __link: https://ecips.ethereumclassic.org/ECIPs/ecip-1103
     text: Ethereum Classic core developers implement ETH's Berlin network protocol upgrades to maintain operational parity with its sister chain.
+  etcLabsWindDown:
+    title: ETC Labs Team Wind Down
+    __dateText: ETC Labs
+    __date: 2021-12-31
+    __color: white
+    __icon: userNinja
+    __link: https://etclabs.org
+    text: The ETC Labs team announces it will wind down at the end of 2021. The ETC Labs has been a long-time supporter of Ethereum Classic development and ecosystem growth. The ETC community is grateful for their contributions and support over the years.
   mystiqueUpgrade:
     title: Mystique Upgrade
+    __dateText: ETC Cooperative
     __block: 14,525,000
     __date: 2022-02-12
     __color: blue
@@ -664,6 +804,7 @@ items:
     text: Ethereum Classic's block rewards are reduced by 20% to 2.56 ETC per block, as per the bitcoin-inspired 5M20 emission schedule. ETChash mining hashrate continues to turn over to ETC with the network reaching All-Time Highs.
   sha3Withdrawn:
     title: SHA3 Proposal Withdrawn
+    __dateText: Bob Summerwill
     __date: 2022-05-20
     __color: orange
     __icon: timesCircle
@@ -686,6 +827,7 @@ items:
     text: AntPool and Bitmain signal support for Ethereum Classic ecosystem with $10M Investment in a Grants program. Antpool and Bitmain seed a treasury fund with a goal of supporting the professional development ecosystem on Ethereum Classic.
   hashrateSurges:
     title: ETC Hashrate Surges
+    __dateText: Chris Mercer and Opposition of ECIP-1049
     __date: 2022-08-31
     __color: green
     __icon: cubes
@@ -693,6 +835,7 @@ items:
     text: As the upcoming Ethereum merge continues to cause excitement within the crypto space, Ethereum Classic (ETC), a sister of Ethereum, has seen an 83% increase in hashrate since June, 2022.
   twitter-Account-Capture:
     title: Twitter Account Corporate Capture
+    __dateText: IOHK
     __date: 2022-09-05
     __color: red
     __icon: dumpsterFire
@@ -715,6 +858,7 @@ items:
     text: Fall out from the ETC community's social rejection of IOHK's centralized treasury in 2021, Charles Hoskinson transfers the verified eth_classic Twitter account with 670,000+ followers to Ergo_Platform. Social attacks such as this have happened numerous times in the past and have always been fended off by the strong convictions and principles of the ETC community. As an anti-fragile system, such events only serve to strengthen the project.
   twitter-Together:
     title: Twitter Together
+    __dateText: Chris Mercer, Istora, Cody Burns
     __date: 2022-10-07
     __color: green
     __icon: users
@@ -722,7 +866,7 @@ items:
     text: The ETC_Network and eth_classic twitter accounts are integrated into the Twitter Together project to allow public contributions and github repo management of the Ethereum Classic project twitter accounts.
   etcGrantsDaoRound1:
     title: ETC Grants Dao Round 1
-    __dateText: ETC Grants Dao
+    __dateText: ETC Cooperative and ETC grants Dao
     __date: 2023-08-17
     __color: green
     __icon: userTie
@@ -746,6 +890,7 @@ items:
     text: The first annual PoW Summit conference is held in Prague, Czech Republic.
   spiralUpgrade:
     title: Spiral Upgrade
+    __dateText: ETC Cooperative
     __block: 19,250,000
     __date: 2024-02-05
     __color: blue
@@ -778,7 +923,7 @@ items:
     text: Two years since the Ethash miners committed to securing Ethereum Classic for the long-term, the miners, mining manufacturers, and mining pools are all in agreement that Etheruem Classic is the PoW EVM of choice. Network security and EVM protocol stability enables the Application layer on Ethereum Classic to blossom.
   powSummitFrankfurt:
     title: PoW Summit 2024
-    __dateText: ETC Cooperative
+    __dateText: ETC Conference
     __date: 2024-09-27
     __color: green
     __icon: users
@@ -792,6 +937,109 @@ items:
     __icon: rocket
     __link: https://x.com/ETCGrantsDao/status/1857108076605960385
     text: An investment in the social layer of Ethereum Classic is launched. ETC Grants Dao launches the ETC Ambassador Program, a global initiative designed to spread the ETC vision to more audiences, emphasizing Ethereum Classic's unwavering commitment to decentralization and its adherence to Ethereum's original spirit.
+  etcCoopMaintenanceMode:
+    title: ETC Cooperative
+    __date: 2024-12-31
+    __color: white
+    __icon: userNinja
+    __link: https://etccooperative.org
+    text: The ETC Cooperative announces it will enter maintenance mode at the end of 2024. The ETC Cooperative has been a long-time supporter of Ethereum Classic development and ecosystem growth. The ETC community is grateful for their contributions and support over the years.
+  etcGrantsNovaHackathon:
+    title: ETC Nova Hackathon Launch
+    __dateText: ETC Grants Dao
+    __date: 2025-02-06
+    __color: white
+    __icon: userNinja
+    __link: https://x.com/ETCGrantsDao/status/1887688521840030118
+    text:  The ETC Grants Dao launches the Nova Hackathon, a global initiative designed to foster innovation and development on the Ethereum Classic network. The hackathon aims to bring together developers, entrepreneurs, and enthusiasts to create new applications and solutions that leverage the unique features of Ethereum Classic.
+  olympiaDrafts:
+    title: Olympia Upgrade Drafts Released
+    __dateText: Ethereum Classic Core Devs
+    __date: 2025-07-04
+    __color: white
+    __icon: fileCode
+    __link: https://ethereumclassic.org/blog/2025-07-04-olympia-upgrade-draft-review
+    text: Ethereum Classic core developers publish the first full draft of the Olympia upgrade suite — ECIPs 1111 through 1114 — introducing BASEFEE redirection, an immutable protocol-level Treasury, a tokenless governance framework, and a permissionless funding proposal system. This marks the culmination of a decade of discussion on sustainable, decentralized funding for Ethereum Classic.
+  etc9thIndependenceDay:
+    title: Ten Years Unforked- Ethereum Classic Decade of Sovereignty
+    __dateText: Ethereum Classic
+    __date: 2025-07-20
+    __color: green
+    __icon: flag
+    __link: https://coinmarketcap.com/community/articles/687d33500973d947194ba4bf/
+    text: Ethereum Classic marks 10 years of immutability, Proof-of-Work resilience, and principled resistance — the story of a blockchain that refused to compromise.
+  etcGrantsDaoAmbassadorProgram2:
+    title: ETC Ambassador Program 2.0 Launch
+    __dateText: ETC Grants Dao
+    __date: 2025-07-10
+    __color: green
+    __icon: rocket
+    __link: https://x.com/ETCGrantsDao/status/1943297279605313801
+    text: The ETC Ambassador Program 2.0 is launched, building on the success of the initial program. This new phase aims to further expand the reach and impact of Ethereum Classic by empowering ambassadors to engage with communities worldwide, fostering a deeper understanding of ETC's values and vision.
+  etc10thGenesisBlockDay:
+    title: A Decade of Integrity- Celebrating 10 Years of Ethereum Classic
+    __dateText: Ethereum Classic
+    __date: 2025-07-30
+    __color: green
+    __icon: flag
+    __link: https://coinmarketcap.com/community/articles/688a1da31c29df0fa3641d03/
+    text: Ethereum Classic turns 10. Explore the untold story of the original Ethereum chain that upheld immutability, preserved Proof-of-Work, and now powers the smart contract layer for PoW assets.
+  olympiaDraftsPolished:
+    title: Olympia ECIP Suite Polished After Community Review
+    __dateText: Ethereum Classic Core Devs
+    __date: 2025-08-10
+    __color: white
+    __icon: fileCode
+    __link: https://github.com/ethereumclassic/ECIPs/pull/538
+    text: Following the initial publication of the Olympia ECIP drafts on July 4, the core developers complete a major synchronization and polishing pass across ECIPs 1111–1114. This refinement incorporates early community feedback from the public review period, resolving specification gaps and aligning the four ECIPs into a coherent, modular upgrade framework. This milestone marks the transition from initial drafting to structured review under the ECIP-1000 process.
+  roadToOlympia:
+    title: The Road to Olympia- How Ethereum Classic Built a Sustainable Funding Future
+    __dateText: Ethereum Classic
+    __date: 2025-09-17
+    __color: green
+    __icon: book
+    __link: https://coinmarketcap.com/community/articles/6897663e1b7c85774590a8cd/
+    text: A longform CMC article tracing ETC’s decade of funding attempts and introducing Olympia (ECIPs 1111–1114), which redirects BASEFEE into an immutable, on-chain treasury — no miner tax, no insiders, no custody, no inflation — to sustainably fund public goods as block rewards decline.
+  bitmainFundsCore:
+    title: Bitmain Sponsors Two Core-Client Developers
+    __dateText: ETC Grants Dao
+    __date: 2025-10-02
+    __color: green
+    __icon: handHoldingUsd
+    __link: https://x.com/ETCGrantsDao/status/1973818014786347151
+    text: As core developers organize the path to long-term protocol-level funding through Olympia, Bitmain steps in as a stopgap to help fund core client development while the community finalizes implementation details.
+  olympiaDay:
+    title: Olympia Day — From Draft to Testnet
+    __dateText: Ethereum Classic Core Devs
+    __date: 2025-11-11
+    __color: white
+    __icon: rocket
+    __link: https://coinmarketcap.com/community/articles/69135a2872417b07898025bc/
+    text: Olympia Development Series — Part 0 (“From Draft to Testnet”) is published, marking “Olympia Day” (11/11/2025) as the point where the Olympia ECIP authors publicly outline the transition from years of research into a planned implementation phase, describing how reference-client work and future Mordor testnet evaluations for ECIPs 1111–1115 will proceed while all Olympia ECIPs remain in Draft status under ECIP-1000.
+  ecip1115Draft:
+    title: Olympia — ECIP-1115 L-Curve Smoothing Draft Completed
+    __dateText: Ethereum Classic Core Devs
+    __date: 2025-11-12
+    __color: white
+    __icon: fileCode
+    __link: https://github.com/ethereumclassic/ECIPs/pull/544
+    text: The ECIP-1115 draft is published, defining an optional governance-layer L-curve smoothing model for Treasury-held BASEFEE, enabling additive, structured miner incentives that complement existing consensus-layer rewards while keeping all logic outside consensus.
+  olympiaDevSeriesPart1:
+    title: Olympia Dev Series Part 1 - Implementing ECIP-1111 & ECIP-1112
+    __dateText: Ethereum Classic Core Devs
+    __date: 2025-12-01
+    __color: white
+    __icon: book
+    __link: https://coinmarketcap.com/community/articles/691fb0f0383b145cbcd3c6c6/
+    text: Olympia Development Series — Part 1 is published, providing a technical walkthrough of ECIP-1111 and ECIP-1112, defining Olympia’s consensus boundary, and describing the proposed BASEFEE mechanics, immutable Treasury destination, and early reference-client plumbing for potential Mordor testnet testing—without implying activation or acceptance beyond the ECIP-1000 Draft stage.
+  gorgorothTrials:
+    title: Gorgoroth Trials — Multi-Client Alpha Testing Begins
+    __dateText: Ethereum Classic Core Devs
+    __date: 2025-12-08
+    __color: blue
+    __icon: rocket
+    __link: https://coinmarketcap.com/community/articles/69372a1e3e407d6b6ad51dc3/
+    text: The Ethereum Classic core developers launch the Gorgoroth Trials, a community-driven alpha testing campaign for Fukuii — a new Scala 3 client designed to modernize ETC’s execution stack. The trials establish a structured multi-client proving ground, validating consensus alignment across Fukuii, Core-Geth, and Hyperledger Besu ahead of potential Olympia-related testnet work, as community testers submit field reports across networking, mining, and protocol-compatibility scenarios.
   aBrightFuture:
     title: A Bright Future
     __dateText: The Future
