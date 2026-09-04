@@ -87,7 +87,7 @@ socialItems:
   github:
     __link: https://github.com/ethereumclassic
     __icon: github
-    name: Github
+    name: GitHub
 appTypes:
   finance:
     __color: green
@@ -117,7 +117,7 @@ appLinks:
   homepage: Homepage
   app: App Site
   twitter: Twitter
-  github: Github
+  github: GitHub
 newsTypes:
   news:
     name: Link
