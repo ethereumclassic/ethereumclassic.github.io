@@ -1,17 +1,43 @@
 title: ソーシャルチャネル
 seo: Ethereum Classicのチャットルーム、Twitterアカウント、ディスカッショングループ、フォーラム、ポッドキャスト、リポジトリ、地域のウェブサイトを集めたサイト。
 description: |
-  以下は、アクティブなEthereum Classicのディスカッションチャンネルとグループの非網羅的なリストです。
+  Ethereum Classic には中心となる組織がなく、したがって「公式」のソーシャルメディアもありません。ここに挙げているチャンネルは、いずれもコミュニティのメンバーが独立して運営しています。
 
-  現在、ETCコミュニティ内の活動の主な中心は、 [Discord](https://ethereumclassic.org/discord) にあります。
+  Discord、Telegram、Twitter、Reddit の各セクションは、このサイトのフッターからリンクされているチャンネルをまとめたものです。それ以降は地域別・話題別のグループを網羅的ではない形で一覧にしたもので、しばらく確認されていない部分もあるため、古くなったリンクが含まれている可能性があります。
 items:
-  Chat Rooms:
-    title: チャットルーム
+  discord:
+    description: |
+      一般的な用途の ETC の Discord サーバーは 2 つあり、どちらも稼働しています。優劣をつけず、作成された順に並べています。好きな方に、あるいは両方に参加してください。
     items:
-      chat Discord:
-        name: Discord (コミュニティ、グローバル)
-      chat Discord Coop:
-        name: Discord(ETC生協)
+      discordClassic:
+        name: Ethereum Classic Discord
+        description: 2016 年から続く最初のコミュニティサーバーで、過去のコア開発者コールやコミュニティコールの多くがここで行われてきました。
+      discordCommunity:
+        name: Ethereum Classic コミュニティ Discord
+        description: '2025 年 11 月に開設された新しいサーバーで、モデレーションがより厳格で、自動認証、スパム対策、アナウンス連携を備えています。経緯は[お知らせの記事](/blog/2025-11-05-discord-migration)をご覧ください。'
+  telegram:
+    items:
+      telegramGrantsDao:
+        name: ETC Grants DAO
+        description: 'Ethereum Classic 上のプロジェクトに助成を行う [ETC Grants DAO](https://etcgrantsdao.io) を中心としたグループです。ETC のチャットのなかでもとくに活発で、多くの利用者がエコシステムについて日々やり取りしています。'
+      telegramEnglish:
+        name: Ethereum Classic（英語）
+        description: ETC 全般について話す、長く続いている英語のグループです。
+  twitter:
+    description: |
+      主要な 2 つのコミュニティアカウントは [twitter-together](https://github.com/twitter-together/action) で運用されています。ツイートは各アカウントのリポジトリへのプルリクエストとして提案され、公開の場でレビューされ、マージされると自動的に投稿されます。もっとも簡単なのは [ETC コントリビューションアプリ](https://etc.contributions.app) を使う方法で、GitHub アカウントの有無にかかわらず、プルリクエストを代わりに作成してくれます。`#ETCtweets` を付けたツイートからも案が集められ、Discord の `#ETCtweets` スレッドで検討されます。
+    items:
+      twitterEthClassic:
+        description: '2 つのうちフォロワーが多い方のアカウントで、編集方針により、フォーマルで中立、ミームを扱わない内容に保たれています。ツイートは [tweets-eth_classic](https://github.com/ethereumclassic/tweets-eth_classic) で提案します。'
+      twitterEtcNetwork:
+        description: 'より砕けたアカウントで、ネットワークや開発の情報に加えて、ミームや軽い投稿も認められています。ツイートは [tweets-etc_network](https://github.com/ethereumclassic/tweets-etc_network) で提案します。'
+  reddit:
+    items:
+      redditEthereumClassic:
+        description: Ethereum Classic の subreddit で、じっくりした議論や質問、エコシステム全体のニュースやリンクの共有に使われています。
+  Chat Rooms:
+    title: その他のチャットルーム
+    items:
       chat Facebook English:
         name: フェイスブック(英語)
       chat Facebook Vietnam:
@@ -32,10 +58,8 @@ items:
       Hyperledger Besu dev:
         name: ハイパーレッジャー・ベスー
   Telegram Groups:
-    title: テレグラムグループ
+    title: 地域別 Telegram グループ
     items:
-      telegram English:
-        name: イングリッシュ
       telegram Español:
         name: スペイン語
       telegram Italia:
@@ -47,10 +71,8 @@ items:
       telegram China:
         name: 中文
   Forums:
-    title: フォーラム
+    title: その他のフォーラム
     items:
-      forum RedditEthereumClassic:
-        name: Reddit r/EthereumClassic
       forum BitcoinTalk:
         name: ビットコイントーク
       forum Archived BitcoinTalk:
@@ -75,14 +97,10 @@ items:
       media Let's Talk ETC!:
         name: レッツトークETC!
   Twitter Accounts:
-    title: Twitterアカウント
+    title: 地域別 Twitter アカウント
     items:
       twitter China:
         name: 中国
-      twitter English 1:
-        name: "ETC_Network"
-      twitter English 2:
-        name: "eth_classic"
       twitter Español:
         name: スペイン語
       twitter France:

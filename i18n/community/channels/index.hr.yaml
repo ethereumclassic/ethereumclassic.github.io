@@ -1,17 +1,43 @@
 title: Društveni kanali
-seo: Zbirka Ethereum Classic chat soba, Twitter računa, grupa za raspravu, foruma, podcasta, spremišta i regionalnih web stranica.
+seo: 'Zbirka Ethereum Classic chat soba, Twitter računa, grupa za raspravu, foruma, podcasta, spremišta i regionalnih web stranica.'
 description: |
-  Slijedi neiscrpan popis aktivnih Ethereum Classic kanala za raspravu i grupa.
+  Ethereum Classic nema središnju organizaciju pa nema ni "službene" društvene mreže; svaki kanal naveden ovdje samostalno vode članovi zajednice.
 
-  Trenutno je glavno središte aktivnosti unutar ETC zajednice na [Discord](https://ethereumclassic.org/discord).
+  Odjeljci Discord, Telegram, Twitter i Reddit obuhvaćaju kanale povezane u podnožju ove stranice. Ostalo je necjelovit popis regionalnih i tematskih grupa; dijelovi tog popisa dugo nisu provjereni pa neke poveznice mogu biti zastarjele.
 items:
-  Chat Rooms:
-    title: Chat sobe
+  discord:
+    description: |
+      Postoje dva ETC Discord poslužitelja opće namjene, oba aktivna. Navedeni su redoslijedom nastanka, bez davanja prednosti; pridružite se onom koji vam odgovara, ili objema.
     items:
-      chat Discord:
-        name: Discord (zajednica, globalno)
-      chat Discord Coop:
-        name: Discord (ETC Coop)
+      discordClassic:
+        name: Ethereum Classic Discord
+        description: 'Izvorni poslužitelj zajednice, u radu od 2016., na kojem su održani mnogi raniji pozivi core razvojnih programera i pozivi zajednice.'
+      discordCommunity:
+        name: Discord zajednice Ethereum Classic
+        description: 'Noviji poslužitelj, pokrenut u studenom 2025., strože moderiran, s automatskom provjerom, zaštitom od neželjenih poruka i integracijama za objave. Pozadinu potražite u [objavi najave](/blog/2025-11-05-discord-migration).'
+  telegram:
+    items:
+      telegramGrantsDao:
+        name: ETC Grants DAO
+        description: 'Grupa okupljena oko [ETC Grants DAO-a](https://etcgrantsdao.io), koji financira projekte na Ethereum Classicu. Jedan je od najživljih ETC razgovora, s mnogo aktivnih korisnika koji svakodnevno raspravljaju o ekosustavu.'
+      telegramEnglish:
+        name: Ethereum Classic (engleski)
+        description: Dugogodišnja grupa na engleskom jeziku za općenit razgovor o ETC-u.
+  twitter:
+    description: |
+      Dva glavna računa zajednice vode se pomoću [twitter-togethera](https://github.com/twitter-together/action): tweetovi se predlažu kao pull requestovi u repozitoriju računa, javno se pregledavaju i automatski objavljuju nakon spajanja. Najjednostavnije je predložiti ga putem [ETC-ove aplikacije za doprinose](https://etc.contributions.app), koja pull request otvara umjesto vas, sa ili bez GitHub računa. Ideje se preuzimaju i iz tweetova označenih s `#ETCtweets`, o kojima se raspravlja u niti `#ETCtweets` na Discordu.
+    items:
+      twitterEthClassic:
+        description: 'Praćeniji od dva računa, s uredničkim smjernicama koje ga drže formalnim, neutralnim i bez memeova. Tweetovi se predlažu u [tweets-eth_classic](https://github.com/ethereumclassic/tweets-eth_classic).'
+      twitterEtcNetwork:
+        description: 'Manje formalan račun na kojem su uz vijesti o mreži i razvoju dopušteni memeovi i opušteniji sadržaj. Tweetovi se predlažu u [tweets-etc_network](https://github.com/ethereumclassic/tweets-etc_network).'
+  reddit:
+    items:
+      redditEthereumClassic:
+        description: 'Subreddit Ethereum Classica, za opširnije rasprave, pitanja te dijeljenje vijesti i poveznica iz cijelog ekosustava.'
+  Chat Rooms:
+    title: Ostale sobe za razgovor
+    items:
       chat Facebook English:
         name: Facebook (engleski)
       chat Facebook Vietnam:
@@ -32,10 +58,8 @@ items:
       Hyperledger Besu dev:
         name: Hyperledger Besu
   Telegram Groups:
-    title: Telegram grupe
+    title: Regionalne Telegram grupe
     items:
-      telegram English:
-        name: Engleski
       telegram Español:
         name: španjolski
       telegram Italia:
@@ -47,10 +71,8 @@ items:
       telegram China:
         name: 中文
   Forums:
-    title: Forumi
+    title: Ostali forumi
     items:
-      forum RedditEthereumClassic:
-        name: Reddit r/EthereumClassic
       forum BitcoinTalk:
         name: BitcoinTalk
       forum Archived BitcoinTalk:
@@ -75,14 +97,10 @@ items:
       media Let's Talk ETC!:
         name: Razgovarajmo ITD!
   Twitter Accounts:
-    title: Twitter računi
+    title: Regionalni Twitter računi
     items:
       twitter China:
         name: Kina
-      twitter English 1:
-        name: "@ETC_Mreža"
-      twitter English 2:
-        name: "@eth_classic"
       twitter Español:
         name: španjolski
       twitter France:

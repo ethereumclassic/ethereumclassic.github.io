@@ -1,17 +1,43 @@
 title: القنوات الاجتماعية
 seo: مجموعة من غرف الدردشة Ethereum Classic وحسابات Twitter ومجموعات المناقشة والمنتديات والبودكاست والمستودعات ومواقع الويب الإقليمية.
 description: |
-  فيما يلي قائمة غير شاملة بقنوات ومجموعات مناقشة Ethereum Classic النشطة.
+  لا توجد لدى Ethereum Classic منظمة مركزية، وبالتالي لا توجد حسابات تواصل اجتماعي «رسمية»؛ فكل قناة مذكورة هنا يديرها أفراد من المجتمع بشكل مستقل.
 
-  المحور الرئيسي للنشاط داخل مجتمع ETC في الوقت الحالي هو [Discord](https://ethereumclassic.org/discord).
+  تغطي أقسام Discord وTelegram وTwitter وReddit القنوات المرتبطة في تذييل هذا الموقع. أما البقية فهي دليل غير شامل للمجموعات الإقليمية والمتخصصة؛ لم تُراجَع بعض أجزائه منذ فترة، لذا قد تكون بعض الروابط قديمة.
 items:
-  Chat Rooms:
-    title: غرف الدردشة
+  discord:
+    description: |
+      يوجد خادمان عامّان لـ ETC على Discord، وكلاهما نشط. وهما مرتَّبان حسب تاريخ الإنشاء دون تفضيل أيٍّ منهما؛ يمكنك الانضمام إلى ما يناسبك، أو إليهما معًا.
     items:
-      chat Discord:
-        name: الفتنة (مجتمع ، عالمي)
-      chat Discord Coop:
-        name: Discord (ETC Coop)
+      discordClassic:
+        name: خادم Ethereum Classic على Discord
+        description: الخادم المجتمعي الأصلي، ويعمل منذ عام 2016، وقد استضاف كثيرًا من مكالمات المطورين الأساسيين ومكالمات المجتمع السابقة.
+      discordCommunity:
+        name: خادم مجتمع Ethereum Classic على Discord
+        description: 'خادم أحدث، أُطلق في نوفمبر 2025، ويخضع لإشراف أكثر صرامة، ويعتمد على التحقق التلقائي والحماية من الرسائل المزعجة وتكاملات الإعلانات. راجع [منشور الإعلان](/blog/2025-11-05-discord-migration) للاطلاع على الخلفية.'
+  telegram:
+    items:
+      telegramGrantsDao:
+        name: ETC Grants DAO
+        description: 'المجموعة المحيطة بـ [ETC Grants DAO](https://etcgrantsdao.io)، التي تموّل المشاريع المبنية على Ethereum Classic. وهي من أكثر محادثات ETC نشاطًا، ويشارك فيها كثير من المستخدمين النشطين الذين يناقشون المنظومة يوميًا.'
+      telegramEnglish:
+        name: Ethereum Classic (بالإنجليزية)
+        description: المجموعة الإنجليزية العريقة للحديث العام عن ETC.
+  twitter:
+    description: |
+      يعمل الحسابان المجتمعيان الرئيسيان عبر [twitter-together](https://github.com/twitter-together/action): تُقترح التغريدات على شكل طلبات سحب في مستودع الحساب، وتُراجَع علنًا، ثم تُنشر تلقائيًا بعد دمجها. وأسهل طريقة لاقتراح تغريدة هي [تطبيق مساهمات ETC](https://etc.contributions.app)، الذي يقدّم طلب السحب نيابةً عنك، سواء كان لديك حساب على GitHub أم لا. كما تُستقى الأفكار من التغريدات الموسومة بـ `#ETCtweets`، وتُناقش في سلسلة `#ETCtweets` على Discord.
+    items:
+      twitterEthClassic:
+        description: 'الحساب الأكثر متابعة من بين الاثنين، وتحافظ إرشاداته التحريرية على طابع رسمي ومحايد وخالٍ من الميمات. تُقترح التغريدات في [tweets-eth_classic](https://github.com/ethereumclassic/tweets-eth_classic).'
+      twitterEtcNetwork:
+        description: 'حساب أقل رسمية، تُسمح فيه الميمات والمنشورات الخفيفة إلى جانب أخبار الشبكة والتطوير. تُقترح التغريدات في [tweets-etc_network](https://github.com/ethereumclassic/tweets-etc_network).'
+  reddit:
+    items:
+      redditEthereumClassic:
+        description: منتدى Ethereum Classic الفرعي على Reddit، ويُستخدم للنقاشات المطوّلة والأسئلة ومشاركة الأخبار والروابط من مختلف أنحاء المنظومة.
+  Chat Rooms:
+    title: غرف دردشة أخرى
+    items:
       chat Facebook English:
         name: الفيسبوك (الإنجليزية)
       chat Facebook Vietnam:
@@ -32,10 +58,8 @@ items:
       Hyperledger Besu dev:
         name: هايبرليدجر بيسو
   Telegram Groups:
-    title: مجموعات Telegram
+    title: مجموعات Telegram الإقليمية
     items:
-      telegram English:
-        name: إنجليزي
       telegram Español:
         name: الاسبانية
       telegram Italia:
@@ -47,10 +71,8 @@ items:
       telegram China:
         name: 中文
   Forums:
-    title: المنتديات
+    title: منتديات أخرى
     items:
-      forum RedditEthereumClassic:
-        name: رديت ص / EthereumClassic
       forum BitcoinTalk:
         name: بيتكوين توك
       forum Archived BitcoinTalk:
@@ -75,14 +97,10 @@ items:
       media Let's Talk ETC!:
         name: دعنا نتحدث إلخ!
   Twitter Accounts:
-    title: حسابات تويتر
+    title: حسابات Twitter الإقليمية
     items:
       twitter China:
         name: الصين
-      twitter English 1:
-        name: "ETC_Network"
-      twitter English 2:
-        name: "تضمين التغريدة"
       twitter Español:
         name: الاسبانية
       twitter France:

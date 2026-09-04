@@ -1,17 +1,43 @@
 title: Saluran Sosial
-seo: Koleksi ruang sembang Ethereum Classic, akaun Twitter, kumpulan perbincangan, forum, podcast, repositori dan tapak web serantau.
+seo: 'Koleksi ruang sembang Ethereum Classic, akaun Twitter, kumpulan perbincangan, forum, podcast, repositori dan tapak web serantau.'
 description: |
-  Berikut ialah senarai saluran dan kumpulan perbincangan Ethereum Classic yang tidak lengkap.
+  Ethereum Classic tiada organisasi pusat, jadi tiada juga media sosial "rasmi"; setiap saluran yang disenaraikan di sini dikendalikan secara bebas oleh ahli komuniti.
 
-  Hab aktiviti utama dalam komuniti ETC pada masa ini adalah pada [Discord](https://ethereumclassic.org/discord).
+  Bahagian Discord, Telegram, Twitter dan Reddit merangkumi saluran yang dipautkan di pengaki laman web ini. Selebihnya ialah direktori tidak menyeluruh bagi kumpulan serantau dan kumpulan mengikut topik; sebahagiannya sudah lama tidak disemak, jadi ada pautan yang mungkin sudah lapuk.
 items:
-  Chat Rooms:
-    title: Bilik berbual
+  discord:
+    description: |
+      Terdapat dua pelayan Discord ETC untuk perbualan umum, kedua-duanya aktif. Kedua-duanya disenaraikan mengikut urutan penubuhan, tanpa keutamaan; sertai mana-mana yang sesuai dengan anda, atau kedua-duanya.
     items:
-      chat Discord:
-        name: Perselisihan (Komuniti, Global)
-      chat Discord Coop:
-        name: Perselisihan (ETC Coop)
+      discordClassic:
+        name: Discord Ethereum Classic
+        description: 'Pelayan komuniti asal, beroperasi sejak 2016, dan tempat berlangsungnya banyak panggilan pembangun teras serta panggilan komuniti yang lalu.'
+      discordCommunity:
+        name: Discord Komuniti Ethereum Classic
+        description: 'Pelayan yang lebih baharu, dilancarkan pada November 2025, dengan penyeliaan yang lebih ketat serta pengesahan automatik, perlindungan spam dan integrasi pengumuman. Lihat [siaran pengumuman](/blog/2025-11-05-discord-migration) untuk latar belakangnya.'
+  telegram:
+    items:
+      telegramGrantsDao:
+        name: ETC Grants DAO
+        description: 'Kumpulan di sekitar [ETC Grants DAO](https://etcgrantsdao.io), yang membiayai projek yang dibina di atas Ethereum Classic. Ia antara sembang ETC paling rancak, dengan ramai pengguna aktif membincangkan ekosistem setiap hari.'
+      telegramEnglish:
+        name: Ethereum Classic (Inggeris)
+        description: Kumpulan berbahasa Inggeris yang sudah lama wujud untuk perbualan umum tentang ETC.
+  twitter:
+    description: |
+      Dua akaun komuniti utama dikendalikan menerusi [twitter-together](https://github.com/twitter-together/action): tweet dicadangkan sebagai pull request dalam repositori akaun berkenaan, disemak secara terbuka, dan disiarkan secara automatik setelah digabungkan. Cara paling mudah untuk mencadangkan tweet ialah [aplikasi sumbangan ETC](https://etc.contributions.app), yang menghantar pull request bagi pihak anda, sama ada anda mempunyai akaun GitHub atau tidak. Idea turut diambil daripada tweet bertanda `#ETCtweets`, yang dibincangkan dalam bebenang `#ETCtweets` di Discord.
+    items:
+      twitterEthClassic:
+        description: 'Akaun yang lebih ramai pengikut antara kedua-duanya, dengan garis panduan penyuntingan yang mengekalkannya formal, neutral dan bebas meme. Tweet dicadangkan dalam [tweets-eth_classic](https://github.com/ethereumclassic/tweets-eth_classic).'
+      twitterEtcNetwork:
+        description: 'Akaun yang kurang formal, di mana meme dan siaran yang lebih santai dibenarkan bersama berita rangkaian dan pembangunan. Tweet dicadangkan dalam [tweets-etc_network](https://github.com/ethereumclassic/tweets-etc_network).'
+  reddit:
+    items:
+      redditEthereumClassic:
+        description: 'Subreddit Ethereum Classic, digunakan untuk perbincangan yang lebih panjang, soalan, serta perkongsian berita dan pautan dari seluruh ekosistem.'
+  Chat Rooms:
+    title: Ruang Sembang Lain
+    items:
       chat Facebook English:
         name: Facebook (Bahasa Inggeris)
       chat Facebook Vietnam:
@@ -32,10 +58,8 @@ items:
       Hyperledger Besu dev:
         name: Hyperledger Besu
   Telegram Groups:
-    title: Kumpulan Telegram
+    title: Kumpulan Telegram Serantau
     items:
-      telegram English:
-        name: Inggeris
       telegram Español:
         name: Español
       telegram Italia:
@@ -47,10 +71,8 @@ items:
       telegram China:
         name: 中文
   Forums:
-    title: Forum
+    title: Forum Lain
     items:
-      forum RedditEthereumClassic:
-        name: Reddit r/EthereumClassic
       forum BitcoinTalk:
         name: BitcoinTalk
       forum Archived BitcoinTalk:
@@ -75,14 +97,10 @@ items:
       media Let's Talk ETC!:
         name: Mari Berbincang DLL!
   Twitter Accounts:
-    title: Akaun Twitter
+    title: Akaun Twitter Serantau
     items:
       twitter China:
         name: China
-      twitter English 1:
-        name: "@ETC_Network"
-      twitter English 2:
-        name: "@eth_classic"
       twitter Español:
         name: Español
       twitter France:

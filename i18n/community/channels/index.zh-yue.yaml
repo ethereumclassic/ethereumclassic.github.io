@@ -1,17 +1,43 @@
 title: 社交渠道
 seo: Ethereum Classic 聊天室、Twitter 帳戶、討論組、論壇、播客、存儲庫和區域網站的集合。
 description: |
-  以下是活躍的 Ethereum Classic 討論頻道和群組的非詳盡列表。
+  Ethereum Classic 沒有中心化的組織，因此也沒有「官方」的社交媒體；這裡列出的每個渠道都由社群成員各自獨立營運。
 
-  目前 ETC 社區內的主要活動中心在 [Discord](https://ethereumclassic.org/discord)。
+  Discord、Telegram、Twitter 和 Reddit 這幾個部分涵蓋了本網站頁尾所連結的渠道。其餘部分是各地區和特定主題群組的不完全彙總；其中部分內容已有一段時間未經核對，因此可能有失效的連結。
 items:
-  Chat Rooms:
-    title: 聊天室
+  discord:
+    description: |
+      目前有兩個一般用途的 ETC Discord 伺服器，兩個都在活躍運作。以下按建立時間先後排列，並無優劣之分；你可以加入其中任何一個，或者兩個都加入。
     items:
-      chat Discord:
-        name: Discord（社區，全球）
-      chat Discord Coop:
-        name: 不和諧（ETC Coop）
+      discordClassic:
+        name: Ethereum Classic Discord
+        description: 最早的社群伺服器，自 2016 年起運作，過去許多核心開發者會議和社群會議都在這裡舉行。
+      discordCommunity:
+        name: Ethereum Classic 社群 Discord
+        description: '較新的伺服器，於 2025 年 11 月啟用，審核較為嚴格，並設有自動驗證、防垃圾訊息和公告整合功能。背景資料見[公告文章](/blog/2025-11-05-discord-migration)。'
+  telegram:
+    items:
+      telegramGrantsDao:
+        name: ETC Grants DAO
+        description: '圍繞 [ETC Grants DAO](https://etcgrantsdao.io) 的群組，該組織為在 Ethereum Classic 上開發的項目提供資助。這是最熱鬧的 ETC 聊天群之一，有許多活躍用戶每日討論生態系統的動態。'
+      telegramEnglish:
+        name: Ethereum Classic（英文）
+        description: 歷史悠久的英文群組，用來討論 ETC 的各類話題。
+  twitter:
+    description: |
+      兩個主要的社群帳戶透過 [twitter-together](https://github.com/twitter-together/action) 運作：推文以 pull request 的形式提交到帳戶對應的儲存庫，公開審核，合併後自動發佈。最簡單的提議方式是使用 [ETC 貢獻應用程式](https://etc.contributions.app)，無論你有沒有 GitHub 帳戶，它都會代你提交 pull request。帶有 `#ETCtweets` 標籤的推文也會被採納為素材，並在 Discord 的 `#ETCtweets` 討論串中討論。
+    items:
+      twitterEthClassic:
+        description: '兩個帳戶中追蹤者較多的一個，其編輯規範令它保持正式、中立，不發佈迷因內容。推文在 [tweets-eth_classic](https://github.com/ethereumclassic/tweets-eth_classic) 中提出。'
+      twitterEtcNetwork:
+        description: '風格較輕鬆的帳戶，除網絡與開發動態外，亦容許發佈迷因和較隨意的內容。推文在 [tweets-etc_network](https://github.com/ethereumclassic/tweets-etc_network) 中提出。'
+  reddit:
+    items:
+      redditEthereumClassic:
+        description: Ethereum Classic 的 subreddit，適合較長篇的討論、提問，以及分享來自整個生態系統的新聞和連結。
+  Chat Rooms:
+    title: 其他聊天室
+    items:
       chat Facebook English:
         name: 臉書（英文）
       chat Facebook Vietnam:
@@ -32,10 +58,8 @@ items:
       Hyperledger Besu dev:
         name: 超級賬本貝蘇
   Telegram Groups:
-    title: 電報群
+    title: 各地區 Telegram 群組
     items:
-      telegram English:
-        name: 英語
       telegram Español:
         name: 西班牙語
       telegram Italia:
@@ -47,10 +71,8 @@ items:
       telegram China:
         name: 中文
   Forums:
-    title: 論壇
+    title: 其他論壇
     items:
-      forum RedditEthereumClassic:
-        name: Reddit r/以太坊經典
       forum BitcoinTalk:
         name: 比特幣對話
       forum Archived BitcoinTalk:
@@ -75,14 +97,10 @@ items:
       media Let's Talk ETC!:
         name: 讓我們談談ETC！
   Twitter Accounts:
-    title: 推特賬號
+    title: 各地區 Twitter 帳戶
     items:
       twitter China:
         name: 中國
-      twitter English 1:
-        name: "@ETC_網絡"
-      twitter English 2:
-        name: "@eth_classic"
       twitter Español:
         name: 西班牙語
       twitter France:

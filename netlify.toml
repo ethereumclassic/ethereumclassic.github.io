@@ -34,10 +34,13 @@
 [[redirects]]
   from = "/sitemap.xml"
   to = "/sitemap-index.xml"
-# fallback for cloudflare handled redirect
 [[redirects]]
   from = "/discord"
-  to = "https://discord.com/invite/Tq57jxSwsa"
+  to = "/community/channels"
+  status = 302
+[[redirects]]
+  from = "/socials"
+  to = "/community/channels"
   status = 302
 
 # 2019 Redirects

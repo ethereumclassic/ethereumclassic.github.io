@@ -30,7 +30,11 @@ export default function Link({
   const nowrap = isString(children) && children.length < 20;
   const linkProps = {
     ...(useAComp
-      ? { href: url, target: isExternal ? "_blank" : null }
+      ? {
+          href: url,
+          target: isExternal ? "_blank" : null,
+          rel: isExternal ? "noopener noreferrer" : null,
+        }
       : { to: url, notLocalized }),
     ...(scrollTo && { state: { scrollTo } }),
   };
