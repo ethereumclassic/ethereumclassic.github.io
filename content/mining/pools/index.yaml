@@ -34,9 +34,6 @@ items:
   pools:
     __type: buttons
     items:
-      PoolNode:
-        __name: PoolNode
-        __link: https://etc.pool-node.com/
       2Miners:
         __name: 2Miners
         __link: https://2miners.com/etc-mining-pool
@@ -147,9 +144,15 @@ items:
       K1Pool:
         __name: K1Pool
         __link: https://k1pool.com/
+      KardanPool:
+        __name: KardanPool
+        __link: https://kardanpool.com/etc
       KryptexPool:
         __name: KryptexPool
         __link: https://pool.kryptex.com/etc
+      LongPool:
+        __name: Longpool
+        __link: https://longpool.org
       MaxHash:
         __name: MaxHash
         __link: https://etcpool.maxhash.org/
@@ -176,6 +179,9 @@ items:
       Pearpool:
         __name: Pearpool
         __link: https://etc.pearpool.com/
+      PoolNode:
+        __name: PoolNode
+        __link: https://etc.pool-node.com/
       Prohashing:
         __name: Prohashing
         __link: https://prohashing.com/
@@ -218,6 +224,3 @@ items:
       ŻET:
         __name: ŻET
         __link: https://etc.zet-tech.eu/
-      LongPool:
-        __name: Longpool
-        __link: https://longpool.org
