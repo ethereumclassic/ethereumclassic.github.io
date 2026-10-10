@@ -2,7 +2,7 @@
 title: "Using Ethereum Classic With MetaMask"
 date: 2022-12-21
 author: Donald McIntyre
-contributors: ["DonaldMcIntyre"]
+contributors: ["DonaldMcIntyre", "developerkevin"]
 tags: ["education", "guide"]
 linkImage: ./etc-metamask-banner.png
 ---
