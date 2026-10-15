@@ -11,7 +11,7 @@ Running a node is one of the most significant ways anyone can contribute to Ethe
 
 By the end of this guide, you'll be running your very own node: a copy of the ETC blockchain on your own hardware that you can talk to directly. You need little to no experience, and if you get stuck at any point, ask in [r/EthereumClassic](https://www.reddit.com/r/EthereumClassic/). The community is always happy to help.
 
-core-geth is the most popular Ethereum Classic client, used by roughly 63% of the network, and setting it up is pretty straightforward.
+core-geth is the most popular Ethereum Classic client, used by about 90% of the network, and setting it up is pretty straightforward.
 
 This is part 1 of a three-part series. In this part, you'll build core-geth from its source code, start your node, and talk to it.
 
@@ -19,10 +19,10 @@ This is part 1 of a three-part series. In this part, you'll build core-geth from
 
 | Path | Version | Choose it if | Follow |
 | --- | --- | --- | --- |
-| **A. Build the stable release** (recommended) | [v1.12.23 "Argos"](https://github.com/etclabscore/core-geth/releases/tag/v1.12.23), the latest stable release | You want a stable node and to see how it's made | Steps 1–8, option A in step 3 |
-| **B. Build the pre-release** | v1.12.24, still being reviewed in [pull request #702](https://github.com/etclabscore/core-geth/pull/702) | You want to help test the next version before it's released | Steps 1–8, option B in step 3 |
+| **A. Build the stable release** (recommended) | [v1.12.23 "Argos"](https://github.com/etclabscore/core-geth/releases/tag/v1.12.23), the latest stable release as of writing. Check the [releases page](https://github.com/etclabscore/core-geth/releases) for anything newer | You want a stable node and to see how it's made | Steps 1–8, Go 1.22.12 in step 2, option A in step 3 |
+| **B. Build the pre-release** | v1.12.24-unstable from [pull request #702](https://github.com/etclabscore/core-geth/pull/702), which updates core-geth to a newer Go toolchain and is still being reviewed as of writing | You want to help test upcoming changes before they're released | Steps 1–8, Go 1.27.2 in step 2, option B in step 3 |
 
-For this guide, we'll use the unreleased v1.12.24 of core-geth as a preview of the next release, but you can go with option A (v1.12.23 "Argos") and follow the exact same steps. Paths A and B are identical except for one choice in step 3: the core-geth version. If you're not sure what to choose, choose A, the stable v1.12.23 Argos release.
+For this guide, we'll use the pre-release code from pull request #702 as a preview of what's coming, but you can go with option A (v1.12.23 "Argos") and follow the same steps. Paths A and B are identical except for two choices: the Go version in step 2 and the core-geth version in step 3. If you're not sure what to choose, choose the stable v1.12.23 Argos release, unless a newer stable version has been released.
 
 **Not covered here:** waiting for a full sync, mining, running the node as a background service, or opening it up to the internet. See Next steps. This is just a basic guide to setting up a core-geth node.
 
@@ -30,9 +30,22 @@ For this guide, we'll use the unreleased v1.12.24 of core-geth as a preview of t
 
 You need:
 
-- A Linux machine running Ubuntu or Debian. This guide was recorded on a cloud Linux machine over SSH, but a Raspberry Pi or computer at home works the same way.
+- A Linux machine running Ubuntu or Debian. This guide was recorded on a cloud Linux machine over SSH, but a virtual machine (VM) or a spare computer at home works the same way.
 - An account that can run `sudo` (admin) commands.
 - A terminal, and about 30 minutes.
+
+### Hardware
+
+Recommended hardware for running core-geth with a snap sync on ETC mainnet, as of October 2026:
+
+| | Recommended | Notes |
+| --- | --- | --- |
+| **CPU** | 4+ cores | A synced node uses less than one core |
+| **RAM** | 16 GB+ | The client itself uses about 4 GB once synced. The extra covers the memory spike during the initial sync. Less can work with swap, but the sync is slower |
+| **Disk** | 500 GB SSD or NVMe | A synced node uses about 85–100 GB today (chain data plus ethash caches). The rest leaves room for the chain to grow. Avoid spinning hard drives |
+| **Internet** | 25+ Mbit/s download | Slower connections work, but the initial sync takes longer |
+
+ETC's chain is much smaller than Ethereum's, so these numbers are well below [go-ethereum's hardware requirements](https://github.com/ethereum/go-ethereum#hardware-requirements) for Ethereum mainnet, which call for 2 TB or more of disk.
 
 ## Step 1: Install the basic tools
 
@@ -84,18 +97,26 @@ Your numbers may differ.
 
 ![Checking the git, make and gcc versions](./versions.gif)
 
-## Step 2: Install Go 1.27.2
+## Step 2: Install Go
 
-core-geth is written in the Go programming language, so you need Go installed to build it.
+core-geth is written in the Go programming language, so you need Go installed to build it. As of writing, each path needs a different version of Go:
 
-We use Go 1.27.2, the latest version tested with this guide.
+| Path | Go version |
+| --- | --- |
+| **A.** v1.12.23 "Argos" | Go 1.22.12 |
+| **B.** pull request #702 | Go 1.27.2 |
+| Versions later than v1.12.23 | Check the [release notes](https://github.com/etclabscore/core-geth/releases) |
+
+The commands below show path B (Go 1.27.2). **On path A, replace `1.27.2` with `1.22.12` in every command in this step.**
 
 <details>
-<summary>Why Go 1.27.2?</summary>
+<summary>Why two different Go versions?</summary>
 
-It's the latest stable version of Go, and it builds both paths in this guide. This guide was tested with Go 1.27.2, so it's recommended you use the same version to get the same results. Using a current version also means you get Go's latest security fixes: Go only keeps fixing its two newest major versions. The pre-release code in path B (core-geth v1.12.24) updates core-geth's Go setup to match go-ethereum's v1.17.5 release and needs Go 1.24 or newer.
+core-geth v1.12.23 was built for Go 1.22, and it doesn't build with newer versions of Go: two of the libraries it uses stopped working with changes made in Go 1.23 and Go 1.24. Go 1.22.12 is the last Go 1.22 release, and it builds v1.12.23 cleanly. Go 1.22 no longer gets security fixes from the Go team, but you only use it to build core-geth, not to run anything else.
 
-In the pull request's benchmarks, moving from Go 1.21 to Go 1.25 made core-geth's EVM (the part that runs transactions and smart contracts) about 4% faster and cut its memory allocations by about 11%.
+The pre-release code in path B (pull request #702) fixes this by updating core-geth's Go setup to match go-ethereum's v1.17.5 release. It needs Go 1.24 or newer, and this guide was tested with Go 1.27.2, the latest stable version of Go as of writing.
+
+In the pull request's benchmarks, moving from Go 1.21 to Go 1.25 made core-geth's EVM (the part that runs transactions and smart contracts) about 4% faster, with about 11% less memory allocated and about 8% fewer allocations.
 
 </details>
 
@@ -107,7 +128,7 @@ Skip `sudo apt install golang` here: Ubuntu's version may be older than the one 
 uname -m
 ```
 
-**What you'll see:** `x86_64` on most PCs and cloud servers. Use the commands below exactly as written. If you see `aarch64` (an ARM processor, such as a Raspberry Pi), replace `amd64` with `arm64` in every command in this step.
+**What you'll see:** `x86_64` on most PCs and cloud servers. Use the commands below as written. If you see `aarch64` (an ARM processor, used by some cloud servers), replace `amd64` with `arm64` in every command in this step. The SHA256 for the ARM download is different, so look it up on [go.dev/dl](https://go.dev/dl/).
 
 ![uname -m](./uname-command.png)
 
@@ -138,7 +159,14 @@ sha256sum go1.27.2.linux-amd64.tar.gz
 ecbadb99091a3f46e31f5f934b068b1864eafa7995211b39eaddf76996045fe5  go1.27.2.linux-amd64.tar.gz
 ```
 
-**What it means:** that string is the file's fingerprint. Open [go.dev/dl](https://go.dev/dl/), find `go1.27.2.linux-amd64.tar.gz`, and compare its SHA256 with yours. They should be exactly the same. If they're not, the file is damaged or not genuine: delete it with `rm go1.27.2.linux-amd64.tar.gz` and download it again.
+**What it means:** that string is the file's fingerprint. It should exactly match the one for your download:
+
+```text
+4fa4f869b0f7fc6bb1eb2660e74657fbf04cdd290b5aef905585c86051b34d43  go1.22.12.linux-amd64.tar.gz
+ecbadb99091a3f46e31f5f934b068b1864eafa7995211b39eaddf76996045fe5  go1.27.2.linux-amd64.tar.gz
+```
+
+You can also find the file on [go.dev/dl](https://go.dev/dl/) and compare it with the SHA256 listed there. If they don't match, the file is damaged or not genuine: delete it with `rm go1.27.2.linux-amd64.tar.gz` and download it again.
 
 **Install it:**
 
@@ -147,7 +175,7 @@ sudo rm -rf /usr/local/go
 sudo tar -C /usr/local -xzf go1.27.2.linux-amd64.tar.gz
 ```
 
-**What you'll see:** nothing. Both commands don't print anything when they work. The first removes any older Go installations so the two versions don't clash with each other. The second unpacks Go into `/usr/local/go`, the standard place for it.
+**What you'll see:** nothing. Neither command prints anything when it works. The first deletes any Go previously installed in `/usr/local/go`, because unpacking a new version on top of an old one leaves old files behind and breaks it. If you've never installed Go there, it does nothing. The second unpacks Go into `/usr/local/go`, the standard place for it.
 
 **Tell your terminal where Go is:**
 
@@ -170,15 +198,13 @@ go version
 go version go1.27.2 linux/amd64
 ```
 
-**What it means:** Go is installed and ready. If you see `command not found`, open a new terminal and try again.
+**What it means:** Go is installed and ready. On path A, you'll see `go1.22.12` instead. If you see `command not found`, open a new terminal and try again.
 
 ![Checking that Go 1.27.2 is installed](./go-version.gif)
 
 ## Step 3: Get the core-geth code
 
-Only download core-geth from its actively maintained repository: [github.com/etclabscore/core-geth](https://github.com/etclabscore/core-geth). Look-alike copies exist, so check the address in the command before you press Enter. The etclabscore repository is the only actively maintained version of core-geth.
-
-From your home folder:
+core-geth is maintained at [github.com/etclabscore/core-geth](https://github.com/etclabscore/core-geth). From your home folder, download the code:
 
 ```bash
 cd ~
@@ -224,9 +250,9 @@ followed by a few lines of advice, ending with a line that starts `HEAD is now a
 
 This release is signed by core-geth's maintainer, Diego López León. On its [GitHub release page](https://github.com/etclabscore/core-geth/releases/tag/v1.12.23) it's marked **Verified**.
 
-### Option B: v1.12.24 (core-geth pre-release)
+### Option B: v1.12.24-unstable (pull request #702)
 
-v1.12.24 isn't a finished release yet. It's being prepared in pull request #702, a proposed change waiting for review. We'll use it here to give you a preview of the next release. These commands download it and switch to it:
+As of writing, v1.12.24 isn't a finished release yet. [Pull request #702](https://github.com/etclabscore/core-geth/pull/702) is a proposed change, still waiting for review, that brings core-geth's Go toolchain in line with go-ethereum v1.17.5. We'll use it here as a preview of what's coming. These commands download it and switch to it:
 
 ```bash
 git fetch origin pull/702/head:pr-702
@@ -243,13 +269,15 @@ Switched to branch 'pr-702'
 
 **What it means:** you're now on the pre-release code. Once v1.12.24 is officially released, use `git checkout v1.12.24` instead of these two lines.
 
+Pull requests can change while they're being reviewed, so if you run this later, the code you get may be newer than the version shown in this guide.
+
 ### Check which version you're on (both paths)
 
 ```bash
 git log -1 --oneline
 ```
 
-**What you'll see:** one line: a short code, then a description of the latest change. On path B, at the time of writing:
+**What you'll see:** one line: a short code, then a description of the latest change. On path B, as of writing:
 
 ```text
 8f2af93d1 (HEAD -> pr-702) cmd/geth: quote the format strings in the integration logging test
@@ -290,7 +318,7 @@ Still in `~/core-geth`:
 
 The `./` at the start means "the program in this folder", so this only works from inside `core-geth`.
 
-**What you'll see:** something like this (path B shown):
+**What you'll see:** something like this (path B shown; on path A there's no `Git Commit Date` line):
 
 ```text
 Core
@@ -308,7 +336,7 @@ GOROOT=/usr/local/go
 
 - **Version:** `1.12.23-stable` on path A. On path B it's `1.12.24-unstable`, where "unstable" just means pre-release.
 - **Git Commit:** starts with the same short code `git log -1 --oneline` showed in step 3.
-- **Go Version:** `go1.27.2`.
+- **Go Version:** `go1.22.12` on path A, `go1.27.2` on path B.
 
 If all three match, nice work: you've just built core-geth from source!
 
@@ -360,7 +388,7 @@ geth --classic --syncmode snap
 INFO [10-08|22:31:05.123] Starting peer-to-peer node ...
 ```
 
-- `INFO` is the kind of message. Most are `INFO`. A few `WARN` lines in the first minutes are normal. Read any `ERROR` lines.
+- `INFO` is the kind of message. Most are `INFO`. A few `WARN` lines in the first minutes are normal. During a snap sync you'll also see some `ERROR` lines such as `Pending request exists for joining peer` or `Expired request does not exist`. These are harmless as long as the node keeps syncing.
 - The date and time, then what the node is doing.
 
 In the first minute or two, the messages show the node starting up, finding peers, and beginning to sync.
@@ -463,7 +491,7 @@ eth.blockNumber
 
 | Command | What it tells you |
 | --- | --- |
-| `web3.clientVersion` | Exactly which software is running, such as `CoreGeth/v1.12.23-stable/…` |
+| `web3.version.node` | Exactly which software is running, such as `CoreGeth/v1.12.23-stable/…` |
 | `admin.datadir` | The folder your node stores its data in |
 | `eth.getBlock(0).hash` | The ID of the genesis block, the very first block. ETC and Ethereum share it, because they share history up to the 2016 split |
 | `eth.getBlock("latest")` | The newest block your node has |
@@ -525,12 +553,12 @@ Still stuck? Scroll to the top of terminal A and find the line containing `IPC e
 
 **`eth.chainId()` shows `"0x1"`.** You're on Ethereum, not Ethereum Classic. Stop the node and restart it with `--classic`.
 
-**`address already in use` when starting the node.** Another node is already running. Stop it first.
+**`address already in use` or `datadir already used by another process` when starting the node.** Another node is already running. Stop it first.
 
 ## Next steps
 
-- **Finish a full sync:** leave the node running until `eth.syncing` shows `false`. You'll need plenty of free disk space.
+- **Finish a full sync:** leave the node running until `eth.syncing` shows `false`. Check you have the disk space listed under Hardware first.
 - **Verify every block yourself:** start a fresh node with `--syncmode full`. Expect it to take much longer.
 - **Run it in the background** so it keeps going after you close the terminal, for example as a systemd service.
-- **Update to v1.12.24 when it's released:** check out `v1.12.24` (step 3) and rebuild (step 4).
+- **Update to v1.12.24 when it's released:** check out `v1.12.24` (step 3) and rebuild (step 4). Check its release notes for the Go version it needs.
 - **Free up the space:** to delete the downloaded chain, stop the node and run `geth --classic removedb`. It asks before deleting anything.
