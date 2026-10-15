@@ -80,7 +80,7 @@ Your numbers may differ.
  
 **What it means:** all three tools are ready. If one says `command not found`, run the install command again.
  
-*[GIF: the three version checks]*
+![Checking the git, make and gcc versions](./versions.gif)
  
 ## Step 2: Install Go 1.27.2
  
@@ -105,7 +105,7 @@ uname -m
  
 **What you'll see:** `x86_64` on most PCs and cloud servers. Use the commands below exactly as written. If you see `aarch64` (an ARM processor, such as a Raspberry Pi), replace `amd64` with `arm64` in every command in this step.
  
-*[Screenshot: uname -m]*
+![uname -m](./uname-command.png)
  
 **Download it.** First go to your home folder, then download:
  
