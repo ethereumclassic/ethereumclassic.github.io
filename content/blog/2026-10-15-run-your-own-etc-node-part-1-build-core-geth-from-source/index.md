@@ -168,7 +168,7 @@ go version go1.27.2 linux/amd64
  
 **What it means:** Go is installed and ready. If you see `command not found`, open a new terminal and try again.
  
-*[GIF: go version]*
+![Checking that Go 1.27.2 is installed](./go-version.gif)
  
 ## Step 3: Get the core-geth code
  
@@ -255,7 +255,7 @@ On path A, the code starts with `96b2afc`.
  
 **What it means:** this is your fingerprint for the code you're about to build. Note the short code: you'll check it again in step 5.
  
-*[GIF: checkout through the git log --oneline command]*
+![Switching versions and checking with git log](./oneline-command.gif)
  
 ## Step 4: Build core-geth
  
@@ -274,7 +274,7 @@ Run "./build/bin/geth" to launch geth.
  
 **What it means:** core-geth is built. The program is a file called `geth`, inside the `build/bin` folder within `core-geth`.
  
-*[Screenshot: the last lines of the build]*
+![The end of the build: Done building.](./done-make-geth.png)
  
 ## Step 5: Check what you built
  
@@ -307,7 +307,7 @@ GOROOT=/usr/local/go
 - **Go Version:** `go1.27.2`.
 If all three match, nice work: you've just built core-geth from source!
  
-*[Screenshot: geth version output]*
+![The output of geth version](./geth-version.png)
  
 ### Optional: run it as just `geth`
  
@@ -359,10 +359,8 @@ In the first minute or two, the messages show the node starting up, finding peer
  
 **What it means:** your node is running and joining the network. **The scrolling never stops while the node runs, and your prompt won't come back.** That's how it should be. Leave terminal A open and move to terminal B.
  
-*[GIF: the first 20–30 seconds after pressing Enter]*
- 
-*[Annotated log lines: what each one means]*
- 
+![Starting the node for the first time](./starting-coregeth.gif)
+  
 <details>
 <summary>Sync modes</summary>
 Syncing just means downloading the chain and checking it. You choose how with `--syncmode`:
@@ -448,7 +446,7 @@ eth.blockNumber
  
 **What it means:** `0` is normal at this stage. Snap sync downloads in a different order, and this number jumps up near the end.
  
-*[GIF: the attach session]*
+![Talking to the node in the console](./attaching-core-geth.gif)
  
 <details>
 <summary>More useful commands</summary>
@@ -487,8 +485,8 @@ Congratulations! You've officially built core-geth from source, connected to the
  
 Once your node is fully synced, you can query the blockchain directly, build your own block explorer, monitor the network, and create and deploy smart contracts and dapps, all without relying on any trusted third party.
  
-*[GIF: Ctrl+C and a clean shutdown]*
- 
+![Stopping the node safely with Ctrl+C](./shutting-down-coregeth.gif)
+
 ## Troubleshooting
  
 Find the message you're seeing, then follow the fix. Still stuck? Ask in [r/EthereumClassic](https://www.reddit.com/r/EthereumClassic/), and include the command you ran and the message you saw.
