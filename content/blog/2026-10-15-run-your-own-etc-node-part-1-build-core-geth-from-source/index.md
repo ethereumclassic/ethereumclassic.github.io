@@ -5,7 +5,10 @@ author: Kevin Lord
 contributors: ["developerkevin"]
 tags: ["guide", "education", "series"]
 excerpt: "Part 1 of a three-part series: build core-geth from source, start your own Ethereum Classic node, and talk to it from the console."
+linkImage: ./banner.png
 ---
+
+![Run your own Ethereum Classic node, part 1: build core-geth from source](./banner.png)
 
 Running a node is one of the most significant ways anyone can contribute to Ethereum Classic. Every node keeps its own copy of the blockchain, a record of every block, transaction and smart contract. More nodes make ETC more decentralized and the network more resilient, plus it lets you interact with the network without relying on a trusted third party. It's also easier to set up than you might think, and this guide will show you how, step-by-step.
 
