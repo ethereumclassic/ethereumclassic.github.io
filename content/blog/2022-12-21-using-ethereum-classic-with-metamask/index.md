@@ -2,7 +2,7 @@
 title: "Using Ethereum Classic With MetaMask"
 date: 2022-12-21
 author: Donald McIntyre
-contributors: ["DonaldMcIntyre"]
+contributors: ["DonaldMcIntyre", "developerkevin"]
 tags: ["education", "guide"]
 linkImage: ./etc-metamask-banner.png
 ---
@@ -27,7 +27,7 @@ To add ETC as a network on MetaMask you need to:
 1. Open the networks dropdown menu and select “Add a network” and then “CUSTOM NETWORKS”.
 2. In the next step, enter the following information in the form provided:
     - Network Name: Ethereum Classic
-    - RPC URL: https://etc.rivet.link
+    - RPC URL: ~~https://etc.rivet.link~~ Use https://chainlist.org/chain/61 to find a live RPC URL.
     - Chain ID: 61
     - Symbol: ETC
     - Block Explorer URL: https://blockscout.com/etc/mainnet/
