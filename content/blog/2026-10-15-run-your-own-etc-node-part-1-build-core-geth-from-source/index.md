@@ -23,9 +23,9 @@ This is part 1 of a three-part series. In this part, you'll build core-geth from
 | Path | Version | Choose it if | Follow |
 | --- | --- | --- | --- |
 | **A. Build the stable release** (recommended) | [v1.12.23 "Argos"](https://github.com/etclabscore/core-geth/releases/tag/v1.12.23), the latest stable release as of writing. Check the [releases page](https://github.com/etclabscore/core-geth/releases) for anything newer | You want a stable node and to see how it's made | Steps 1–8, Go 1.22.12 in step 2, option A in step 3 |
-| **B. Build the pre-release** | v1.12.24-unstable from [pull request #702](https://github.com/etclabscore/core-geth/pull/702), which updates core-geth to a newer Go toolchain and is still being reviewed as of writing | You want to help test upcoming changes before they're released | Steps 1–8, Go 1.27.2 in step 2, option B in step 3 |
+| **B. Build the development version** | v1.12.24-unstable, the latest code on core-geth's [`master` branch](https://github.com/etclabscore/core-geth/tree/master), including the newer Go toolchain from [pull request #702](https://github.com/etclabscore/core-geth/pull/702) | You want to help test upcoming changes before they're released | Steps 1–8, Go 1.27.2 in step 2, option B in step 3 |
 
-For this guide, we'll use the pre-release code from pull request #702 as a preview of what's coming, but you can go with option A (v1.12.23 "Argos") and follow the same steps. Paths A and B are identical except for two choices: the Go version in step 2 and the core-geth version in step 3. If you're not sure what to choose, choose the stable v1.12.23 Argos release, unless a newer stable version has been released.
+For this guide, we'll use the development version on `master` as a preview of what's coming, but you can go with option A (v1.12.23 "Argos") and follow the same steps. Paths A and B are identical except for two choices: the Go version in step 2 and the core-geth version in step 3. If you're not sure what to choose, choose the stable v1.12.23 Argos release, unless a newer stable version has been released.
 
 **Not covered here:** waiting for a full sync, mining, running the node as a background service, or opening it up to the internet. See Next steps. This is just a basic guide to setting up a core-geth node.
 
@@ -107,7 +107,7 @@ core-geth is written in the Go programming language, so you need Go installed to
 | Path | Go version |
 | --- | --- |
 | **A.** v1.12.23 "Argos" | Go 1.22.12 |
-| **B.** pull request #702 | Go 1.27.2 |
+| **B.** development version (`master`) | Go 1.27.2 |
 | Versions later than v1.12.23 | Check the [release notes](https://github.com/etclabscore/core-geth/releases) |
 
 The commands below show path B (Go 1.27.2). **On path A, replace `1.27.2` with `1.22.12` in every command in this step.**
@@ -117,7 +117,7 @@ The commands below show path B (Go 1.27.2). **On path A, replace `1.27.2` with `
 
 core-geth v1.12.23 was built for Go 1.22, and it doesn't build with newer versions of Go: two of the libraries it uses stopped working with changes made in Go 1.23 and Go 1.24. Go 1.22.12 is the last Go 1.22 release, and it builds v1.12.23 cleanly. Go 1.22 no longer gets security fixes from the Go team, but you only use it to build core-geth, not to run anything else.
 
-The pre-release code in path B (pull request #702) fixes this by updating core-geth's Go setup to match go-ethereum's v1.17.5 release. It needs Go 1.24 or newer, and this guide was tested with Go 1.27.2, the latest stable version of Go as of writing.
+The development code in path B fixes this. [Pull request #702](https://github.com/etclabscore/core-geth/pull/702), now merged into `master`, updated core-geth's Go setup to match go-ethereum's v1.17.5 release. It needs Go 1.24 or newer, and this guide was tested with Go 1.27.2, the latest stable version of Go as of writing.
 
 In the pull request's benchmarks, moving from Go 1.21 to Go 1.25 made core-geth's EVM (the part that runs transactions and smart contracts) about 4% faster, with about 11% less memory allocated and about 8% fewer allocations.
 
@@ -253,26 +253,24 @@ followed by a few lines of advice, ending with a line that starts `HEAD is now a
 
 This release is signed by core-geth's maintainer, Diego López León. On its [GitHub release page](https://github.com/etclabscore/core-geth/releases/tag/v1.12.23) it's marked **Verified**.
 
-### Option B: v1.12.24-unstable (pull request #702)
+### Option B: v1.12.24-unstable (development version)
 
-As of writing, v1.12.24 isn't a finished release yet. [Pull request #702](https://github.com/etclabscore/core-geth/pull/702) is a proposed change, still waiting for review, that brings core-geth's Go toolchain in line with go-ethereum v1.17.5. We'll use it here as a preview of what's coming. These commands download it and switch to it:
+As of writing, v1.12.24 isn't released yet. Its code is on the `master` branch, where core-geth's maintainers add changes once they've been reviewed. That includes [pull request #702](https://github.com/etclabscore/core-geth/pull/702), which brings core-geth's Go toolchain in line with go-ethereum v1.17.5. We'll use it here as a preview of what's coming. `git clone` already put you on `master`, so this command just makes sure:
 
 ```bash
-git fetch origin pull/702/head:pr-702
-git checkout pr-702
+git checkout master
 ```
 
 **What you'll see:**
 
 ```text
-From https://github.com/etclabscore/core-geth
- * [new ref]   refs/pull/702/head -> pr-702
-Switched to branch 'pr-702'
+Already on 'master'
+Your branch is up to date with 'origin/master'.
 ```
 
-**What it means:** you're now on the pre-release code. Once v1.12.24 is officially released, use `git checkout v1.12.24` instead of these two lines.
+**What it means:** you're on the development code. Once v1.12.24 is officially released, use `git checkout v1.12.24` instead.
 
-Pull requests can change while they're being reviewed, so if you run this later, the code you get may be newer than the version shown in this guide.
+New changes are added to `master` regularly, so if you run this later, the code you get may be newer than the version shown in this guide.
 
 ### Check which version you're on (both paths)
 
@@ -283,7 +281,7 @@ git log -1 --oneline
 **What you'll see:** one line: a short code, then a description of the latest change. On path B, as of writing:
 
 ```text
-8f2af93d1 (HEAD -> pr-702) cmd/geth: quote the format strings in the integration logging test
+dbbd99312 (HEAD -> master, origin/master, origin/HEAD) Merge pull request #702 from diega/backport/upstream-toolchain
 ```
 
 On path A, the code starts with `96b2afc`.
@@ -337,7 +335,7 @@ GOROOT=/usr/local/go
 
 **What it means:** check three lines.
 
-- **Version:** `1.12.23-stable` on path A. On path B it's `1.12.24-unstable`, where "unstable" just means pre-release.
+- **Version:** `1.12.23-stable` on path A. On path B it's `1.12.24-unstable`, where "unstable" means it's development code that hasn't been released yet.
 - **Git Commit:** starts with the same short code `git log -1 --oneline` showed in step 3.
 - **Go Version:** `go1.22.12` on path A, `go1.27.2` on path B.
 
@@ -457,7 +455,7 @@ geth --classic attach
 ```text
 Welcome to the Geth JavaScript console!
 
-instance: CoreGeth/v1.12.24-unstable-8f2af93d/linux-amd64/go1.27.2
+instance: CoreGeth/v1.12.24-unstable-dbbd9931-20261016/linux-amd64/go1.27.2
 ...
 To exit, press ctrl-d or type exit
 >
@@ -567,6 +565,7 @@ Find the message you're seeing, then follow the fix. Still stuck? Ask in [r/Ethe
 - you started it with `--classic` and you're attaching with `geth --classic attach`
 - you waited a minute after starting: the connection file only appears once the node has finished starting up
 - you didn't start the node with `sudo`. That puts its files under `/root/`. Stop it and start it again without `sudo`
+- if you started the node with `--datadir`, you're attaching with the same `--datadir`
 
 Still stuck? Scroll to the top of terminal A and find the line containing `IPC endpoint opened`. Attach to the path it shows: `geth attach /that/path/geth.ipc`.
 
@@ -584,4 +583,4 @@ Still stuck? Scroll to the top of terminal A and find the line containing `IPC e
 - **Verify every block yourself:** start a fresh node with `--syncmode full`. Expect it to take much longer.
 - **Run it in the background** so it keeps going after you close the terminal, for example as a systemd service.
 - **Update to v1.12.24 when it's released:** check out `v1.12.24` (step 3) and rebuild (step 4). Check its release notes for the Go version it needs.
-- **Free up the space:** to delete the downloaded chain, stop the node and run `geth --classic removedb`. It asks before deleting anything.
+- **Free up the space:** to delete the downloaded chain, stop the node and run `geth --classic removedb`. It asks before deleting anything. If you used `--datadir`, add the same `--datadir` to this command.
