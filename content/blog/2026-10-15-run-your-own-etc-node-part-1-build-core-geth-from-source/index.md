@@ -1,5 +1,5 @@
 ---
-title: "Run your own Ethereum Classic node with core-geth, Part 1: Build from source"
+title: "Your First Ethereum Classic Node, Part 1: Build core-geth from Source"
 date: 2026-10-15
 author: Kevin Lord
 contributors: ["developerkevin"]
@@ -326,8 +326,8 @@ The `./` at the start means "the program in this folder", so this only works fro
 ```text
 Core
 Version: 1.12.24-unstable
-Git Commit: 8f2af93d1aefa6177ef549e19d79d605f2bc9c13
-Git Commit Date: 20260918
+Git Commit: dbbd993123b84d9cc2f5103566b09c7833327ef3
+Git Commit Date: 20261016
 Architecture: amd64
 Go Version: go1.27.2
 Operating System: linux
@@ -416,6 +416,26 @@ To see the modes your build supports, and which one it uses if you don't choose:
 
 ```bash
 geth --help | grep -A3 syncmode
+```
+
+</details>
+
+<details>
+<summary>Store the chain somewhere else</summary>
+
+By default, your node keeps the chain in `~/.ethereum/classic`. To store it somewhere else, such as a bigger drive, add `--datadir` and the folder you want:
+
+```bash
+geth --classic --syncmode snap --datadir /mnt/etc-node
+```
+
+Replace `/mnt/etc-node` with a folder on your drive that your account can write to. geth uses that folder exactly as you give it, without adding `classic` on the end.
+
+- **Use the same `--datadir` every time you start the node.** If you leave it out, geth goes back to `~/.ethereum/classic` and starts syncing again from the beginning there.
+- **Add it when you attach, too**, so the console can find your node:
+
+```bash
+geth --classic --datadir /mnt/etc-node attach
 ```
 
 </details>
