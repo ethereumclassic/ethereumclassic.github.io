@@ -463,6 +463,9 @@ items:
       FLASHIFT:
         __link: https://exchange.flashift.app/?currency_from=btc&currency_to=etc&amount=0.1
         __name: FLASHIFT
+      GhostSwap:
+        __name: GhostSwap
+        __link: https://ghostswap.io/exchange/etc-btc/
       Secureshift:
         __link: https://secureshift.io/
         __name: SecureShift
