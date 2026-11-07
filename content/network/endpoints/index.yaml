@@ -86,6 +86,10 @@ items:
         __link: https://rivet.cloud
         __name: Rivet
         __rpcUrl: <API Key Required>
+      SwiftNodes:
+        __link: https://swiftnodes.io/etc-rpc
+        __name: SwiftNodes
+        __rpcUrl: <API Key Required>
       TokenPocket:
         __link: https://etc.mytokenpocket.vip/
         __rpcUrl: http://mytokenpocket.vip
