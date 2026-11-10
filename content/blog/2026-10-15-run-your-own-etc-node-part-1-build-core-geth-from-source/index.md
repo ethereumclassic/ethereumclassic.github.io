@@ -581,6 +581,6 @@ Still stuck? Scroll to the top of terminal A and find the line containing `IPC e
 
 - **Finish a full sync:** leave the node running until `eth.syncing` shows `false`. Check you have the disk space listed under Hardware first.
 - **Verify every block yourself:** start a fresh node with `--syncmode full`. Expect it to take much longer.
-- **Run it in the background** so it keeps going after you close the terminal, for example as a systemd service.
+- **Run it in the background** so it keeps going after you close the terminal, for example as a systemd service. [Part 2](/blog/2026-10-28-run-your-own-etc-node-part-2-run-core-geth-with-docker) runs core-geth in the background with Docker.
 - **Update to v1.12.24 when it's released:** check out `v1.12.24` (step 3) and rebuild (step 4). Check its release notes for the Go version it needs.
 - **Free up the space:** to delete the downloaded chain, stop the node and run `geth --classic removedb`. It asks before deleting anything. If you used `--datadir`, add the same `--datadir` to this command.
