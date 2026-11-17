@@ -367,7 +367,6 @@ extra:
       name: About
     privacy:
       __link: /privacy
-      __icon: shield   
       name: Privacy
     rss:
       __rss: 1
