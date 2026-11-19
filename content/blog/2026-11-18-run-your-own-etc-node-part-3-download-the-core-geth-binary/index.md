@@ -12,7 +12,7 @@ linkImage: ./banner.png
 
 In [Part 1](/blog/2026-10-15-run-your-own-etc-node-part-1-build-core-geth-from-source), I showed you how to build core-geth from the source we got from the actively maintained GitHub repository. It's by far the most challenging route, but it's also the most secure, because you build the entire thing yourself, from source, every step of the way. In [Part 2](/blog/2026-10-28-run-your-own-etc-node-part-2-run-core-geth-with-docker), we ran it with Docker. It's a little less challenging to set up, but once you have it, starting core-geth is a one-liner. For this last part, we're going to do the simplest thing of all: download the finished program from the core-geth repository and run it. You don't get to build every piece yourself, and you have to trust the binary in some way, but it's the easiest way to get up and running.
 
-Every core-geth release on GitHub comes with ready-made downloads, called binaries. A binary is a program that's already built and ready to run on your specific operating system. So there's no Go to install, no building, and no Docker, or really any other prerequisites. You download one zip file, check that it's the real thing, unzip it, and start your node. We'll use v1.12.23 "Argos", the latest stable release of core-geth.
+Every core-geth release on GitHub comes with ready-made downloads, called binaries. A binary is a program that's already built and ready to run on your specific operating system. So there's no Go to install, no building, and no Docker, or really any other prerequisites. You download one zip file, check that it's the real thing, unzip it, and start your node. We'll use v1.12.23 "Argos", the latest stable release of core-geth as of writing.
 
 Here's how the three approaches in this series compare:
 
@@ -25,7 +25,7 @@ Here's how the three approaches in this series compare:
 
 This is part 3 of a three-part series. If you get stuck at any point, ask in [r/EthereumClassic](https://www.reddit.com/r/EthereumClassic/). The community is always happy to help.
 
-**Not covered here:** waiting for a full sync, mining, or opening your node up to the internet. See Next steps. This guide uses the Linux download. If you're on macOS, Windows or an ARM device, the [releases page](https://github.com/etclabscore/core-geth/releases) has downloads for those too, but the steps below are written and tested for Linux.
+**Not covered here:** waiting for a full sync, mining, or opening your node up to the internet. See [Next steps](#next-steps). This guide uses the Linux download. If you're on macOS, Windows or an ARM device, the [releases page](https://github.com/etclabscore/core-geth/releases) has downloads for those too, but the steps below are written and tested for Linux.
 
 ## Before you start
 
@@ -51,7 +51,7 @@ sudo apt update && sudo apt install -y wget unzip
 
 **What it means:** `wget` downloads files and `unzip` opens zip files. If your machine already has them, apt says so and carries on.
 
-**If you followed Part 1 or Part 2 and your node is still running, stop it first** ([Part 1, step 8](/blog/2026-10-15-run-your-own-etc-node-part-1-build-core-geth-from-source) or [Part 2, step 6](/blog/2026-10-28-run-your-own-etc-node-part-2-run-core-geth-with-docker)). You can't run more than one node on your machine at the same time, because they use the same port, and the second one won't start while the first is running.
+**If you followed Part 1 or Part 2 and your node is still running, stop it first** ([Part 1, step 8](/blog/2026-10-15-run-your-own-etc-node-part-1-build-core-geth-from-source#step-8-stop-the-node-safely) or [Part 2, step 6](/blog/2026-10-28-run-your-own-etc-node-part-2-run-core-geth-with-docker#step-6-stop-start-and-remove)). All three use the same port, and a second node won't start while another is running.
 
 ### Hardware
 
@@ -211,13 +211,13 @@ geth --classic --syncmode snap
 **What you'll see:** lines of text start scrolling, beginning with:
 
 ```text
-INFO [11-18|04:10:35.855] Starting Geth on Ethereum Classic...
+INFO [11-18|23:20:09.848] Starting Geth on Ethereum Classic...
 ```
 
-**What it means:** your node has started and is joining Ethereum Classic. It will look for other nodes, then begin to sync. The scrolling never stops while the node runs, and your prompt won't come back. Leave this terminal alone. A few `WARN` lines in the first minutes are normal, and during a snap sync you'll also see some `ERROR` lines such as `Pending request exists for joining peer`. These are harmless as long as the node keeps syncing.
+**What it means:** your node has started and is joining Ethereum Classic. It will look for other nodes, then begin to sync. The scrolling never stops while the node runs, and your prompt won't come back. Leave this terminal alone. A few `WARN` lines in the first minutes are normal, and during a snap sync you'll also see some `ERROR` lines such as `Expired request does not exist` or `Pending request exists for joining peer`. These are harmless as long as the node keeps syncing.
 
 - `--classic` joins Ethereum Classic. Without it, geth joins Ethereum instead.
-- `--syncmode snap` is the fastest way to catch up. [Part 1](/blog/2026-10-15-run-your-own-etc-node-part-1-build-core-geth-from-source) explains the other sync modes.
+- `--syncmode snap` is the fastest way to catch up. [Part 1](/blog/2026-10-15-run-your-own-etc-node-part-1-build-core-geth-from-source#step-6-start-your-node) explains the other sync modes.
 
 **Want to keep your chain data somewhere else?** By default, geth saves it in `~/.ethereum/classic`. To use a different folder, add `--datadir /your/folder` to the command above. If you do, you'll need to add the same `--datadir` every time you start the node and every time you attach to it, or geth will start syncing from scratch in the default folder.
 
@@ -256,7 +256,7 @@ Type each of these after the `>` and press Enter:
 | `eth.syncing` | A block of details, including `currentBlock` and `highestBlock` | How far your node has synced. Shows `false` once it has caught up |
 | `eth.blockNumber` | A number, often `0` during a snap sync | Normal at this stage. It jumps up near the end of the sync |
 
-Type `exit` or press **Ctrl+D** to leave the console. Your node keeps running in terminal A. [Part 1, step 7](/blog/2026-10-15-run-your-own-etc-node-part-1-build-core-geth-from-source) has more console commands and tips, and they all work here too.
+Type `exit` or press **Ctrl+D** to leave the console. Your node keeps running in terminal A. [Part 1, step 7](/blog/2026-10-15-run-your-own-etc-node-part-1-build-core-geth-from-source#step-7-talk-to-your-node-with-the-console) has more console commands and tips, and they all work here too.
 
 **Keep your IP address private:** `admin.nodeInfo` and `admin.peers` show IP addresses, so keep their output out of posts and screenshots.
 
@@ -295,7 +295,7 @@ Find the message you're seeing, then follow the fix. Still stuck? Ask in [r/Ethe
 
 **`eth.chainId()` shows `"0x1"`.** You're on Ethereum, not Ethereum Classic. Stop the node and start it again with `--classic`.
 
-**An error about the data folder being in use or locked.** Another node is already running, probably one from Part 1 or Part 2. Stop it, then try again.
+**`datadir already used by another process` or `address already in use` when starting the node.** Another node is already running: one started with `geth` (`datadir already used by another process`), or the Docker container from Part 2 (`address already in use`, because it holds port 30303). Stop it, then try again.
 
 ## Next steps
 
