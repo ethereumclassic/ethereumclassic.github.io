@@ -36,9 +36,9 @@ items:
         name: Besu Client Setup Guide
         description: Get started using Hyperledger Besu.
       Raspberry Pi Node Setup Guide:
-        __link: https://core-geth.org/setup-on-raspberry-pi
+        __link: https://docs.coregeth.com/getting-started/run/linux/
         name: Raspberry Pi Node Setup Guide
-        description: A detailed guide on how to setup an Ethereum node on a Raspberry Pi
+        description: Install Core-Geth for ARM and run an Ethereum Classic node on Raspberry Pi Linux.
       CryptoZombies:
         __link: https://cryptozombies.io/
         name: CryptoZombies
