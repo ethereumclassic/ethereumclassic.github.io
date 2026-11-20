@@ -365,6 +365,9 @@ extra:
       __link: /about
       __icon: question
       name: About
+    privacy:
+      __link: /privacy
+      name: Privacy
     rss:
       __rss: 1
       __icon: feed
