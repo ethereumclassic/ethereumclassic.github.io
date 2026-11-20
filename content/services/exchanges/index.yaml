@@ -493,6 +493,9 @@ items:
       XChange:
         __link: https://www.xchange.me/
         __name: XChange
+      YiFi:
+        __name: YiFi
+        __link: https://yifi.io/swap/btc-btc-to-etc-etc
   NFT Marketplaces:
     __type: buttons
     title: NFT Marketplaces
