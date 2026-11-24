@@ -90,6 +90,10 @@ items:
         __link: https://swiftnodes.io/etc-rpc
         __name: SwiftNodes
         __rpcUrl: <API Key Required>
+      Tatum:
+        __link: https://tatum.io/chain/ethereum-classic
+        __name: Tatum
+        __rpcUrl: https://ethereum-classic-mainnet.gateway.tatum.io
       TokenPocket:
         __link: https://etc.mytokenpocket.vip/
         __rpcUrl: http://mytokenpocket.vip
